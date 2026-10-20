@@ -6,7 +6,7 @@
  },
  "query": {
   "searchinfo": {
-   "totalhits": 19754
+   "totalhits": 19757
   },
   "search": [
    {
@@ -83,21 +83,21 @@
    },
    {
     "ns": 6,
-    "title": "File:The Indian Antiquary Vol 2.djvu",
-    "pageid": 76475395,
-    "size": 354,
-    "wordcount": 21,
-    "snippet": "DescriptionThe <span class=\"searchmatch\">Indian</span> Antiquary Vol 2.djvu English: The <span class=\"searchmatch\">Indian</span> Antiquary Volume 2 Date 1873 Source https://babel.hathitrust.org/cgi/pt?id=hvd.32044025682105",
-    "timestamp": "2024-12-17T01:56:20Z"
-   },
-   {
-    "ns": 6,
     "title": "File:The Indian Antiquary Vol 30.pdf",
     "pageid": 112090270,
     "size": 365,
     "wordcount": 21,
     "snippet": "DescriptionThe <span class=\"searchmatch\">Indian</span> Antiquary Vol 30.pdf English: The <span class=\"searchmatch\">Indian</span> Antiquary Vol 30 Date 1901 Source https://babel.hathitrust.org/cgi/pt?id=umn.31951d00836565b",
     "timestamp": "2026-06-14T15:47:50Z"
+   },
+   {
+    "ns": 6,
+    "title": "File:The Indian Antiquary Vol 2.djvu",
+    "pageid": 76475395,
+    "size": 354,
+    "wordcount": 21,
+    "snippet": "DescriptionThe <span class=\"searchmatch\">Indian</span> Antiquary Vol 2.djvu English: The <span class=\"searchmatch\">Indian</span> Antiquary Volume 2 Date 1873 Source https://babel.hathitrust.org/cgi/pt?id=hvd.32044025682105",
+    "timestamp": "2024-12-17T01:56:20Z"
    },
    {
     "ns": 6,
@@ -173,6 +173,15 @@
    },
    {
     "ns": 6,
+    "title": "File:Report On The Inscriptions Of The Devasthanam Collection With Illustrations.djvu",
+    "pageid": 164322187,
+    "size": 1107,
+    "wordcount": 0,
+    "snippet": "Report On The <span class=\"searchmatch\">Inscriptions</span> Of The Devasthanam Collection With Illustrations By Sadhu Subrahmanya Sastry In English    (  ) Author Sadhu Subrahmanya Sastry",
+    "timestamp": "2025-10-25T05:48:42Z"
+   },
+   {
+    "ns": 6,
     "title": "File:Fifty years of the Indian Antiquary.djvu",
     "pageid": 70071113,
     "size": 772,
@@ -197,15 +206,6 @@
     "wordcount": 21,
     "snippet": "Dravidian or <span class=\"searchmatch\">South</span>-<span class=\"searchmatch\">Indian</span> family of languages   (  ) Author Caldwell, Robert Title A comparative grammar of the Dravidian or <span class=\"searchmatch\">South</span>-<span class=\"searchmatch\">Indian</span> family of languages",
     "timestamp": "2026-06-07T11:52:47Z"
-   },
-   {
-    "ns": 6,
-    "title": "File:Report On The Inscriptions Of The Devasthanam Collection With Illustrations.djvu",
-    "pageid": 164322187,
-    "size": 1107,
-    "wordcount": 0,
-    "snippet": "Report On The <span class=\"searchmatch\">Inscriptions</span> Of The Devasthanam Collection With Illustrations By Sadhu Subrahmanya Sastry In English    (  ) Author Sadhu Subrahmanya Sastry",
-    "timestamp": "2025-10-25T05:48:42Z"
    },
    {
     "ns": 6,
@@ -317,21 +317,21 @@
    },
    {
     "ns": 6,
-    "title": "File:Narrative of a voyage to the Ethiopic and South Atlantic Ocean, Indian Ocean, Chinese Sea, North and South Pacific Ocean, in the years 1829, 1830, 1831.djvu",
-    "pageid": 83405490,
-    "size": 1020,
-    "wordcount": 7,
-    "snippet": "Narrative of a voyage to the Ethiopic and <span class=\"searchmatch\">South</span> Atlantic Ocean, <span class=\"searchmatch\">Indian</span> Ocean, Chinese Sea, North and <span class=\"searchmatch\">South</span> Pacific Ocean, in the years 1829, 1830, 1831",
-    "timestamp": "2026-01-06T18:15:53Z"
-   },
-   {
-    "ns": 6,
     "title": "File:The Mythology of All Races Vol 6 (Indian and Iranian).djvu",
     "pageid": 41821410,
     "size": 1580,
     "wordcount": 7,
     "snippet": "Siberian, by Uno Holmberg. 1927.--V. Semitic, by S.H. Langdon. 1931.--VI. <span class=\"searchmatch\">Indian</span>, by A.B. Keith; Iranian, by A.J. Carnvy. 1917.--VII. Armenian, by M.H. Ananikian;",
     "timestamp": "2025-10-24T01:37:39Z"
+   },
+   {
+    "ns": 6,
+    "title": "File:Narrative of a voyage to the Ethiopic and South Atlantic Ocean, Indian Ocean, Chinese Sea, North and South Pacific Ocean, in the years 1829, 1830, 1831.djvu",
+    "pageid": 83405490,
+    "size": 1020,
+    "wordcount": 7,
+    "snippet": "Narrative of a voyage to the Ethiopic and <span class=\"searchmatch\">South</span> Atlantic Ocean, <span class=\"searchmatch\">Indian</span> Ocean, Chinese Sea, North and <span class=\"searchmatch\">South</span> Pacific Ocean, in the years 1829, 1830, 1831",
+    "timestamp": "2026-01-06T18:15:53Z"
    },
    {
     "ns": 6,
@@ -362,21 +362,21 @@
    },
    {
     "ns": 6,
-    "title": "File:History of the Indian Archipelago, in Three Volumes, Vol. III (IA dli.granth.17557).pdf",
-    "pageid": 103766989,
-    "size": 1073,
-    "wordcount": 21,
-    "snippet": "History of the <span class=\"searchmatch\">Indian</span> Archipelago, in Three Volumes, Vol. III   (  ) Author Crawfurd, John Title History of the <span class=\"searchmatch\">Indian</span> Archipelago, in Three Volumes,",
-    "timestamp": "2025-01-30T21:12:34Z"
-   },
-   {
-    "ns": 6,
     "title": "File:Narrative of a voyage to the Ethiopic and South Atlantic Ocean, Indian Ocean, Chinese Sea, North and South Pacific Ocean, in the years 1829, 1830, 1831 (IA narrativeofvoyag00morriala).pdf",
     "pageid": 95844350,
     "size": 940,
     "wordcount": 1,
     "snippet": "Narrative of a voyage to the Ethiopic and <span class=\"searchmatch\">South</span> Atlantic Ocean, <span class=\"searchmatch\">Indian</span> Ocean, Chinese Sea, North and <span class=\"searchmatch\">South</span> Pacific Ocean, in the years 1829, 1830, 1831",
     "timestamp": "2024-04-27T02:33:48Z"
+   },
+   {
+    "ns": 6,
+    "title": "File:History of the Indian Archipelago, in Three Volumes, Vol. III (IA dli.granth.17557).pdf",
+    "pageid": 103766989,
+    "size": 1073,
+    "wordcount": 21,
+    "snippet": "History of the <span class=\"searchmatch\">Indian</span> Archipelago, in Three Volumes, Vol. III   (  ) Author Crawfurd, John Title History of the <span class=\"searchmatch\">Indian</span> Archipelago, in Three Volumes,",
+    "timestamp": "2025-01-30T21:12:34Z"
    },
    {
     "ns": 6,

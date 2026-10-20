@@ -2,7 +2,7 @@
  "meta": {
   "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. The mailto parameter doesn't raise this limit. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
   "count": 399,
-  "db_response_time_ms": 69,
+  "db_response_time_ms": 86,
   "page": null,
   "per_page": 200,
   "next_cursor": "IlsyLjAzNDUxNTksIDE3MDQwNjcyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQwNTQ2MDMyNiddIg==",
@@ -1616,9 +1616,9 @@
    "sustainable_development_goals": [],
    "sustainable_development_goals_aurora": [
     {
-     "display_name": "Quality education",
      "score": 0.6000000238418579,
-     "id": "https://metadata.un.org/sdg/4"
+     "id": "https://metadata.un.org/sdg/4",
+     "display_name": "Quality education"
     }
    ],
    "study_designs": [],
@@ -2252,9 +2252,9 @@
    "sustainable_development_goals": [],
    "sustainable_development_goals_aurora": [
     {
-     "display_name": "Quality education",
      "score": 0.7300000190734863,
-     "id": "https://metadata.un.org/sdg/4"
+     "id": "https://metadata.un.org/sdg/4",
+     "display_name": "Quality education"
     }
    ],
    "study_designs": [],

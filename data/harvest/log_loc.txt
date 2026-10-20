@@ -28,95 +28,95 @@
 [loc] vattezhuthu: total so far 0
 [loc] sasanam: total so far 0
 [loc] pattayam: total so far 0
-[loc] Tamil inscriptions: total so far 1
-[loc] inscriptions Tamil Nadu: total so far 1
-[loc] Tamilnadu inscriptions: total so far 1
-[loc] Tamil epigraphy: total so far 2
-[loc] South Indian inscriptions: total so far 3
-[loc] South Indian epigraphy: total so far 6
-[loc] Epigraphia Indica: total so far 6
-[loc] annual report epigraphy: total so far 9
-[loc] topographical list inscriptions: total so far 14
-[loc] district inscriptions Tamil: total so far 14
-[loc] temple inscriptions Tamil: total so far 15
-[loc] Chola inscriptions: total so far 17
-[loc] Pandya inscriptions: total so far 17
-[loc] Pallava inscriptions: total so far 17
-[loc] Pallava copper plates: total so far 17
-[loc] Chola copper plates: total so far 17
-[loc] Pandya copper plates: total so far 17
-[loc] copper plates Tamil: total so far 18
-[loc] Tamil Brahmi: total so far 18
-[loc] Tamil-Brahmi inscriptions: total so far 18
-[loc] Vatteluttu: total so far 18
-[loc] South Indian palaeography: total so far 18
-[loc] hero stones Tamil: total so far 19
-[loc] hero stones Tamil Nadu: total so far 19
-[loc] memorial stones South India: total so far 21
-[loc] rock art Tamil Nadu: total so far 21
-[loc] rock paintings Tamil Nadu: total so far 21
-[loc] prehistoric rock art South India: total so far 21
-[loc] excavations Tamil Nadu: total so far 21
-[loc] archaeology Tamil Nadu: total so far 21
-[loc] archaeology Tamilnadu: total so far 21
-[loc] Tamil Nadu archaeology department: total so far 21
-[loc] megalithic Tamil Nadu: total so far 21
-[loc] megaliths South India: total so far 21
-[loc] urn burials Tamil Nadu: total so far 21
-[loc] Keeladi: total so far 21
-[loc] Keezhadi: total so far 21
-[loc] Adichanallur: total so far 21
-[loc] Arikamedu: total so far 21
-[loc] Kodumanal: total so far 21
-[loc] Porunthal: total so far 21
-[loc] Alagankulam: total so far 21
-[loc] Kaveripattinam excavation: total so far 21
-[loc] Poompuhar archaeology: total so far 21
-[loc] Sivagalai: total so far 21
-[loc] Tamil coins Sangam: total so far 21
-[loc] Pudukkottai inscriptions: total so far 21
-[loc] Travancore archaeological series: total so far 21
-[loc] Madras Presidency antiquities: total so far 22
-[loc] Kanyakumari inscriptions: total so far 22
-[loc] Jaina inscriptions Tamil Nadu: total so far 22
-[loc] Tamil graffiti potsherds: total so far 22
-[loc] Sri Lanka Tamil inscriptions: total so far 23
-[loc] Annual Report on Indian Epigraphy: total so far 26
-[loc] Annual Report on South Indian Epigraphy: total so far 29
-[loc] Annual report on epigraphy Madras: total so far 29
-[loc] Report on epigraphy: total so far 32
-[loc] Madras epigraphy: total so far 32
-[loc] Government Epigraphist Madras: total so far 32
-[loc] Epigraphia Indica: total so far 32
-[loc] Indian Antiquary: total so far 34
-[loc] Epigraphia Carnatica: total so far 35
-[loc] South Indian Inscriptions volume: total so far 38
-[loc] Pudukkottai State inscriptions: total so far 38
-[loc] Travancore Archaeological Series: total so far 38
-[loc] Archaeological Survey of Southern India: total so far 39
-[loc] antiquarian remains Madras: total so far 40
-[loc] Madras Government Museum bulletin: total so far 40
-[loc] Ancient India bulletin: total so far 41
-[loc] Indian Archaeology a review: total so far 45
-[loc] Annual report archaeological department southern circle: total so far 46
-[loc] Mackenzie collection: total so far 47
-[loc] Tamil Nadu State Department of Archaeology: total so far 47
-[loc] Madras district gazetteer antiquities: total so far 47
-[loc] Vijayanagara inscriptions Tamil: total so far 47
-[loc] Nayak inscriptions: total so far 47
-[loc] Sethupathi copper plates: total so far 47
-[loc] Maratha Tanjore inscriptions: total so far 47
-[loc] Kongu inscriptions: total so far 47
-[loc] Jain inscriptions Tamil: total so far 47
-[loc] Buddhist Tamil inscriptions: total so far 47
-[loc] Grantha script: total so far 47
-[loc] Tamil script evolution: total so far 48
-[loc] Thanjavur Brihadisvara inscriptions: total so far 48
-[loc] Chidambaram inscriptions: total so far 48
-[loc] Srirangam inscriptions: total so far 48
-[loc] Kanchipuram inscriptions: total so far 48
-[loc] Tirumalai Tirupati inscriptions: total so far 48
-[loc] Madurai inscriptions: total so far 48
-[loc] saved 13 records
-[loc] took 2912s
-total 2912s
+[loc] Tamil inscriptions: total so far 0
+[loc] inscriptions Tamil Nadu: total so far 0
+[loc] Tamilnadu inscriptions: total so far 0
+[loc] Tamil epigraphy: total so far 0
+[loc] South Indian inscriptions: total so far 0
+[loc] South Indian epigraphy: total so far 0
+[loc] Epigraphia Indica: total so far 0
+[loc] annual report epigraphy: total so far 0
+[loc] topographical list inscriptions: total so far 0
+[loc] district inscriptions Tamil: total so far 0
+[loc] temple inscriptions Tamil: total so far 0
+[loc] Chola inscriptions: total so far 0
+[loc] Pandya inscriptions: total so far 0
+[loc] Pallava inscriptions: total so far 0
+[loc] Pallava copper plates: total so far 0
+[loc] Chola copper plates: total so far 0
+[loc] Pandya copper plates: total so far 0
+[loc] copper plates Tamil: total so far 0
+[loc] Tamil Brahmi: total so far 0
+[loc] Tamil-Brahmi inscriptions: total so far 0
+[loc] Vatteluttu: total so far 0
+[loc] South Indian palaeography: total so far 0
+[loc] hero stones Tamil: total so far 0
+[loc] hero stones Tamil Nadu: total so far 0
+[loc] memorial stones South India: total so far 0
+[loc] rock art Tamil Nadu: total so far 0
+[loc] rock paintings Tamil Nadu: total so far 0
+[loc] prehistoric rock art South India: total so far 0
+[loc] excavations Tamil Nadu: total so far 0
+[loc] archaeology Tamil Nadu: total so far 0
+[loc] archaeology Tamilnadu: total so far 0
+[loc] Tamil Nadu archaeology department: total so far 0
+[loc] megalithic Tamil Nadu: total so far 0
+[loc] megaliths South India: total so far 0
+[loc] urn burials Tamil Nadu: total so far 0
+[loc] Keeladi: total so far 0
+[loc] Keezhadi: total so far 0
+[loc] Adichanallur: total so far 0
+[loc] Arikamedu: total so far 0
+[loc] Kodumanal: total so far 0
+[loc] Porunthal: total so far 0
+[loc] Alagankulam: total so far 0
+[loc] Kaveripattinam excavation: total so far 0
+[loc] Poompuhar archaeology: total so far 0
+[loc] Sivagalai: total so far 0
+[loc] Tamil coins Sangam: total so far 0
+[loc] Pudukkottai inscriptions: total so far 0
+[loc] Travancore archaeological series: total so far 0
+[loc] Madras Presidency antiquities: total so far 0
+[loc] Kanyakumari inscriptions: total so far 0
+[loc] Jaina inscriptions Tamil Nadu: total so far 0
+[loc] Tamil graffiti potsherds: total so far 0
+[loc] Sri Lanka Tamil inscriptions: total so far 0
+[loc] Annual Report on Indian Epigraphy: total so far 0
+[loc] Annual Report on South Indian Epigraphy: total so far 0
+[loc] Annual report on epigraphy Madras: total so far 0
+[loc] Report on epigraphy: total so far 0
+[loc] Madras epigraphy: total so far 0
+[loc] Government Epigraphist Madras: total so far 0
+[loc] Epigraphia Indica: total so far 0
+[loc] Indian Antiquary: total so far 0
+[loc] Epigraphia Carnatica: total so far 1
+[loc] South Indian Inscriptions volume: total so far 1
+[loc] Pudukkottai State inscriptions: total so far 1
+[loc] Travancore Archaeological Series: total so far 1
+[loc] Archaeological Survey of Southern India: total so far 1
+[loc] antiquarian remains Madras: total so far 1
+[loc] Madras Government Museum bulletin: total so far 1
+[loc] Ancient India bulletin: total so far 1
+[loc] Indian Archaeology a review: total so far 1
+[loc] Annual report archaeological department southern circle: total so far 1
+[loc] Mackenzie collection: total so far 1
+[loc] Tamil Nadu State Department of Archaeology: total so far 1
+[loc] Madras district gazetteer antiquities: total so far 1
+[loc] Vijayanagara inscriptions Tamil: total so far 1
+[loc] Nayak inscriptions: total so far 1
+[loc] Sethupathi copper plates: total so far 1
+[loc] Maratha Tanjore inscriptions: total so far 1
+[loc] Kongu inscriptions: total so far 1
+[loc] Jain inscriptions Tamil: total so far 1
+[loc] Buddhist Tamil inscriptions: total so far 1
+[loc] Grantha script: total so far 1
+[loc] Tamil script evolution: total so far 1
+[loc] Thanjavur Brihadisvara inscriptions: total so far 1
+[loc] Chidambaram inscriptions: total so far 1
+[loc] Srirangam inscriptions: total so far 1
+[loc] Kanchipuram inscriptions: total so far 1
+[loc] Tirumalai Tirupati inscriptions: total so far 1
+[loc] Madurai inscriptions: total so far 1
+[loc] saved 1 records
+[loc] took 1226s
+total 1226s

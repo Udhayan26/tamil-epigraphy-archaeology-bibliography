@@ -1,14 +1,14 @@
 [ht] streaming https://www.hathitrust.org/files/hathifiles/hathi_full_20261001.txt.gz (1226768096 bytes)
-[ht] scanned 2,000,000 lines, kept 235
-[ht] scanned 4,000,000 lines, kept 667
-[ht] scanned 6,000,000 lines, kept 886
-[ht] scanned 8,000,000 lines, kept 1094
-[ht] scanned 10,000,000 lines, kept 1271
-[ht] scanned 12,000,000 lines, kept 1451
-[ht] scanned 14,000,000 lines, kept 1575
-[ht] scanned 16,000,000 lines, kept 1665
-[ht] scanned 18,000,000 lines, kept 1803
+[ht] scanned 2,000,000 lines, kept 211
+[ht] scanned 4,000,000 lines, kept 603
+[ht] scanned 6,000,000 lines, kept 726
+[ht] scanned 8,000,000 lines, kept 851
+[ht] scanned 10,000,000 lines, kept 997
+[ht] scanned 12,000,000 lines, kept 1019
+[ht] scanned 14,000,000 lines, kept 1103
+[ht] scanned 16,000,000 lines, kept 1133
+[ht] scanned 18,000,000 lines, kept 1211
 [ht] scanned 19,701,406 lines total
-[ht] saved 1899 records
-[ht] took 2349s
-total 2349s
+[ht] saved 1264 records
+[ht] took 2332s
+total 2332s

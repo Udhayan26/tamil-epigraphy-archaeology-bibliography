@@ -1,158 +1,158 @@
 [oa] ERR Tamil inscriptions HTTP Error 401: Unauthorized
-[oa] Tamil inscriptions: total so far 52
-[oa] inscriptions Tamil Nadu: total so far 67
-[oa] Tamilnadu inscriptions: total so far 81
-[oa] Tamil epigraphy: total so far 95
+[oa] Tamil inscriptions: total so far 42
+[oa] inscriptions Tamil Nadu: total so far 54
+[oa] Tamilnadu inscriptions: total so far 65
+[oa] Tamil epigraphy: total so far 78
 [oa] ERR South Indian inscriptions HTTP Error 401: Unauthorized
-[oa] South Indian inscriptions: total so far 117
-[oa] South Indian epigraphy: total so far 129
-[oa] Epigraphia Indica: total so far 147
+[oa] South Indian inscriptions: total so far 96
+[oa] South Indian epigraphy: total so far 104
+[oa] Epigraphia Indica: total so far 120
 [oa] ERR annual report epigraphy HTTP Error 401: Unauthorized
-[oa] annual report epigraphy: total so far 165
+[oa] annual report epigraphy: total so far 136
 [oa] ERR topographical list inscriptions HTTP Error 401: Unauthorized
-[oa] topographical list inscriptions: total so far 176
-[oa] district inscriptions Tamil: total so far 181
+[oa] topographical list inscriptions: total so far 143
+[oa] district inscriptions Tamil: total so far 146
 [oa] ERR temple inscriptions Tamil HTTP Error 401: Unauthorized
-[oa] temple inscriptions Tamil: total so far 191
-[oa] Chola inscriptions: total so far 199
-[oa] Pandya inscriptions: total so far 204
-[oa] Pallava inscriptions: total so far 216
-[oa] Pallava copper plates: total so far 218
-[oa] Chola copper plates: total so far 220
-[oa] Pandya copper plates: total so far 221
-[oa] copper plates Tamil: total so far 230
-[oa] Tamil Brahmi: total so far 232
-[oa] Tamil-Brahmi inscriptions: total so far 233
-[oa] Vatteluttu: total so far 233
-[oa] South Indian palaeography: total so far 237
+[oa] temple inscriptions Tamil: total so far 154
+[oa] Chola inscriptions: total so far 161
+[oa] Pandya inscriptions: total so far 165
+[oa] Pallava inscriptions: total so far 175
+[oa] Pallava copper plates: total so far 177
+[oa] Chola copper plates: total so far 179
+[oa] Pandya copper plates: total so far 180
+[oa] copper plates Tamil: total so far 188
+[oa] Tamil Brahmi: total so far 190
+[oa] Tamil-Brahmi inscriptions: total so far 191
+[oa] Vatteluttu: total so far 191
+[oa] South Indian palaeography: total so far 193
 [oa] ERR hero stones Tamil HTTP Error 401: Unauthorized
-[oa] hero stones Tamil: total so far 238
-[oa] hero stones Tamil Nadu: total so far 238
+[oa] hero stones Tamil: total so far 194
+[oa] hero stones Tamil Nadu: total so far 194
 [oa] ERR memorial stones South India HTTP Error 401: Unauthorized
-[oa] memorial stones South India: total so far 238
-[oa] rock art Tamil Nadu: total so far 239
-[oa] rock paintings Tamil Nadu: total so far 239
+[oa] memorial stones South India: total so far 194
+[oa] rock art Tamil Nadu: total so far 195
+[oa] rock paintings Tamil Nadu: total so far 195
 [oa] ERR prehistoric rock art South India HTTP Error 401: Unauthorized
-[oa] prehistoric rock art South India: total so far 239
-[oa] excavations Tamil Nadu: total so far 240
-[oa] archaeology Tamil Nadu: total so far 251
-[oa] archaeology Tamilnadu: total so far 258
-[oa] Tamil Nadu archaeology department: total so far 260
-[oa] megalithic Tamil Nadu: total so far 264
-[oa] megaliths South India: total so far 270
-[oa] urn burials Tamil Nadu: total so far 270
-[oa] Keeladi: total so far 270
-[oa] Keezhadi: total so far 271
-[oa] Adichanallur: total so far 273
-[oa] Arikamedu: total so far 277
-[oa] Kodumanal: total so far 279
-[oa] Porunthal: total so far 279
-[oa] Alagankulam: total so far 279
-[oa] Kaveripattinam excavation: total so far 280
-[oa] Poompuhar archaeology: total so far 280
-[oa] Sivagalai: total so far 280
-[oa] Tamil coins Sangam: total so far 285
-[oa] Pudukkottai inscriptions: total so far 286
-[oa] Travancore archaeological series: total so far 288
-[oa] Madras Presidency antiquities: total so far 292
-[oa] Kanyakumari inscriptions: total so far 293
-[oa] Jaina inscriptions Tamil Nadu: total so far 294
-[oa] Tamil graffiti potsherds: total so far 294
-[oa] Sri Lanka Tamil inscriptions: total so far 299
-[oa] Annual Report on Indian Epigraphy: total so far 315
-[oa] Annual Report on South Indian Epigraphy: total so far 319
-[oa] Annual report on epigraphy Madras: total so far 321
+[oa] prehistoric rock art South India: total so far 195
+[oa] excavations Tamil Nadu: total so far 195
+[oa] archaeology Tamil Nadu: total so far 204
+[oa] archaeology Tamilnadu: total so far 210
+[oa] Tamil Nadu archaeology department: total so far 211
+[oa] megalithic Tamil Nadu: total so far 214
+[oa] megaliths South India: total so far 220
+[oa] urn burials Tamil Nadu: total so far 220
+[oa] Keeladi: total so far 220
+[oa] Keezhadi: total so far 221
+[oa] Adichanallur: total so far 223
+[oa] Arikamedu: total so far 225
+[oa] Kodumanal: total so far 226
+[oa] Porunthal: total so far 226
+[oa] Alagankulam: total so far 226
+[oa] Kaveripattinam excavation: total so far 227
+[oa] Poompuhar archaeology: total so far 227
+[oa] Sivagalai: total so far 227
+[oa] Tamil coins Sangam: total so far 231
+[oa] Pudukkottai inscriptions: total so far 232
+[oa] Travancore archaeological series: total so far 234
+[oa] Madras Presidency antiquities: total so far 235
+[oa] Kanyakumari inscriptions: total so far 236
+[oa] Jaina inscriptions Tamil Nadu: total so far 236
+[oa] Tamil graffiti potsherds: total so far 236
+[oa] Sri Lanka Tamil inscriptions: total so far 239
+[oa] Annual Report on Indian Epigraphy: total so far 254
+[oa] Annual Report on South Indian Epigraphy: total so far 257
+[oa] Annual report on epigraphy Madras: total so far 258
 [oa] ERR Report on epigraphy HTTP Error 401: Unauthorized
-[oa] Report on epigraphy: total so far 341
-[oa] Madras epigraphy: total so far 350
-[oa] Government Epigraphist Madras: total so far 351
-[oa] Epigraphia Indica: total so far 369
+[oa] Report on epigraphy: total so far 275
+[oa] Madras epigraphy: total so far 281
+[oa] Government Epigraphist Madras: total so far 282
+[oa] Epigraphia Indica: total so far 298
 [oa] ERR Indian Antiquary HTTP Error 401: Unauthorized
-[oa] Indian Antiquary: total so far 384
-[oa] Epigraphia Carnatica: total so far 385
+[oa] Indian Antiquary: total so far 313
+[oa] Epigraphia Carnatica: total so far 314
 [oa] ERR South Indian Inscriptions volume HTTP Error 401: Unauthorized
-[oa] South Indian Inscriptions volume: total so far 391
-[oa] Pudukkottai State inscriptions: total so far 392
-[oa] Travancore Archaeological Series: total so far 394
+[oa] South Indian Inscriptions volume: total so far 318
+[oa] Pudukkottai State inscriptions: total so far 319
+[oa] Travancore Archaeological Series: total so far 321
 [oa] ERR Archaeological Survey of Southern India HTTP Error 401: Unauthorized
-[oa] Archaeological Survey of Southern India: total so far 401
-[oa] antiquarian remains Madras: total so far 405
-[oa] Madras Government Museum bulletin: total so far 407
+[oa] Archaeological Survey of Southern India: total so far 326
+[oa] antiquarian remains Madras: total so far 330
+[oa] Madras Government Museum bulletin: total so far 332
 [oa] ERR Ancient India bulletin HTTP Error 401: Unauthorized
-[oa] Ancient India bulletin: total so far 409
+[oa] Ancient India bulletin: total so far 334
 [oa] ERR Indian Archaeology a review HTTP Error 401: Unauthorized
-[oa] Indian Archaeology a review: total so far 412
+[oa] Indian Archaeology a review: total so far 334
 [oa] ERR Annual report archaeological department southern circle HTTP Error 401: Unauthorized
-[oa] Annual report archaeological department southern circle: total so far 414
+[oa] Annual report archaeological department southern circle: total so far 335
 [oa] ERR Mackenzie collection HTTP Error 401: Unauthorized
-[oa] Mackenzie collection: total so far 414
-[oa] Tamil Nadu State Department of Archaeology: total so far 416
-[oa] Madras district gazetteer antiquities: total so far 417
-[oa] Vijayanagara inscriptions Tamil: total so far 421
-[oa] Nayak inscriptions: total so far 422
-[oa] Sethupathi copper plates: total so far 423
-[oa] Maratha Tanjore inscriptions: total so far 423
-[oa] Kongu inscriptions: total so far 423
-[oa] Jain inscriptions Tamil: total so far 425
-[oa] Buddhist Tamil inscriptions: total so far 430
-[oa] Grantha script: total so far 430
+[oa] Mackenzie collection: total so far 335
+[oa] Tamil Nadu State Department of Archaeology: total so far 336
+[oa] Madras district gazetteer antiquities: total so far 337
+[oa] Vijayanagara inscriptions Tamil: total so far 340
+[oa] Nayak inscriptions: total so far 340
+[oa] Sethupathi copper plates: total so far 341
+[oa] Maratha Tanjore inscriptions: total so far 341
+[oa] Kongu inscriptions: total so far 341
+[oa] Jain inscriptions Tamil: total so far 342
+[oa] Buddhist Tamil inscriptions: total so far 346
+[oa] Grantha script: total so far 346
 [oa] ERR Tamil script evolution HTTP Error 401: Unauthorized
-[oa] Tamil script evolution: total so far 431
-[oa] Thanjavur Brihadisvara inscriptions: total so far 431
-[oa] Chidambaram inscriptions: total so far 431
-[oa] Srirangam inscriptions: total so far 431
-[oa] Kanchipuram inscriptions: total so far 434
-[oa] Tirumalai Tirupati inscriptions: total so far 434
-[oa] Madurai inscriptions: total so far 436
-[oa] kalvettu: total so far 437
-[oa] kalvettukal: total so far 437
-[oa] kalvettukkal: total so far 437
-[oa] kalvettugal: total so far 437
-[oa] kalvetukal: total so far 437
-[oa] kalvettiyal: total so far 437
-[oa] kalveddukal: total so far 437
-[oa] seppedu: total so far 437
-[oa] seppedugal: total so far 437
-[oa] seppedukal: total so far 437
-[oa] ceppetu: total so far 437
+[oa] Tamil script evolution: total so far 347
+[oa] Thanjavur Brihadisvara inscriptions: total so far 347
+[oa] Chidambaram inscriptions: total so far 347
+[oa] Srirangam inscriptions: total so far 347
+[oa] Kanchipuram inscriptions: total so far 348
+[oa] Tirumalai Tirupati inscriptions: total so far 348
+[oa] Madurai inscriptions: total so far 349
+[oa] kalvettu: total so far 349
+[oa] kalvettukal: total so far 349
+[oa] kalvettukkal: total so far 349
+[oa] kalvettugal: total so far 349
+[oa] kalvetukal: total so far 349
+[oa] kalvettiyal: total so far 349
+[oa] kalveddukal: total so far 349
+[oa] seppedu: total so far 349
+[oa] seppedugal: total so far 349
+[oa] seppedukal: total so far 349
+[oa] ceppetu: total so far 349
 [oa] ERR ceppetukal HTTP Error 429: Too Many Requests
-[oa] ceppetukal: total so far 437
+[oa] ceppetukal: total so far 349
 [oa] ERR nadukal HTTP Error 429: Too Many Requests
-[oa] nadukal: total so far 437
+[oa] nadukal: total so far 349
 [oa] ERR nadukarkal HTTP Error 429: Too Many Requests
-[oa] nadukarkal: total so far 437
+[oa] nadukarkal: total so far 349
 [oa] ERR natukal HTTP Error 429: Too Many Requests
-[oa] natukal: total so far 437
+[oa] natukal: total so far 349
 [oa] ERR natukarkal HTTP Error 429: Too Many Requests
-[oa] natukarkal: total so far 437
+[oa] natukarkal: total so far 349
 [oa] ERR tholliyal HTTP Error 429: Too Many Requests
-[oa] tholliyal: total so far 437
+[oa] tholliyal: total so far 349
 [oa] ERR tolliyal HTTP Error 429: Too Many Requests
-[oa] tolliyal: total so far 437
+[oa] tolliyal: total so far 349
 [oa] ERR tholporul HTTP Error 429: Too Many Requests
-[oa] tholporul: total so far 437
+[oa] tholporul: total so far 349
 [oa] ERR agazhaivu HTTP Error 429: Too Many Requests
-[oa] agazhaivu: total so far 437
+[oa] agazhaivu: total so far 349
 [oa] ERR akalayvu HTTP Error 429: Too Many Requests
-[oa] akalayvu: total so far 437
+[oa] akalayvu: total so far 349
 [oa] ERR akazhaivu HTTP Error 429: Too Many Requests
-[oa] akazhaivu: total so far 437
+[oa] akazhaivu: total so far 349
 [oa] ERR akalvaippakam HTTP Error 429: Too Many Requests
-[oa] akalvaippakam: total so far 437
+[oa] akalvaippakam: total so far 349
 [oa] ERR paarai oviyangal HTTP Error 429: Too Many Requests
-[oa] paarai oviyangal: total so far 437
+[oa] paarai oviyangal: total so far 349
 [oa] ERR tamil pirami HTTP Error 429: Too Many Requests
-[oa] tamil pirami: total so far 437
+[oa] tamil pirami: total so far 349
 [oa] ERR tamili HTTP Error 429: Too Many Requests
-[oa] tamili: total so far 437
+[oa] tamili: total so far 349
 [oa] ERR vatteluttu HTTP Error 429: Too Many Requests
-[oa] vatteluttu: total so far 437
+[oa] vatteluttu: total so far 349
 [oa] ERR vattezhuthu HTTP Error 429: Too Many Requests
-[oa] vattezhuthu: total so far 437
+[oa] vattezhuthu: total so far 349
 [oa] ERR sasanam HTTP Error 429: Too Many Requests
-[oa] sasanam: total so far 437
+[oa] sasanam: total so far 349
 [oa] ERR pattayam HTTP Error 429: Too Many Requests
-[oa] pattayam: total so far 437
-[oa] saved 179 records
-[oa] took 3708s
-total 3708s
+[oa] pattayam: total so far 349
+[oa] saved 148 records
+[oa] took 3704s
+total 3704s

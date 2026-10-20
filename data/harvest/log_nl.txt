@@ -40,18 +40,7 @@
 [nl] excavation: titles so far 2037
 [nl] hero stone: titles so far 2037
 [nl] Brahmi: titles so far 2037
-[nl] content ERR HTTP Error 414: URI Too Long
-[nl] content ERR HTTP Error 414: URI Too Long
-[nl] content ERR HTTP Error 414: URI Too Long
-[nl] content ERR HTTP Error 414: URI Too Long
-[nl] content ERR HTTP Error 414: URI Too Long
-[nl] content ERR HTTP Error 414: URI Too Long
-[nl] content ERR HTTP Error 414: URI Too Long
-[nl] content ERR HTTP Error 414: URI Too Long
-[nl] content ERR HTTP Error 414: URI Too Long
-[nl] content ERR HTTP Error 414: URI Too Long
-[nl] content ERR HTTP Error 414: URI Too Long
-[nl] content ERR HTTP Error 414: URI Too Long
-[nl] saved 27 records
-[nl] took 498s
-total 498s
+[nl] fetching content of 2037 pages
+[nl] saved 37 records
+[nl] took 311s
+total 311s
