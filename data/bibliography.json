@@ -7,6 +7,7 @@
 "open_access": 72,
 "with_download": 7,
 "heritage_records": 0,
+"with_buy": 0,
 "access": {
 "": 104,
 "open": 72,
@@ -94,7 +95,7 @@
 },
 "records": [
 {
-"id": "EPG-0001",
+"id": "TB-000001",
 "category": "EPG",
 "category_name": "Epigraphy: Manuals, Palaeography & Studies",
 "category_name_ta": "கல்வெட்டியல்: கையேடுகள், எழுத்தியல், ஆய்வுகள்",
@@ -120,16 +121,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EPG-0002",
+"id": "TB-000002",
 "category": "EPG",
 "category_name": "Epigraphy: Manuals, Palaeography & Studies",
 "category_name_ta": "கல்வெட்டியல்: கையேடுகள், எழுத்தியல், ஆய்வுகள்",
@@ -155,16 +159,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EPG-0003",
+"id": "TB-000003",
 "category": "EPG",
 "category_name": "Epigraphy: Manuals, Palaeography & Studies",
 "category_name_ta": "கல்வெட்டியல்: கையேடுகள், எழுத்தியல், ஆய்வுகள்",
@@ -190,16 +197,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EPG-0004",
+"id": "TB-000004",
 "category": "EPG",
 "category_name": "Epigraphy: Manuals, Palaeography & Studies",
 "category_name_ta": "கல்வெட்டியல்: கையேடுகள், எழுத்தியல், ஆய்வுகள்",
@@ -225,16 +235,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EPG-0005",
+"id": "TB-000005",
 "category": "EPG",
 "category_name": "Epigraphy: Manuals, Palaeography & Studies",
 "category_name_ta": "கல்வெட்டியல்: கையேடுகள், எழுத்தியல், ஆய்வுகள்",
@@ -260,16 +273,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EPG-0006",
+"id": "TB-000006",
 "category": "EPG",
 "category_name": "Epigraphy: Manuals, Palaeography & Studies",
 "category_name_ta": "கல்வெட்டியல்: கையேடுகள், எழுத்தியல், ஆய்வுகள்",
@@ -295,16 +311,19 @@
 "access": "open",
 "read_url": "https://archive.org/details/ThirukuralInAncientScriptsByGiftSiromoneyEtAl1980_201503",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://archive.org/details/ThirukuralInAncientScriptsByGiftSiromoneyEtAl1980_201503",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EPG-0007",
+"id": "TB-000007",
 "category": "EPG",
 "category_name": "Epigraphy: Manuals, Palaeography & Studies",
 "category_name_ta": "கல்வெட்டியல்: கையேடுகள், எழுத்தியல், ஆய்வுகள்",
@@ -330,16 +349,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EPG-0008",
+"id": "TB-000008",
 "category": "EPG",
 "category_name": "Epigraphy: Manuals, Palaeography & Studies",
 "category_name_ta": "கல்வெட்டியல்: கையேடுகள், எழுத்தியல், ஆய்வுகள்",
@@ -365,16 +387,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://openlibrary.org/works/OL365614W/Tamil_epigraphy",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EPG-0009",
+"id": "TB-000009",
 "category": "EPG",
 "category_name": "Epigraphy: Manuals, Palaeography & Studies",
 "category_name_ta": "கல்வெட்டியல்: கையேடுகள், எழுத்தியல், ஆய்வுகள்",
@@ -400,16 +425,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-32713-%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81-%28%E0%AE%93%E0%AE%B0%E0%AF%8D%20%E0%AE%85%E0%AE%B1%E0%AE%BF%E0%AE%AE%E0%AF%81%E0%AE%95%E0%AE%AE%E0%AF%8D%29",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-32713-%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81-%28%E0%AE%93%E0%AE%B0%E0%AF%8D%20%E0%AE%85%E0%AE%B1%E0%AE%BF%E0%AE%AE%E0%AF%81%E0%AE%95%E0%AE%AE%E0%AF%8D%29",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EPG-0010",
+"id": "TB-000010",
 "category": "EPG",
 "category_name": "Epigraphy: Manuals, Palaeography & Studies",
 "category_name_ta": "கல்வெட்டியல்: கையேடுகள், எழுத்தியல், ஆய்வுகள்",
@@ -435,16 +463,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-41268-%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%81%E0%AE%AE%E0%AF%8D%20%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%E0%AE%AE%E0%AF%8D",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-41268-%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%81%E0%AE%AE%E0%AF%8D%20%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%E0%AE%AE%E0%AF%8D",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0001",
+"id": "TB-000011",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -470,16 +501,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0002",
+"id": "TB-000012",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -505,16 +539,19 @@
 "access": "open",
 "read_url": "https://archive.org/details/are-annual-report-on-epigraphy-1917-21-scan",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://archive.org/details/are-annual-report-on-epigraphy-1917-21-scan",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0003",
+"id": "TB-000013",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -540,16 +577,19 @@
 "access": "open",
 "read_url": "https://www.whatisindia.com/inscriptions/south_indian_inscriptions/volume_1/index.html",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://www.whatisindia.com/inscriptions/south_indian_inscriptions/volume_1/index.html",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0004",
+"id": "TB-000014",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -575,16 +615,19 @@
 "access": "open",
 "read_url": "https://www.whatisindia.com/inscriptions/south_indian_inscriptions/volume_2/index.html",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://www.whatisindia.com/inscriptions/south_indian_inscriptions/volume_2/index.html",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0005",
+"id": "TB-000015",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -610,16 +653,19 @@
 "access": "open",
 "read_url": "https://www.whatisindia.com/inscriptions/",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://www.whatisindia.com/inscriptions/",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0006",
+"id": "TB-000016",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -645,16 +691,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0007",
+"id": "TB-000017",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -680,16 +729,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0008",
+"id": "TB-000018",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -715,16 +767,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0009",
+"id": "TB-000019",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -750,16 +805,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0010",
+"id": "TB-000020",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -785,16 +843,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0011",
+"id": "TB-000021",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -820,16 +881,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0012",
+"id": "TB-000022",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -855,16 +919,19 @@
 "access": "open",
 "read_url": "https://archive.org/details/ttd-inscriptions-vol-v-1937-sadasiva-raya",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://archive.org/details/ttd-inscriptions-vol-v-1937-sadasiva-raya",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0013",
+"id": "TB-000023",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -890,16 +957,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0014",
+"id": "TB-000024",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -925,16 +995,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-40305-South%20Indian%20inscriptions-miscellaneous%20inscriptions%20from%20the%20Tamil,%20Malayalam,%20Telugu%20and%20Kannada%20Countries",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-40305-South%20Indian%20inscriptions-miscellaneous%20inscriptions%20from%20the%20Tamil,%20Malayalam,%20Telugu%20and%20Kannada%20Countries",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0015",
+"id": "TB-000025",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -960,16 +1033,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0016",
+"id": "TB-000026",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -995,16 +1071,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0017",
+"id": "TB-000027",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -1030,16 +1109,19 @@
 "access": "open",
 "read_url": "https://www.whatisindia.com/inscriptions/south_indian_inscriptions/volume_13/index.html",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://www.whatisindia.com/inscriptions/south_indian_inscriptions/volume_13/index.html",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0018",
+"id": "TB-000028",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -1065,16 +1147,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-43822-South%20Indian%20temple%20inscriptions",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-43822-South%20Indian%20temple%20inscriptions",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0019",
+"id": "TB-000029",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -1100,16 +1185,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0020",
+"id": "TB-000030",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -1135,16 +1223,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0021",
+"id": "TB-000031",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -1170,16 +1261,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0022",
+"id": "TB-000032",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -1205,16 +1299,19 @@
 "access": "open",
 "read_url": "https://archive.org/details/tdl.11236-annual-report-on-indian-epigraphy-for-1979-80",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://archive.org/details/tdl.11236-annual-report-on-indian-epigraphy-for-1979-80",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0023",
+"id": "TB-000033",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -1240,16 +1337,19 @@
 "access": "open",
 "read_url": "https://archive.org/details/tdl.11244-annual-report-on-indian-epigraphy-for-1985-86",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://archive.org/details/tdl.11244-annual-report-on-indian-epigraphy-for-1985-86",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0024",
+"id": "TB-000034",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -1275,16 +1375,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0025",
+"id": "TB-000035",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -1310,16 +1413,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0026",
+"id": "TB-000036",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -1345,16 +1451,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0027",
+"id": "TB-000037",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -1380,16 +1489,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0028",
+"id": "TB-000038",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -1415,16 +1527,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0029",
+"id": "TB-000039",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -1450,16 +1565,19 @@
 "access": "open",
 "read_url": "https://archive.org/details/acc.no.30554-southindianinscriptionsvolume-41-2019",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://archive.org/details/acc.no.30554-southindianinscriptionsvolume-41-2019",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0030",
+"id": "TB-000040",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -1485,16 +1603,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0031",
+"id": "TB-000041",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -1520,16 +1641,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0032",
+"id": "TB-000042",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -1555,16 +1679,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0033",
+"id": "TB-000043",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -1590,16 +1717,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0034",
+"id": "TB-000044",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -1625,16 +1755,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ASI-0035",
+"id": "TB-000045",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -1660,16 +1793,19 @@
 "access": "open",
 "read_url": "https://archive.org/details/south-indian-inscriptions-vol23-28",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://archive.org/details/south-indian-inscriptions-vol23-28",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TNS-0001",
+"id": "TB-000046",
 "category": "TNS",
 "category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
 "category_name_ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
@@ -1695,16 +1831,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TNS-0002",
+"id": "TB-000047",
 "category": "TNS",
 "category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
 "category_name_ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
@@ -1730,16 +1869,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TNS-0003",
+"id": "TB-000048",
 "category": "TNS",
 "category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
 "category_name_ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
@@ -1765,16 +1907,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TNS-0004",
+"id": "TB-000049",
 "category": "TNS",
 "category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
 "category_name_ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
@@ -1800,16 +1945,19 @@
 "access": "open",
 "read_url": "https://archive.org/details/tamilnadu-kalvettukal-2005",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://archive.org/details/tamilnadu-kalvettukal-2005",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TNS-0005",
+"id": "TB-000050",
 "category": "TNS",
 "category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
 "category_name_ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
@@ -1835,16 +1983,19 @@
 "access": "open",
 "read_url": "https://archive.org/details/rajarajanin-kodai-dr-k-subashini_202610",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://archive.org/details/rajarajanin-kodai-dr-k-subashini_202610",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TNS-0006",
+"id": "TB-000051",
 "category": "TNS",
 "category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
 "category_name_ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
@@ -1870,16 +2021,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TNS-0007",
+"id": "TB-000052",
 "category": "TNS",
 "category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
 "category_name_ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
@@ -1905,16 +2059,19 @@
 "access": "open",
 "read_url": "https://archive.org/details/madurai-district-inscriptions-vol-i",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://archive.org/details/madurai-district-inscriptions-vol-i",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TNS-0008",
+"id": "TB-000053",
 "category": "TNS",
 "category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
 "category_name_ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
@@ -1940,16 +2097,19 @@
 "access": "open",
 "read_url": "https://archive.org/details/select-inscriptions-of-tamilnadu",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://archive.org/details/select-inscriptions-of-tamilnadu",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TNS-0009",
+"id": "TB-000054",
 "category": "TNS",
 "category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
 "category_name_ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
@@ -1975,16 +2135,19 @@
 "access": "open",
 "read_url": "https://archive.org/details/tdl.11150-selected-tamil-inscriptions",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://archive.org/details/tdl.11150-selected-tamil-inscriptions",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TNS-0010",
+"id": "TB-000055",
 "category": "TNS",
 "category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
 "category_name_ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
@@ -2010,16 +2173,19 @@
 "access": "open",
 "read_url": "https://archive.org/details/tamil-nad-inscriptions-and-their-kerala-connections",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://archive.org/details/tamil-nad-inscriptions-and-their-kerala-connections",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TNS-0011",
+"id": "TB-000056",
 "category": "TNS",
 "category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
 "category_name_ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
@@ -2045,16 +2211,19 @@
 "access": "open",
 "read_url": "https://archive.org/details/acc.-no.-37897-thirunathar-kunru-inscriptions",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://archive.org/details/acc.-no.-37897-thirunathar-kunru-inscriptions",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TNS-0012",
+"id": "TB-000057",
 "category": "TNS",
 "category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
 "category_name_ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
@@ -2080,16 +2249,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10677-%E0%AE%88%E0%AE%B0%E0%AF%8B%E0%AE%9F%E0%AF%81%20%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10677-%E0%AE%88%E0%AE%B0%E0%AF%8B%E0%AE%9F%E0%AF%81%20%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TNS-0013",
+"id": "TB-000058",
 "category": "TNS",
 "category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
 "category_name_ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
@@ -2115,16 +2287,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10643-%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D%20%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%A4%E0%AF%8A%E0%AE%95%E0%AF%81%E0%AE%A4%E0%AE%BF%20-%201",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10643-%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D%20%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%A4%E0%AF%8A%E0%AE%95%E0%AF%81%E0%AE%A4%E0%AE%BF%20-%201",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TNS-0014",
+"id": "TB-000059",
 "category": "TNS",
 "category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
 "category_name_ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
@@ -2150,16 +2325,19 @@
 "access": "open",
 "read_url": "https://archive.org/details/tanjavur-vattak-kalvettukal-vol-i",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://archive.org/details/tanjavur-vattak-kalvettukal-vol-i",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TNS-0015",
+"id": "TB-000060",
 "category": "TNS",
 "category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
 "category_name_ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
@@ -2185,16 +2363,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/062970_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_%E0%AE%A4%E0%AF%8A%E0%AE%95%E0%AF%81%E0%AE%A4%E0%AE%BF_24",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/062970_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_%E0%AE%A4%E0%AF%8A%E0%AE%95%E0%AF%81%E0%AE%A4%E0%AE%BF_24",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TNS-0016",
+"id": "TB-000061",
 "category": "TNS",
 "category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
 "category_name_ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
@@ -2220,16 +2401,19 @@
 "access": "open",
 "read_url": "https://archive.org/details/tamilnattu-kalvettukal-vol-iv",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://archive.org/details/tamilnattu-kalvettukal-vol-iv",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TNS-0017",
+"id": "TB-000062",
 "category": "TNS",
 "category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
 "category_name_ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
@@ -2255,16 +2439,19 @@
 "access": "open",
 "read_url": "https://archive.org/details/tamilnattuk-kalvettukal-vol-v",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://archive.org/details/tamilnattuk-kalvettukal-vol-v",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TNS-0018",
+"id": "TB-000063",
 "category": "TNS",
 "category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
 "category_name_ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
@@ -2290,16 +2477,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10780-%E0%AE%A4%E0%AE%BE%E0%AE%AE%E0%AE%B0%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10780-%E0%AE%A4%E0%AE%BE%E0%AE%AE%E0%AE%B0%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TNS-0019",
+"id": "TB-000064",
 "category": "TNS",
 "category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
 "category_name_ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
@@ -2325,16 +2515,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10782-%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%A8%E0%AF%86%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%87%E0%AE%B2%E0%AE%BF%20%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10782-%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%A8%E0%AF%86%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%87%E0%AE%B2%E0%AE%BF%20%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TNS-0020",
+"id": "TB-000065",
 "category": "TNS",
 "category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
 "category_name_ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
@@ -2360,16 +2553,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10790-%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%82%E0%AE%B0%E0%AF%8D%20%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10790-%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%82%E0%AE%B0%E0%AF%8D%20%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TNS-0021",
+"id": "TB-000066",
 "category": "TNS",
 "category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
 "category_name_ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
@@ -2395,16 +2591,19 @@
 "access": "open",
 "read_url": "https://archive.org/details/thiruvalanchuzhi-kalvettugal",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://archive.org/details/thiruvalanchuzhi-kalvettugal",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TNS-0022",
+"id": "TB-000067",
 "category": "TNS",
 "category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
 "category_name_ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
@@ -2430,16 +2629,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-24623-%E0%AE%B5%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%A4%E0%AF%81%E0%AE%A8%E0%AE%95%E0%AE%B0%E0%AF%8D%20%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-24623-%E0%AE%B5%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%A4%E0%AF%81%E0%AE%A8%E0%AE%95%E0%AE%B0%E0%AF%8D%20%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "CPP-0001",
+"id": "TB-000068",
 "category": "CPP",
 "category_name": "Copper Plates & Charters",
 "category_name_ta": "செப்பேடுகள், பட்டயங்கள்",
@@ -2465,16 +2667,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-25551-%E0%AE%AA%E0%AE%B2%E0%AF%8D%E0%AE%B2%E0%AE%B5%E0%AE%B0%E0%AF%8D%20%E0%AE%9A%E0%AF%86%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%87%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D%20%E0%AE%AE%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%A4%E0%AF%81",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-25551-%E0%AE%AA%E0%AE%B2%E0%AF%8D%E0%AE%B2%E0%AE%B5%E0%AE%B0%E0%AF%8D%20%E0%AE%9A%E0%AF%86%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%87%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D%20%E0%AE%AE%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%A4%E0%AF%81",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "CPP-0002",
+"id": "TB-000069",
 "category": "CPP",
 "category_name": "Copper Plates & Charters",
 "category_name_ta": "செப்பேடுகள், பட்டயங்கள்",
@@ -2500,16 +2705,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-9067-%20%E0%AE%AA%E0%AE%BE%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%B0%E0%AF%8D%20%E0%AE%9A%E0%AF%86%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%87%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D%20%E0%AE%AA%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-9067-%20%E0%AE%AA%E0%AE%BE%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%B0%E0%AF%8D%20%E0%AE%9A%E0%AF%86%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%87%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D%20%E0%AE%AA%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "CPP-0003",
+"id": "TB-000070",
 "category": "CPP",
 "category_name": "Copper Plates & Charters",
 "category_name_ta": "செப்பேடுகள், பட்டயங்கள்",
@@ -2535,16 +2743,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://openlibrary.org/books/OL4244050M",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "CPP-0004",
+"id": "TB-000071",
 "category": "CPP",
 "category_name": "Copper Plates & Charters",
 "category_name_ta": "செப்பேடுகள், பட்டயங்கள்",
@@ -2570,16 +2781,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "CPP-0005",
+"id": "TB-000072",
 "category": "CPP",
 "category_name": "Copper Plates & Charters",
 "category_name_ta": "செப்பேடுகள், பட்டயங்கள்",
@@ -2605,16 +2819,19 @@
 "access": "open",
 "read_url": "https://www.tamildigitallibrary.in/book-detail?id=jZY9lup2kZl6TuXGlZQdjZh8kuhy&tag=%E0%AE%9A%E0%AF%87%E0%AE%A4%E0%AF%81%E0%AE%AA%E0%AE%A4%E0%AE%BF+%E0%AE%AE%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AE%B0%E0%AF%8D+%E0%AE%9A%E0%AF%86%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%87%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://www.tamildigitallibrary.in/book-detail?id=jZY9lup2kZl6TuXGlZQdjZh8kuhy&tag=%E0%AE%9A%E0%AF%87%E0%AE%A4%E0%AF%81%E0%AE%AA%E0%AE%A4%E0%AE%BF+%E0%AE%AE%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AE%B0%E0%AF%8D+%E0%AE%9A%E0%AF%86%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%87%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "CPP-0006",
+"id": "TB-000073",
 "category": "CPP",
 "category_name": "Copper Plates & Charters",
 "category_name_ta": "செப்பேடுகள், பட்டயங்கள்",
@@ -2640,16 +2857,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10705-%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%95%E0%AE%9A%E0%AF%8D%20%E0%AE%9A%E0%AF%86%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%87%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10705-%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%95%E0%AE%9A%E0%AF%8D%20%E0%AE%9A%E0%AF%86%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%87%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "CPP-0007",
+"id": "TB-000074",
 "category": "CPP",
 "category_name": "Copper Plates & Charters",
 "category_name_ta": "செப்பேடுகள், பட்டயங்கள்",
@@ -2675,16 +2895,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-26133-%E0%AE%A4%E0%AF%8A%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AF%88%E0%AE%AE%E0%AE%BE%E0%AE%A9%E0%AF%8D%20%E0%AE%9A%E0%AF%86%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%87%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D-1.%20%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%88,%202.%20%E0%AE%85%E0%AE%B1%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BE%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BF%20%E0%AE%85%E0%AE%B0%E0%AE%9A%E0%AF%81",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-26133-%E0%AE%A4%E0%AF%8A%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AF%88%E0%AE%AE%E0%AE%BE%E0%AE%A9%E0%AF%8D%20%E0%AE%9A%E0%AF%86%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%87%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D-1.%20%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%88,%202.%20%E0%AE%85%E0%AE%B1%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BE%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BF%20%E0%AE%85%E0%AE%B0%E0%AE%9A%E0%AF%81",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TBR-0001",
+"id": "TB-000075",
 "category": "TBR",
 "category_name": "Tamil-Brahmi, Vatteluttu & Early Writing",
 "category_name_ta": "தமிழ்-பிராமி, வட்டெழுத்து",
@@ -2710,16 +2933,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TBR-0002",
+"id": "TB-000076",
 "category": "TBR",
 "category_name": "Tamil-Brahmi, Vatteluttu & Early Writing",
 "category_name_ta": "தமிழ்-பிராமி, வட்டெழுத்து",
@@ -2745,16 +2971,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TBR-0003",
+"id": "TB-000077",
 "category": "TBR",
 "category_name": "Tamil-Brahmi, Vatteluttu & Early Writing",
 "category_name_ta": "தமிழ்-பிராமி, வட்டெழுத்து",
@@ -2780,16 +3009,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TBR-0004",
+"id": "TB-000078",
 "category": "TBR",
 "category_name": "Tamil-Brahmi, Vatteluttu & Early Writing",
 "category_name_ta": "தமிழ்-பிராமி, வட்டெழுத்து",
@@ -2815,16 +3047,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://iberlibro.com/9780674012271/Early-Tamil-Epigraphy-Earlist-Times-0674012275/plp",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TBR-0005",
+"id": "TB-000079",
 "category": "TBR",
 "category_name": "Tamil-Brahmi, Vatteluttu & Early Writing",
 "category_name_ta": "தமிழ்-பிராமி, வட்டெழுத்து",
@@ -2850,16 +3085,19 @@
 "access": "open",
 "read_url": "https://library.cict.in/uploads/files/books/30.pdf",
 "download_url": "https://library.cict.in/uploads/files/books/30.pdf",
+"buy_url": "",
 "source_url": "https://library.cict.in/uploads/files/books/30.pdf",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TBR-0006",
+"id": "TB-000080",
 "category": "TBR",
 "category_name": "Tamil-Brahmi, Vatteluttu & Early Writing",
 "category_name_ta": "தமிழ்-பிராமி, வட்டெழுத்து",
@@ -2885,16 +3123,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/assets/docs/uploads/catalogue_article_file/BOK/upload/2026/03/TVA_TVA_BOK_062969/upload_primary_20260302113351638_20260302111421.pdf",
 "download_url": "https://tamildigitallibrary.in/assets/docs/uploads/catalogue_article_file/BOK/upload/2026/03/TVA_TVA_BOK_062969/upload_primary_20260302113351638_20260302111421.pdf",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/assets/docs/uploads/catalogue_article_file/BOK/upload/2026/03/TVA_TVA_BOK_062969/upload_primary_20260302113351638_20260302111421.pdf",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TBR-0007",
+"id": "TB-000081",
 "category": "TBR",
 "category_name": "Tamil-Brahmi, Vatteluttu & Early Writing",
 "category_name_ta": "தமிழ்-பிராமி, வட்டெழுத்து",
@@ -2920,16 +3161,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Marc-Articles/062968_Inscribed_Potsherds_of_Tamil_Nadu_Vol_2",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TBR-0008",
+"id": "TB-000082",
 "category": "TBR",
 "category_name": "Tamil-Brahmi, Vatteluttu & Early Writing",
 "category_name_ta": "தமிழ்-பிராமி, வட்டெழுத்து",
@@ -2955,16 +3199,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://bagchee.com/books/BB103654/early-writing-system-a-journey-from-graffiti-to-brahmi",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TBR-0009",
+"id": "TB-000083",
 "category": "TBR",
 "category_name": "Tamil-Brahmi, Vatteluttu & Early Writing",
 "category_name_ta": "தமிழ்-பிராமி, வட்டெழுத்து",
@@ -2990,16 +3237,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://www.harappa.com/content/indus-signs-and-graffiti-marks-tamil-nadu",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "TBR-0010",
+"id": "TB-000084",
 "category": "TBR",
 "category_name": "Tamil-Brahmi, Vatteluttu & Early Writing",
 "category_name_ta": "தமிழ்-பிராமி, வட்டெழுத்து",
@@ -3025,16 +3275,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10718-%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D-%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%BE%E0%AE%AE%E0%AE%BF%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10718-%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D-%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%BE%E0%AE%AE%E0%AE%BF%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HER-0001",
+"id": "TB-000085",
 "category": "HER",
 "category_name": "Hero Stones & Memorial Stones",
 "category_name_ta": "நடுகற்கள்",
@@ -3060,16 +3313,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HER-0002",
+"id": "TB-000086",
 "category": "HER",
 "category_name": "Hero Stones & Memorial Stones",
 "category_name_ta": "நடுகற்கள்",
@@ -3095,16 +3351,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Marc-Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10679-Seminar%20on%20hero%20stones",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HER-0003",
+"id": "TB-000087",
 "category": "HER",
 "category_name": "Hero Stones & Memorial Stones",
 "category_name_ta": "நடுகற்கள்",
@@ -3130,16 +3389,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://en.wikipedia.org/wiki/Natana_Kasinathan",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HER-0004",
+"id": "TB-000088",
 "category": "HER",
 "category_name": "Hero Stones & Memorial Stones",
 "category_name_ta": "நடுகற்கள்",
@@ -3165,16 +3427,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HER-0005",
+"id": "TB-000089",
 "category": "HER",
 "category_name": "Hero Stones & Memorial Stones",
 "category_name_ta": "நடுகற்கள்",
@@ -3200,16 +3465,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://list.indology.info/pipermail/indology/2008-March/031524.html",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HER-0006",
+"id": "TB-000090",
 "category": "HER",
 "category_name": "Hero Stones & Memorial Stones",
 "category_name_ta": "நடுகற்கள்",
@@ -3235,16 +3503,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://irjt.iorpress.org/index.php/irjt/article/view/2057",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HER-0007",
+"id": "TB-000091",
 "category": "HER",
 "category_name": "Hero Stones & Memorial Stones",
 "category_name_ta": "நடுகற்கள்",
@@ -3270,16 +3541,19 @@
 "access": "open",
 "read_url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0010639_collected_papers.pdf",
 "download_url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0010639_collected_papers.pdf",
+"buy_url": "",
 "source_url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0010639_collected_papers.pdf",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HER-0008",
+"id": "TB-000092",
 "category": "HER",
 "category_name": "Hero Stones & Memorial Stones",
 "category_name_ta": "நடுகற்கள்",
@@ -3305,16 +3579,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://shanlaxjournals.in/journals/index.php/tamil/article/view/5339",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HER-0009",
+"id": "TB-000093",
 "category": "HER",
 "category_name": "Hero Stones & Memorial Stones",
 "category_name_ta": "நடுகற்கள்",
@@ -3340,16 +3617,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://coffeewithclio.substack.com/p/the-heroic-hound-of-edathanur",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HER-0010",
+"id": "TB-000094",
 "category": "HER",
 "category_name": "Hero Stones & Memorial Stones",
 "category_name_ta": "நடுகற்கள்",
@@ -3375,16 +3655,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10683-%E0%AE%A8%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B2%E0%AF%8D%20%E0%AE%85%E0%AE%95%E0%AE%B4%E0%AF%8D%E0%AE%B5%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%95%E0%AE%AE%E0%AF%8D-%E0%AE%A4%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AE%BF%20%E0%AE%95%E0%AF%88%E0%AE%AF%E0%AF%87%E0%AE%9F%E0%AF%81",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10683-%E0%AE%A8%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B2%E0%AF%8D%20%E0%AE%85%E0%AE%95%E0%AE%B4%E0%AF%8D%E0%AE%B5%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%95%E0%AE%AE%E0%AF%8D-%E0%AE%A4%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AE%BF%20%E0%AE%95%E0%AF%88%E0%AE%AF%E0%AF%87%E0%AE%9F%E0%AF%81",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ROC-0001",
+"id": "TB-000095",
 "category": "ROC",
 "category_name": "Rock Art & Paintings",
 "category_name_ta": "பாறை ஓவியங்கள்",
@@ -3410,16 +3693,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ROC-0002",
+"id": "TB-000096",
 "category": "ROC",
 "category_name": "Rock Art & Paintings",
 "category_name_ta": "பாறை ஓவியங்கள்",
@@ -3445,16 +3731,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ROC-0003",
+"id": "TB-000097",
 "category": "ROC",
 "category_name": "Rock Art & Paintings",
 "category_name_ta": "பாறை ஓவியங்கள்",
@@ -3480,16 +3769,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ROC-0004",
+"id": "TB-000098",
 "category": "ROC",
 "category_name": "Rock Art & Paintings",
 "category_name_ta": "பாறை ஓவியங்கள்",
@@ -3515,16 +3807,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://ponniyinselvan.in/forum/discussion/comment/41383",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ROC-0005",
+"id": "TB-000099",
 "category": "ROC",
 "category_name": "Rock Art & Paintings",
 "category_name_ta": "பாறை ஓவியங்கள்",
@@ -3550,16 +3845,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/assets/docs/uploads/catalogue_article_file/BOK/upload/2026/02/TVA_TVA_BOK_062967/upload_primary_20260228012646989_20260228011255.pdf",
 "download_url": "https://tamildigitallibrary.in/assets/docs/uploads/catalogue_article_file/BOK/upload/2026/02/TVA_TVA_BOK_062967/upload_primary_20260228012646989_20260228011255.pdf",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/assets/docs/uploads/catalogue_article_file/BOK/upload/2026/02/TVA_TVA_BOK_062967/upload_primary_20260228012646989_20260228011255.pdf",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ROC-0006",
+"id": "TB-000100",
 "category": "ROC",
 "category_name": "Rock Art & Paintings",
 "category_name_ta": "பாறை ஓவியங்கள்",
@@ -3585,16 +3883,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://www.dtnext.in/amp/story/news/tamilnadu/rewriting-history-3000-year-old-madurai-rock-art-reveals-iron-age-secrets-2",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ROC-0007",
+"id": "TB-000101",
 "category": "ROC",
 "category_name": "Rock Art & Paintings",
 "category_name_ta": "பாறை ஓவியங்கள்",
@@ -3620,16 +3921,19 @@
 "access": "open",
 "read_url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0018859_Rock_art_and_Cave_art_sites_in_TamilNadu.pdf",
 "download_url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0018859_Rock_art_and_Cave_art_sites_in_TamilNadu.pdf",
+"buy_url": "",
 "source_url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0018859_Rock_art_and_Cave_art_sites_in_TamilNadu.pdf",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ROC-0008",
+"id": "TB-000102",
 "category": "ROC",
 "category_name": "Rock Art & Paintings",
 "category_name_ta": "பாறை ஓவியங்கள்",
@@ -3655,16 +3959,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://www.outlooktraveller.com/travelnews/story/72072/discovered-rock-art-cluster-in-poosaripatti-in-madurai",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ROC-0009",
+"id": "TB-000103",
 "category": "ROC",
 "category_name": "Rock Art & Paintings",
 "category_name_ta": "பாறை ஓவியங்கள்",
@@ -3690,16 +3997,19 @@
 "access": "open",
 "read_url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0010622_Rock_Art_of_Tamli_Nadu.pdf",
 "download_url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0010622_Rock_Art_of_Tamli_Nadu.pdf",
+"buy_url": "",
 "source_url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0010622_Rock_Art_of_Tamli_Nadu.pdf",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ROC-0010",
+"id": "TB-000104",
 "category": "ROC",
 "category_name": "Rock Art & Paintings",
 "category_name_ta": "பாறை ஓவியங்கள்",
@@ -3725,16 +4035,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Marc-Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-112535-Rock%20Art%20of%20Tamil%20Nadu",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ROC-0011",
+"id": "TB-000105",
 "category": "ROC",
 "category_name": "Rock Art & Paintings",
 "category_name_ta": "பாறை ஓவியங்கள்",
@@ -3760,16 +4073,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamil.wiki/wiki/%E0%AE%95.%E0%AE%A4._%E0%AE%95%E0%AE%BE%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%BE%E0%AE%9C%E0%AE%A9%E0%AF%8D",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EXC-0001",
+"id": "TB-000106",
 "category": "EXC",
 "category_name": "Archaeology: Excavation Reports & Sites",
 "category_name_ta": "அகழாய்வு அறிக்கைகள்",
@@ -3795,16 +4111,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EXC-0002",
+"id": "TB-000107",
 "category": "EXC",
 "category_name": "Archaeology: Excavation Reports & Sites",
 "category_name_ta": "அகழாய்வு அறிக்கைகள்",
@@ -3830,16 +4149,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EXC-0003",
+"id": "TB-000108",
 "category": "EXC",
 "category_name": "Archaeology: Excavation Reports & Sites",
 "category_name_ta": "அகழாய்வு அறிக்கைகள்",
@@ -3865,16 +4187,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10669-Vasavasamudram-A%20report%20on%20the%20excavation%20conducted%20by%20the%20tamilnadu%20state%20department%20of%20archaeology",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10669-Vasavasamudram-A%20report%20on%20the%20excavation%20conducted%20by%20the%20tamilnadu%20state%20department%20of%20archaeology",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EXC-0004",
+"id": "TB-000109",
 "category": "EXC",
 "category_name": "Archaeology: Excavation Reports & Sites",
 "category_name_ta": "அகழாய்வு அறிக்கைகள்",
@@ -3900,16 +4225,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EXC-0005",
+"id": "TB-000110",
 "category": "EXC",
 "category_name": "Archaeology: Excavation Reports & Sites",
 "category_name_ta": "அகழாய்வு அறிக்கைகள்",
@@ -3935,16 +4263,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Marc-Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10614-Achievements%20of%20the%20Archaeology%20department-in%20five%20years%20(1989-1993)",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EXC-0006",
+"id": "TB-000111",
 "category": "EXC",
 "category_name": "Archaeology: Excavation Reports & Sites",
 "category_name_ta": "அகழாய்வு அறிக்கைகள்",
@@ -3970,16 +4301,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EXC-0007",
+"id": "TB-000112",
 "category": "EXC",
 "category_name": "Archaeology: Excavation Reports & Sites",
 "category_name_ta": "அகழாய்வு அறிக்கைகள்",
@@ -4005,16 +4339,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EXC-0008",
+"id": "TB-000113",
 "category": "EXC",
 "category_name": "Archaeology: Excavation Reports & Sites",
 "category_name_ta": "அகழாய்வு அறிக்கைகள்",
@@ -4040,16 +4377,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10657-Exacavations%20of%20archaeological%20sites%20in%20Tamilnadu-(1969-1995)",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10657-Exacavations%20of%20archaeological%20sites%20in%20Tamilnadu-(1969-1995)",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EXC-0009",
+"id": "TB-000114",
 "category": "EXC",
 "category_name": "Archaeology: Excavation Reports & Sites",
 "category_name_ta": "அகழாய்வு அறிக்கைகள்",
@@ -4075,16 +4415,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10660-Excavations%20of%20archaeological%20sites%20in%20Tamilnadu%20Modur-(2004-2005)",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10660-Excavations%20of%20archaeological%20sites%20in%20Tamilnadu%20Modur-(2004-2005)",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EXC-0010",
+"id": "TB-000115",
 "category": "EXC",
 "category_name": "Archaeology: Excavation Reports & Sites",
 "category_name_ta": "அகழாய்வு அறிக்கைகள்",
@@ -4110,16 +4453,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EXC-0011",
+"id": "TB-000116",
 "category": "EXC",
 "category_name": "Archaeology: Excavation Reports & Sites",
 "category_name_ta": "அகழாய்வு அறிக்கைகள்",
@@ -4145,16 +4491,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10632-%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%95%20%E0%AE%85%E0%AE%95%E0%AE%B4%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D%20%E0%AE%86%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF-(2004-05)",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10632-%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%95%20%E0%AE%85%E0%AE%95%E0%AE%B4%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D%20%E0%AE%86%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF-(2004-05)",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EXC-0012",
+"id": "TB-000117",
 "category": "EXC",
 "category_name": "Archaeology: Excavation Reports & Sites",
 "category_name_ta": "அகழாய்வு அறிக்கைகள்",
@@ -4180,16 +4529,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EXC-0013",
+"id": "TB-000118",
 "category": "EXC",
 "category_name": "Archaeology: Excavation Reports & Sites",
 "category_name_ta": "அகழாய்வு அறிக்கைகள்",
@@ -4215,16 +4567,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EXC-0014",
+"id": "TB-000119",
 "category": "EXC",
 "category_name": "Archaeology: Excavation Reports & Sites",
 "category_name_ta": "அகழாய்வு அறிக்கைகள்",
@@ -4250,16 +4605,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EXC-0015",
+"id": "TB-000120",
 "category": "EXC",
 "category_name": "Archaeology: Excavation Reports & Sites",
 "category_name_ta": "அகழாய்வு அறிக்கைகள்",
@@ -4285,16 +4643,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://www.goodreads.com/book/show/48658782",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EXC-0016",
+"id": "TB-000121",
 "category": "EXC",
 "category_name": "Archaeology: Excavation Reports & Sites",
 "category_name_ta": "அகழாய்வு அறிக்கைகள்",
@@ -4320,16 +4681,19 @@
 "access": "open",
 "read_url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0065866/TVA_BOK_0065866_Antiquity_of_iron.pdf",
 "download_url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0065866/TVA_BOK_0065866_Antiquity_of_iron.pdf",
+"buy_url": "",
 "source_url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0065866/TVA_BOK_0065866_Antiquity_of_iron.pdf",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EXC-0017",
+"id": "TB-000122",
 "category": "EXC",
 "category_name": "Archaeology: Excavation Reports & Sites",
 "category_name_ta": "அகழாய்வு அறிக்கைகள்",
@@ -4355,16 +4719,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://www.theweek.in/wire-updates/national/2025/12/14/lst1-book-keeladi.html",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EXC-0018",
+"id": "TB-000123",
 "category": "EXC",
 "category_name": "Archaeology: Excavation Reports & Sites",
 "category_name_ta": "அகழாய்வு அறிக்கைகள்",
@@ -4390,16 +4757,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/62719_Archaeological_excavations_in_Tamil_Nadu",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/62719_Archaeological_excavations_in_Tamil_Nadu",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EXC-0019",
+"id": "TB-000124",
 "category": "EXC",
 "category_name": "Archaeology: Excavation Reports & Sites",
 "category_name_ta": "அகழாய்வு அறிக்கைகள்",
@@ -4425,16 +4795,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10625-Archaeological%20excavations%20of%20Tamilnadu-Vol%20I",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10625-Archaeological%20excavations%20of%20Tamilnadu-Vol%20I",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EXC-0020",
+"id": "TB-000125",
 "category": "EXC",
 "category_name": "Archaeology: Excavation Reports & Sites",
 "category_name_ta": "அகழாய்வு அறிக்கைகள்",
@@ -4460,16 +4833,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Marc-Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10636-Excavation%20of%20archaeolgical%20sites%20in%20Tamilnadu%20parikulam",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EXC-0021",
+"id": "TB-000126",
 "category": "EXC",
 "category_name": "Archaeology: Excavation Reports & Sites",
 "category_name_ta": "அகழாய்வு அறிக்கைகள்",
@@ -4495,16 +4871,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Marc-Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-11200-Excavations%20of%20archaeological%20sites%20in%20Tamilnadu-(1969-1995)",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "EXC-0022",
+"id": "TB-000127",
 "category": "EXC",
 "category_name": "Archaeology: Excavation Reports & Sites",
 "category_name_ta": "அகழாய்வு அறிக்கைகள்",
@@ -4530,16 +4909,19 @@
 "access": "open",
 "read_url": "https://www.tamildigitallibrary.in/book-detail?id=jZY9lup2kZl6TuXGlZQdjZt8k0h2&tag=%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%95+%E0%AE%85%E0%AE%95%E0%AE%B4%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://www.tamildigitallibrary.in/book-detail?id=jZY9lup2kZl6TuXGlZQdjZt8k0h2&tag=%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%95+%E0%AE%85%E0%AE%95%E0%AE%B4%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "PRE-0001",
+"id": "TB-000128",
 "category": "PRE",
 "category_name": "Archaeology: Prehistory & Megaliths",
 "category_name_ta": "தொல்பழங்காலம், பெருங்கற்காலம்",
@@ -4565,16 +4947,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "PRE-0002",
+"id": "TB-000129",
 "category": "PRE",
 "category_name": "Archaeology: Prehistory & Megaliths",
 "category_name_ta": "தொல்பழங்காலம், பெருங்கற்காலம்",
@@ -4600,16 +4985,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "PRE-0003",
+"id": "TB-000130",
 "category": "PRE",
 "category_name": "Archaeology: Prehistory & Megaliths",
 "category_name_ta": "தொல்பழங்காலம், பெருங்கற்காலம்",
@@ -4635,16 +5023,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "PRE-0004",
+"id": "TB-000131",
 "category": "PRE",
 "category_name": "Archaeology: Prehistory & Megaliths",
 "category_name_ta": "தொல்பழங்காலம், பெருங்கற்காலம்",
@@ -4670,16 +5061,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "PRE-0005",
+"id": "TB-000132",
 "category": "PRE",
 "category_name": "Archaeology: Prehistory & Megaliths",
 "category_name_ta": "தொல்பழங்காலம், பெருங்கற்காலம்",
@@ -4705,16 +5099,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "PRE-0006",
+"id": "TB-000133",
 "category": "PRE",
 "category_name": "Archaeology: Prehistory & Megaliths",
 "category_name_ta": "தொல்பழங்காலம், பெருங்கற்காலம்",
@@ -4740,16 +5137,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "PRE-0007",
+"id": "TB-000134",
 "category": "PRE",
 "category_name": "Archaeology: Prehistory & Megaliths",
 "category_name_ta": "தொல்பழங்காலம், பெருங்கற்காலம்",
@@ -4775,16 +5175,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "PRE-0008",
+"id": "TB-000135",
 "category": "PRE",
 "category_name": "Archaeology: Prehistory & Megaliths",
 "category_name_ta": "தொல்பழங்காலம், பெருங்கற்காலம்",
@@ -4810,16 +5213,19 @@
 "access": "open",
 "read_url": "https://archive.org/details/tdl.30065-stories-in-stone-the-prehistory-of-tamil-nadu-iwa-endowment-lecture-6",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://archive.org/details/tdl.30065-stories-in-stone-the-prehistory-of-tamil-nadu-iwa-endowment-lecture-6",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "PRE-0009",
+"id": "TB-000136",
 "category": "PRE",
 "category_name": "Archaeology: Prehistory & Megaliths",
 "category_name_ta": "தொல்பழங்காலம், பெருங்கற்காலம்",
@@ -4845,16 +5251,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/book-details/TVRBM01URT1BdG9aYXRvejB0bzk-/TkE9PUF0b1phdG96MHRvOQ--/TWpBPUF0b1phdG96MHRvOQ--",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/book-details/TVRBM01URT1BdG9aYXRvejB0bzk-/TkE9PUF0b1phdG96MHRvOQ--/TWpBPUF0b1phdG96MHRvOQ--",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ARC-0001",
+"id": "TB-000137",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
 "category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
@@ -4880,16 +5289,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ARC-0002",
+"id": "TB-000138",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
 "category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
@@ -4915,16 +5327,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ARC-0003",
+"id": "TB-000139",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
 "category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
@@ -4950,16 +5365,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ARC-0004",
+"id": "TB-000140",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
 "category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
@@ -4985,16 +5403,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ARC-0005",
+"id": "TB-000141",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
 "category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
@@ -5020,16 +5441,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ARC-0006",
+"id": "TB-000142",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
 "category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
@@ -5055,16 +5479,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ARC-0007",
+"id": "TB-000143",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
 "category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
@@ -5090,16 +5517,19 @@
 "access": "open",
 "read_url": "https://archive.org/details/tdl.17904-heritage-of-the-tamils-art-and-architecture",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://archive.org/details/tdl.17904-heritage-of-the-tamils-art-and-architecture",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ARC-0008",
+"id": "TB-000144",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
 "category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
@@ -5125,16 +5555,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ARC-0009",
+"id": "TB-000145",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
 "category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
@@ -5160,16 +5593,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ARC-0010",
+"id": "TB-000146",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
 "category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
@@ -5195,16 +5631,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ARC-0011",
+"id": "TB-000147",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
 "category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
@@ -5230,16 +5669,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ARC-0012",
+"id": "TB-000148",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
 "category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
@@ -5265,16 +5707,19 @@
 "access": "open",
 "read_url": "https://archive.org/details/tdl.65815-archaeology-policy-note-2024-2025-demand-no-29",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://archive.org/details/tdl.65815-archaeology-policy-note-2024-2025-demand-no-29",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ARC-0013",
+"id": "TB-000149",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
 "category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
@@ -5300,16 +5745,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://compass.rauias.com/current-affairs/cm-stalin-releases-books-folk-deities-forts-tamil-nadu/",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ARC-0014",
+"id": "TB-000150",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
 "category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
@@ -5335,16 +5783,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://compass.rauias.com/current-affairs/cm-stalin-releases-books-folk-deities-forts-tamil-nadu/",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ARC-0015",
+"id": "TB-000151",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
 "category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
@@ -5370,16 +5821,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://www.etvbharat.com/en/state/tamil-nadu-to-document-archaeological-monuments-at-village-level-minister-enn26021204005",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ARC-0016",
+"id": "TB-000152",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
 "category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
@@ -5405,16 +5859,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-19041-%E0%AE%A4%E0%AF%8A%E0%AE%B2%E0%AF%8D%E0%AE%B2%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D%20%E0%AE%86%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-19041-%E0%AE%A4%E0%AF%8A%E0%AE%B2%E0%AF%8D%E0%AE%B2%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D%20%E0%AE%86%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ARC-0017",
+"id": "TB-000153",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
 "category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
@@ -5440,16 +5897,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10865-%E0%AE%AA%E0%AF%82%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%95%E0%AE%BE%E0%AE%B0%E0%AF%8D%20%E0%AE%86%E0%AE%B4%E0%AF%8D%E0%AE%95%E0%AE%9F%E0%AE%B2%E0%AF%8D%20%E0%AE%85%E0%AE%95%E0%AE%B4%E0%AF%8D%E0%AE%B5%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%95%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AF%88%E0%AE%AF%E0%AF%87%E0%AE%9F%E0%AF%81",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10865-%E0%AE%AA%E0%AF%82%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%95%E0%AE%BE%E0%AE%B0%E0%AF%8D%20%E0%AE%86%E0%AE%B4%E0%AF%8D%E0%AE%95%E0%AE%9F%E0%AE%B2%E0%AF%8D%20%E0%AE%85%E0%AE%95%E0%AE%B4%E0%AF%8D%E0%AE%B5%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%95%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AF%88%E0%AE%AF%E0%AF%87%E0%AE%9F%E0%AF%81",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HIS-0001",
+"id": "TB-000154",
 "category": "HIS",
 "category_name": "History from Inscriptions",
 "category_name_ta": "கல்வெட்டு வழி வரலாறு",
@@ -5475,16 +5935,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HIS-0002",
+"id": "TB-000155",
 "category": "HIS",
 "category_name": "History from Inscriptions",
 "category_name_ta": "கல்வெட்டு வழி வரலாறு",
@@ -5510,16 +5973,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HIS-0003",
+"id": "TB-000156",
 "category": "HIS",
 "category_name": "History from Inscriptions",
 "category_name_ta": "கல்வெட்டு வழி வரலாறு",
@@ -5545,16 +6011,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HIS-0004",
+"id": "TB-000157",
 "category": "HIS",
 "category_name": "History from Inscriptions",
 "category_name_ta": "கல்வெட்டு வழி வரலாறு",
@@ -5580,16 +6049,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HIS-0005",
+"id": "TB-000158",
 "category": "HIS",
 "category_name": "History from Inscriptions",
 "category_name_ta": "கல்வெட்டு வழி வரலாறு",
@@ -5615,16 +6087,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HIS-0006",
+"id": "TB-000159",
 "category": "HIS",
 "category_name": "History from Inscriptions",
 "category_name_ta": "கல்வெட்டு வழி வரலாறு",
@@ -5650,16 +6125,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HIS-0007",
+"id": "TB-000160",
 "category": "HIS",
 "category_name": "History from Inscriptions",
 "category_name_ta": "கல்வெட்டு வழி வரலாறு",
@@ -5685,16 +6163,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HIS-0008",
+"id": "TB-000161",
 "category": "HIS",
 "category_name": "History from Inscriptions",
 "category_name_ta": "கல்வெட்டு வழி வரலாறு",
@@ -5720,16 +6201,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HIS-0009",
+"id": "TB-000162",
 "category": "HIS",
 "category_name": "History from Inscriptions",
 "category_name_ta": "கல்வெட்டு வழி வரலாறு",
@@ -5755,16 +6239,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HIS-0010",
+"id": "TB-000163",
 "category": "HIS",
 "category_name": "History from Inscriptions",
 "category_name_ta": "கல்வெட்டு வழி வரலாறு",
@@ -5790,16 +6277,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HIS-0011",
+"id": "TB-000164",
 "category": "HIS",
 "category_name": "History from Inscriptions",
 "category_name_ta": "கல்வெட்டு வழி வரலாறு",
@@ -5825,16 +6315,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HIS-0012",
+"id": "TB-000165",
 "category": "HIS",
 "category_name": "History from Inscriptions",
 "category_name_ta": "கல்வெட்டு வழி வரலாறு",
@@ -5860,16 +6353,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HIS-0013",
+"id": "TB-000166",
 "category": "HIS",
 "category_name": "History from Inscriptions",
 "category_name_ta": "கல்வெட்டு வழி வரலாறு",
@@ -5895,16 +6391,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HIS-0014",
+"id": "TB-000167",
 "category": "HIS",
 "category_name": "History from Inscriptions",
 "category_name_ta": "கல்வெட்டு வழி வரலாறு",
@@ -5930,16 +6429,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HIS-0015",
+"id": "TB-000168",
 "category": "HIS",
 "category_name": "History from Inscriptions",
 "category_name_ta": "கல்வெட்டு வழி வரலாறு",
@@ -5965,16 +6467,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HIS-0016",
+"id": "TB-000169",
 "category": "HIS",
 "category_name": "History from Inscriptions",
 "category_name_ta": "கல்வெட்டு வழி வரலாறு",
@@ -6000,16 +6505,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HIS-0017",
+"id": "TB-000170",
 "category": "HIS",
 "category_name": "History from Inscriptions",
 "category_name_ta": "கல்வெட்டு வழி வரலாறு",
@@ -6035,16 +6543,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HIS-0018",
+"id": "TB-000171",
 "category": "HIS",
 "category_name": "History from Inscriptions",
 "category_name_ta": "கல்வெட்டு வழி வரலாறு",
@@ -6070,16 +6581,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HIS-0019",
+"id": "TB-000172",
 "category": "HIS",
 "category_name": "History from Inscriptions",
 "category_name_ta": "கல்வெட்டு வழி வரலாறு",
@@ -6105,16 +6619,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HIS-0020",
+"id": "TB-000173",
 "category": "HIS",
 "category_name": "History from Inscriptions",
 "category_name_ta": "கல்வெட்டு வழி வரலாறு",
@@ -6140,16 +6657,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HIS-0021",
+"id": "TB-000174",
 "category": "HIS",
 "category_name": "History from Inscriptions",
 "category_name_ta": "கல்வெட்டு வழி வரலாறு",
@@ -6175,16 +6695,19 @@
 "access": "open",
 "read_url": "https://archive.org/details/inscriptions-of-the-early-pandyas-k-g-krishnan-2002",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://archive.org/details/inscriptions-of-the-early-pandyas-k-g-krishnan-2002",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HIS-0022",
+"id": "TB-000175",
 "category": "HIS",
 "category_name": "History from Inscriptions",
 "category_name_ta": "கல்வெட்டு வழி வரலாறு",
@@ -6210,16 +6733,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HIS-0023",
+"id": "TB-000176",
 "category": "HIS",
 "category_name": "History from Inscriptions",
 "category_name_ta": "கல்வெட்டு வழி வரலாறு",
@@ -6245,16 +6771,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "HIS-0024",
+"id": "TB-000177",
 "category": "HIS",
 "category_name": "History from Inscriptions",
 "category_name_ta": "கல்வெட்டு வழி வரலாறு",
@@ -6280,16 +6809,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "NUM-0001",
+"id": "TB-000178",
 "category": "NUM",
 "category_name": "Numismatics (Coins)",
 "category_name_ta": "நாணயவியல்",
@@ -6315,16 +6847,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "NUM-0002",
+"id": "TB-000179",
 "category": "NUM",
 "category_name": "Numismatics (Coins)",
 "category_name_ta": "நாணயவியல்",
@@ -6350,16 +6885,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "NUM-0003",
+"id": "TB-000180",
 "category": "NUM",
 "category_name": "Numismatics (Coins)",
 "category_name_ta": "நாணயவியல்",
@@ -6385,16 +6923,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "NUM-0004",
+"id": "TB-000181",
 "category": "NUM",
 "category_name": "Numismatics (Coins)",
 "category_name_ta": "நாணயவியல்",
@@ -6420,16 +6961,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "REF-0001",
+"id": "TB-000182",
 "category": "REF",
 "category_name": "Reference: Catalogues, Lists & Glossaries",
 "category_name_ta": "பட்டியல்கள், சொல்லகராதிகள்",
@@ -6455,16 +6999,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "REF-0002",
+"id": "TB-000183",
 "category": "REF",
 "category_name": "Reference: Catalogues, Lists & Glossaries",
 "category_name_ta": "பட்டியல்கள், சொல்லகராதிகள்",
@@ -6490,16 +7037,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "REF-0003",
+"id": "TB-000184",
 "category": "REF",
 "category_name": "Reference: Catalogues, Lists & Glossaries",
 "category_name_ta": "பட்டியல்கள், சொல்லகராதிகள்",
@@ -6525,16 +7075,19 @@
 "access": "open",
 "read_url": "https://archive.org/details/topographicallis03rangiala",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://archive.org/details/topographicallis03rangiala",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "REF-0004",
+"id": "TB-000185",
 "category": "REF",
 "category_name": "Reference: Catalogues, Lists & Glossaries",
 "category_name_ta": "பட்டியல்கள், சொல்லகராதிகள்",
@@ -6560,16 +7113,19 @@
 "access": "open",
 "read_url": "https://archive.org/details/tdl.11159-topographical-list-of-south-indian-inscriptions-from-1973-to-1994",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://archive.org/details/tdl.11159-topographical-list-of-south-indian-inscriptions-from-1973-to-1994",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "REF-0005",
+"id": "TB-000186",
 "category": "REF",
 "category_name": "Reference: Catalogues, Lists & Glossaries",
 "category_name_ta": "பட்டியல்கள், சொல்லகராதிகள்",
@@ -6595,16 +7151,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-22897-A%20Topographical%20list%20of%20Inscriptions%20in%20the%20Tamil%20Nadu%20and%20Kerala%20States-Chingleput%20District",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-22897-A%20Topographical%20list%20of%20Inscriptions%20in%20the%20Tamil%20Nadu%20and%20Kerala%20States-Chingleput%20District",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "REF-0006",
+"id": "TB-000187",
 "category": "REF",
 "category_name": "Reference: Catalogues, Lists & Glossaries",
 "category_name_ta": "பட்டியல்கள், சொல்லகராதிகள்",
@@ -6630,16 +7189,19 @@
 "access": "open",
 "read_url": "https://archive.org/details/glossary-of-tamil-inscriptions",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://archive.org/details/glossary-of-tamil-inscriptions",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "JOU-0001",
+"id": "TB-000188",
 "category": "JOU",
 "category_name": "Journals & Periodicals",
 "category_name_ta": "இதழ்கள்",
@@ -6665,16 +7227,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "JOU-0002",
+"id": "TB-000189",
 "category": "JOU",
 "category_name": "Journals & Periodicals",
 "category_name_ta": "இதழ்கள்",
@@ -6700,16 +7265,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "JOU-0003",
+"id": "TB-000190",
 "category": "JOU",
 "category_name": "Journals & Periodicals",
 "category_name_ta": "இதழ்கள்",
@@ -6735,16 +7303,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "JOU-0004",
+"id": "TB-000191",
 "category": "JOU",
 "category_name": "Journals & Periodicals",
 "category_name_ta": "இதழ்கள்",
@@ -6770,16 +7341,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "JOU-0005",
+"id": "TB-000192",
 "category": "JOU",
 "category_name": "Journals & Periodicals",
 "category_name_ta": "இதழ்கள்",
@@ -6805,16 +7379,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "http://www.tnarch.gov.in/printing",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "JOU-0006",
+"id": "TB-000193",
 "category": "JOU",
 "category_name": "Journals & Periodicals",
 "category_name_ta": "இதழ்கள்",
@@ -6840,16 +7417,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "JOU-0007",
+"id": "TB-000194",
 "category": "JOU",
 "category_name": "Journals & Periodicals",
 "category_name_ta": "இதழ்கள்",
@@ -6875,16 +7455,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "JOU-0008",
+"id": "TB-000195",
 "category": "JOU",
 "category_name": "Journals & Periodicals",
 "category_name_ta": "இதழ்கள்",
@@ -6910,16 +7493,19 @@
 "access": "",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ONL-0001",
+"id": "TB-000196",
 "category": "ONL",
 "category_name": "Online Resources & Digital Libraries",
 "category_name_ta": "இணைய வளங்கள்",
@@ -6945,16 +7531,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://www.academia.edu/Documents/in/Tamil_Epigraphy",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ONL-0002",
+"id": "TB-000197",
 "category": "ONL",
 "category_name": "Online Resources & Digital Libraries",
 "category_name_ta": "இணைய வளங்கள்",
@@ -6980,16 +7569,19 @@
 "access": "open",
 "read_url": "https://archive.org/details/south-indian-inscriptions",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://archive.org/details/south-indian-inscriptions",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ONL-0003",
+"id": "TB-000198",
 "category": "ONL",
 "category_name": "Online Resources & Digital Libraries",
 "category_name_ta": "இணைய வளங்கள்",
@@ -7015,16 +7607,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%85%E0%AE%95%E0%AE%B4%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%81-16-%E0%AE%86%E0%AE%A4%E0%AE%BF%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%A8%E0%AE%B2%E0%AF%8D%E0%AE%B2%E0%AF%82%E0%AE%B0%E0%AF%8D",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%85%E0%AE%95%E0%AE%B4%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%81-16-%E0%AE%86%E0%AE%A4%E0%AE%BF%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%A8%E0%AE%B2%E0%AF%8D%E0%AE%B2%E0%AF%82%E0%AE%B0%E0%AF%8D",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ONL-0004",
+"id": "TB-000199",
 "category": "ONL",
 "category_name": "Online Resources & Digital Libraries",
 "category_name_ta": "இணைய வளங்கள்",
@@ -7050,16 +7645,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%85%E0%AE%95%E0%AE%B4%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%81-48-%E0%AE%9A%E0%AF%86%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BF",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%85%E0%AE%95%E0%AE%B4%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%81-48-%E0%AE%9A%E0%AF%86%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BF",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ONL-0005",
+"id": "TB-000200",
 "category": "ONL",
 "category_name": "Online Resources & Digital Libraries",
 "category_name_ta": "இணைய வளங்கள்",
@@ -7085,16 +7683,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%85%E0%AE%95%E0%AE%B4%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%81-14-%E0%AE%95%E0%AF%80%E0%AE%B4%E0%AE%9F%E0%AE%BF",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%85%E0%AE%95%E0%AE%B4%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%81-14-%E0%AE%95%E0%AF%80%E0%AE%B4%E0%AE%9F%E0%AE%BF",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ONL-0006",
+"id": "TB-000201",
 "category": "ONL",
 "category_name": "Online Resources & Digital Libraries",
 "category_name_ta": "இணைய வளங்கள்",
@@ -7120,16 +7721,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%85%E0%AE%95%E0%AE%B4%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%81-41-%E0%AE%AE%E0%AE%BE%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%B3%E0%AE%AE%E0%AF%8D",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%85%E0%AE%95%E0%AE%B4%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%81-41-%E0%AE%AE%E0%AE%BE%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%B3%E0%AE%AE%E0%AF%8D",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ONL-0007",
+"id": "TB-000202",
 "category": "ONL",
 "category_name": "Online Resources & Digital Libraries",
 "category_name_ta": "இணைய வளங்கள்",
@@ -7155,16 +7759,19 @@
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%85%E0%AE%95%E0%AE%B4%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%81-30-%E0%AE%AA%E0%AE%9F%E0%AE%B5%E0%AF%80%E0%AE%9F%E0%AF%81",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://tamildigitallibrary.in/Articles/%E0%AE%85%E0%AE%95%E0%AE%B4%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%81-30-%E0%AE%AA%E0%AE%9F%E0%AE%B5%E0%AF%80%E0%AE%9F%E0%AF%81",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ONL-0008",
+"id": "TB-000203",
 "category": "ONL",
 "category_name": "Online Resources & Digital Libraries",
 "category_name_ta": "இணைய வளங்கள்",
@@ -7190,16 +7797,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "http://thfreferencelibrary.blogspot.com/2019/05/SouthIndianInscriptions.html",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ONL-0009",
+"id": "TB-000204",
 "category": "ONL",
 "category_name": "Online Resources & Digital Libraries",
 "category_name_ta": "இணைய வளங்கள்",
@@ -7225,16 +7835,19 @@
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://www.tnarch.gov.in/archaeology-publication",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
-"id": "ONL-0010",
+"id": "TB-000205",
 "category": "ONL",
 "category_name": "Online Resources & Digital Libraries",
 "category_name_ta": "இணைய வளங்கள்",
@@ -7260,13 +7873,16 @@
 "access": "open",
 "read_url": "https://www.whatisindia.com/inscriptions/",
 "download_url": "",
+"buy_url": "",
 "source_url": "https://www.whatisindia.com/inscriptions/",
 "other_source_urls": [],
 "sources": [
 "Curated"
 ],
 "curated": true,
-"scholar": ""
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 }
 ]
 }

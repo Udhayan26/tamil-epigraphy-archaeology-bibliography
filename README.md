@@ -14,7 +14,25 @@ Each entry has:
 
 🌐 **Website:** https://udhayan26.github.io/tamil-epigraphy-archaeology-bibliography/ (Settings → Pages → `main` / root)
 
-The list is rebuilt automatically every week by `scripts/harvest.py` (GitHub Actions), which searches public library catalogues and open-access book collections by subject keywords (Tamil, romanised and English), by the names of Tamil epigraphists and archaeologists, and by specialist publishers.
+## Automatic updates
+
+- **Every day at 02:47 IST** – quick search of catalogues, open-access collections and your listed sources.
+- **Every Saturday at 01:17 IST** – full deep search (old/colonial catalogue, ~90 scholars by name, all catalogues).
+- Each book keeps a **permanent ID** (`TB-000123`) and the **date it was first added**; duplicates (same title in Tamil script / romanised, or same ISBN) are merged into one entry.
+- New finds of the last 30 days: [`data/new_books.csv`](data/new_books.csv), or on the website choose **Newly added**.
+
+## Add your own sources (Google Drive, blogs, government sites)
+
+Edit [`data/extra_sources.txt`](data/extra_sources.txt) on GitHub and add one link per line (optionally `| label`).
+Public Google Drive folders (with sub-folders), Blogger blogs (all posts) and any page listing books or PDFs are supported.
+They are searched on every daily run.
+
+## Links for each book
+
+- **Read online / Download PDF** – when the book is freely available
+- **Buy** – store link where known, otherwise search links (Panuval and Commonfolks for Tamil books, Amazon.in)
+- **Source record** – the catalogue page the details came from
+
 
 ## What's inside
 

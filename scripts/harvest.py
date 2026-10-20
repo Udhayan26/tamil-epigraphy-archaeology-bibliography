@@ -350,6 +350,9 @@ def harvest_gb():
                                 extra={"isbn": isbn, "pages": s(v.get("pageCount")),
                                        "description": s(v.get("description"))[:600]}))
                 ai = it.get("accessInfo", {}) or {}
+                si = it.get("saleInfo", {}) or {}
+                if si.get("buyLink"):
+                    rows[-1]["buy_url"] = si["buyLink"]
                 if ai.get("viewability") == "ALL_PAGES" or ai.get("publicDomain"):
                     rows[-1].update(access="open", read_url=ai.get("webReaderLink") or rows[-1]["url"],
                                     download_url=(ai.get("pdf") or {}).get("downloadLink", "") or (ai.get("epub") or {}).get("downloadLink", ""))
@@ -745,6 +748,132 @@ def harvest_wi():
     return save("wi", rows)
 
 
+# ---------------------------------------------------------------- user-supplied sources (Drive folders, blogs, govt sites)
+BOOK_EXT = re.compile(r"\.(pdf|djvu|epub|doc|docx)(\?|$)", re.I)
+
+
+def drive_id(url):
+    m = re.search(r"/folders/([\w-]{10,})", url) or re.search(r"[?&]id=([\w-]{10,})", url)
+    return m.group(1) if m else ""
+
+
+def harvest_xs():
+    rows = live("xs")
+    src_file = ROOT / "data" / "extra_sources.txt"
+    if not src_file.exists():
+        return save("xs", rows)
+    entries = []
+    for line in src_file.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        parts = [p.strip() for p in line.split("|")]
+        entries.append((parts[0], parts[1] if len(parts) > 1 else ""))
+    log(f"[xs] {len(entries)} user sources")
+
+    def drive_folder(fid, label, depth=0, path=""):
+        if depth > 4:
+            return
+        try:
+            html = get(f"https://drive.google.com/embeddedfolderview?id={fid}", as_json=False, sleep=0.8)
+        except Exception as e:
+            log("[xs] drive ERR", fid, e)
+            return
+        if depth == 0:
+            (SAMPLES / f"xs_drive_{fid[:8]}.html").write_text(html[:40000], encoding="utf-8")
+        for m in re.finditer(r'<div class="flip-entry" id="entry-([\w-]+)".*?<div class="flip-entry-title">(.*?)</div>', html, flags=re.S):
+            eid, name = m.group(1), re.sub(r"<[^>]+>", "", m.group(2)).strip()
+            block = html[m.start(): m.start() + 1500]
+            if "/folders/" in block or "embeddedfolderview" in block:
+                drive_folder(eid, label, depth + 1, f"{path}/{name}")
+                continue
+            title = re.sub(r"\.(pdf|djvu|epub|docx?|zip|rar)$", "", name, flags=re.I).replace("_", " ").strip()
+            if not title:
+                continue
+            view = f"https://drive.google.com/file/d/{eid}/view"
+            rows.append(rec("Shared drive", eid, title, view, year=title,
+                            extra={"access": "open", "read_url": view,
+                                   "download_url": f"https://drive.google.com/uc?export=download&id={eid}",
+                                   "notes": f"{label} {path}".strip(), "found_by": f"list:{label or 'drive'}"}))
+
+    def page_links(url, label):
+        if not robots_ok(url):
+            log("[xs] robots.txt disallows", url)
+            return
+        try:
+            html = get(url, as_json=False, sleep=1.0)
+        except Exception as e:
+            log("[xs] page ERR", url, e)
+            return
+        page_title = re.sub(r"<[^>]+>|\s+", " ", (re.search(r"<title>(.*?)</title>", html, re.S | re.I) or [None, ""])[1]).strip()
+        n = 0
+        for href, text in re.findall(r'<a[^>]+href="([^"#]+)"[^>]*>(.*?)</a>', html, flags=re.S | re.I):
+            text = re.sub(r"<[^>]+>|\s+", " ", text).strip()
+            u = urllib.parse.urljoin(url, href)
+            is_file = bool(BOOK_EXT.search(u)) or "drive.google.com/file/" in u or "docs.google.com" in u
+            if not text or len(text) < 4:
+                text = urllib.parse.unquote(u.rstrip("/").split("/")[-1])
+            if not (is_file or relevant(text)):
+                continue
+            if "drive.google.com" in u and drive_id(u) and "/folders/" in u:
+                drive_folder(drive_id(u), label or page_title)
+                continue
+            title = re.sub(r"\.(pdf|djvu|epub|docx?)$", "", text, flags=re.I).strip()
+            r = rec("Listed site", u, title, url, year=title,
+                    extra={"notes": (label or page_title)[:120], "found_by": f"list:{label or page_title}"[:120]})
+            if is_file:
+                r.update(access="open", read_url=u, download_url=u if BOOK_EXT.search(u) else "")
+            rows.append(r)
+            n += 1
+        log(f"[xs] {url}: {n} links")
+
+    for url, label in entries:
+        try:
+            if "drive.google.com" in url and drive_id(url):
+                if "/file/d/" in url:
+                    fid = re.search(r"/file/d/([\w-]+)", url).group(1)
+                    rows.append(rec("Shared drive", fid, label or fid, url, extra={"access": "open", "read_url": url,
+                                    "download_url": f"https://drive.google.com/uc?export=download&id={fid}", "found_by": "list:drive"}))
+                else:
+                    drive_folder(drive_id(url), label)
+            elif ".blogspot." in url or "blogger.com" in url:
+                base = re.match(r"(https?://[^/]+)", url).group(1)
+                start = 1
+                while start < 5000:
+                    try:
+                        j = get(f"{base}/feeds/posts/default?alt=json&max-results=150&start-index={start}", sleep=1.0)
+                    except Exception as e:
+                        log("[xs] blogger feed ERR", base, e)
+                        break
+                    entries_ = j.get("feed", {}).get("entry", []) or []
+                    for e in entries_:
+                        post_url = next((l["href"] for l in e.get("link", []) if l.get("rel") == "alternate"), base)
+                        body = e.get("content", {}).get("$t", "") or e.get("summary", {}).get("$t", "")
+                        for href, text in re.findall(r'<a[^>]+href="([^"#]+)"[^>]*>(.*?)</a>', body, flags=re.S | re.I):
+                            text = re.sub(r"<[^>]+>|\s+", " ", text).strip()
+                            is_file = bool(BOOK_EXT.search(href)) or "drive.google.com" in href
+                            if "/folders/" in href and drive_id(href):
+                                drive_folder(drive_id(href), label or base)
+                                continue
+                            if is_file or relevant(text):
+                                ptitle = e.get("title", {}).get("$t", "")
+                                t = text if len(text) > 5 and not re.match(r"(?i)(download|click here|pdf|link)$", text) else ptitle
+                                r = rec("Listed site", href, t, post_url, year=t,
+                                        extra={"notes": ptitle[:120], "found_by": f"list:{label or base}"[:120]})
+                                if is_file:
+                                    r.update(access="open", read_url=href, download_url=href if BOOK_EXT.search(href) else "")
+                                rows.append(r)
+                    if len(entries_) < 150:
+                        break
+                    start += 150
+                log(f"[xs] blog {base}: total {len(rows)}")
+            else:
+                page_links(url, label)
+        except Exception as e:
+            log("[xs] ERR", url, e)
+    return save("xs", rows)
+
+
 # ---------------------------------------------------------------- authors & publishers
 # (search names, tokens that must appear in the record's author field)
 AUTHORS = [
@@ -935,6 +1064,9 @@ def harvest_au():
                         subjects=v.get("categories"))
                     rows[-1]["isbn"] = ";".join(x.get("identifier", "") for x in v.get("industryIdentifiers", []) or [])
                     ai = it.get("accessInfo", {}) or {}
+                    si = it.get("saleInfo", {}) or {}
+                    if si.get("buyLink"):
+                        rows[-1]["buy_url"] = si["buyLink"]
                     if ai.get("viewability") == "ALL_PAGES" or ai.get("publicDomain"):
                         rows[-1].update(access="open", read_url=ai.get("webReaderLink") or rows[-1]["url"],
                                         download_url=(ai.get("pdf") or {}).get("downloadLink", ""))
@@ -967,7 +1099,7 @@ def harvest_au():
     return save("au", rows)
 
 
-SOURCES = {"ia": harvest_ia, "ol": harvest_ol, "gb": harvest_gb, "loc": harvest_loc, "nl": harvest_nl, "au": harvest_au, "oa": harvest_oa, "doab": harvest_doab, "ws": harvest_ws, "ht": harvest_ht, "cm": harvest_cm, "wi": harvest_wi}
+SOURCES = {"ia": harvest_ia, "ol": harvest_ol, "gb": harvest_gb, "loc": harvest_loc, "nl": harvest_nl, "au": harvest_au, "oa": harvest_oa, "doab": harvest_doab, "ws": harvest_ws, "ht": harvest_ht, "cm": harvest_cm, "wi": harvest_wi, "xs": harvest_xs}
 
 
 class Deadline(Exception):

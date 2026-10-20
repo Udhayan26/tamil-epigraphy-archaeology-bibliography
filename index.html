@@ -74,9 +74,9 @@ button.theme{margin-left:auto;font:inherit;font-size:13px;background:none;border
       <input type="search" id="q" placeholder="Search title, author, publisher, place… / நூல், ஆசிரியர், பதிப்பகம் தேடுக" aria-label="Search">
       <select id="lang" aria-label="Language"><option value="">All languages</option><option>Tamil</option><option>English</option><option>Tamil-English</option></select>
       <select id="period" aria-label="Period"></select>
-      <select id="acc" aria-label="Access"><option value="">All access</option><option value="open">Free to read / download</option><option value="dl">Direct PDF download</option><option value="preview">Preview only</option><option value="borrow">Borrow only</option><option value="catalogue">Catalogue record only</option></select>
-      <select id="has" aria-label="Metadata"><option value="">All records</option><option value="a">With author</option><option value="p">With publisher</option><option value="ap">With author + publisher</option><option value="sch">Books by Tamil scholars (author search)</option><option value="cur">Hand-checked core list</option><option value="book">Books only (no journal issues)</option></select>
-      <select id="sort" aria-label="Sort"><option value="year">Year ↑</option><option value="yeard">Year ↓</option><option value="title">Title</option><option value="author">Author</option></select>
+      <select id="acc" aria-label="Access"><option value="">All access</option><option value="open">Free to read / download</option><option value="dl">Direct PDF download</option><option value="preview">Preview only</option><option value="borrow">Borrow only</option><option value="catalogue">Catalogue record only</option><option value="buy">Not online — buy</option></select>
+      <select id="has" aria-label="Metadata"><option value="">All records</option><option value="a">With author</option><option value="p">With publisher</option><option value="ap">With author + publisher</option><option value="new7">Newly added — last 7 days</option><option value="new30">Newly added — last 30 days</option><option value="sch">Books by Tamil scholars (author search)</option><option value="list">From your listed Drive / blog / sites</option><option value="cur">Hand-checked core list</option><option value="book">Books only (no journal issues)</option></select>
+      <select id="sort" aria-label="Sort"><option value="year">Year ↑</option><option value="yeard">Year ↓</option><option value="title">Title</option><option value="author">Author</option><option value="added">Recently added</option></select>
       <button class="theme" id="theme" type="button">◐ Theme</button>
     </div>
     <div class="cats" id="cats" role="toolbar" aria-label="Categories"></div>
@@ -100,6 +100,7 @@ button.theme{margin-left:auto;font:inherit;font-size:13px;background:none;border
   const D = window.BIB, R = D.records, C = D.categories;
   const $ = id => document.getElementById(id);
   const PAGE = 60;
+  const daysAgo = n => new Date(Date.now()-n*864e5).toISOString().slice(0,10);
   const state = {cat:"", q:"", lang:"", period:"", acc:"", has:"", sort:"year", shown:PAGE};
   const esc = s => String(s||"").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
   const yr = r => { const m = /^(\d{4})/.exec(r.year||""); return m ? +m[1] : null; };
@@ -109,8 +110,8 @@ button.theme{margin-left:auto;font:inherit;font-size:13px;background:none;border
   const years = R.map(yr).filter(Boolean);
   $("stats").innerHTML = [
     [R.length.toLocaleString(), "books & volumes"], [D.with_author.toLocaleString(), "with author"],
-    [D.with_publisher.toLocaleString(), "with publisher"], [D.open_access.toLocaleString(), "free to read"],
-    [Math.min(...years)+"–"+Math.max(...years), "years covered"]
+    [D.with_publisher.toLocaleString(), "with publisher"], [D.open_access.toLocaleString(), "free to read"], [R.filter(r=>r.added>=daysAgo(7)&&!r.curated).length.toLocaleString(), "added this week"],
+    [years.length?Math.min(...years)+"–"+Math.max(...years):"", "years covered"]
   ].map(([b,s]) => `<div class="stat"><b>${b}</b><span>${s}</span></div>`).join("");
 
   const periods = [...new Set(R.map(r=>r.period))].sort();
@@ -133,11 +134,12 @@ button.theme{margin-left:auto;font:inherit;font-size:13px;background:none;border
       (!state.cat || r.category===state.cat) &&
       (!state.lang || r.language===state.lang) &&
       (!state.period || r.period===state.period) &&
-      (!state.acc || (state.acc==="dl" ? r.download_url : state.acc==="open" ? (r.access==="open"||r.access==="open-us") : r.access===state.acc)) &&
-      (!state.has || (state.has==="a" ? r.authors : state.has==="p" ? r.publisher : state.has==="ap" ? (r.authors && r.publisher) : state.has==="cur" ? r.curated : state.has==="sch" ? r.scholar : r.category!=="JOU")) &&
+      (!state.acc || (state.acc==="buy" ? !(r.access==="open"||r.access==="open-us") : state.acc==="dl" ? r.download_url : state.acc==="open" ? (r.access==="open"||r.access==="open-us") : r.access===state.acc)) &&
+      (!state.has || (state.has==="a" ? r.authors : state.has==="p" ? r.publisher : state.has==="ap" ? (r.authors && r.publisher) : state.has==="cur" ? r.curated : state.has==="sch" ? r.scholar : state.has==="new7" ? r.added>=daysAgo(7) : state.has==="new30" ? r.added>=daysAgo(30) : state.has==="list" ? r.from_list : r.category!=="JOU")) &&
       terms.every(t => r._s.includes(t)));
     const big = 99999;
     if (state.sort==="title") rs.sort((a,b)=>a.title.localeCompare(b.title));
+    else if (state.sort==="added") rs.sort((a,b)=>(b.added||"").localeCompare(a.added||"") || b.id.localeCompare(a.id));
     else if (state.sort==="author") rs.sort((a,b)=>(a.authors||"~").localeCompare(b.authors||"~"));
     else rs.sort((a,b)=> state.sort==="year" ? (yr(a)??big)-(yr(b)??big) : (yr(b)??-1)-(yr(a)??-1));
     return rs;
@@ -152,6 +154,14 @@ button.theme{margin-left:auto;font:inherit;font-size:13px;background:none;border
     if (r.access==="preview" && r.read_url) acts.push(`<a href="${esc(r.read_url)}" target="_blank" rel="noopener">Preview</a>`);
     if (r.source_url) acts.push(`<a href="${esc(r.source_url)}" target="_blank" rel="noopener">Source record</a>`);
     (r.other_source_urls||[]).slice(0,3).forEach((u,i)=>acts.push(`<a href="${esc(u)}" target="_blank" rel="noopener">Record ${i+2}</a>`));
+    const isOpen = (r.access==="open"||r.access==="open-us") && (r.read_url||r.download_url);
+    if (r.buy_url) acts.push(`<a href="${esc(r.buy_url)}" target="_blank" rel="noopener">🛒 Buy</a>`);
+    if (!isOpen) {
+      const bq = encodeURIComponent(((en||r.title).slice(0,100)+" "+(r.authors||"").split(/[;,]/)[0]).trim());
+      if (ta) acts.push(`<a href="https://www.panuval.com/index.php?route=product/search&search=${encodeURIComponent(ta.slice(0,80))}" target="_blank" rel="noopener">Buy: Panuval</a>`,
+                         `<a href="https://www.commonfolks.in/search?q=${encodeURIComponent(ta.slice(0,80))}" target="_blank" rel="noopener">Buy: Commonfolks</a>`);
+      acts.push(`<a href="https://www.amazon.in/s?k=${bq}" target="_blank" rel="noopener">Buy: Amazon.in</a>`);
+    }
     acts.push(`<a href="https://www.worldcat.org/search?q=${qs}" target="_blank" rel="noopener">Find in a library</a>`);
     const accLabel = {open:"Free to read", "open-us":"Free to read (USA only)", preview:"Preview", borrow:"Borrow only", catalogue:"Catalogue record"}[r.access] || "";
     const pub = [r.publisher, r.place].filter(Boolean).join(", ");
@@ -163,7 +173,7 @@ button.theme{margin-left:auto;font:inherit;font-size:13px;background:none;border
         <p class="who"><b>Author/Editor</b>${esc(r.authors||"—")}${r.authors_roman?` <span class="src">(${esc(r.authors_roman)})</span>`:""}</p>
         <p class="who"><b>Publisher</b>${esc(pub||"—")}${r.publisher_roman?` <span class="src">(${esc(r.publisher_roman)})</span>`:""}</p>
         ${r.notes?`<p class="notes">${esc(r.notes)}</p>`:""}
-        <div class="tags"><span class="tag">${esc(C[r.category].en)}</span><span class="tag">${esc(r.type)}</span>${accLabel?`<span class="tag">${accLabel}</span>`:""}${r.series?`<span class="tag">${esc(r.series)}</span>`:""}${r.isbn?`<span class="tag">ISBN ${esc(r.isbn)}</span>`:""}${r.pages?`<span class="tag">${esc(r.pages)} p.</span>`:""}<span class="tag id">${r.id}</span></div>
+        <div class="tags"><span class="tag">${esc(C[r.category].en)}</span><span class="tag">${esc(r.type)}</span>${accLabel?`<span class="tag">${accLabel}</span>`:""}${r.series?`<span class="tag">${esc(r.series)}</span>`:""}${r.isbn?`<span class="tag">ISBN ${esc(r.isbn)}</span>`:""}${r.pages?`<span class="tag">${esc(r.pages)} p.</span>`:""}<span class="tag id">${r.id}</span>${r.added>=daysAgo(30)&&!r.curated?`<span class="tag" style="background:var(--ok-soft);color:var(--ok)">New ${esc(r.added)}</span>`:""}</div>
         <div class="links">${acts.join("")}</div>
       </div></article>`;
   }

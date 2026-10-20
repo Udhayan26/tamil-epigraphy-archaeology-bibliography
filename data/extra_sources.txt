@@ -1,0 +1,9 @@
+# Extra sources to search on every run.
+# Add one link per line. Optional label after a "|".
+# Supported: public Google Drive folders or files, Blogger/Blogspot blogs (all posts are read),
+# and any web page that lists or links to books / PDFs (government sites, library pages, blogs).
+#
+# Examples:
+# https://drive.google.com/drive/folders/XXXXXXXXXXXX | Inscription PDFs collection
+# https://example.blogspot.com/ | Tamil history blog
+# https://www.example.gov.in/publications | State publications

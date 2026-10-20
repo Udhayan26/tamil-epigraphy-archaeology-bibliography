@@ -210,6 +210,7 @@ def main():
         (heritage if heritage_record(r) else books).append(r)
 
     merged = OrderedDict()
+    isbn_key = {}
     for r in curated + books:
         if r["source"] == "Curated":
             u = r.get("url", "")
@@ -223,6 +224,13 @@ def main():
         key = skeleton(r["title"])[:100]
         if is_journal_issue or len(key) < 8:
             key = f"{key}|{r['source']}|{r['source_id']}"
+        isbns = [re.sub(r"[^0-9Xx]", "", x) for x in re.split(r"[;,\s]+", r.get("isbn") or "") if len(re.sub(r"[^0-9Xx]", "", x)) in (10, 13)]
+        for i_ in isbns:
+            if i_ in isbn_key and isbn_key[i_] in merged:
+                key = isbn_key[i_]
+                break
+        for i_ in isbns:
+            isbn_key.setdefault(i_, key)
         if key not in merged:
             m = dict(r)
             m["sources"] = [r["source"]]
@@ -251,10 +259,12 @@ def main():
             m["access"], m["read_url"] = r.get("access"), r.get("read_url", "")
         if r.get("download_url") and not m.get("download_url"):
             m["download_url"] = r["download_url"]
+        if r.get("buy_url") and not m.get("buy_url"):
+            m["buy_url"] = r["buy_url"]
 
     rows = []
     counters = Counter()
-    for m in merged.values():
+    for mkey, m in merged.items():
         if m.get("full_text") and m.get("access") not in ("open",):
             m.setdefault("read_url", m["full_text"])
         titles = m["titles"]
@@ -267,7 +277,7 @@ def main():
         typ = m.get("type") or ("Journal issue" if cat == "JOU" else "Book")
         counters[cat] += 1
         rows.append({
-            "id": "", "category": cat,
+            "id": "", "_key": mkey, "category": cat,
             "category_name": CATEGORIES[cat][0], "category_name_ta": CATEGORIES[cat][1],
             "title": m["title"], "title_ta": title_ta, "title_en": title_en,
             "title_en_note": "romanised from Tamil" if title_en_is_translit else "",
@@ -281,20 +291,31 @@ def main():
             "subjects": (m.get("subjects") or "")[:200],
             "access": m.get("access") or ("catalogue" if m["source_urls"] else ""),
             "read_url": m.get("read_url", ""), "download_url": m.get("download_url", ""),
+            "buy_url": m.get("buy_url", ""),
             "source_url": m["source_urls"][0] if m["source_urls"] else "",
             "other_source_urls": m["source_urls"][1:6],
             "sources": m["sources"], "curated": m["source"] == "Curated",
             "scholar": "; ".join(x.split(":", 1)[1] for x in (m.get("found_by") or "").split("; ") if x.startswith("author:")),
+            "from_list": "list:" in (m.get("found_by") or ""),
         })
 
     def sort_key(r):
         y = re.match(r"\d{4}", r["year"] or "")
         return (list(CATEGORIES).index(r["category"]), int(y.group()) if y else 9999, r["title"].lower())
     rows.sort(key=sort_key)
-    counters = Counter()
+    today = __import__("datetime").date.today()
+    reg_path = DATA / "registry.json"
+    reg = json.loads(reg_path.read_text(encoding="utf-8")) if reg_path.exists() else {}
+    nxt = max([int(v["id"].split("-")[1]) for v in reg.values()] or [0]) + 1
+    first_build = not reg
     for r in rows:
-        counters[r["category"]] += 1
-        r["id"] = f"{r['category']}-{counters[r['category']]:04d}"
+        k = r.pop("_key")
+        if k not in reg:
+            reg[k] = {"id": f"TB-{nxt:06d}", "added": "2026-10-20" if first_build or r["curated"] else today.isoformat()}
+            nxt += 1
+        r["id"], r["added"] = reg[k]["id"], reg[k]["added"]
+    reg_path.write_text(json.dumps(reg, ensure_ascii=False, indent=0, sort_keys=True), encoding="utf-8")
+    counters = Counter(r["category"] for r in rows)
 
     src_counts = Counter(s for r in rows for s in r["sources"])
     acc = Counter(r["access"] for r in rows)
@@ -302,6 +323,7 @@ def main():
             "with_author": sum(1 for r in rows if r["authors"]), "with_publisher": sum(1 for r in rows if r["publisher"]),
             "with_year": sum(1 for r in rows if r["year"]), "open_access": acc.get("open", 0),
             "with_download": sum(1 for r in rows if r["download_url"]), "heritage_records": len(heritage),
+            "with_buy": sum(1 for r in rows if r.get("buy_url")),
             "access": dict(acc), "sources": dict(src_counts),
             "categories": {k: {"en": v[0], "ta": v[1], "count": counters[k]} for k, v in CATEGORIES.items()}}
     doc = {**meta, "records": rows}
@@ -310,13 +332,24 @@ def main():
     slim = {**pub, "records": [{k: v for k, v in r.items() if k not in ("subjects", "sources", "category_name", "category_name_ta")} for r in rows]}
     (DATA / "bibliography.js").write_text("window.BIB = " + json.dumps(slim, ensure_ascii=False, separators=(",", ":")) + ";\n", encoding="utf-8")
 
-    cols = ["id", "category", "category_name", "category_name_ta", "type", "title_ta", "title_en", "title_en_note",
+    from urllib.parse import quote_plus
+    for r in rows:
+        q = (r["title_en"] or r["title"])[:120] + " " + (r["authors"].split(";")[0] if r["authors"] else "")
+        r["buy_search_url"] = ("https://www.panuval.com/index.php?route=product/search&search=" + quote_plus(r["title_ta"][:80])
+                               if r["title_ta"] else "https://www.amazon.in/s?k=" + quote_plus(q.strip()))
+    cols = ["id", "added", "category", "category_name", "category_name_ta", "type", "title_ta", "title_en", "title_en_note",
             "authors", "authors_roman", "publisher", "publisher_roman", "place", "year", "period", "language", "scholar",
-            "series", "isbn", "pages", "access", "read_url", "download_url", "source_url", "other_source_urls", "notes", "subjects"]
+            "series", "isbn", "pages", "access", "read_url", "download_url", "buy_url", "buy_search_url", "source_url", "other_source_urls", "notes", "subjects"]
     with open(DATA / "bibliography.csv", "w", encoding="utf-8-sig", newline="") as f:
         w = csv.writer(f)
         w.writerow(cols)
         for r in rows:
+            w.writerow([" ; ".join(r[c]) if isinstance(r[c], list) else r[c] for c in cols])
+    recent = [r for r in rows if r["added"] >= (today - __import__("datetime").timedelta(days=30)).isoformat() and not r["curated"]]
+    with open(DATA / "new_books.csv", "w", encoding="utf-8-sig", newline="") as f:
+        w = csv.writer(f)
+        w.writerow(cols)
+        for r in sorted(recent, key=lambda r: r["added"], reverse=True):
             w.writerow([" ; ".join(r[c]) if isinstance(r[c], list) else r[c] for c in cols])
     with open(DATA / "heritage_records.csv", "w", encoding="utf-8-sig", newline="") as f:
         w = csv.writer(f)
