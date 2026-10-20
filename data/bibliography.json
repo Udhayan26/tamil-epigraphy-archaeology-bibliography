@@ -1,15 +1,15 @@
 {
 "generated": "2026-10-20",
-"count": 4106,
+"count": 4108,
 "with_author": 2320,
 "with_publisher": 2325,
 "with_year": 2844,
-"open_access": 2538,
-"with_download": 1903,
+"open_access": 2540,
+"with_download": 1905,
 "heritage_records": 3723,
 "with_buy": 0,
 "access": {
-"open": 2538,
+"open": 2540,
 "": 66,
 "catalogue": 1293,
 "open-us": 185,
@@ -21,7 +21,7 @@
 "Open Library": 805,
 "Curated": 205,
 "OpenAlex": 142,
-"Wikimedia Commons": 179,
+"Wikimedia Commons": 181,
 "HathiTrust": 935,
 "Tamil Wikisource": 41,
 "Online text": 41,
@@ -97,7 +97,7 @@
 "JOU": {
 "en": "Journals & Periodicals",
 "ta": "இதழ்கள்",
-"count": 1053
+"count": 1055
 },
 "ONL": {
 "en": "Online Resources & Digital Libraries",
@@ -3119,7 +3119,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-001794",
+"id": "TB-005118",
 "category": "EPG",
 "category_name": "Epigraphy: Manuals, Palaeography & Studies",
 "category_name_ta": "கல்வெட்டியல்: கையேடுகள், எழுத்தியல், ஆய்வுகள்",
@@ -3157,7 +3157,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-001795",
+"id": "TB-005119",
 "category": "EPG",
 "category_name": "Epigraphy: Manuals, Palaeography & Studies",
 "category_name_ta": "கல்வெட்டியல்: கையேடுகள், எழுத்தியல், ஆய்வுகள்",
@@ -8890,7 +8890,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-001871",
+"id": "TB-005120",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -8928,7 +8928,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-001872",
+"id": "TB-001869",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -19445,7 +19445,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002088",
+"id": "TB-002634",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -19488,7 +19488,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002089",
+"id": "TB-002085",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -41852,7 +41852,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002638",
+"id": "TB-002635",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -45413,7 +45413,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002687",
+"id": "TB-005121",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -45451,7 +45451,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002688",
+"id": "TB-005122",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -45489,7 +45489,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002689",
+"id": "TB-005123",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -45531,7 +45531,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002690",
+"id": "TB-005124",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -45569,7 +45569,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002691",
+"id": "TB-005125",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -45607,7 +45607,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002692",
+"id": "TB-005126",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -45645,7 +45645,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002693",
+"id": "TB-005127",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -45683,7 +45683,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002694",
+"id": "TB-005128",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -45721,7 +45721,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002695",
+"id": "TB-005129",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -45759,7 +45759,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002696",
+"id": "TB-005130",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -45797,7 +45797,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002697",
+"id": "TB-005131",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -45835,7 +45835,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002698",
+"id": "TB-005132",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -45873,7 +45873,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002699",
+"id": "TB-005133",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
@@ -65455,7 +65455,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002821",
+"id": "TB-005134",
 "category": "TBR",
 "category_name": "Tamil-Brahmi, Vatteluttu & Early Writing",
 "category_name_ta": "தமிழ்-பிராமி, வட்டெழுத்து",
@@ -65493,7 +65493,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002822",
+"id": "TB-002804",
 "category": "TBR",
 "category_name": "Tamil-Brahmi, Vatteluttu & Early Writing",
 "category_name_ta": "தமிழ்-பிராமி, வட்டெழுத்து",
@@ -66927,7 +66927,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002838",
+"id": "TB-005135",
 "category": "HER",
 "category_name": "Hero Stones & Memorial Stones",
 "category_name_ta": "நடுகற்கள்",
@@ -66965,7 +66965,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002839",
+"id": "TB-002821",
 "category": "HER",
 "category_name": "Hero Stones & Memorial Stones",
 "category_name_ta": "நடுகற்கள்",
@@ -67120,7 +67120,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002840",
+"id": "TB-005136",
 "category": "HER",
 "category_name": "Hero Stones & Memorial Stones",
 "category_name_ta": "நடுகற்கள்",
@@ -80216,7 +80216,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-003014",
+"id": "TB-005137",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
 "category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
@@ -80254,7 +80254,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-003015",
+"id": "TB-002997",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
 "category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
@@ -82632,7 +82632,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-003059",
+"id": "TB-005138",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
 "category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
@@ -82670,7 +82670,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-003060",
+"id": "TB-003042",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
 "category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
@@ -82828,7 +82828,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-003063",
+"id": "TB-005139",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
 "category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
@@ -82866,7 +82866,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-003064",
+"id": "TB-003045",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
 "category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
@@ -83841,7 +83841,7 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-003083",
+"id": "TB-005140",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
 "category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
@@ -147569,7 +147569,45 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-005063",
+"id": "TB-005141",
+"category": "JOU",
+"category_name": "Journals & Periodicals",
+"category_name_ta": "இதழ்கள்",
+"title": "The Indian Antiquary Vol 31",
+"title_ta": "",
+"title_en": "The Indian Antiquary Vol 31",
+"title_en_note": "",
+"alt_title": "",
+"authors": "",
+"authors_roman": "",
+"publisher": "",
+"publisher_roman": "",
+"place": "",
+"year": "",
+"period": "Undated",
+"language": "English",
+"type": "Journal issue",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "",
+"access": "open",
+"read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_31.pdf",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_31.pdf",
+"buy_url": "",
+"source_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_31.pdf",
+"other_source_urls": [],
+"sources": [
+"Wikimedia Commons"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
+},
+{
+"id": "TB-005046",
 "category": "JOU",
 "category_name": "Journals & Periodicals",
 "category_name_ta": "இதழ்கள்",
@@ -148063,7 +148101,45 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-005076",
+"id": "TB-005142",
+"category": "JOU",
+"category_name": "Journals & Periodicals",
+"category_name_ta": "இதழ்கள்",
+"title": "The Indian Antiquary Vol 38",
+"title_ta": "",
+"title_en": "The Indian Antiquary Vol 38",
+"title_en_note": "",
+"alt_title": "",
+"authors": "",
+"authors_roman": "",
+"publisher": "",
+"publisher_roman": "",
+"place": "",
+"year": "",
+"period": "Undated",
+"language": "English",
+"type": "Journal issue",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "",
+"access": "open",
+"read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_38.pdf",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_38.pdf",
+"buy_url": "",
+"source_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_38.pdf",
+"other_source_urls": [],
+"sources": [
+"Wikimedia Commons"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
+},
+{
+"id": "TB-005059",
 "category": "JOU",
 "category_name": "Journals & Periodicals",
 "category_name_ta": "இதழ்கள்",

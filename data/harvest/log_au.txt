@@ -238,7 +238,7 @@
 [au/gb] ERR inpublisher:"Tamil University Thanjavur" Google Books quota exhausted for this run
 [au] publisher Tamil University Thanjavur: 1
 [au/gb] ERR inpublisher:"தமிழ்ப் பல்கலைக்கழகம்" Google Books quota exhausted for this run
-[au] publisher தமிழ்ப் பல்கலைக்கழகம்: 3
+[au] publisher தமிழ்ப் பல்கலைக்கழகம்: 1
 [au/gb] ERR inpublisher:"Pandya Nadu Centre for Historical Research" Google Books quota exhausted for this run
 [au] publisher Pandya Nadu Centre for Historical Research: 1
 [au/gb] ERR inpublisher:"Tamilnadu Archaeological Society" Google Books quota exhausted for this run
@@ -256,7 +256,7 @@
 [au/gb] ERR inpublisher:"Archaeological Survey of India" Google Books quota exhausted for this run
 [au] publisher Archaeological Survey of India: 50
 [au/gb] ERR inpublisher:"Government Museum Chennai" Google Books quota exhausted for this run
-[au] publisher Government Museum Chennai: 40
-[au] saved 1646 records
-[au] took 507s
-total 507s
+[au] publisher Government Museum Chennai: 33
+[au] saved 1637 records
+[au] took 592s
+total 592s

@@ -41,6 +41,6 @@
 [nl] hero stone: titles so far 2037
 [nl] Brahmi: titles so far 2037
 [nl] fetching content of 2037 pages
-[nl] saved 37 records
-[nl] took 311s
-total 311s
+[nl] saved 35 records
+[nl] took 289s
+total 289s
