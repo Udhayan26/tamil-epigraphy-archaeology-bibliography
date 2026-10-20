@@ -5,49 +5,73 @@ on:
     branches: [main]
     paths:
       - "scripts/harvest.py"
+      - "scripts/build.py"
       - ".github/workflows/harvest.yml"
       - "data/harvest/RUN"
   workflow_dispatch:
     inputs:
       sources:
-        description: "Sources to harvest (space separated: ia ol gb loc nl au oa doab ws). Empty = all"
+        description: 'JSON list of sources, e.g. ["ht","ia"]. Empty = all'
         required: false
         default: ""
   schedule:
-    - cron: "17 21 * * 0"   # weekly, Monday 02:47 IST
+    - cron: "17 21 * * 0"   # weekly (Monday 02:47 IST)
 
 permissions:
   contents: write
 
 concurrency:
-  group: harvest
-  cancel-in-progress: false
+  group: harvest-v2
+  cancel-in-progress: true
 
 jobs:
   harvest:
     runs-on: ubuntu-latest
-    timeout-minutes: 300
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      matrix:
+        source: ${{ fromJSON(github.event.inputs.sources != '' && github.event.inputs.sources || '["ia","ol","gb","loc","nl","au","oa","doab","ws","ht","cm","wi"]') }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Harvest sources (each in parallel, isolated)
+      - name: Harvest ${{ matrix.source }}
         continue-on-error: true
-        run: |
-          SRC="${{ github.event.inputs.sources }}"
-          [ -z "$SRC" ] && SRC="ia ol gb loc nl au oa doab ws"
-          mkdir -p data/harvest/logs
-          for s in $SRC; do
-            ( python scripts/harvest.py $s > data/harvest/logs/$s.log 2>&1; echo "exit $?" >> data/harvest/logs/$s.log ) &
-          done
-          wait
-          tail -n 15 data/harvest/logs/*.log
+        env:
+          MAX_SECONDS: "19500"
+        run: python scripts/harvest.py ${{ matrix.source }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: harvest-${{ matrix.source }}
+          path: |
+            data/harvest/${{ matrix.source }}.json
+            data/harvest/log_${{ matrix.source }}.txt
+            data/harvest/samples/
+          if-no-files-found: ignore
+          retention-days: 7
+
+  build:
+    needs: harvest
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: harvest-*
+          path: data/harvest
+          merge-multiple: true
       - name: Build merged bibliography
-        if: always()
-        run: python scripts/build.py | tee data/harvest/build_summary.txt
+        run: |
+          ls -la data/harvest
+          python scripts/build.py | tee data/harvest/build_summary.txt
       - name: Commit results
-        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

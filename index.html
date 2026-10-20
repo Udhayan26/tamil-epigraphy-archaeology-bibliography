@@ -133,7 +133,7 @@ button.theme{margin-left:auto;font:inherit;font-size:13px;background:none;border
       (!state.cat || r.category===state.cat) &&
       (!state.lang || r.language===state.lang) &&
       (!state.period || r.period===state.period) &&
-      (!state.acc || (state.acc==="dl" ? r.download_url : r.access===state.acc)) &&
+      (!state.acc || (state.acc==="dl" ? r.download_url : state.acc==="open" ? (r.access==="open"||r.access==="open-us") : r.access===state.acc)) &&
       (!state.has || (state.has==="a" ? r.authors : state.has==="p" ? r.publisher : state.has==="ap" ? (r.authors && r.publisher) : state.has==="cur" ? r.curated : state.has==="sch" ? r.scholar : r.category!=="JOU")) &&
       terms.every(t => r._s.includes(t)));
     const big = 99999;
@@ -147,13 +147,13 @@ button.theme{margin-left:auto;font:inherit;font-size:13px;background:none;border
     const main = ta || en || r.title, second = ta ? en : "";
     const qs = encodeURIComponent((en||r.title).slice(0,150));
     const acts = [];
-    if (r.access==="open" && r.read_url) acts.push(`<a class="open" href="${esc(r.read_url)}" target="_blank" rel="noopener">📖 Read online</a>`);
+    if ((r.access==="open"||r.access==="open-us") && r.read_url) acts.push(`<a class="open" href="${esc(r.read_url)}" target="_blank" rel="noopener">📖 Read online</a>`);
     if (r.download_url) acts.push(`<a class="open" href="${esc(r.download_url)}" target="_blank" rel="noopener">⬇ Download PDF</a>`);
     if (r.access==="preview" && r.read_url) acts.push(`<a href="${esc(r.read_url)}" target="_blank" rel="noopener">Preview</a>`);
     if (r.source_url) acts.push(`<a href="${esc(r.source_url)}" target="_blank" rel="noopener">Source record</a>`);
     (r.other_source_urls||[]).slice(0,3).forEach((u,i)=>acts.push(`<a href="${esc(u)}" target="_blank" rel="noopener">Record ${i+2}</a>`));
     acts.push(`<a href="https://www.worldcat.org/search?q=${qs}" target="_blank" rel="noopener">Find in a library</a>`);
-    const accLabel = {open:"Free to read", preview:"Preview", borrow:"Borrow only", catalogue:"Catalogue record"}[r.access] || "";
+    const accLabel = {open:"Free to read", "open-us":"Free to read (USA only)", preview:"Preview", borrow:"Borrow only", catalogue:"Catalogue record"}[r.access] || "";
     const pub = [r.publisher, r.place].filter(Boolean).join(", ");
     return `<article class="card">
       <div class="yr">${esc(r.year||"n.d.")}<small>${esc(r.language)}</small></div>

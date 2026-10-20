@@ -14,7 +14,7 @@ Sources:
 Writes data/harvest/<source>.json (normalised records) and data/harvest/log.txt.
 Each source is isolated: one failing source never stops the others.
 """
-import json, re, sys, time, traceback, urllib.parse, urllib.request
+import gzip, io, json, os, re, signal, sys, time, traceback, unicodedata, urllib.parse, urllib.request, urllib.robotparser
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -99,6 +99,16 @@ EN_TERMS = [
     "Poompuhar archaeology", "Sivagalai", "Tamil coins Sangam", "Pudukkottai inscriptions",
     "Travancore archaeological series", "Madras Presidency antiquities", "Kanyakumari inscriptions",
     "Jaina inscriptions Tamil Nadu", "Tamil graffiti potsherds", "Sri Lanka Tamil inscriptions",
+    "Annual Report on Indian Epigraphy", "Annual Report on South Indian Epigraphy", "Annual report on epigraphy Madras",
+    "Report on epigraphy", "Madras epigraphy", "Government Epigraphist Madras", "Epigraphia Indica",
+    "Indian Antiquary", "Epigraphia Carnatica", "South Indian Inscriptions volume", "Pudukkottai State inscriptions",
+    "Travancore Archaeological Series", "Archaeological Survey of Southern India", "antiquarian remains Madras",
+    "Madras Government Museum bulletin", "Ancient India bulletin", "Indian Archaeology a review",
+    "Annual report archaeological department southern circle", "Mackenzie collection", "Tamil Nadu State Department of Archaeology",
+    "Madras district gazetteer antiquities", "Vijayanagara inscriptions Tamil", "Nayak inscriptions", "Sethupathi copper plates",
+    "Maratha Tanjore inscriptions", "Kongu inscriptions", "Jain inscriptions Tamil", "Buddhist Tamil inscriptions",
+    "Grantha script", "Tamil script evolution", "Thanjavur Brihadisvara inscriptions", "Chidambaram inscriptions",
+    "Srirangam inscriptions", "Kanchipuram inscriptions", "Tirumalai Tirupati inscriptions", "Madurai inscriptions",
 ]
 SUBJECTS = [
     "Inscriptions, Tamil", "Tamil language--Inscriptions", "Inscriptions--India--Tamil Nadu",
@@ -117,10 +127,23 @@ NOISE = re.compile(r"(kashmir|bengal|assam|orissa|odisha|nepal|tibet|burma|myanm
 TAMIL_SCRIPT = re.compile(r"[஀-௿]")
 
 
+SERIES = re.compile(r"(south[- ]indian inscriptions|epigraphia indica|annual reports? (on|of) (the )?(south[- ]indian |indian )?epigraphy|report on (south[- ]indian |indian )?epigraphy|madras epigraph|government epigraphist|indian antiquary|travancore archaeological|inscriptions of the pudukkottai|pudukkottai state|archaeological survey of southern india|antiquarian remains in the presidency of madras|lists? of inscriptions .*madras|topographical list of (the )?inscriptions|annual report.{0,40}archaeolog.{0,40}(madras|southern circle|south(ern)? india)|madras government museum|bulletin of the madras|ancient india[:,]? bulletin|indian archaeology[ ,:-]+a review|epigraphia carnatica|south indian temple inscriptions|tirumalai.tirupati devasthanam inscriptions)", re.I)
+
+
+def fold(t):
+    """Strip Latin diacritics (ṭ->t, ḷ->l, ā->a) but keep Tamil vowel signs."""
+    out = []
+    for ch in unicodedata.normalize("NFKD", t or ""):
+        if unicodedata.combining(ch) and out and out[-1].isascii():
+            continue
+        out.append(ch)
+    return unicodedata.normalize("NFC", "".join(out)).replace("ḻ", "l").replace("ḷ", "l")
+
+
 def relevant(title, subjects="", extra=""):
-    t = s(title)
-    blob = f"{t} {s(subjects)} {s(extra)}"
-    if TA_KW.search(blob) or RO_KW.search(t):
+    t = fold(s(title))
+    blob = fold(f"{t} {s(subjects)} {s(extra)}")
+    if SERIES.search(t) or TA_KW.search(blob) or RO_KW.search(t):
         return True
     if EN_KW.search(blob) and CTX.search(blob) and not NOISE.search(t):
         return True
@@ -136,6 +159,14 @@ def rec(source, sid, title, url, authors="", publisher="", year="", language="",
     if extra:
         r.update(extra)
     return r
+
+
+LIVE = {}
+
+
+def live(name):
+    LIVE[name] = []
+    return LIVE[name]
 
 
 def save(name, rows):
@@ -193,7 +224,7 @@ def harvest_ia():
         log(f"[ia] {n:5d}  {q[:90]}")
     log(f"[ia] raw unique hits: {len(hits)}")
 
-    rows = []
+    rows = live("ia")
     for ident, it in hits.items():
         title = s(it.get("title"))
         if not relevant(title, it.get("subject"), ""):
@@ -251,7 +282,7 @@ def harvest_ia():
 
 # ---------------------------------------------------------------- Open Library
 def harvest_ol():
-    rows = []
+    rows = live("ol")
     fl = "key,title,subtitle,author_name,publisher,publish_place,first_publish_year,publish_year,language,subject,isbn,ia,ebook_access"
     qs = [("q", t) for t in ROMAN_TERMS + EN_TERMS + TAMIL_TERMS] + [("subject", t.split("--")[0]) for t in SUBJECTS]
     for kind, t in qs:
@@ -292,7 +323,7 @@ def harvest_ol():
 
 # ---------------------------------------------------------------- Google Books
 def harvest_gb():
-    rows = []
+    rows = live("gb")
     qs = [t for t in ROMAN_TERMS + EN_TERMS + TAMIL_TERMS] + [f'subject:"{t.split("--")[0]}"' for t in SUBJECTS]
     for t in qs:
         for start in range(0, 400, 40):
@@ -341,7 +372,7 @@ def parse_imprint(cp):
 
 
 def harvest_loc():
-    rows = []
+    rows = live("loc")
     qs = ROMAN_TERMS + EN_TERMS
     for t in qs:
         for sp in range(1, 11):
@@ -417,7 +448,7 @@ def harvest_nl():
             off = j["continue"].get("sroffset", off + 50)
         log(f"[nl] {t}: titles so far {len(titles)}")
     tl = list(titles)
-    rows = []
+    rows = live("nl")
     for i in range(0, len(tl), 50):
         batch = tl[i:i + 50]
         url = NL_API + "?" + urllib.parse.urlencode({"action": "query", "prop": "revisions", "rvprop": "content",
@@ -454,7 +485,7 @@ def harvest_nl():
 
 # ---------------------------------------------------------------- OpenAlex (scholarly books worldwide)
 def harvest_oa():
-    rows = []
+    rows = live("oa")
     for t in EN_TERMS + ROMAN_TERMS:
         cursor = "*"
         for _ in range(5):
@@ -499,7 +530,7 @@ def harvest_oa():
 
 # ---------------------------------------------------------------- DOAB (open-access academic books)
 def harvest_doab():
-    rows = []
+    rows = live("doab")
     for t in EN_TERMS[:40] + ["Tamil", "Tamil Nadu archaeology", "South India epigraphy", "Chola", "Pallava", "Pandya"]:
         url = "https://directory.doabooks.org/rest/search?" + urllib.parse.urlencode({"query": t, "expand": "metadata,bitstreams", "limit": 100})
         try:
@@ -533,6 +564,19 @@ def harvest_doab():
 
 # ---------------------------------------------------------------- Tamil Wikisource scanned books (Index pages)
 def harvest_ws():
+    rows_en = []
+    api_en = "https://en.wikisource.org/w/api.php"
+    for t in ["South Indian Inscriptions", "Epigraphia Indica", "Indian Antiquary", "Tamil inscriptions", "Madras epigraphy", "Pudukkottai inscriptions", "Travancore Archaeological Series"]:
+        for ns in (0, 106):
+            try:
+                j = get(api_en + "?" + urllib.parse.urlencode({"action": "query", "list": "search", "srsearch": t, "srnamespace": ns, "srlimit": 50, "format": "json"}), sleep=0.4)
+            except Exception as e:
+                log("[ws-en] ERR", t, e); continue
+            for r in j.get("query", {}).get("search", []):
+                ti = r["title"]; book = re.sub(r"\.(pdf|djvu)$", "", ti.split(":", 1)[-1], flags=re.I)
+                if relevant(book):
+                    u = "https://en.wikisource.org/wiki/" + urllib.parse.quote(ti.replace(" ", "_"))
+                    rows_en.append(rec("English Wikisource", ti, book, u, extra={"access": "open", "read_url": u}))
     api = "https://ta.wikisource.org/w/api.php"
     titles = {}
     for t in TAMIL_TERMS + ["inscriptions", "epigraphy", "archaeology"]:
@@ -560,7 +604,145 @@ def harvest_ws():
         u = "https://ta.wikisource.org/wiki/" + urllib.parse.quote(ti.replace(" ", "_"))
         rows.append(rec("Tamil Wikisource", ti, book, u, language="Tamil",
                         extra={"access": "open", "read_url": u}))
-    return save("ws", rows)
+    return save("ws", rows + rows_en)
+
+
+# ---------------------------------------------------------------- HathiTrust (full catalogue file; old colonial & govt volumes)
+HT_COLS = ["htid", "access", "rights", "ht_bib_key", "description", "source", "source_bib_num", "oclc_num", "isbn", "issn",
+           "lccn", "title", "imprint", "rights_reason_code", "rights_timestamp", "us_gov_doc_flag", "rights_date_used",
+           "pub_place", "lang", "bib_fmt", "collection_code", "content_provider_code", "responsible_entity_code",
+           "digitization_agent_code", "access_profile_code", "author"]
+HT_PRE = re.compile(r"(inscri|epigraph|kalvet|kalvett|natukal|nadukal|ceppet|seppe|tolliyal|tholliyal|tolporul|akalayvu|archaeolog|antiquit|antiquar|excavat|copper.?plate|hero.?stone|memorial stone|rock (art|paint)|petroglyph|megalith|prehistor|brahmi|vatteluttu|palaeograph|paleograph|numismat|coins|indian antiquary|tamil|madras|chola|cola|pandya|pallava|pudukkottai|travancore)", re.I)
+HT_PUB = re.compile(r"(dept\.? of archaeology|department of archaeology|tolliyal|tholliyal|tolporul|archaeological survey|government epigraphist|superintendent,? government press|govt\.? press)", re.I)
+
+
+def harvest_ht():
+    rows = live("ht")
+    lst = get("https://www.hathitrust.org/files/hathifiles/hathi_file_list.json")
+    sample("ht_filelist", lst[:5] if isinstance(lst, list) else lst)
+    fulls = sorted([f for f in lst if f.get("full") in (True, "true", 1) or "full" in f.get("filename", "")],
+                   key=lambda f: f.get("filename", ""))
+    f = fulls[-1]
+    url = f.get("url") or ("https://www.hathitrust.org/files/hathifiles/" + f["filename"])
+    log(f"[ht] streaming {url} ({f.get('size')} bytes)")
+    req = urllib.request.Request(url, headers={"User-Agent": UA})
+    n = 0
+    with urllib.request.urlopen(req, timeout=300) as resp:
+        gz = gzip.GzipFile(fileobj=resp)
+        for raw in io.TextIOWrapper(gz, encoding="utf-8", errors="replace"):
+            n += 1
+            if n % 2000000 == 0:
+                log(f"[ht] scanned {n:,} lines, kept {len(rows)}")
+            if not HT_PRE.search(raw):
+                continue
+            c = raw.rstrip("\n").split("\t")
+            if len(c) < 26:
+                continue
+            d = dict(zip(HT_COLS, c))
+            title, imprint = d["title"], d["imprint"]
+            ftitle, fimp = fold(title), fold(imprint)
+            if not (relevant(title, "", d["description"]) or
+                    (HT_PUB.search(fimp) and (RO_KW.search(ftitle) or EN_KW.search(ftitle)) and
+                     re.search(r"(madras|tamil|chennai|thanjavur|tanjore|pudukkottai|trivandrum|madurai)", fimp + " " + ftitle, re.I))):
+                continue
+            place, pub = "", ""
+            m = re.match(r"\s*([^:;]+?)\s*[:;]\s*(.+?)(,\s*\[?c?\d{4}.*)?$", imprint)
+            if m:
+                place, pub = m.group(1).strip(" [].,"), m.group(2).strip(" [].,")
+            else:
+                pub = re.sub(r",?\s*\[?\d{4}.*$", "", imprint).strip(" [].,")
+                parts = pub.split(",", 1)
+                if len(parts) == 2 and len(parts[0].split()) <= 2:
+                    place, pub = parts[0].strip(), parts[1].strip()
+            title = title.strip(" /:;,.")
+            vol = d["description"].strip()
+            rights = d["rights"]
+            open_ = d["access"] == "allow" and rights not in ("pdus",)
+            r = rec("HathiTrust", d["htid"], title + (f" — {vol}" if vol else ""),
+                    f"https://catalog.hathitrust.org/Record/{d['ht_bib_key']}",
+                    authors=d["author"].strip(" ,."), publisher=pub, place=place,
+                    year=d["rights_date_used"] if d["rights_date_used"] not in ("", "9999") else imprint,
+                    language=d["lang"], extra={"isbn": d["isbn"], "series": vol, "imprint": imprint[:200]})
+            if d["access"] == "allow":
+                r.update(access="open" if open_ else "open-us", read_url=f"https://babel.hathitrust.org/cgi/pt?id={d['htid']}")
+            else:
+                r.update(access="catalogue")
+            rows.append(r)
+    log(f"[ht] scanned {n:,} lines total")
+    return save("ht", rows)
+
+
+# ---------------------------------------------------------------- Wikimedia Commons scanned PDFs / DjVu
+def harvest_cm():
+    rows = live("cm")
+    api = "https://commons.wikimedia.org/w/api.php"
+    terms = (["South Indian Inscriptions", "Epigraphia Indica", "Annual report epigraphy", "Indian Antiquary",
+              "Tamil inscriptions", "Travancore Archaeological Series", "Pudukkottai inscriptions", "Madras archaeology",
+              "copper plates Tamil", "Tamil Brahmi", "hero stone Tamil", "Tamil Nadu archaeology", "Archaeological Survey of Southern India"]
+             + TAMIL_TERMS)
+    seen = {}
+    for t in terms:
+        for ft in ("pdf", "djvu"):
+            off = 0
+            while off < 500:
+                url = api + "?" + urllib.parse.urlencode({"action": "query", "list": "search", "srsearch": f"{t} filetype:{ft}",
+                                                          "srnamespace": 6, "srlimit": 50, "sroffset": off, "format": "json"})
+                try:
+                    j = get(url, sleep=0.4)
+                except Exception as e:
+                    log("[cm] ERR", t, e)
+                    break
+                if not seen:
+                    sample("cm_search", j)
+                res = j.get("query", {}).get("search", [])
+                for r in res:
+                    seen[r["title"]] = 1
+                if "continue" not in j or not res:
+                    break
+                off = j["continue"].get("sroffset", off + 50)
+        log(f"[cm] {t}: files so far {len(seen)}")
+    for ti in seen:
+        name = ti.split(":", 1)[-1]
+        book = re.sub(r"[_]", " ", re.sub(r"\.(pdf|djvu)$", "", name, flags=re.I))
+        if not relevant(book):
+            continue
+        page = "https://commons.wikimedia.org/wiki/" + urllib.parse.quote(ti.replace(" ", "_"))
+        rows.append(rec("Wikimedia Commons", ti, book, page, year=book,
+                        extra={"access": "open", "read_url": page,
+                               "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/" + urllib.parse.quote(name.replace(" ", "_"))}))
+    return save("cm", rows)
+
+
+# ---------------------------------------------------------------- SII / Epigraphia Indica online texts (index pages)
+def robots_ok(url):
+    try:
+        u = urllib.parse.urlparse(url)
+        rp = urllib.robotparser.RobotFileParser(f"{u.scheme}://{u.netloc}/robots.txt")
+        rp.read()
+        return rp.can_fetch(UA, url)
+    except Exception:
+        return True
+
+
+def harvest_wi():
+    rows = live("wi")
+    base = "https://www.whatisindia.com/inscriptions/"
+    if not robots_ok(base):
+        log("[wi] robots.txt disallows - skipped")
+        return save("wi", rows)
+    html = get(base, as_json=False)
+    for href, text in re.findall(r'<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', html, flags=re.S | re.I):
+        text = re.sub(r"<[^>]+>|\s+", " ", text).strip()
+        if not re.search(r"(vol|volume|part|epigraphia|inscriptions)", text + href, re.I):
+            continue
+        u = urllib.parse.urljoin(base, href)
+        if "whatisindia.com/inscriptions/" not in u or u.rstrip("/") == base.rstrip("/"):
+            continue
+        series = "South Indian Inscriptions" if "south_indian" in u else ("Epigraphia Indica" if "epigraph" in u else "")
+        title = f"{series} — {text}" if series and series.lower() not in text.lower() else text
+        rows.append(rec("Online text", u, title, u, year=re.search(r"(18|19)\d\d", u).group(0) if re.search(r"(18|19)\d\d", u) else "",
+                        extra={"access": "open", "read_url": u, "series": text}))
+    return save("wi", rows)
 
 
 # ---------------------------------------------------------------- authors & publishers
@@ -610,6 +792,53 @@ AUTHORS = [
     (["C. Sivaramamurti"], ["sivaramamurti"]),
     (["R. Champakalakshmi"], ["champakalakshmi"]),
     (["Leslie C. Orr"], ["orr, leslie", "leslie c. orr", "leslie orr"]),
+    (["James Burgess"], ["burgess, james", "james burgess", "burgess, j"]),
+    (["Robert Sewell"], ["sewell, robert", "robert sewell", "sewell, r"]),
+    (["A. C. Burnell"], ["burnell"]),
+    (["V. Rangacharya"], ["rangacharya", "rangachari"]),
+    (["T. A. Gopinatha Rao"], ["gopinatha rao"]),
+    (["K. V. Subrahmanya Aiyar"], ["subrahmanya aiyar", "subramanya aiyar", "subrahmanya ayyar"]),
+    (["A. S. Ramanatha Ayyar"], ["ramanatha ayyar", "ramanatha aiyar"]),
+    (["G. V. Srinivasa Rao"], ["srinivasa rao, g", "g. v. srinivasa rao"]),
+    (["K. R. Srinivasan archaeology"], ["srinivasan, k. r", "k. r. srinivasan"]),
+    (["S. R. Balasubrahmanyam"], ["balasubrahmanyam", "balasubramanyam"]),
+    (["V. Venkatasubba Ayyar"], ["venkatasubba"]),
+    (["C. Minakshi"], ["minakshi, c", "c. minakshi"]),
+    (["D. C. Sircar"], ["sircar, d", "d. c. sircar", "sircar, dines"]),
+    (["N. Subrahmanian"], ["subrahmanian, n", "n. subrahmanian"]),
+    (["R. Tirumalai"], ["tirumalai, r", "r. tirumalai"]),
+    (["S. Krishnaswami Aiyangar"], ["krishnaswami aiyangar", "krishnaswamy aiyangar"]),
+    (["M. Raghava Iyengar", "மு. இராகவையங்கார்"], ["raghava iyengar", "raghava aiyangar", "இராகவையங்கார்"]),
+    (["Alexander Rea"], ["rea, alexander", "alexander rea"]),
+    (["Robert Bruce Foote"], ["foote, robert", "r. bruce foote", "robert bruce foote"]),
+    (["A. H. Longhurst"], ["longhurst"]),
+    (["K. V. Soundara Rajan"], ["soundara rajan", "soundararajan, k"]),
+    (["T. N. Ramachandran"], ["ramachandran, t. n", "t. n. ramachandran"]),
+    (["Gift Siromoney"], ["siromoney"]),
+    (["Burton Stein"], ["stein, burton", "burton stein"]),
+    (["James Heitzman"], ["heitzman"]),
+    (["Whitney Cox"], ["cox, whitney", "whitney cox"]),
+    (["Vimala Begley"], ["begley"]),
+    (["P. Shanmugam"], ["shanmugam, p", "p. shanmugam"]),
+    (["S. Gurumurthy"], ["gurumurthy"]),
+    (["Avvai Duraisamy Pillai", "ஔவை துரைசாமிப் பிள்ளை"], ["duraisam", "துரைசாமி"]),
+    (["M. Arunachalam", "மு. அருணாசலம்"], ["arunachalam, m", "m. arunachalam", "அருணாசலம்"]),
+    (["K. K. Pillay"], ["pillay, k. k", "k. k. pillay"]),
+    (["S. Vaiyapuri Pillai", "எஸ். வையாபுரிப் பிள்ளை"], ["vaiyapuri", "வையாபுரி"]),
+    (["N. Karashima"], ["karashima"]),
+    (["C. Sivaramamurti"], ["sivaramamurti"]),
+    (["R. Gopalan"], ["gopalan, r", "r. gopalan"]),
+    (["T. Gopalan epigraphy", "தி. கோபாலன்"], ["t. gopalan", "gopalan, t"]),
+    (["M. Senthilselvakumaran"], ["senthilselvakumaran"]),
+    (["V. Veeraraghavan", "வீரராகவன்"], ["veeraraghavan", "veeraragavan", "வீரராகவன்"]),
+    (["Pon. Venkatesan", "பொன். வெங்கடேசன்"], ["venkatesan, pon", "pon venkatesan", "பொன். வெங்கடேசன்"]),
+    (["Kalaikkovan", "இரா. கலைக்கோவன்"], ["kalaikkovan", "கலைக்கோவன்"]),
+    (["Su. Thiyagarajan archaeology"], ["thiyagarajan"]),
+    (["S. Vasanthi archaeology", "சு. வசந்தி"], ["vasanthi", "வசந்தி"]),
+    (["R. Vasanthakalyani"], ["vasanthakalyani"]),
+    (["Seetharam Gurumurthy", "சீதாராம் குருமூர்த்தி"], ["seetharam", "சீதாராம்"]),
+    (["T. Arunraj archaeology"], ["arunraj"]),
+    (["Amarnath Ramakrishna"], ["amarnath"]),
 ]
 PUBLISHERS = [
     ("Tamil Nadu State Department of Archaeology", ["archaeology", "tolliyal", "tholliyal", "தொல்லியல்", "தொல்பொருள்"], True),
@@ -636,7 +865,7 @@ def name_match(authors, tokens):
 
 
 def harvest_au():
-    rows = []
+    rows = live("au")
 
     def add(src, sid, title, url, found_by, **kw):
         rows.append(rec(src, sid, title, url, extra={"found_by": found_by}, **kw))
@@ -738,18 +967,36 @@ def harvest_au():
     return save("au", rows)
 
 
-SOURCES = {"ia": harvest_ia, "ol": harvest_ol, "gb": harvest_gb, "loc": harvest_loc, "nl": harvest_nl, "au": harvest_au, "oa": harvest_oa, "doab": harvest_doab, "ws": harvest_ws}
+SOURCES = {"ia": harvest_ia, "ol": harvest_ol, "gb": harvest_gb, "loc": harvest_loc, "nl": harvest_nl, "au": harvest_au, "oa": harvest_oa, "doab": harvest_doab, "ws": harvest_ws, "ht": harvest_ht, "cm": harvest_cm, "wi": harvest_wi}
+
+
+class Deadline(Exception):
+    pass
+
+
+def _alarm(*_):
+    raise Deadline()
 
 
 def main():
     which = sys.argv[1:] or list(SOURCES)
     t0 = time.time()
+    max_s = int(os.environ.get("MAX_SECONDS", "0") or 0)
+    if max_s:
+        signal.signal(signal.SIGALRM, _alarm)
+        signal.alarm(max_s)
     for name in which:
         t = time.time()
         try:
             SOURCES[name]()
+        except Deadline:
+            log(f"[{name}] time budget reached - saving partial results")
+            if LIVE.get(name):
+                save(name, LIVE[name])
         except Exception:
             log(f"[{name}] FAILED\n" + traceback.format_exc())
+            if LIVE.get(name):
+                save(name, LIVE[name])
         log(f"[{name}] took {int(time.time() - t)}s")
     log(f"total {int(time.time() - t0)}s")
     (OUT / f"log_{'_'.join(which)}.txt").write_text("\n".join(LOG) + "\n", encoding="utf-8")

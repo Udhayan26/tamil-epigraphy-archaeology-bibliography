@@ -215,7 +215,7 @@ def main():
             u = r.get("url", "")
             if u.lower().endswith(".pdf"):
                 r.update(access="open", download_url=u, read_url=u)
-            elif re.search(r"(archive\.org/details|tamildigitallibrary\.in/(Articles|book)|whatisindia\.com|library\.cict\.in)", u):
+            elif re.search(r"(archive\.org/details|babel\.hathitrust|wikisource\.org|tamildigitallibrary\.in/(Articles|book)|whatisindia\.com|library\.cict\.in)", u):
                 r.update(access="open", read_url=u)
             else:
                 r.update(access="catalogue" if u else "")
@@ -246,7 +246,7 @@ def main():
         for f in ("isbn", "pages", "description", "full_text"):
             if r.get(f) and not m.get(f):
                 m[f] = r[f]
-        rank = {"open": 3, "preview": 2, "borrow": 1, "catalogue": 0, "": 0}
+        rank = {"open": 4, "open-us": 3, "preview": 2, "borrow": 1, "catalogue": 0, "": 0}
         if rank.get(r.get("access", ""), 0) > rank.get(m.get("access", ""), 0):
             m["access"], m["read_url"] = r.get("access"), r.get("read_url", "")
         if r.get("download_url") and not m.get("download_url"):
