@@ -32,11 +32,15 @@ def log(*a):
     LOG.append(s)
 
 
-def get(url, tries=4, as_json=True, sleep=0.4):
+BROWSER_UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
+
+
+def get(url, tries=4, as_json=True, sleep=0.4, data=None, ua=None):
     last = None
     for i in range(tries):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
+            body = urllib.parse.urlencode(data).encode() if data else None
+            req = urllib.request.Request(url, data=body, headers={"User-Agent": ua or UA, "Accept": "application/json, text/html;q=0.9, */*;q=0.8"})
             with urllib.request.urlopen(req, timeout=60) as r:
                 data = r.read().decode("utf-8", "replace")
             time.sleep(sleep)
@@ -452,13 +456,13 @@ def harvest_nl():
         log(f"[nl] {t}: titles so far {len(titles)}")
     tl = list(titles)
     rows = live("nl")
-    for i in range(0, len(tl), 50):
-        batch = tl[i:i + 50]
-        url = NL_API + "?" + urllib.parse.urlencode({"action": "query", "prop": "revisions", "rvprop": "content",
-                                                     "rvslots": "main", "titles": "|".join(batch), "format": "json",
-                                                     "formatversion": 2})
+    log(f"[nl] fetching content of {len(tl)} pages")
+    for i in range(0, len(tl), 20):
+        batch = tl[i:i + 20]
         try:
-            j = get(url, sleep=0.6)
+            j = get(NL_API, sleep=0.6, data={"action": "query", "prop": "revisions", "rvprop": "content",
+                                             "rvslots": "main", "titles": "|".join(batch), "format": "json",
+                                             "formatversion": 2})
         except Exception as e:
             log("[nl] content ERR", e)
             continue
@@ -535,11 +539,15 @@ def harvest_oa():
 def harvest_doab():
     rows = live("doab")
     for t in EN_TERMS[:40] + ["Tamil", "Tamil Nadu archaeology", "South India epigraphy", "Chola", "Pallava", "Pandya"]:
-        url = "https://directory.doabooks.org/rest/search?" + urllib.parse.urlencode({"query": t, "expand": "metadata,bitstreams", "limit": 100})
-        try:
-            j = get(url, sleep=0.8)
-        except Exception as e:
-            log("[doab] ERR", t, e)
+        j = None
+        for host in ("https://directory.doabooks.org", "https://library.oapen.org"):
+            url = host + "/rest/search?" + urllib.parse.urlencode({"query": t, "expand": "metadata,bitstreams", "limit": 100})
+            try:
+                j = get(url, sleep=0.8, ua=BROWSER_UA, tries=2)
+                break
+            except Exception as e:
+                log("[doab] ERR", host[8:30], t, e)
+        if j is None:
             continue
         if not rows:
             sample("doab_search", j[:3] if isinstance(j, list) else j)
@@ -733,7 +741,14 @@ def harvest_wi():
     if not robots_ok(base):
         log("[wi] robots.txt disallows - skipped")
         return save("wi", rows)
-    html = get(base, as_json=False)
+    html = ""
+    for b in (base, base.replace("https://", "http://"), base.replace("www.", "")):
+        try:
+            html = get(b, as_json=False, ua=BROWSER_UA, tries=2)
+            base = b
+            break
+        except Exception as e:
+            log("[wi] ERR", b, e)
     for href, text in re.findall(r'<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', html, flags=re.S | re.I):
         text = re.sub(r"<[^>]+>|\s+", " ", text).strip()
         if not re.search(r"(vol|volume|part|epigraphia|inscriptions)", text + href, re.I):
