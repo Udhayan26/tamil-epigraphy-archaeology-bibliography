@@ -38,7 +38,7 @@ RULES = [
     ("JOU", r"(^இதழ்|\bjournal\b|bulletin|quarterly|காலாண்டு|சிறப்பிதழ்|\bmagazine\b|ஆவணம் :|^kalvettu[- ]?(april|jan|jul|oct|magazine)|^கல்வெட்டு\s*(ஏப்ரல்|ஜனவரி|சனவரி|ஜூலை|சூலை|அக்டோபர்|ஆகஸ்டு|சித்திரை|தை|ஐப்பசி|\d)|acl-arch|indian archaeology.{0,5}a review|ancient india|puratattva|indian antiquary)"),
     ("HER", r"(நடுக(ல்|ற்)|வீரக்கல்|nadukal|natukal|nadukar|natukar|hero[- ]?stone|memorial stone|sati stone|virakal|veerakal)"),
     ("ROC", r"(பாறை ஓவிய|குகை ஓவிய|ஓவியங்கள்|rock[- ]?art|rock[- ]paint|petroglyph|cave paint|pictograph|mural|paintings? in tamil|oviya)"),
-    ("TBR", r"(பிராமி|தமிழி\b|வட்டெழுத்து|brahmi|tamili\b|vatteluttu|vattezhuthu|graffiti|potsherd|early writing|script)"),
+    ("TBR", r"(பிராமி|தமிழி\b|வட்டெழுத்து|brahmi|tamili\b|vatteluttu|vattezhuthu|graffiti|potsherd|early writing|\bscripts?\b)"),
     ("CPP", r"(செப்பேடு|பட்டய|copper[- ]?plates?|ceppe|seppe|cheppe|pattayam|charter)"),
     ("NUM", r"(நாணய|காசு|\bcoins?\b|numismat)"),
     ("EXC", r"(அகழாய்வு|அகழ்வாய்வு|excavat|keeladi|keezhadi|கீழடி|adichanallur|ஆதிச்சநல்லூர்|arikamedu|kodumanal|கொடுமணல்|porunthal|பொருந்தல்|alagankulam|அழகன்குளம்|kaveripattinam|poompuhar|பூம்புகார்|sivagalai|சிவகளை|uraiyur|korkai|mangulam|modur|vasavasamudram|akalayvu|agazhaivu)"),
@@ -167,6 +167,30 @@ def skeleton(title):
     return re.sub(r"(.)\1+", r"\1", t)
 
 
+BY_RX = re.compile(r"^(?P<t>.{4,}?)\s+[Bb]y\s+(?P<a>[A-Z][\w.' ]{2,60}?)\s+(?P<lang>Tamil|English|Sanskrit|Telugu)\b(?P<rest>.*)$")
+SERIES_EDITORS = re.compile(r"(south[- ]indian inscriptions|epigraphia indica|annual report)", re.I)
+
+
+def fix_by_title(r):
+    """Archive uploads titled '<Title> By <Author> <Lang> <Subject> <Place> <Year> <Publisher>'."""
+    m = BY_RX.match(r["title"])
+    if m:
+        rest = m.group("rest")
+        y = re.search(r"\b(1[6-9]\d\d|20[0-3]\d)\b", rest)
+        r["title"] = m.group("t").strip(" -:,")
+        r["authors"] = m.group("a").strip()
+        if y:
+            r["year"] = r.get("year") or y.group(1)
+            pub = rest[y.end():].strip(" -:,")
+            if pub and not r.get("publisher"):
+                r["publisher"] = pub[:120]
+        r["language"] = r.get("language") or m.group("lang")
+        return
+    # uploader name in 'creator' for government series volumes -> drop it
+    if SERIES_EDITORS.search(r["title"]) and r.get("authors") and not re.search(r"(hultzsch|krishna sastri|venkayya|aiyar|ayyar|rao|sastri|survey|government|superintendent|epigraph)", r["authors"], re.I):
+        r["authors"] = ""
+
+
 # ------------------------------------------------------------ curated
 def load_curated():
     recs = []
@@ -201,7 +225,18 @@ SOURCE_RANK = {"Curated": 0, "Tamil Digital Library": 1, "Internet Archive": 2, 
 def main():
     curated, harvested = load_curated(), load_harvest()
     heritage, books = [], []
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from harvest import relevant
+    dropped = 0
     for r in harvested:
+        if r["source"] not in ("Shared drive", "Listed site") and not r.get("found_by") and not relevant(r.get("title", ""), r.get("subjects", "")):
+            dropped += 1
+            continue
+        if r["source"] == "Internet Archive":
+            fix_by_title(r)
+        if r["source"] == "Internet Archive" and "access" not in r:
+            borrow = re.search(r"(inlibrary|printdisabled|lendinglibrary)", r.get("collection", ""), re.I)
+            r["access"], r["read_url"] = ("borrow", "") if borrow else ("open", r["url"])
         sid = r.get("source_id", "")
         r["is_journal"] = bool(RULES[0][1].search(r["title"] or "")) or bool(re.search(r"(-itlll-|aclarch|kalveddu_|tva-prl|kalvettu-magazine|kalvettu-april)", sid, re.I))
         r["title"] = clean_title(r["title"])
@@ -378,6 +413,7 @@ def main():
         md.append("")
     (ROOT / "BIBLIOGRAPHY.md").write_text("\n".join(md), encoding="utf-8")
     print(json.dumps({k: v for k, v in meta.items() if k != "categories"}, ensure_ascii=False))
+    print("dropped by relevance re-check:", dropped)
     print({k: counters[k] for k in CATEGORIES})
 
 

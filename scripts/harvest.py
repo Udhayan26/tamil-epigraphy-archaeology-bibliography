@@ -124,10 +124,10 @@ SUBJECTS = [
 
 # ---------------------------------------------------------------- relevance
 TA_KW = re.compile(r"(கல்வெட்டு|கல்வெட்டி|செப்பேடு|நடுக(ல்|ற்)|வீரக்கல்|தொல்லியல்|தொல்பொருள்|அகழாய்வு|அகழ்வாய்வு|அகழ்வைப்பக|பாறை ஓவிய|குகை ஓவிய|பிராமி|தமிழி|வட்டெழுத்து|பட்டய|சாசன|நாணய|பழங்காசு|காசுகள்|பெருங்கற்|முதுமக்கள்|தாழி|கீழடி|ஆதிச்சநல்லூர்|கொடுமணல்|சிவகளை|பொருந்தல்|அழகன்குளம்|தொல்லெழுத்|தொல்பழங்கால)")
-RO_KW = re.compile(r"(kal[vw]e[td]+[ui]|kalved+u|kalvettiyal|[sc]h?ep+[ae][dt]u|natukal|nadukal|natukar|nadukar|t?hol+iyal|tolliyal|tholporul|agazh|akazh|akal[aā]yvu|akalvaip|vat+e[lz]h?ut+u|pattayam|sasan|sāsan|pirami|piraami)", re.I)
+RO_KW = re.compile(r"(kal[vw]e[td]+[ui]|kalved+u|kalvettiyal|[sc]h?ep+[ae][dt]u|natukal|nadukal|natukar|nadukar|t?hol+iyal|tolliyal|tholporul|agazh|akazh|akal[aā]yvu|akalvaip|vat+e[lz]h?ut+u|pirami|piraami)", re.I)
 EN_KW = re.compile(r"(inscri|epigraph|palaeograph|paleograph|copper[- ]?plate|hero[- ]?stone|memorial stone|rock art|rock[- ]paint|petroglyph|cave paint|excavat|archaeolog|antiquit|antiquarian|megalith|prehistor|neolithic|palaeolith|urn[- ]burial|dolmen|cairn|brahmi|graffiti|numismat|\bcoins?\b|keeladi|keezhadi|adichanallur|arikamedu|kodumanal|porunthal|alagankulam|kaveripattinam|poompuhar|sivagalai|mangulam|epigraphia|copper plates)", re.I)
-CTX = re.compile(r"(tamil|tamizh|madras|south india|southern india|dravid|chola|cola|pandya|pandiya|pallava|chera|pudukkottai|tanjore|thanjavur|madurai|kanchi|tirunelveli|coimbatore|kongu|salem|trichy|tiruchirappalli|vellore|arcot|chingleput|chengalpattu|kanyakumari|travancore|nilgiri|dharmapuri|krishnagiri|ramanathapuram|sivaganga|thoothukudi|tuticorin|pondicherry|puducherry|vijayanagar|nayak|sri lanka|ceylon|jaffna|keeladi|keezhadi|adichanallur|arikamedu|kodumanal|porunthal|alagankulam|kaveripattinam|poompuhar|sivagalai|south indian|uraiyur|korkai|kanchipuram|kanchi|mamallapuram|mahabalipuram|chidambaram|kumbakonam|karur|erode|tiruvannamalai|villupuram|cuddalore|nagapattinam|tiruvarur|virudhunagar|theni|dindigul|namakkal|perambalur|ariyalur|karaikal|gingee|senji|uttaramerur|uttiramerur|tirumalai|tirupati|sittannavasal|kalugumalai|kazhugumalai|vellalur|paiyampalli|attirampakkam|pallavaram|tirukkoyilur|tiruchendur|rameswaram|nilgiris|kerala|malabar|vatteluttu|grantha|kongu|nanjil|chingleput|tamilaham|tamilakam|sangam)", re.I)
-NOISE = re.compile(r"(kashmir|bengal|assam|orissa|odisha|nepal|tibet|burma|myanmar|persian|arabic|egypt|greek|rome\b|roman empire|babylon|maya|mesopotam|china|chinese|japan|korea|europe|britain|england|scotland|ireland|america|mexico|africa|cambodia|java|indonesia|bihar|bundelkhand|kalinga|maharashtra|gujarat|rajasthan|punjab|sindh|harappa|mohenjo|mathura|gandhara|afghan|iran|israel|palestine|bible|biblical|assyria|hittite|aegean|etrusc|viking|anglo|celtic|norse|canaan|phoenic|crete|turkey|syria)", re.I)
+CTX = re.compile(r"(?<![a-z])(tamil|tamizh|madras|south india|southern india|dravid|chola|cola|pandya|pandiya|pallava|chera|pudukkottai|tanjore|thanjavur|madurai|kanchi|tirunelveli|coimbatore|kongu|salem|trichy|tiruchirappalli|vellore|arcot|chingleput|chengalpattu|kanyakumari|travancore|nilgiri|dharmapuri|krishnagiri|ramanathapuram|sivaganga|thoothukudi|tuticorin|pondicherry|puducherry|vijayanagar|nayak|sri lanka|ceylon|jaffna|keeladi|keezhadi|adichanallur|arikamedu|kodumanal|porunthal|alagankulam|kaveripattinam|poompuhar|sivagalai|south indian|uraiyur|korkai|kanchipuram|kanchi|mamallapuram|mahabalipuram|chidambaram|kumbakonam|karur|erode|tiruvannamalai|villupuram|cuddalore|nagapattinam|tiruvarur|virudhunagar|theni|dindigul|namakkal|perambalur|ariyalur|karaikal|gingee|senji|uttaramerur|uttiramerur|tirumalai|tirupati|sittannavasal|kalugumalai|kazhugumalai|vellalur|paiyampalli|attirampakkam|pallavaram|tirukkoyilur|tiruchendur|rameswaram|nilgiris|kerala|malabar|vatteluttu|grantha|kongu|nanjil|chingleput|tamilaham|tamilakam|sangam)(?![a-z])", re.I)
+NOISE = re.compile(r"(athen|attic|jerusalem|yerushal|pompei|ercolan|herculan|graec|inscriptionum|inscriptiones|sylloge|lapidarium|wyandotte|indiana|bible|testament|gospel|epistle|hebrew|latin|italic|anatolia|asia minor|cyprus|troy|sinai|kiev|russia|slav|canarese|kannada|telugu|andhra|sravana|belgola|amaravati|pahlav|kashmir|bengal|assam|orissa|odisha|nepal|tibet|burma|myanmar|persian|arabic|egypt|greek|rome\b|roman empire|babylon|maya|mesopotam|china|chinese|japan|korea|europe|britain|england|scotland|ireland|america|mexico|africa|cambodia|java|indonesia|bihar|bundelkhand|kalinga|maharashtra|gujarat|rajasthan|punjab|sindh|harappa|mohenjo|mathura|gandhara|afghan|iran|israel|palestine|bible|biblical|assyria|hittite|aegean|etrusc|viking|anglo|celtic|norse|canaan|phoenic|crete|turkey|syria)", re.I)
 TAMIL_SCRIPT = re.compile(r"[஀-௿]")
 
 
@@ -144,10 +144,19 @@ def fold(t):
     return unicodedata.normalize("NFC", "".join(out)).replace("ḻ", "l").replace("ḷ", "l")
 
 
+OTHER_SCRIPT = re.compile(r"[\u0C00-\u0D7F]")   # Telugu, Kannada, Malayalam
+
+
 def relevant(title, subjects="", extra=""):
     t = fold(s(title))
     blob = fold(f"{t} {s(subjects)} {s(extra)}")
-    if SERIES.search(t) or TA_KW.search(blob) or RO_KW.search(t):
+    if SERIES.search(t):
+        return True
+    if OTHER_SCRIPT.search(t) and not TAMIL_SCRIPT.search(t):
+        return False
+    if re.search(r"(sasanamu|sasanagalu|shasanagalu|sasanalu)", t, re.I):
+        return False
+    if TA_KW.search(blob) or RO_KW.search(t):
         return True
     if EN_KW.search(blob) and CTX.search(blob) and not NOISE.search(t):
         return True
@@ -326,15 +335,32 @@ def harvest_ol():
 
 
 # ---------------------------------------------------------------- Google Books
+GB_KEY = os.environ.get("GOOGLE_BOOKS_API_KEY", "")
+GB_429 = {"n": 0}
+
+
+def gb_get(params):
+    if GB_429["n"] >= 6:
+        raise RuntimeError("Google Books quota exhausted for this run")
+    if GB_KEY:
+        params = {**params, "key": GB_KEY}
+    try:
+        j = get("https://www.googleapis.com/books/v1/volumes?" + urllib.parse.urlencode(params), sleep=1.2, tries=3)
+        GB_429["n"] = 0
+        return j
+    except Exception as e:
+        if getattr(e, "code", None) == 429:
+            GB_429["n"] += 1
+        raise
+
+
 def harvest_gb():
     rows = live("gb")
     qs = [t for t in ROMAN_TERMS + EN_TERMS + TAMIL_TERMS] + [f'subject:"{t.split("--")[0]}"' for t in SUBJECTS]
     for t in qs:
         for start in range(0, 400, 40):
-            url = "https://www.googleapis.com/books/v1/volumes?" + urllib.parse.urlencode(
-                {"q": t, "maxResults": 40, "startIndex": start, "printType": "books"})
             try:
-                j = get(url, sleep=1.2)
+                j = gb_get({"q": t, "maxResults": 40, "startIndex": start, "printType": "books"})
             except Exception as e:
                 log("[gb] ERR", t, e)
                 break
@@ -413,7 +439,12 @@ def harvest_loc():
                             pdf = res_["pdf"]; break
                     rows[-1].update(access="open", read_url=rows[-1]["url"], download_url=pdf)
             pag = j.get("pagination") or {}
-            if not pag.get("next") or not res:
+            if isinstance(pag, dict):
+                more = bool(pag.get("next"))
+            else:
+                m_ = re.match(r"\s*(\d+)\s+of\s+(\d+)", str(pag))
+                more = bool(m_ and int(m_.group(1)) < int(m_.group(2)))
+            if not more or not res:
                 break
         log(f"[loc] {t}: total so far {len(rows)}")
     return save("loc", rows)
@@ -1064,7 +1095,7 @@ def harvest_au():
         n = 0
         for start in range(0, 200, 40):
             try:
-                j = get("https://www.googleapis.com/books/v1/volumes?" + urllib.parse.urlencode({"q": q, "maxResults": 40, "startIndex": start}), sleep=1.2)
+                j = gb_get({"q": q, "maxResults": 40, "startIndex": start})
             except Exception as e:
                 log("[au/gb] ERR", q, e)
                 break
