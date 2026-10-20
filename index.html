@@ -51,6 +51,9 @@ a.open{background:var(--ok-soft);color:var(--ok);padding:3px 10px;border-radius:
 footer{border-top:1px solid var(--line);padding:24px 0;color:var(--muted);font-size:13px}
 footer a{color:var(--accent)}
 .empty{padding:40px;text-align:center;color:var(--muted)}
+.more{display:block;margin:18px auto;font:inherit;background:var(--panel);border:1px solid var(--line);color:var(--accent);border-radius:8px;padding:10px 22px;cursor:pointer}
+.who{font-size:14px;margin:6px 0 0}.who b{font-weight:600;color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.03em;margin-right:4px}
+.src{font-size:12px;color:var(--muted)}
 button.theme{margin-left:auto;font:inherit;font-size:13px;background:none;border:1px solid var(--line);color:var(--muted);border-radius:8px;padding:8px 10px;cursor:pointer}
 @media (max-width:560px){.card{grid-template-columns:1fr}.yr{font-size:16px}.yr small{display:inline;margin-left:6px}}
 </style>
@@ -58,20 +61,21 @@ button.theme{margin-left:auto;font:inherit;font-size:13px;background:none;border
 <body>
 <header>
   <div class="wrap">
-    <h1>Tamil Epigraphy, Archaeology, Rock Art &amp; Hero Stones — Bibliography</h1>
-    <p class="ta" style="font-size:18px;margin:0 0 10px">தமிழ்க் கல்வெட்டியல், தொல்லியல், பாறை ஓவியம், நடுகல் — நூல் பட்டியல்</p>
-    <p class="sub">Books, corpora, excavation reports, journals and online resources in Tamil and English, from the 1820s to 2026 — each with metadata and links. Green “Open” links are verified direct links; the others are ready-made searches in Internet Archive, Tamil Digital Library, Open Library and WorldCat.</p>
+    <h1>Tamil Epigraphy, Inscriptions, Archaeology, Rock Art &amp; Hero Stones — Books</h1>
+    <p class="ta" style="font-size:18px;margin:0 0 10px">தமிழ்க் கல்வெட்டியல், கல்வெட்டுகள், தொல்லியல், பாறை ஓவியம், நடுகல் — நூல்கள்</p>
+    <p class="sub">Tamil and English books, inscription volumes, excavation reports and journals from about 1820 to today, with author or editor, publisher, year and links. Collected from Internet Archive (including Tamil Digital Library, Roja Muthiah and Digital Library of India copies), Open Library, Google Books, the Library of Congress, Noolaham and a hand-checked core list. The list is refreshed weekly.</p>
     <div class="stats" id="stats"></div>
   </div>
 </header>
 <div class="controls">
   <div class="wrap">
     <div class="row">
-      <input type="search" id="q" placeholder="Search title, author, place, notes… / தேடுக" aria-label="Search">
+      <input type="search" id="q" placeholder="Search title, author, publisher, place… / நூல், ஆசிரியர், பதிப்பகம் தேடுக" aria-label="Search">
       <select id="lang" aria-label="Language"><option value="">All languages</option><option>Tamil</option><option>English</option><option>Tamil-English</option></select>
       <select id="period" aria-label="Period"></select>
-      <select id="link" aria-label="Link"><option value="">All links</option><option value="verified">Verified link only</option><option value="search-only">Search-only</option></select>
-      <select id="sort" aria-label="Sort"><option value="year">Sort: year ↑</option><option value="yeard">Sort: year ↓</option><option value="title">Sort: title</option></select>
+      <select id="src" aria-label="Source"></select>
+      <select id="has" aria-label="Metadata"><option value="">All records</option><option value="a">With author</option><option value="p">With publisher</option><option value="ap">With author + publisher</option><option value="cur">Hand-checked core list</option><option value="book">Books only (no journal issues)</option></select>
+      <select id="sort" aria-label="Sort"><option value="year">Year ↑</option><option value="yeard">Year ↓</option><option value="title">Title</option><option value="author">Author</option></select>
       <button class="theme" id="theme" type="button">◐ Theme</button>
     </div>
     <div class="cats" id="cats" role="toolbar" aria-label="Categories"></div>
@@ -81,11 +85,12 @@ button.theme{margin-left:auto;font:inherit;font-size:13px;background:none;border
   <div class="wrap">
     <p class="count" id="count"></p>
     <div class="list" id="list"></div>
+    <button class="more" id="more" type="button" hidden>Show more</button>
   </div>
 </main>
 <footer>
   <div class="wrap">
-    Data: <a href="data/bibliography.csv">CSV</a> · <a href="data/bibliography.json">JSON</a> · <a href="BIBLIOGRAPHY.md">Markdown list</a> · <a href="https://github.com/Udhayan26">github.com/Udhayan26</a>. Compiled October 2026; additions and corrections welcome via GitHub issues.
+    Download: <a href="data/bibliography.csv">CSV (Excel)</a> · <a href="data/bibliography.json">JSON</a> · <a href="BIBLIOGRAPHY.md">Category-wise list</a> · <a href="https://github.com/Udhayan26/tamil-epigraphy-archaeology-bibliography">GitHub repo</a> · Updated <span id="gen"></span>. Harvested records come from library catalogues, so check details against the book itself.
   </div>
 </footer>
 <script src="data/bibliography.js"></script>
@@ -93,78 +98,85 @@ button.theme{margin-left:auto;font:inherit;font-size:13px;background:none;border
 (function(){
   const D = window.BIB, R = D.records, C = D.categories;
   const $ = id => document.getElementById(id);
-  const state = {cat:"", q:"", lang:"", period:"", link:"", sort:"year"};
+  const PAGE = 60;
+  const state = {cat:"", q:"", lang:"", period:"", src:"", has:"", sort:"year", shown:PAGE};
   const esc = s => String(s||"").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
   const yr = r => { const m = /^(\d{4})/.exec(r.year||""); return m ? +m[1] : null; };
+  R.forEach(r => r._s = [r.title,r.alt_title,r.authors,r.publisher,r.place,r.notes,r.series,r.id,r.year,r.isbn].join(" ").toLowerCase());
+  $("gen").textContent = D.generated || "";
 
-  // stats
   const years = R.map(yr).filter(Boolean);
-  const tamil = R.filter(r => r.language.includes("Tamil")).length;
   $("stats").innerHTML = [
-    [R.length, "records"], [Object.keys(C).length, "categories"],
-    [R.filter(r=>r.url).length, "verified links"], [tamil, "Tamil / bilingual"],
+    [R.length.toLocaleString(), "books & volumes"], [D.with_author.toLocaleString(), "with author"],
+    [D.with_publisher.toLocaleString(), "with publisher"], [R.filter(r=>r.language!=="English").length.toLocaleString(), "Tamil / bilingual"],
     [Math.min(...years)+"–"+Math.max(...years), "years covered"]
   ].map(([b,s]) => `<div class="stat"><b>${b}</b><span>${s}</span></div>`).join("");
 
-  // periods
   const periods = [...new Set(R.map(r=>r.period))].sort();
   $("period").innerHTML = '<option value="">All periods</option>' + periods.map(p=>`<option>${esc(p)}</option>`).join("");
+  const srcs = {}; R.forEach(r => r.sources.forEach(s => srcs[s]=(srcs[s]||0)+1));
+  $("src").innerHTML = '<option value="">All sources</option>' + Object.entries(srcs).sort((a,b)=>b[1]-a[1]).map(([s,n])=>`<option value="${esc(s)}">${esc(s)} (${n})</option>`).join("");
 
-  // categories
   const counts = {}; R.forEach(r => counts[r.category] = (counts[r.category]||0)+1);
   $("cats").innerHTML = `<button class="cat" data-c="" aria-pressed="true">All<small>${R.length}</small></button>` +
-    Object.entries(C).map(([k,v]) => `<button class="cat" data-c="${k}" aria-pressed="false" title="${esc(v.ta)}">${esc(v.en)}<small>${counts[k]||0}</small></button>`).join("");
+    Object.entries(C).filter(([k])=>counts[k]).map(([k,v]) => `<button class="cat" data-c="${k}" aria-pressed="false" title="${esc(v.ta)}">${esc(v.en)}<small>${counts[k]}</small></button>`).join("");
   $("cats").addEventListener("click", e => {
     const b = e.target.closest(".cat"); if (!b) return;
-    state.cat = b.dataset.c;
+    state.cat = b.dataset.c; state.shown = PAGE;
     document.querySelectorAll(".cat").forEach(x => x.setAttribute("aria-pressed", x===b));
     render();
   });
 
-  function render(){
+  function filtered(){
     const q = state.q.toLowerCase().trim();
+    const terms = q ? q.split(/\s+/) : [];
     let rs = R.filter(r =>
       (!state.cat || r.category===state.cat) &&
       (!state.lang || r.language===state.lang) &&
       (!state.period || r.period===state.period) &&
-      (!state.link || r.link_status===state.link) &&
-      (!q || [r.title,r.alt_title,r.authors,r.publisher,r.place,r.notes,r.series,r.id,r.year].join(" ").toLowerCase().includes(q)));
+      (!state.src || r.sources.includes(state.src)) &&
+      (!state.has || (state.has==="a" ? r.authors : state.has==="p" ? r.publisher : state.has==="ap" ? (r.authors && r.publisher) : state.has==="cur" ? r.curated : r.category!=="JOU")) &&
+      terms.every(t => r._s.includes(t)));
     const big = 99999;
     if (state.sort==="title") rs.sort((a,b)=>a.title.localeCompare(b.title));
+    else if (state.sort==="author") rs.sort((a,b)=>(a.authors||"~").localeCompare(b.authors||"~"));
     else rs.sort((a,b)=> state.sort==="year" ? (yr(a)??big)-(yr(b)??big) : (yr(b)??-1)-(yr(a)??-1));
-    $("count").textContent = `Showing ${rs.length} of ${R.length}`;
-    if (!rs.length) { $("list").innerHTML = '<div class="empty">No matches. Try another word or category.</div>'; return; }
-    $("list").innerHTML = rs.map(r => {
-      const meta = [r.authors, r.publisher, r.place].filter(Boolean).map(x=>`<span>${esc(x)}</span>`).join("");
-      const s = r.search;
-      return `<article class="card">
-        <div class="yr">${esc(r.year||"n.d.")}<small>${esc(r.language)}</small></div>
-        <div>
-          <h2 class="t">${esc(r.title)}</h2>
-          ${r.alt_title?`<p class="alt">${esc(r.alt_title)}</p>`:""}
-          ${meta?`<p class="meta">${meta}</p>`:""}
-          ${r.notes?`<p class="notes">${esc(r.notes)}</p>`:""}
-          <div class="tags"><span class="tag">${esc(C[r.category].en)}</span><span class="tag">${esc(r.type)}</span>${r.series?`<span class="tag">${esc(r.series)}</span>`:""}<span class="tag id">${r.id}</span></div>
-          <div class="links">
-            ${r.url?`<a class="open" href="${esc(r.url)}" target="_blank" rel="noopener">✓ Open</a>`:""}
-            <a href="${esc(s.archive_org)}" target="_blank" rel="noopener">Internet Archive</a>
-            <a href="${esc(s.tamil_digital_library)}" target="_blank" rel="noopener">Tamil Digital Library</a>
-            <a href="${esc(s.open_library)}" target="_blank" rel="noopener">Open Library</a>
-            <a href="${esc(s.worldcat)}" target="_blank" rel="noopener">WorldCat</a>
-            <a href="${esc(s.google_books)}" target="_blank" rel="noopener">Google Books</a>
-          </div>
-        </div></article>`;
-    }).join("");
+    return rs;
   }
-  $("q").addEventListener("input", e => { state.q = e.target.value; render(); });
-  ["lang","period","link","sort"].forEach(id => $(id).addEventListener("change", e => { state[id] = e.target.value; render(); }));
+  function card(r){
+    const links = (r.links||[]).slice(0,4).map((l,i)=>`<a class="${i?"":"open"}" href="${esc(l.url)}" target="_blank" rel="noopener">${i?"":"✓ "}${esc(l.source)}</a>`).join("");
+    const qs = encodeURIComponent((r.title+" "+(r.authors||"").split(/[;,]/)[0]).slice(0,150));
+    return `<article class="card">
+      <div class="yr">${esc(r.year||"n.d.")}<small>${esc(r.language)}</small></div>
+      <div>
+        <h2 class="t">${esc(r.title)}</h2>
+        ${r.alt_title?`<p class="alt">${esc(r.alt_title)}</p>`:""}
+        <p class="who"><b>Author/Editor</b>${esc(r.authors||"—")}</p>
+        <p class="who"><b>Publisher</b>${esc([r.publisher,r.place].filter(Boolean).join(", ")||"—")}</p>
+        ${r.notes?`<p class="notes">${esc(r.notes)}</p>`:""}
+        <div class="tags"><span class="tag">${esc(C[r.category].en)}</span><span class="tag">${esc(r.type)}</span>${r.series?`<span class="tag">${esc(r.series)}</span>`:""}${r.isbn?`<span class="tag">ISBN ${esc(r.isbn)}</span>`:""}<span class="tag id">${r.id}</span></div>
+        <div class="links">${links}
+          <a href="https://www.worldcat.org/search?q=${qs}" target="_blank" rel="noopener">WorldCat</a>
+          <a href="https://www.google.com/search?tbm=bks&q=${qs}" target="_blank" rel="noopener">Google Books</a></div>
+        <div class="src">Source: ${esc(r.sources.join(", "))}</div>
+      </div></article>`;
+  }
+  function render(){
+    const rs = filtered();
+    $("count").textContent = `Showing ${Math.min(state.shown, rs.length).toLocaleString()} of ${rs.length.toLocaleString()} matching (${R.length.toLocaleString()} total)`;
+    $("list").innerHTML = rs.length ? rs.slice(0, state.shown).map(card).join("") : '<div class="empty">No matches. Try another word or category.</div>';
+    $("more").hidden = rs.length <= state.shown;
+  }
+  $("more").addEventListener("click", () => { state.shown += PAGE * 2; render(); });
+  let t; $("q").addEventListener("input", e => { clearTimeout(t); t = setTimeout(()=>{ state.q = e.target.value; state.shown = PAGE; render(); }, 150); });
+  ["lang","period","src","has","sort"].forEach(id => $(id).addEventListener("change", e => { state[id] = e.target.value; state.shown = PAGE; render(); }));
   $("theme").addEventListener("click", () => {
     const cur = document.documentElement.dataset.theme || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
     const next = cur==="dark" ? "light" : "dark";
     document.documentElement.dataset.theme = next;
     try { localStorage.setItem("bib-theme", next); } catch(e) {}
   });
-  try { const t = localStorage.getItem("bib-theme"); if (t) document.documentElement.dataset.theme = t; } catch(e) {}
+  try { const th = localStorage.getItem("bib-theme"); if (th) document.documentElement.dataset.theme = th; } catch(e) {}
   render();
 })();
 </script>
