@@ -2,7 +2,7 @@
  "meta": {
   "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. The mailto parameter doesn't raise this limit. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
   "count": 399,
-  "db_response_time_ms": 49,
+  "db_response_time_ms": 69,
   "page": null,
   "per_page": 200,
   "next_cursor": "IlsyLjAzNDUxNTksIDE3MDQwNjcyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQwNTQ2MDMyNiddIg==",
@@ -375,8 +375,8 @@
    "awards": [],
    "funders": [],
    "has_content": {
-    "pdf": false,
-    "grobid_xml": false
+    "grobid_xml": false,
+    "pdf": false
    },
    "content_urls": null,
    "referenced_works_count": 0,
@@ -832,8 +832,8 @@
    "awards": [],
    "funders": [],
    "has_content": {
-    "pdf": false,
-    "grobid_xml": false
+    "grobid_xml": false,
+    "pdf": false
    },
    "content_urls": null,
    "referenced_works_count": 0,
@@ -1310,8 +1310,8 @@
    "awards": [],
    "funders": [],
    "has_content": {
-    "pdf": false,
-    "grobid_xml": false
+    "grobid_xml": false,
+    "pdf": false
    },
    "content_urls": null,
    "referenced_works_count": 0,
@@ -1616,17 +1616,17 @@
    "sustainable_development_goals": [],
    "sustainable_development_goals_aurora": [
     {
-     "id": "https://metadata.un.org/sdg/4",
+     "display_name": "Quality education",
      "score": 0.6000000238418579,
-     "display_name": "Quality education"
+     "id": "https://metadata.un.org/sdg/4"
     }
    ],
    "study_designs": [],
    "awards": [],
    "funders": [],
    "has_content": {
-    "pdf": false,
-    "grobid_xml": false
+    "grobid_xml": false,
+    "pdf": false
    },
    "content_urls": null,
    "referenced_works_count": 0,
@@ -1909,8 +1909,8 @@
    "awards": [],
    "funders": [],
    "has_content": {
-    "pdf": false,
-    "grobid_xml": false
+    "grobid_xml": false,
+    "pdf": false
    },
    "content_urls": null,
    "referenced_works_count": 0,
@@ -2252,17 +2252,17 @@
    "sustainable_development_goals": [],
    "sustainable_development_goals_aurora": [
     {
-     "id": "https://metadata.un.org/sdg/4",
+     "display_name": "Quality education",
      "score": 0.7300000190734863,
-     "display_name": "Quality education"
+     "id": "https://metadata.un.org/sdg/4"
     }
    ],
    "study_designs": [],
    "awards": [],
    "funders": [],
    "has_content": {
-    "pdf": false,
-    "grobid_xml": false
+    "grobid_xml": false,
+    "pdf": false
    },
    "content_urls": null,
    "referenced_works_count": 0,

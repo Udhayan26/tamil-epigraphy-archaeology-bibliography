@@ -97,9 +97,9 @@
      "text/plain"
     ],
     "number": [
+     "05006173",
      "2024-04-29t15:29:17",
-     "16531439",
-     "05006173"
+     "16531439"
     ],
     "number_lccn": [
      "05006173"
@@ -121,8 +121,8 @@
     "partof": [
      "catalog",
      "general collections",
-     "south asian digital collection",
-     "selected digitized books"
+     "selected digitized books",
+     "south asian digital collection"
     ],
     "resources": [
      {
@@ -172,8 +172,8 @@
     ],
     "campaigns": [],
     "contributor": [
-     "hogenberg, frans",
-     "eytzinger, michael"
+     "eytzinger, michael",
+     "hogenberg, frans"
     ],
     "date": "1583",
     "dates": [
@@ -276,9 +276,9 @@
     ],
     "partof": [
      "rare book and special collections division",
+     "catalog",
      "rare book selections",
-     "lessing j. rosenwald collection",
-     "catalog"
+     "lessing j. rosenwald collection"
     ],
     "resources": [
      {
@@ -296,8 +296,8 @@
      "catalog"
     ],
     "subject": [
-     "netherlands",
      "history",
+     "netherlands",
      "eighty years' war"
     ],
     "timestamp": "2026-10-18T17:37:17.509Z",
@@ -321,13 +321,13 @@
     ],
     "campaigns": [],
     "contributor": [
-     "riviere & son",
-     "schilders, richard",
      "broughton, hugh",
-     "rogers, william",
-     "lessing j. rosenwald collection (library of congress)",
+     "butler, charles",
      "levis, howard coppuck",
-     "butler, charles"
+     "schilders, richard",
+     "riviere & son",
+     "rogers, william",
+     "lessing j. rosenwald collection (library of congress)"
     ],
     "date": "1620",
     "dates": [
@@ -414,10 +414,10 @@
      "english"
     ],
     "location": [
-     "netherlands",
+     "london",
      "middelburg",
      "england",
-     "london"
+     "netherlands"
     ],
     "location_city": [
      "london",
@@ -437,9 +437,9 @@
     ],
     "number": [
      "49040115",
-     "2022-02-23t10:12:59",
+     "06029172",
      "2022-02-24t10:16:07",
-     "06029172"
+     "2022-02-23t10:12:59"
     ],
     "number_lccn": [
      "06029172",
@@ -477,16 +477,16 @@
      "catalog"
     ],
     "subject": [
-     "bible",
-     "netherlands",
      "middelburg",
+     "criticism, interpretation, etc",
+     "netherlands",
+     "revelation",
+     "bookbinding (binding)",
+     "early works to 1800",
+     "bible",
+     "london",
      "england",
      "dlc",
-     "early works to 1800",
-     "london",
-     "bookbinding (binding)",
-     "criticism, interpretation, etc",
-     "revelation",
      "chronology"
     ],
     "timestamp": "2023-06-26T13:37:46.414Z",
@@ -595,9 +595,9 @@
      "text/plain"
     ],
     "number": [
-     "79312482",
+     "2026-05-01t18:55:12.200000",
      "http://www.loc.gov/resource/gdclccn.79312482",
-     "2026-05-01t18:55:12.200000"
+     "79312482"
     ],
     "number_former_id": [
      "http://www.loc.gov/resource/gdclccn.79312482"
@@ -617,11 +617,11 @@
      "book"
     ],
     "partof": [
-     "general collections",
-     "asian division",
-     "selected digitized books",
      "catalog",
+     "asian division",
+     "general collections",
      "world digital library",
+     "selected digitized books",
      "south asian digital collection"
     ],
     "resources": [
@@ -652,15 +652,15 @@
      "catalog"
     ],
     "subject": [
-     "gautama buddha",
+     "buddhist antiquities",
      "buddhist inscriptions",
      "nepal",
-     "active 259 b.c",
-     "buddhist antiquities",
+     "aśoka",
      "king of magadha",
      "tarai (india and nepal)",
-     "aśoka",
-     "birthplace"
+     "birthplace",
+     "gautama buddha",
+     "active 259 b.c"
     ],
     "timestamp": "2026-05-06T08:47:02.682Z",
     "title": "Monograph on Buddha Sakyamuni's birth-place in the Nepalese tarai",
@@ -1089,13 +1089,13 @@
      "lcweb"
     ],
     "subject": [
-     "library of congress classification",
-     "books",
-     "organization",
      "lcc",
      "schedules",
      "knowledge",
-     "class"
+     "class",
+     "books",
+     "organization",
+     "library of congress classification"
     ],
     "suspects": "no",
     "tagged": "no",
@@ -1286,9 +1286,9 @@
     ],
     "campaigns": [],
     "contributor": [
-     "jay i. kislak collection (library of congress)",
-     "giustiniani, agostino",
      "john boyd thacher collection (library of congress)",
+     "giustiniani, agostino",
+     "jay i. kislak collection (library of congress)",
      "sorba, laurentio lemellino"
     ],
     "date": "1537",
@@ -1369,8 +1369,8 @@
      "italian"
     ],
     "location": [
-     "italy",
-     "genoa"
+     "genoa",
+     "italy"
     ],
     "mime_type": [
      "text/xml",
@@ -1403,9 +1403,9 @@
      "book"
     ],
     "partof": [
+     "rare book and special collections division",
      "jay i. kislak collection",
      "rare book selections",
-     "rare book and special collections division",
      "catalog"
     ],
     "resources": [
@@ -1454,9 +1454,9 @@
     ],
     "campaigns": [],
     "contributor": [
+     "formigatti, camillo alessio",
      "cuneo, daniele",
-     "vergiani, vincenzo",
-     "formigatti, camillo alessio"
+     "vergiani, vincenzo"
     ],
     "date": "2017",
     "dates": [

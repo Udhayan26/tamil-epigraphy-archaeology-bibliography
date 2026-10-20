@@ -164,78 +164,6 @@
 [gb] Tamil graffiti potsherds: total so far 0
 [gb] ERR Sri Lanka Tamil inscriptions HTTP Error 429: Too Many Requests
 [gb] Sri Lanka Tamil inscriptions: total so far 0
-[gb] ERR Annual Report on Indian Epigraphy HTTP Error 429: Too Many Requests
-[gb] Annual Report on Indian Epigraphy: total so far 0
-[gb] ERR Annual Report on South Indian Epigraphy HTTP Error 429: Too Many Requests
-[gb] Annual Report on South Indian Epigraphy: total so far 0
-[gb] ERR Annual report on epigraphy Madras HTTP Error 429: Too Many Requests
-[gb] Annual report on epigraphy Madras: total so far 0
-[gb] ERR Report on epigraphy HTTP Error 429: Too Many Requests
-[gb] Report on epigraphy: total so far 0
-[gb] ERR Madras epigraphy HTTP Error 429: Too Many Requests
-[gb] Madras epigraphy: total so far 0
-[gb] ERR Government Epigraphist Madras HTTP Error 429: Too Many Requests
-[gb] Government Epigraphist Madras: total so far 0
-[gb] ERR Epigraphia Indica HTTP Error 429: Too Many Requests
-[gb] Epigraphia Indica: total so far 0
-[gb] ERR Indian Antiquary HTTP Error 429: Too Many Requests
-[gb] Indian Antiquary: total so far 0
-[gb] ERR Epigraphia Carnatica HTTP Error 429: Too Many Requests
-[gb] Epigraphia Carnatica: total so far 0
-[gb] ERR South Indian Inscriptions volume HTTP Error 429: Too Many Requests
-[gb] South Indian Inscriptions volume: total so far 0
-[gb] ERR Pudukkottai State inscriptions HTTP Error 429: Too Many Requests
-[gb] Pudukkottai State inscriptions: total so far 0
-[gb] ERR Travancore Archaeological Series HTTP Error 429: Too Many Requests
-[gb] Travancore Archaeological Series: total so far 0
-[gb] ERR Archaeological Survey of Southern India HTTP Error 429: Too Many Requests
-[gb] Archaeological Survey of Southern India: total so far 0
-[gb] ERR antiquarian remains Madras HTTP Error 429: Too Many Requests
-[gb] antiquarian remains Madras: total so far 0
-[gb] ERR Madras Government Museum bulletin HTTP Error 429: Too Many Requests
-[gb] Madras Government Museum bulletin: total so far 0
-[gb] ERR Ancient India bulletin HTTP Error 429: Too Many Requests
-[gb] Ancient India bulletin: total so far 0
-[gb] ERR Indian Archaeology a review HTTP Error 429: Too Many Requests
-[gb] Indian Archaeology a review: total so far 0
-[gb] ERR Annual report archaeological department southern circle HTTP Error 429: Too Many Requests
-[gb] Annual report archaeological department southern circle: total so far 0
-[gb] ERR Mackenzie collection HTTP Error 429: Too Many Requests
-[gb] Mackenzie collection: total so far 0
-[gb] ERR Tamil Nadu State Department of Archaeology HTTP Error 429: Too Many Requests
-[gb] Tamil Nadu State Department of Archaeology: total so far 0
-[gb] ERR Madras district gazetteer antiquities HTTP Error 429: Too Many Requests
-[gb] Madras district gazetteer antiquities: total so far 0
-[gb] ERR Vijayanagara inscriptions Tamil HTTP Error 429: Too Many Requests
-[gb] Vijayanagara inscriptions Tamil: total so far 0
-[gb] ERR Nayak inscriptions HTTP Error 429: Too Many Requests
-[gb] Nayak inscriptions: total so far 0
-[gb] ERR Sethupathi copper plates HTTP Error 429: Too Many Requests
-[gb] Sethupathi copper plates: total so far 0
-[gb] ERR Maratha Tanjore inscriptions HTTP Error 429: Too Many Requests
-[gb] Maratha Tanjore inscriptions: total so far 0
-[gb] ERR Kongu inscriptions HTTP Error 429: Too Many Requests
-[gb] Kongu inscriptions: total so far 0
-[gb] ERR Jain inscriptions Tamil HTTP Error 429: Too Many Requests
-[gb] Jain inscriptions Tamil: total so far 0
-[gb] ERR Buddhist Tamil inscriptions HTTP Error 429: Too Many Requests
-[gb] Buddhist Tamil inscriptions: total so far 0
-[gb] ERR Grantha script HTTP Error 429: Too Many Requests
-[gb] Grantha script: total so far 0
-[gb] ERR Tamil script evolution HTTP Error 429: Too Many Requests
-[gb] Tamil script evolution: total so far 0
-[gb] ERR Thanjavur Brihadisvara inscriptions HTTP Error 429: Too Many Requests
-[gb] Thanjavur Brihadisvara inscriptions: total so far 0
-[gb] ERR Chidambaram inscriptions HTTP Error 429: Too Many Requests
-[gb] Chidambaram inscriptions: total so far 0
-[gb] ERR Srirangam inscriptions HTTP Error 429: Too Many Requests
-[gb] Srirangam inscriptions: total so far 0
-[gb] ERR Kanchipuram inscriptions HTTP Error 429: Too Many Requests
-[gb] Kanchipuram inscriptions: total so far 0
-[gb] ERR Tirumalai Tirupati inscriptions HTTP Error 429: Too Many Requests
-[gb] Tirumalai Tirupati inscriptions: total so far 0
-[gb] ERR Madurai inscriptions HTTP Error 429: Too Many Requests
-[gb] Madurai inscriptions: total so far 0
 [gb] ERR கல்வெட்டு HTTP Error 429: Too Many Requests
 [gb] கல்வெட்டு: total so far 0
 [gb] ERR கல்வெட்டுகள் HTTP Error 429: Too Many Requests
@@ -341,5 +269,5 @@
 [gb] ERR subject:"Paleography, Tamil" HTTP Error 429: Too Many Requests
 [gb] subject:"Paleography, Tamil": total so far 0
 [gb] saved 0 records
-[gb] took 12878s
-total 12878s
+[gb] took 10159s
+total 10159s

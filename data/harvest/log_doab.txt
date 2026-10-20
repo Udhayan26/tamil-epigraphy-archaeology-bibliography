@@ -45,5 +45,5 @@
 [doab] ERR Pallava HTTP Error 403: Forbidden
 [doab] ERR Pandya HTTP Error 403: Forbidden
 [doab] saved 0 records
-[doab] took 1113s
-total 1113s
+[doab] took 1124s
+total 1124s

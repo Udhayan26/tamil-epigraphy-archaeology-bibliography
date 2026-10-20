@@ -125,7 +125,7 @@
 [ia]     4  subject:("Hero stones")
 [ia]     2  subject:("Memorial stones")
 [ia]   173  subject:("Rock paintings")
-[ia]   240  subject:("Petroglyphs")
+[ia]   241  subject:("Petroglyphs")
 [ia]    35  subject:("Copper plates")
 [ia]     3  subject:("Brahmi inscriptions")
 [ia]     0  subject:("Coins, Tamil")
@@ -140,9 +140,9 @@
 [ia]     0  collection:(tamilheritagefoundation) AND (title:(inscriptions OR epigraphy OR archaeology 
 [ia]     0  collection:(noolaham) AND (title:(inscriptions OR epigraphy OR archaeology OR excavation O
 [ia]  1043  collection:(TamilVirtualAcademy) AND (title:(inscriptions OR epigraphy OR archaeology OR e
-[ia] raw unique hits: 15667
+[ia] raw unique hits: 15668
 [ia] relevant: 5026
-[ia] enriching 4818 items via metadata API
+[ia] enriching 5026 items via metadata API
 [ia] enriched 500
 [ia] enriched 1000
 [ia] enriched 1500
@@ -152,7 +152,8 @@
 [ia] enriched 3500
 [ia] enriched 4000
 [ia] enriched 4500
+[ia] enriched 5000
 [ia] saved 5026 records
-[ia] took 4684s
-total 4684s
+[ia] took 3200s
+total 3200s
 exit 0
