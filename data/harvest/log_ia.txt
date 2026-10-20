@@ -117,6 +117,42 @@
 [ia]     0  title:(Jaina inscriptions Tamil Nadu)
 [ia]     4  title:(Tamil graffiti potsherds)
 [ia]     0  title:(Sri Lanka Tamil inscriptions)
+[ia]   184  title:(Annual Report on Indian Epigraphy)
+[ia]    28  title:(Annual Report on South Indian Epigraphy)
+[ia]     0  title:(Annual report on epigraphy Madras)
+[ia]   194  title:(Report on epigraphy)
+[ia]     0  (title:("Madras epigraphy") OR subject:("Madras epigraphy"))
+[ia]     0  title:(Government Epigraphist Madras)
+[ia]   342  (title:("Epigraphia Indica") OR subject:("Epigraphia Indica"))
+[ia]   356  (title:("Indian Antiquary") OR subject:("Indian Antiquary"))
+[ia]   149  (title:("Epigraphia Carnatica") OR subject:("Epigraphia Carnatica"))
+[ia]    12  title:(South Indian Inscriptions volume)
+[ia]     9  title:(Pudukkottai State inscriptions)
+[ia]    56  title:(Travancore Archaeological Series)
+[ia]     8  title:(Archaeological Survey of Southern India)
+[ia]     7  title:(antiquarian remains Madras)
+[ia]    49  title:(Madras Government Museum bulletin)
+[ia]    77  title:(Ancient India bulletin)
+[ia]    76  title:(Indian Archaeology a review)
+[ia]    20  title:(Annual report archaeological department southern circle)
+[ia]    18  (title:("Mackenzie collection") OR subject:("Mackenzie collection"))
+[ia]     0  title:(Tamil Nadu State Department of Archaeology)
+[ia]     0  title:(Madras district gazetteer antiquities)
+[ia]     2  title:(Vijayanagara inscriptions Tamil)
+[ia]     0  (title:("Nayak inscriptions") OR subject:("Nayak inscriptions"))
+[ia]     1  title:(Sethupathi copper plates)
+[ia]     0  title:(Maratha Tanjore inscriptions)
+[ia]     0  (title:("Kongu inscriptions") OR subject:("Kongu inscriptions"))
+[ia]     0  title:(Jain inscriptions Tamil)
+[ia]     0  title:(Buddhist Tamil inscriptions)
+[ia]   116  (title:("Grantha script") OR subject:("Grantha script"))
+[ia]     1  title:(Tamil script evolution)
+[ia]     0  title:(Thanjavur Brihadisvara inscriptions)
+[ia]     4  (title:("Chidambaram inscriptions") OR subject:("Chidambaram inscriptions"))
+[ia]     1  (title:("Srirangam inscriptions") OR subject:("Srirangam inscriptions"))
+[ia]     0  (title:("Kanchipuram inscriptions") OR subject:("Kanchipuram inscriptions"))
+[ia]     0  title:(Tirumalai Tirupati inscriptions)
+[ia]     0  (title:("Madurai inscriptions") OR subject:("Madurai inscriptions"))
 [ia]     3  subject:("Inscriptions, Tamil")
 [ia]   229  subject:("Tamil language")
 [ia]  4855  subject:("Inscriptions")
@@ -140,9 +176,9 @@
 [ia]     0  collection:(tamilheritagefoundation) AND (title:(inscriptions OR epigraphy OR archaeology 
 [ia]     0  collection:(noolaham) AND (title:(inscriptions OR epigraphy OR archaeology OR excavation O
 [ia]  1043  collection:(TamilVirtualAcademy) AND (title:(inscriptions OR epigraphy OR archaeology OR e
-[ia] raw unique hits: 15668
-[ia] relevant: 5026
-[ia] enriching 5026 items via metadata API
+[ia] raw unique hits: 16419
+[ia] relevant: 6145
+[ia] enriching 6145 items via metadata API
 [ia] enriched 500
 [ia] enriched 1000
 [ia] enriched 1500
@@ -153,6 +189,8 @@
 [ia] enriched 4000
 [ia] enriched 4500
 [ia] enriched 5000
-[ia] saved 5026 records
-[ia] took 3200s
-total 3200s
+[ia] enriched 5500
+[ia] enriched 6000
+[ia] saved 6145 records
+[ia] took 5479s
+total 5479s

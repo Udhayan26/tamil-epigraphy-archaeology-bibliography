@@ -64,6 +64,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Keep previous harvest
+        run: mkdir -p /tmp/prev && cp data/harvest/*.json /tmp/prev/ 2>/dev/null || true
       - uses: actions/download-artifact@v4
         with:
           pattern: harvest-*
@@ -71,7 +73,7 @@ jobs:
           merge-multiple: true
       - name: Build merged bibliography
         run: |
-          ls -la data/harvest
+          python scripts/merge_harvest.py /tmp/prev data/harvest | tee data/harvest/merge_summary.txt
           python scripts/build.py | tee data/harvest/build_summary.txt
       - name: Commit results
         run: |
