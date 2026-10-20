@@ -1,0 +1,1492 @@
+{
+ "breadcrumbs": [
+  {
+   "Library of Congress": "https://www.loc.gov"
+  },
+  {
+   "Books/Printed Material": "https://www.loc.gov/books/"
+  },
+  {
+   "Search": "https://www.loc.gov/books/?c=100&fo=json&q=tamil+inscriptions&sp=1"
+  }
+ ],
+ "content": {
+  "active": true,
+  "link": "https://www.loc.gov/books/",
+  "pagination": "1 of 2",
+  "partof": [],
+  "results": [
+   {
+    "access_restricted": false,
+    "aka": [
+     "http://lccn.loc.gov/05006173",
+     "http://www.loc.gov/item/05006173/",
+     "http://www.loc.gov/resource/gdc.00050770849/",
+     "https://hdl.loc.gov/loc.gdc/05006173"
+    ],
+    "campaigns": [],
+    "contributor": [
+     "taylor, w. c. (william cooke)"
+    ],
+    "date": "1835",
+    "dates": [
+     "1835"
+    ],
+    "description": [
+     "Also available in digital form."
+    ],
+    "digitized": true,
+    "extract_timestamp": "2025-08-29T06:01:41.235Z",
+    "group": [
+     "paprika-gdc",
+     "catalog-split-06",
+     "catalog",
+     "main-catalog-split-06"
+    ],
+    "hassegments": true,
+    "id": "http://www.loc.gov/item/05006173/",
+    "image_url": [
+     "https://tile.loc.gov/image-services/iiif/public:gdc:00050770849:00050770849_0009/full/pct:6.25/0/default.jpg",
+     "https://tile.loc.gov/image-services/iiif/public:gdc:00050770849:00050770849_0009/full/pct:6.25/0/default.jpg#h=275&w=214",
+     "https://tile.loc.gov/image-services/iiif/public:gdc:00050770849:00050770849_0009/full/pct:12.5/0/default.jpg#h=550&w=428",
+     "https://tile.loc.gov/image-services/iiif/public:gdc:00050770849:00050770849_0009/full/pct:25.0/0/default.jpg#h=1100&w=857",
+     "https://tile.loc.gov/image-services/iiif/public:gdc:00050770849:00050770849_0009/full/pct:50.0/0/default.jpg#h=2201&w=1715",
+     "https://tile.loc.gov/image-services/iiif/public:gdc:00050770849:00050770849_0009/full/pct:100.0/0/default.jpg#h=4403&w=3431"
+    ],
+    "index": 1,
+    "item": {
+     "call_number": [
+      "DS485.M28 T2"
+     ],
+     "contents": [
+      "v. 1. Pandion chronicle. Stalla Purana (abstracted). Supplementary manuscript. Cshetriya kings, or solar line. Contemporary king sof Hastinapuri. Notices of Magadha and Ougein; of Vicramaditya, of Salivahana, etc.--v. 2. Carnataca dynasty. Connective survey. Mirtanjeya manuscripts. Selected extracts and translations from the Mackenzie manuscripts. Appendix: An inquiry concerning the erliest location of mankind after the deluge. Description of Kailasa and Valcontha. Proverbs of King Athivira-ramen. Geographical translations. Schedule of select Mackenzie manuscripts. Extract from the Centum of verses of Manavala-Narrayanen, on political order and economy. Narrative of the kings of Ceylon, and Chronicle of the Sethupathis of Ramnad."
+     ],
+     "contributors": [
+      "Taylor, W. C. (William Cooke), 1800-1849, tr"
+     ],
+     "created_published": [
+      "Madras [Printed by J.C. Taylor] 1835."
+     ],
+     "date": "1835",
+     "format": [
+      "text"
+     ],
+     "language": [
+      "eng"
+     ],
+     "medium": [
+      "2 v. in 1. 27 x 23 cm."
+     ],
+     "notes": [
+      "Also available in digital form."
+     ],
+     "subjects": [
+      "Manuscripts, Tamil"
+     ],
+     "title": "Oriental historical manuscripts, in the Tamil language: translated; with annotations"
+    },
+    "language": [
+     "english"
+    ],
+    "mime_type": [
+     "text/xml",
+     "image/jpeg",
+     "image/jp2",
+     "application/pdf",
+     "application/json",
+     "text/plain"
+    ],
+    "number": [
+     "2024-04-29t15:29:17",
+     "16531439",
+     "05006173"
+    ],
+    "number_lccn": [
+     "05006173"
+    ],
+    "number_oclc": [
+     "16531439"
+    ],
+    "number_source_modified": [
+     "2024-04-29t15:29:17"
+    ],
+    "online_format": [
+     "online text",
+     "image",
+     "pdf"
+    ],
+    "original_format": [
+     "book"
+    ],
+    "partof": [
+     "catalog",
+     "general collections",
+     "south asian digital collection",
+     "selected digitized books"
+    ],
+    "resources": [
+     {
+      "files": 630,
+      "fulltext_derivative": "https://tile.loc.gov/storage-services/public/gdc/00050770849/00050770849.text.json",
+      "image": "https://tile.loc.gov/image-services/iiif/public:gdc:00050770849:00050770849_0009/full/pct:6.25/0/default.jpg",
+      "paprika_resource_path": "/sets/gdc/00050770849",
+      "pdf": "https://tile.loc.gov/storage-services/public/gdc/00050770849/00050770849.pdf",
+      "representative_index": 8,
+      "schemaVersion": "v1",
+      "search": "https://www.loc.gov/books/?c=100&fa=segmentof:gdc.00050770849/&fo=json&q=tamil+inscriptions&st=gallery",
+      "segments": 11,
+      "text_file": "https://tile.loc.gov/storage-services/public/gdc/00050770849/00050770849.text.txt",
+      "url": "https://www.loc.gov/resource/gdc.00050770849/",
+      "version": 8
+     }
+    ],
+    "segments": [
+     {
+      "count": 11,
+      "link": "https://www.loc.gov/books/?c=100&fa=segmentof:gdc.00050770849/&fo=json&q=tamil+inscriptions&st=gallery",
+      "url": "https://www.loc.gov/resource/gdc.00050770849/"
+     }
+    ],
+    "shelf_id": "https://repo.loc.gov/access/public/gdc/00050770849/.resource.json",
+    "site": [
+     "catalog"
+    ],
+    "subject": [
+     "manuscripts, tamil"
+    ],
+    "timestamp": "2025-08-29T06:15:43.129Z",
+    "title": "Oriental historical manuscripts, in the Tamil language: translated; with annotations",
+    "type": [
+     "text"
+    ],
+    "url": "https://www.loc.gov/item/05006173/"
+   },
+   {
+    "access_restricted": false,
+    "aka": [
+     "http://lccn.loc.gov/78375669",
+     "http://www.loc.gov/item/78375669/",
+     "https://search.catalog.loc.gov/instances/2c52b8a1-4b73-5dbf-a9e0-0e072b5eae4c",
+     "https://hdl.loc.gov/loc.rbc/Rosenwald.75669",
+     "http://www.loc.gov/resource/rbc0001.2023rosen75669/"
+    ],
+    "campaigns": [],
+    "contributor": [
+     "hogenberg, frans",
+     "eytzinger, michael"
+    ],
+    "date": "1583",
+    "dates": [
+     "1583"
+    ],
+    "description": [
+     "At head of t.p.: Ad Hispaniae et Hvngariae reges termaximos. Imprint from colophon. Contemporary brown calf, gold-blocked and gold-tooled. Inscription on t.p.: sum Iacobi Bartsch (?) ... LAC tnb 2019-03-12 update (1 card) LAC rwp 2019-03-20 review"
+    ],
+    "digitized": true,
+    "extract_timestamp": "2026-10-18T15:57:54.974Z",
+    "group": [
+     "rbc/scd",
+     "catalog-split-03",
+     "catalog",
+     "rare-book-scan-on-demand-new",
+     "main-catalog-split-03"
+    ],
+    "hassegments": true,
+    "id": "http://www.loc.gov/item/78375669/",
+    "image_url": [
+     "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2023:2023rosen75669:0001/full/pct:6.25/0/default.jpg",
+     "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2023:2023rosen75669:0001/full/pct:6.25/0/default.jpg#h=287&w=52",
+     "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2023:2023rosen75669:0001/full/pct:12.5/0/default.jpg#h=575&w=105",
+     "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2023:2023rosen75669:0001/full/pct:25/0/default.jpg#h=1150&w=211",
+     "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2023:2023rosen75669:0001/full/pct:50/0/default.jpg#h=2300&w=422",
+     "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2023:2023rosen75669:0001/full/pct:100/0/default.jpg#h=4600&w=845"
+    ],
+    "index": 2,
+    "item": {
+     "call_number": [
+      "DH187 .E95"
+     ],
+     "contributors": [
+      "Eytzinger, Michael, -1598",
+      "Hogenberg, Frans, approximately 1539-1590, printer"
+     ],
+     "created_published": [
+      "[Coloniae Vbiorvm, Impressit Gerardvs Campensis, impensis Francisci Hogenbergii, 1583]"
+     ],
+     "date": "1583",
+     "digital_id": [
+      "https://hdl.loc.gov/loc.rbc/Rosenwald.75669",
+      "https://hdl.loc.gov/loc.rbc/Rosenwald.75669"
+     ],
+     "format": [
+      "text"
+     ],
+     "language": [
+      "lat"
+     ],
+     "location": [
+      "Netherlands"
+     ],
+     "medium": [
+      "[12], 516 (i.e. 534) [1] p. illus., fold. map, port. 29 cm."
+     ],
+     "notes": [
+      "At head of t.p.: Ad Hispaniae et Hvngariae reges termaximos.",
+      "Imprint from colophon.",
+      "Contemporary brown calf, gold-blocked and gold-tooled.",
+      "Inscription on t.p.: sum Iacobi Bartsch (?) ...",
+      "LAC tnb 2019-03-12 update (1 card)",
+      "LAC rwp 2019-03-20 review"
+     ],
+     "subjects": [
+      "Netherlands--History--Eighty Years' War, 1568-1648"
+     ],
+     "title": "De leone Belgico : eiusq[ue] topographica atq[ue] historica descriptione liber; quinq[ue] partibus gubernatorum Philippi Regis Hispaniarum ordine, distinctus, in super et elegantissimi illius artificis Francisci Hogenbergii centum & XII figuris ornatus; rerumque in Belgio maxime gestarum inde ab anno Christi MDLIX vsque ad annum MDLXXXIII perpetua narratione continatus [sic]"
+    },
+    "language": [
+     "latin"
+    ],
+    "location": [
+     "netherlands"
+    ],
+    "mime_type": [
+     "text/plain",
+     "application/pdf",
+     "image/tiff",
+     "image/jpeg",
+     "image/jp2"
+    ],
+    "number": [
+     "78375669",
+     "2026-10-14t12:44:28.700000"
+    ],
+    "number_lccn": [
+     "78375669"
+    ],
+    "number_source_modified": [
+     "2026-10-14t12:44:28.700000"
+    ],
+    "online_format": [
+     "online text",
+     "pdf",
+     "image"
+    ],
+    "original_format": [
+     "book"
+    ],
+    "partof": [
+     "rare book and special collections division",
+     "rare book selections",
+     "lessing j. rosenwald collection",
+     "catalog"
+    ],
+    "resources": [
+     {
+      "caption": "Page view",
+      "files": 617,
+      "fulltext_file": "page level only",
+      "image": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2023:2023rosen75669:0001/full/pct:6.25/0/default.jpg",
+      "pdf": "https://tile.loc.gov/storage-services/service/rbc/rbc0001/2023/2023rosen75669/2023rosen75669.pdf",
+      "url": "https://www.loc.gov/resource/rbc0001.2023rosen75669/"
+     }
+    ],
+    "segments": [],
+    "shelf_id": "DH187 .E95",
+    "site": [
+     "catalog"
+    ],
+    "subject": [
+     "netherlands",
+     "history",
+     "eighty years' war"
+    ],
+    "timestamp": "2026-10-18T17:37:17.509Z",
+    "title": "De leone Belgico : eiusq[ue] topographica atq[ue] historica descriptione liber; quinq[ue] partibus gubernatorum Philippi Regis Hispaniarum ordine, distinctus, in super et elegantissimi illius artificis Francisci Hogenbergii centum & XII figuris ornatus; rerumque in Belgio maxime gestarum inde ab anno Christi MDLIX vsque ad annum MDLXXXIII perpetua narratione continatus [sic]",
+    "type": [
+     "text"
+    ],
+    "url": "https://www.loc.gov/item/78375669/"
+   },
+   {
+    "access_restricted": false,
+    "aka": [
+     "http://lccn.loc.gov/06029172",
+     "http://www.loc.gov/item/06029172/",
+     "https://hdl.loc.gov/loc.rbc/Rosenwald.1468",
+     "http://www.loc.gov/resource/Rosenwald.1468/",
+     "http://www.loc.gov/resource/rbc0001.2021rosen1468/",
+     "http://lccn.loc.gov/49040115",
+     "http://www.loc.gov/item/49040115/",
+     "http://www.loc.gov/resource/Rosenwald.1468./"
+    ],
+    "campaigns": [],
+    "contributor": [
+     "riviere & son",
+     "schilders, richard",
+     "broughton, hugh",
+     "rogers, william",
+     "lessing j. rosenwald collection (library of congress)",
+     "levis, howard coppuck",
+     "butler, charles"
+    ],
+    "date": "1620",
+    "dates": [
+     "1620",
+     "1610"
+    ],
+    "description": [
+     "Signatures: engraved title page [fleuron]1 A⁴ B⁴ ²B⁴ C-H⁴. STC (2nd ed.) 3851 Library of Congress. Lessing J. Rosenwald collection, 1468 Rosenwald copy is also available in digital form on the Library of Congress Web site. LC copy has inscription on verso of third plate, \"Sam'l Staniforth; Donor.\" Bound by Riviere. Special Files Project; vb59 12-10-2007 LAC ecr 2019-02-01 no edits (1 card) LAC ddw 2022-02-23 update (1 card) LAC ael 2022-02-24 update (1 card)"
+    ],
+    "digitized": true,
+    "extract_timestamp": "2022-03-12T15:22:45.904Z",
+    "group": [
+     "rbc/scd",
+     "catalog-split-11",
+     "catalog",
+     "catalog-split-08",
+     "rare-book-scan-on-demand-new",
+     "main-catalog-split-11",
+     "main-catalog",
+     "main-catalog-split-08"
+    ],
+    "hassegments": true,
+    "id": "http://www.loc.gov/item/06029172/",
+    "image_url": [
+     "https://tile.loc.gov/storage-services/service/rbc/rbc0001/2021/2021rosen1468/0001.gif",
+     "https://tile.loc.gov/storage-services/service/rbc/rbc0001/2021/2021rosen1468/0001.gif#h=150&w=31",
+     "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2021:2021rosen1468:0001/full/pct:12.5/0/default.jpg#h=438&w=91",
+     "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2021:2021rosen1468:0001/full/pct:25/0/default.jpg#h=876&w=183",
+     "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2021:2021rosen1468:0001/full/pct:50/0/default.jpg#h=1752&w=367",
+     "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2021:2021rosen1468:0001/full/pct:100/0/default.jpg#h=3504&w=734"
+    ],
+    "index": 3,
+    "item": {
+     "call_number": [
+      "BS637.A2 B73 1620",
+      "BS637.A2 B73 1620 Copy 2 With: Broughton, Hugh. A revelation of the holy Apocalyse. [London, 1620?]. Bound together subsequent to publication. With bookplates of Charles Butler of Warren Wood, Hatfield; Howard C. Levis. Gift of Lessing J. Rosenwald. Handwritten note in ink on front flyleaf reads: \"This tract contains specimens by W. Rogers of the earliest Copper-plate engravings in England. London, 1596.\"",
+      "BS170 1611 With: Bible. English. 1611. Geneva version. The Bible. London, 1610 [i.e. 1611]. Imperfect: map wanting."
+     ],
+     "contributors": [
+      "Broughton, Hugh, 1549-1612.",
+      "Levis, Howard Coppuck, former owner.",
+      "Butler, Charles, 1821-1910, former owner.",
+      "Rogers, William, active 1589-1604, engraver, associated name.",
+      "Riviere & Son, binder.",
+      "Lessing J. Rosenwald Collection (Library of Congress)"
+     ],
+     "created_published": [
+      "[London? : s.n., 1620]"
+     ],
+     "date": "1620",
+     "digital_id": [
+      "https://hdl.loc.gov/loc.rbc/Rosenwald.1468"
+     ],
+     "format": [
+      "text"
+     ],
+     "genre": [
+      "Bookbinding (Binding)--DLC"
+     ],
+     "language": [
+      "eng"
+     ],
+     "medium": [
+      "[38] leaves, [5] leaves of plates (1 folded) : ill., map, 22 cm. (4to)"
+     ],
+     "notes": [
+      "Signatures: engraved title page [fleuron]1 A⁴ B⁴ ²B⁴ C-H⁴.",
+      "STC (2nd ed.) 3851",
+      "Library of Congress. Lessing J. Rosenwald collection, 1468",
+      "Rosenwald copy is also available in digital form on the Library of Congress Web site.",
+      "LC copy has inscription on verso of third plate, \"Sam'l Staniforth; Donor.\" Bound by Riviere.",
+      "Special Files Project; vb59 12-10-2007",
+      "LAC ecr 2019-02-01 no edits (1 card)",
+      "LAC ddw 2022-02-23 update (1 card)",
+      "LAC ael 2022-02-24 update (1 card)"
+     ],
+     "subjects": [
+      "Bible--Chronology--Early works to 1800",
+      "England--London"
+     ],
+     "title": "A concent of Scripture"
+    },
+    "language": [
+     "english"
+    ],
+    "location": [
+     "netherlands",
+     "middelburg",
+     "england",
+     "london"
+    ],
+    "location_city": [
+     "london",
+     "middelburg"
+    ],
+    "location_country": [
+     "england",
+     "netherlands"
+    ],
+    "mime_type": [
+     "image/jpeg",
+     "image/jp2",
+     "image/gif",
+     "application/pdf",
+     "image/tiff",
+     "text/plain"
+    ],
+    "number": [
+     "49040115",
+     "2022-02-23t10:12:59",
+     "2022-02-24t10:16:07",
+     "06029172"
+    ],
+    "number_lccn": [
+     "06029172",
+     "49040115"
+    ],
+    "number_source_modified": [
+     "2022-02-24t10:16:07",
+     "2022-02-23t10:12:59"
+    ],
+    "online_format": [
+     "image",
+     "pdf",
+     "online text"
+    ],
+    "original_format": [
+     "book"
+    ],
+    "partof": [
+     "rare book and special collections division",
+     "rare book selections",
+     "catalog"
+    ],
+    "resources": [
+     {
+      "files": 449,
+      "fulltext_file": "page level only",
+      "image": "https://tile.loc.gov/storage-services/service/rbc/rbc0001/2021/2021rosen1468/0001.gif",
+      "pdf": "https://tile.loc.gov/storage-services/service/rbc/rbc0001/2021/2021rosen1468/2021rosen1468.pdf",
+      "url": "https://www.loc.gov/resource/rbc0001.2021rosen1468/"
+     }
+    ],
+    "segments": [],
+    "shelf_id": "BS637.A2 B73 1620 BS637.A2 B73 1620 Copy 2 BS170 1611",
+    "site": [
+     "catalog"
+    ],
+    "subject": [
+     "bible",
+     "netherlands",
+     "middelburg",
+     "england",
+     "dlc",
+     "early works to 1800",
+     "london",
+     "bookbinding (binding)",
+     "criticism, interpretation, etc",
+     "revelation",
+     "chronology"
+    ],
+    "timestamp": "2023-06-26T13:37:46.414Z",
+    "title": "A concent of Scripture",
+    "type": [
+     "text"
+    ],
+    "url": "https://www.loc.gov/item/06029172/"
+   },
+   {
+    "access_restricted": false,
+    "aka": [
+     "http://lccn.loc.gov/79312482",
+     "http://www.loc.gov/item/79312482/",
+     "https://search.catalog.loc.gov/instances/2af9f69a-8b66-5be6-a0e1-1eb7259c748f",
+     "http://www.loc.gov/resource/gdc.79312482/",
+     "https://hdl.loc.gov/loc.gdc/gdclccn.79312482",
+     "https://hdl.loc.gov/loc.gdc/scd0001.00139856089"
+    ],
+    "campaigns": [],
+    "contributor": [
+     "führer, alois anton"
+    ],
+    "date": "1897",
+    "dates": [
+     "1897"
+    ],
+    "description": [
+     "In the 1870s, the Archaeological Survey of India undertook a series of expeditions to increase understanding of the early history of India and to further the preservation of important monuments and ruins. In 1896 German archaeologist Alois Anton Führer (1853-1930) received permission from the government of the North-Western Provinces and Oudh and the government of India to carry out an expedition to Nepal. Führer generally is credited with discovering the birthplace of Buddha. Siddhartha Gautama, the Buddha, was born in about 563 B.C. at the gardens of Lumbini, in the Nepalese foothills of the Himalayas. The birthplace later became a site for pilgrimages, and among the pilgrims in 249 B.C. was Emperor Ashoka of India, a devout Buddhist. Ashoka erected a commemorative pillar with the words: \"Here the Worshipful One was born.\" For reasons that are not known, after the 15th century Lumbini ceased to attract visitors and its temples fell into ruins. Accompanied by the governor of the province, General Khadga Shamsher, Führer discovered Ashoka's pillar, which, with other evidence, confirmed Lumbini as the birthplace of the Buddha. This monograph, published in 1897, documents the finding of the pillar and the other results of the expedition. Lumbini is one of the four holy places of Buddhism and was inscribed on the UNESCO World Heritage List in 1997. World Digital Library."
+    ],
+    "digitized": true,
+    "extract_timestamp": "2026-05-06T07:23:18.312Z",
+    "group": [
+     "paprika-gdc",
+     "catalog-split-04",
+     "catalog",
+     "main-catalog-split-04"
+    ],
+    "hassegments": true,
+    "id": "http://www.loc.gov/item/79312482/",
+    "image_url": [
+     "https://tile.loc.gov/image-services/iiif/public:gdc:79312482:0010/full/pct:12.5/0/default.jpg",
+     "https://tile.loc.gov/image-services/iiif/public:gdc:79312482:0010/full/pct:12.5/0/default.jpg#h=457&w=359",
+     "https://tile.loc.gov/image-services/iiif/public:gdc:79312482:0010/full/pct:25.0/0/default.jpg#h=914&w=718",
+     "https://tile.loc.gov/image-services/iiif/public:gdc:79312482:0010/full/pct:50.0/0/default.jpg#h=1828&w=1436",
+     "https://tile.loc.gov/image-services/iiif/public:gdc:79312482:0010/full/pct:100.0/0/default.jpg#h=3656&w=2872"
+    ],
+    "index": 4,
+    "item": {
+     "call_number": [
+      "BQ6470 .F83 1897",
+      "DS417 .I34 v. 26"
+     ],
+     "contributors": [
+      "Führer, Alois Anton, 1853-"
+     ],
+     "created_published": [
+      "Allahabad : Govt. Press, N.W.P. and Oudh, 1897."
+     ],
+     "date": "1897",
+     "format": [
+      "text"
+     ],
+     "language": [
+      "eng"
+     ],
+     "location": [
+      "Nepal",
+      "Tarai (India and Nepal)"
+     ],
+     "medium": [
+      "vi, 48 p. : ill. ; 31 cm."
+     ],
+     "notes": [
+      "Reprint ed. published in 1972 under title: Antiquities of Buddha Sakyamuni's birth-place in the Nepalese tarai.",
+      "Running title: Archaeological survey, Northern India.",
+      "Includes bibliographical references.",
+      "Also available in digital form."
+     ],
+     "subjects": [
+      "Aśoka,--King of Magadha,--active 259 B.C",
+      "Gautama Buddha--Birthplace",
+      "Buddhist antiquities--Nepal",
+      "Buddhist antiquities--Tarai (India and Nepal)",
+      "Buddhist inscriptions--Tarai (India and Nepal)"
+     ],
+     "summary": [
+      "In the 1870s, the Archaeological Survey of India undertook a series of expeditions to increase understanding of the early history of India and to further the preservation of important monuments and ruins. In 1896 German archaeologist Alois Anton Führer (1853-1930) received permission from the government of the North-Western Provinces and Oudh and the government of India to carry out an expedition to Nepal. Führer generally is credited with discovering the birthplace of Buddha. Siddhartha Gautama, the Buddha, was born in about 563 B.C. at the gardens of Lumbini, in the Nepalese foothills of the Himalayas. The birthplace later became a site for pilgrimages, and among the pilgrims in 249 B.C. was Emperor Ashoka of India, a devout Buddhist. Ashoka erected a commemorative pillar with the words: \"Here the Worshipful One was born.\" For reasons that are not known, after the 15th century Lumbini ceased to attract visitors and its temples fell into ruins. Accompanied by the governor of the province, General Khadga Shamsher, Führer discovered Ashoka's pillar, which, with other evidence, confirmed Lumbini as the birthplace of the Buddha. This monograph, published in 1897, documents the finding of the pillar and the other results of the expedition. Lumbini is one of the four holy places of Buddhism and was inscribed on the UNESCO World Heritage List in 1997. World Digital Library."
+     ],
+     "title": "Monograph on Buddha Sakyamuni's birth-place in the Nepalese tarai"
+    },
+    "language": [
+     "english"
+    ],
+    "location": [
+     "nepal",
+     "tarai",
+     "india"
+    ],
+    "mime_type": [
+     "text/xml",
+     "image/jpeg",
+     "image/jp2",
+     "application/pdf",
+     "application/json",
+     "text/plain"
+    ],
+    "number": [
+     "79312482",
+     "http://www.loc.gov/resource/gdclccn.79312482",
+     "2026-05-01t18:55:12.200000"
+    ],
+    "number_former_id": [
+     "http://www.loc.gov/resource/gdclccn.79312482"
+    ],
+    "number_lccn": [
+     "79312482"
+    ],
+    "number_source_modified": [
+     "2026-05-01t18:55:12.200000"
+    ],
+    "online_format": [
+     "online text",
+     "image",
+     "pdf"
+    ],
+    "original_format": [
+     "book"
+    ],
+    "partof": [
+     "general collections",
+     "asian division",
+     "selected digitized books",
+     "catalog",
+     "world digital library",
+     "south asian digital collection"
+    ],
+    "resources": [
+     {
+      "files": 101,
+      "former_urls": 1,
+      "fulltext_derivative": "https://tile.loc.gov/storage-services/public/gdc/79312482/79312482.text.json",
+      "image": "https://tile.loc.gov/image-services/iiif/public:gdc:79312482:0010/full/pct:12.5/0/default.jpg",
+      "paprika_resource_path": "/sets/gdc/79312482",
+      "pdf": "https://tile.loc.gov/storage-services/public/gdc/79312482/79312482.pdf",
+      "representative_index": 9,
+      "schemaVersion": "v1",
+      "search": "https://www.loc.gov/books/?c=100&fa=segmentof:gdc.79312482/&fo=json&q=tamil+inscriptions&st=gallery",
+      "segments": 1,
+      "text_file": "https://tile.loc.gov/storage-services/public/gdc/79312482/79312482.text.txt",
+      "url": "https://www.loc.gov/resource/gdc.79312482/"
+     }
+    ],
+    "segments": [
+     {
+      "count": 1,
+      "link": "https://www.loc.gov/books/?c=100&fa=segmentof:gdc.79312482/&fo=json&q=tamil+inscriptions&st=gallery",
+      "url": "https://www.loc.gov/resource/gdc.79312482/"
+     }
+    ],
+    "shelf_id": "BQ6470 .F83 1897 DS417 .I34 v. 26",
+    "site": [
+     "catalog"
+    ],
+    "subject": [
+     "gautama buddha",
+     "buddhist inscriptions",
+     "nepal",
+     "active 259 b.c",
+     "buddhist antiquities",
+     "king of magadha",
+     "tarai (india and nepal)",
+     "aśoka",
+     "birthplace"
+    ],
+    "timestamp": "2026-05-06T08:47:02.682Z",
+    "title": "Monograph on Buddha Sakyamuni's birth-place in the Nepalese tarai",
+    "type": [
+     "text"
+    ],
+    "url": "https://www.loc.gov/item/79312482/"
+   },
+   {
+    "access_restricted": false,
+    "aka": [
+     "https://www.loc.gov/aba/publications/Archived-LCC2019/LCC_PL-PM2019TEXT.pdf"
+    ],
+    "author": "Library of Congress CDS",
+    "campaigns": [],
+    "contributor": [
+     "library of congress cds"
+    ],
+    "creationdate": "Wed Apr 10 14:52:26 2019",
+    "description": [
+     "PL LANGUAGES OF EASTERN ASIA, AFRICA, OCEANIA         1-9.5     21-29.5 31     41 43-43.95 44-44.95   44.9.A-Z       44.9.A365 44.9.A477 44.9.E69-.E693 44.9.E7-.E73 44.9.K416-.K4163 44.9.K69-.K693 44.9.K869-.K8693 44.9.M37-.M373 44.9.S45-.S453 44.9.S465-.S4653 44.9.T655-.T6553 44.9.Z474-.Z4743 44.9.Z476-.Z4763 44.9.Z478 45.A-Z 45.C48-.C4895 45.D65-.D6595   45.K45-.K4595 45.N67-.N6795   45.S55-.S5595   45.T63-.T6395 45.T88-.T8895   45.Y44-.Y4495   51 53-53.95   53.9.A-Z       53.9.A24 53.9.A36 53.9.A44 Languages of Eastern Asia, Africa, Oceania    Ural-Altaic languages          Including Altaic languages          For Uralic languages see PH1+       General (Table P-PZ8a)       Samoyedic languages see PH3801+       Turkic languages          General (Table P-PZ8a)          Old Turkic (Kök-Türk)                Including the Yenesei and Orkhon inscriptions          Northeastern (Siberian) group             General works             Altai (Table P-PZ15a)             Kyrgyz (Table P-PZ15a modified)"
+    ],
+    "digitized": true,
+    "encrypted": "no",
+    "extract_timestamp": "2026-04-11T20:38:08.157Z",
+    "file size": "1538979 bytes",
+    "form": "none",
+    "group": [
+     "lcweb"
+    ],
+    "hassegments": false,
+    "id": "https://www.loc.gov/aba/publications/Archived-LCC2019/LCC_PL-PM2019TEXT.pdf",
+    "image_url": [],
+    "index": 5,
+    "javascript": "no",
+    "mime_type": [
+     "application/pdf"
+    ],
+    "moddate": "Wed Apr 10 14:52:26 2019",
+    "online_format": [
+     "pdf"
+    ],
+    "optimized": "no",
+    "original_format": [
+     "book",
+     "web page"
+    ],
+    "page rot": "0",
+    "page size": "612 x 792 pts (letter)",
+    "pages": "389",
+    "partof": [
+     "cataloging and acquisitions"
+    ],
+    "pdf version": "1.4",
+    "producer": "iText 2.1.7 by 1T3XT",
+    "shelf_id": "https://www.loc.gov/aba/publications/Archived-LCC2019/LCC_PL-PM2019TEXT.pdf",
+    "site": [
+     "lcweb"
+    ],
+    "suspects": "no",
+    "tagged": "no",
+    "timestamp": "2026-04-11T22:29:49.299Z",
+    "title": "Library of Congress Classification - Schedule PL-PM",
+    "type": [
+     "text"
+    ],
+    "url": "https://www.loc.gov/aba/publications/Archived-LCC2019/LCC_PL-PM2019TEXT.pdf",
+    "userproperties": "no"
+   },
+   {
+    "access_restricted": false,
+    "aka": [
+     "https://www.loc.gov/aba/publications/Archived-LCC2021/LCC_PL-PM2021TEXT.pdf"
+    ],
+    "author": "Library of Congress CDS",
+    "campaigns": [],
+    "contributor": [
+     "library of congress cds"
+    ],
+    "creationdate": "Tue May 18 21:38:49 2021",
+    "description": [
+     "PL LANGUAGES OF EASTERN ASIA, AFRICA, OCEANIA         1-9.5     21-29.5 31     41 43-43.95 44-44.95   44.9.A-Z       44.9.A365 44.9.A477 44.9.E69-.E693 44.9.E7-.E73 44.9.K416-.K4163 44.9.K69-.K693 44.9.K869-.K8693 44.9.M37-.M373 44.9.S45-.S453 44.9.S465-.S4653 44.9.T655-.T6553 44.9.Z474-.Z4743 44.9.Z476-.Z4763 44.9.Z478 45.A-Z 45.C48-.C4895 45.D65-.D6595   45.K45-.K4595 45.N67-.N6795   45.S55-.S5595   45.T63-.T6395 45.T88-.T8895   45.Y44-.Y4495   51 53-53.95   53.9.A-Z       53.9.A24 53.9.A36 53.9.A44 Languages of Eastern Asia, Africa, Oceania    Ural-Altaic languages          Including Altaic languages          For Uralic languages see PH1+       General (Table P-PZ8a)       Samoyedic languages see PH3801+       Turkic languages          General (Table P-PZ8a)          Old Turkic (Kök-Türk)                Including the Yenesei and Orkhon inscriptions          Northeastern (Siberian) group             General works             Altai (Table P-PZ15a)             Kyrgyz (Table P-PZ15a modified)"
+    ],
+    "digitized": true,
+    "encrypted": "no",
+    "extract_timestamp": "2026-04-11T20:44:54.671Z",
+    "file size": "1554946 bytes",
+    "form": "none",
+    "group": [
+     "lcweb"
+    ],
+    "hassegments": false,
+    "id": "https://www.loc.gov/aba/publications/Archived-LCC2021/LCC_PL-PM2021TEXT.pdf",
+    "image_url": [],
+    "index": 6,
+    "javascript": "no",
+    "mime_type": [
+     "application/pdf"
+    ],
+    "moddate": "Tue May 18 21:38:49 2021",
+    "online_format": [
+     "pdf"
+    ],
+    "optimized": "no",
+    "original_format": [
+     "book",
+     "web page"
+    ],
+    "page rot": "0",
+    "page size": "612 x 792 pts (letter)",
+    "pages": "396",
+    "partof": [
+     "cataloging and acquisitions"
+    ],
+    "pdf version": "1.4",
+    "producer": "iText 2.1.7 by 1T3XT",
+    "shelf_id": "https://www.loc.gov/aba/publications/Archived-LCC2021/LCC_PL-PM2021TEXT.pdf",
+    "site": [
+     "lcweb"
+    ],
+    "suspects": "no",
+    "tagged": "no",
+    "timestamp": "2026-04-11T22:31:45.143Z",
+    "title": "Library of Congress Classification - Schedule PL-PM",
+    "type": [
+     "text"
+    ],
+    "url": "https://www.loc.gov/aba/publications/Archived-LCC2021/LCC_PL-PM2021TEXT.pdf",
+    "userproperties": "no"
+   },
+   {
+    "access_restricted": false,
+    "aka": [
+     "https://www.loc.gov/aba/publications/Archived-LCC2022/LCC_PL-PM2022TEXT.pdf"
+    ],
+    "author": "Library of Congress CDS",
+    "campaigns": [],
+    "contributor": [
+     "library of congress cds"
+    ],
+    "creationdate": "Wed Jun  1 08:25:01 2022",
+    "description": [
+     "PL LANGUAGES OF EASTERN ASIA, AFRICA, OCEANIA         1-9.5     21-29.5 31     41 43-43.95 44-44.95   44.9.A-Z       44.9.A365 44.9.A477 44.9.E69-.E693 44.9.E7-.E73 44.9.K416-.K4163 44.9.K69-.K693 44.9.K869-.K8693 44.9.M37-.M373 44.9.S45-.S453 44.9.S465-.S4653 44.9.T655-.T6553 44.9.Z474-.Z4743 44.9.Z476-.Z4763 44.9.Z478 45.A-Z 45.C48-.C4895 45.D65-.D6595   45.K45-.K4595 45.N67-.N6795   45.S55-.S5595   45.T63-.T6395 45.T88-.T8895   45.Y44-.Y4495   51 53-53.95   53.9.A-Z       53.9.A24 53.9.A36 53.9.A44 Languages of Eastern Asia, Africa, Oceania    Ural-Altaic languages          Including Altaic languages          For Uralic languages see PH1+       General (Table P-PZ8a)       Samoyedic languages see PH3801+       Turkic languages          General (Table P-PZ8a)          Old Turkic (Kök-Türk)                Including the Yenesei and Orkhon inscriptions          Northeastern (Siberian) group             General works             Altai (Table P-PZ15a)             Kyrgyz (Table P-PZ15a modified)"
+    ],
+    "digitized": true,
+    "encrypted": "no",
+    "extract_timestamp": "2026-04-11T20:48:32.597Z",
+    "file size": "1577231 bytes",
+    "form": "none",
+    "group": [
+     "lcweb"
+    ],
+    "hassegments": false,
+    "id": "https://www.loc.gov/aba/publications/Archived-LCC2022/LCC_PL-PM2022TEXT.pdf",
+    "image_url": [],
+    "index": 7,
+    "javascript": "no",
+    "mime_type": [
+     "application/pdf"
+    ],
+    "moddate": "Wed Jun  1 08:25:01 2022",
+    "online_format": [
+     "pdf"
+    ],
+    "optimized": "no",
+    "original_format": [
+     "book",
+     "web page"
+    ],
+    "page rot": "0",
+    "page size": "612 x 792 pts (letter)",
+    "pages": "400",
+    "partof": [
+     "cataloging and acquisitions"
+    ],
+    "pdf version": "1.4",
+    "producer": "iText 2.1.7 by 1T3XT",
+    "shelf_id": "https://www.loc.gov/aba/publications/Archived-LCC2022/LCC_PL-PM2022TEXT.pdf",
+    "site": [
+     "lcweb"
+    ],
+    "suspects": "no",
+    "tagged": "no",
+    "timestamp": "2026-04-11T22:33:38.399Z",
+    "title": "Library of Congress Classification - Schedule PL-PM",
+    "type": [
+     "text"
+    ],
+    "url": "https://www.loc.gov/aba/publications/Archived-LCC2022/LCC_PL-PM2022TEXT.pdf",
+    "userproperties": "no"
+   },
+   {
+    "access_restricted": false,
+    "aka": [
+     "https://www.loc.gov/aba/publications/FreeLCC/LCC_PL-PM2024TEXT.pdf"
+    ],
+    "author": "Library of Congress CDS",
+    "campaigns": [],
+    "contributor": [
+     "library of congress cds"
+    ],
+    "creationdate": "Mon May  6 10:41:25 2024",
+    "description": [
+     "PL LANGUAGES OF EASTERN ASIA, AFRICA, OCEANIA         1-9.5     21-29.5 31     41 43-43.95 44-44.95   44.9.A-Z       44.9.A3634-.A36343 44.9.A365 44.9.A477 44.9.E69-.E693 44.9.E7-.E73 44.9.K416-.K4163 44.9.K69-.K693 44.9.K869-.K8693 44.9.M37-.M373 44.9.M47-.M473 44.9.S45-.S453 44.9.S465-.S4653 44.9.T655-.T6553 44.9.Z474-.Z4743 44.9.Z476-.Z4763 44.9.Z478 44.9.Z485-.Z4853 45.A-Z 45.C48-.C4895 45.D65-.D6595   45.K45-.K4595 45.N67-.N6795   45.S55-.S5595   45.T63-.T6395 45.T88-.T8895   45.Y44-.Y4495   51 53-53.95   53.9.A-Z       Languages of Eastern Asia, Africa, Oceania    Ural-Altaic languages          Including Altaic languages          For Uralic languages see PH1+       General (Table P-PZ8a)       Samoyedic languages see PH3801+       Turkic languages          General (Table P-PZ8a)          Old Turkic (Kök-Türk)                Including the Yenesei and Orkhon inscriptions          Northeastern (Siberian) group             General works             Altai (Table P-PZ15a)             Kyrgyz (Table P-PZ15"
+    ],
+    "digitized": true,
+    "encrypted": "no",
+    "extract_timestamp": "2026-04-11T21:28:46.611Z",
+    "file size": "1605542 bytes",
+    "form": "none",
+    "group": [
+     "lcweb"
+    ],
+    "hassegments": false,
+    "id": "https://www.loc.gov/aba/publications/FreeLCC/LCC_PL-PM2024TEXT.pdf",
+    "image_url": [],
+    "index": 8,
+    "javascript": "no",
+    "mime_type": [
+     "application/pdf"
+    ],
+    "moddate": "Mon May  6 10:41:25 2024",
+    "online_format": [
+     "pdf"
+    ],
+    "optimized": "no",
+    "original_format": [
+     "book",
+     "web page"
+    ],
+    "page rot": "0",
+    "page size": "612 x 792 pts (letter)",
+    "pages": "410",
+    "partof": [
+     "cataloging and acquisitions"
+    ],
+    "pdf version": "1.4",
+    "producer": "iText 2.1.7 by 1T3XT",
+    "shelf_id": "https://www.loc.gov/aba/publications/FreeLCC/LCC_PL-PM2024TEXT.pdf",
+    "site": [
+     "lcweb"
+    ],
+    "suspects": "no",
+    "tagged": "no",
+    "timestamp": "2026-04-11T22:55:25.259Z",
+    "title": "Library of Congress Classification - Schedule PL-PM",
+    "type": [
+     "text"
+    ],
+    "url": "https://www.loc.gov/aba/publications/FreeLCC/LCC_PL-PM2024TEXT.pdf",
+    "userproperties": "no"
+   },
+   {
+    "access_restricted": false,
+    "aka": [
+     "https://www.loc.gov/aba/publications/Archived-LCC2023/LCC_PL-PM2023TEXT.pdf"
+    ],
+    "author": "Library of Congress CDS",
+    "campaigns": [],
+    "contributor": [
+     "library of congress cds"
+    ],
+    "creationdate": "Thu Jun 22 09:59:16 2023",
+    "description": [
+     "PL LANGUAGES OF EASTERN ASIA, AFRICA, OCEANIA         1-9.5     21-29.5 31     41 43-43.95 44-44.95   44.9.A-Z       44.9.A3634-.A36343 44.9.A365 44.9.A477 44.9.E69-.E693 44.9.E7-.E73 44.9.K416-.K4163 44.9.K69-.K693 44.9.K869-.K8693 44.9.M37-.M373 44.9.M47-.M473 44.9.S45-.S453 44.9.S465-.S4653 44.9.T655-.T6553 44.9.Z474-.Z4743 44.9.Z476-.Z4763 44.9.Z478 44.9.Z485-.Z4853 45.A-Z 45.C48-.C4895 45.D65-.D6595   45.K45-.K4595 45.N67-.N6795   45.S55-.S5595   45.T63-.T6395 45.T88-.T8895   45.Y44-.Y4495   51 53-53.95   53.9.A-Z       Languages of Eastern Asia, Africa, Oceania    Ural-Altaic languages          Including Altaic languages          For Uralic languages see PH1+       General (Table P-PZ8a)       Samoyedic languages see PH3801+       Turkic languages          General (Table P-PZ8a)          Old Turkic (Kök-Türk)                Including the Yenesei and Orkhon inscriptions          Northeastern (Siberian) group             General works             Altai (Table P-PZ15a)             Kyrgyz (Table P-PZ15"
+    ],
+    "digitized": true,
+    "encrypted": "no",
+    "extract_timestamp": "2026-04-11T20:51:54.276Z",
+    "file size": "1589541 bytes",
+    "form": "none",
+    "group": [
+     "lcweb"
+    ],
+    "hassegments": false,
+    "id": "https://www.loc.gov/aba/publications/Archived-LCC2023/LCC_PL-PM2023TEXT.pdf",
+    "image_url": [],
+    "index": 9,
+    "javascript": "no",
+    "mime_type": [
+     "application/pdf"
+    ],
+    "moddate": "Thu Jun 22 09:59:16 2023",
+    "online_format": [
+     "pdf"
+    ],
+    "optimized": "no",
+    "original_format": [
+     "book",
+     "web page"
+    ],
+    "page rot": "0",
+    "page size": "612 x 792 pts (letter)",
+    "pages": "405",
+    "partof": [
+     "cataloging and acquisitions"
+    ],
+    "pdf version": "1.4",
+    "producer": "iText 2.1.7 by 1T3XT",
+    "shelf_id": "https://www.loc.gov/aba/publications/Archived-LCC2023/LCC_PL-PM2023TEXT.pdf",
+    "site": [
+     "lcweb"
+    ],
+    "suspects": "no",
+    "tagged": "no",
+    "timestamp": "2026-04-11T22:35:29.102Z",
+    "title": "Library of Congress Classification - Schedule PL-PM",
+    "type": [
+     "text"
+    ],
+    "url": "https://www.loc.gov/aba/publications/Archived-LCC2023/LCC_PL-PM2023TEXT.pdf",
+    "userproperties": "no"
+   },
+   {
+    "access_restricted": false,
+    "aka": [
+     "https://www.loc.gov/aba/publications/Archived-LCC2020/LCC_PL-PM2020TEXT.pdf"
+    ],
+    "author": "Library of Congress CDS",
+    "campaigns": [],
+    "contributor": [
+     "library of congress cds"
+    ],
+    "creationdate": "Mon Mar  9 11:01:42 2020",
+    "description": [
+     "PL LANGUAGES OF EASTERN ASIA, AFRICA, OCEANIA         1-9.5     21-29.5 31     41 43-43.95 44-44.95   44.9.A-Z       44.9.A365 44.9.A477 44.9.E69-.E693 44.9.E7-.E73 44.9.K416-.K4163 44.9.K69-.K693 44.9.K869-.K8693 44.9.M37-.M373 44.9.S45-.S453 44.9.S465-.S4653 44.9.T655-.T6553 44.9.Z474-.Z4743 44.9.Z476-.Z4763 44.9.Z478 45.A-Z 45.C48-.C4895 45.D65-.D6595   45.K45-.K4595 45.N67-.N6795   45.S55-.S5595   45.T63-.T6395 45.T88-.T8895   45.Y44-.Y4495   51 53-53.95   53.9.A-Z       53.9.A24 53.9.A36 53.9.A44 Languages of Eastern Asia, Africa, Oceania    Ural-Altaic languages          Including Altaic languages          For Uralic languages see PH1+       General (Table P-PZ8a)       Samoyedic languages see PH3801+       Turkic languages          General (Table P-PZ8a)          Old Turkic (Kök-Türk)                Including the Yenesei and Orkhon inscriptions          Northeastern (Siberian) group             General works             Altai (Table P-PZ15a)             Kyrgyz (Table P-PZ15a modified)"
+    ],
+    "digitized": true,
+    "encrypted": "no",
+    "extract_timestamp": "2026-04-11T20:41:33.326Z",
+    "file size": "1548387 bytes",
+    "form": "none",
+    "group": [
+     "lcweb"
+    ],
+    "hassegments": false,
+    "id": "https://www.loc.gov/aba/publications/Archived-LCC2020/LCC_PL-PM2020TEXT.pdf",
+    "image_url": [],
+    "index": 10,
+    "javascript": "no",
+    "mime_type": [
+     "application/pdf"
+    ],
+    "moddate": "Mon Mar  9 11:01:42 2020",
+    "online_format": [
+     "pdf"
+    ],
+    "optimized": "no",
+    "original_format": [
+     "book",
+     "web page"
+    ],
+    "page rot": "0",
+    "page size": "612 x 792 pts (letter)",
+    "pages": "393",
+    "partof": [
+     "cataloging and acquisitions"
+    ],
+    "pdf version": "1.4",
+    "producer": "iText 2.1.7 by 1T3XT",
+    "shelf_id": "https://www.loc.gov/aba/publications/Archived-LCC2020/LCC_PL-PM2020TEXT.pdf",
+    "site": [
+     "lcweb"
+    ],
+    "suspects": "no",
+    "tagged": "no",
+    "timestamp": "2026-04-11T22:29:49.299Z",
+    "title": "Library of Congress Classification - Schedule PL-PM",
+    "type": [
+     "text"
+    ],
+    "url": "https://www.loc.gov/aba/publications/Archived-LCC2020/LCC_PL-PM2020TEXT.pdf",
+    "userproperties": "no"
+   },
+   {
+    "access_restricted": false,
+    "aka": [
+     "https://www.loc.gov/aba/publications/Archived-LCC01/PL-PM-text.pdf"
+    ],
+    "author": "Library of Congress, Policy and Standards Division",
+    "campaigns": [],
+    "contributor": [
+     "library of congress, policy and standards division"
+    ],
+    "creationdate": "Wed Feb 24 14:43:37 2010",
+    "creator": "Acrobat PDFMaker 8.1 for Word",
+    "description": [
+     "PL LANGUAGES OF EASTERN ASIA, AFRICA, OCEANIA PL Languages of Eastern Asia, Africa, Oceania Ural-Altaic languages 1-9.5 21-29.5 31 41 43-43.95 44-44.95 45.A-Z 45.C48-.C4895 45.K45-.K4595 45.N67-.N6795 45.S55-.S5595 45.T63-.T6395 45.T88-.T8895 45.Y44-.Y4495 51 53-53.95 53.9.A-Z 53.9.A24 53.9.A36 53.9.A44 53.9.B33 53.9.E24 53.9.M84 53.9.R33 Including Altaic languages For Uralic languages see PH1+ General (Table P-PZ8a) Samoyedic languages see PH3801+ Turkic languages General (Table P-PZ8a) Old Turkic (Kök-Türk) Including the Yenesei and Orkhon inscriptions Northeastern (Siberian) group General works Altai (Table P-PZ15a) Kyrgyz (Table P-PZ15a) Other languages, A-Z Chulym (Table P-PZ16) Karagass see PL45.T63+ Khakass (Table P-PZ16) Northern Altai (Table P-PZ16) Oirot see PL43+ Shor (Table P-PZ16) Soyot see PL45.T88+ Tofa (Irkutskaia͡ oblastʹ, Russia) (Table P-PZ16) Tuvinian (Table P-PZ16) Yakut see PL361+ Yellow Uigur (Table P-PZ16) Southeastern (Chagatai) group General works Chagatai (Table P-PZ15a modi"
+    ],
+    "digitized": true,
+    "encrypted": "no",
+    "extract_timestamp": "2026-04-11T20:26:52.760Z",
+    "file size": "1907940 bytes",
+    "form": "none",
+    "group": [
+     "lcweb"
+    ],
+    "hassegments": false,
+    "id": "https://www.loc.gov/aba/publications/Archived-LCC01/PL-PM-text.pdf",
+    "image_url": [],
+    "index": 11,
+    "javascript": "no",
+    "keywords": "Library of Congress Classification, LCC, class, schedules, organization, books, knowledge",
+    "mime_type": [
+     "application/pdf"
+    ],
+    "moddate": "Wed Feb 12 12:30:23 2014",
+    "online_format": [
+     "pdf"
+    ],
+    "optimized": "yes",
+    "original_format": [
+     "book",
+     "web page"
+    ],
+    "page rot": "0",
+    "page size": "612 x 792 pts (letter)",
+    "pages": "462",
+    "partof": [
+     "cataloging and acquisitions"
+    ],
+    "pdf version": "1.6",
+    "producer": "Acrobat Distiller 8.1.0 (Windows)",
+    "shelf_id": "https://www.loc.gov/aba/publications/Archived-LCC01/PL-PM-text.pdf",
+    "site": [
+     "lcweb"
+    ],
+    "subject": [
+     "library of congress classification",
+     "books",
+     "organization",
+     "lcc",
+     "schedules",
+     "knowledge",
+     "class"
+    ],
+    "suspects": "no",
+    "tagged": "no",
+    "timestamp": "2026-04-11T22:24:18.041Z",
+    "title": "PL-PM Text",
+    "type": [
+     "text"
+    ],
+    "url": "https://www.loc.gov/aba/publications/Archived-LCC01/PL-PM-text.pdf",
+    "userproperties": "no"
+   },
+   {
+    "access_restricted": false,
+    "aka": [
+     "https://www.loc.gov/aba/publications/Archived-LCC2018/PL-PM-text.pdf"
+    ],
+    "campaigns": [],
+    "creationdate": "Thu Feb 22 14:00:57 2018",
+    "description": [
+     "PL LANGUAGES OF EASTERN ASIA, AFRICA, OCEANIA PL Languages of Eastern Asia, Africa, Oceania Ural-Altaic languages 1-9.5 21-29.5 31 41 43-43.95 44-44.95 44.9.A-Z 44.9.E69-.E693 44.9.E7-.E73 44.9.K416-.K4163 44.9.K69-.K693 44.9.K869-.K8693 44.9.M37-.M373 44.9.S45-.S453 44.9.S465-.S4653 44.9.Z474-.Z4743 44.9.Z476-.Z4763 45.A-Z 45.C48-.C4895 45.D65-.D6595 45.K45-.K4595 45.N67-.N6795 45.S55-.S5595 45.T63-.T6395 45.T88-.T8895 45.Y44-.Y4495 51 53-53.95 Including Altaic languages For Uralic languages see PH1+ General (Table P-PZ8a) Samoyedic languages see PH3801+ Turkic languages General (Table P-PZ8a) Old Turkic (Kök-Türk) Including the Yenesei and Orkhon inscriptions Northeastern (Siberian) group General works Altai (Table P-PZ15a) Kyrgyz (Table P-PZ15a modified) Literature Individual authors or works, A-Z Subarrange individual authors by Table P-PZ40 unless otherwise specified Subarrange individual works by Table P-PZ43 unless otherwise specified e.g. Ėr Soltonoĭ (Table P-PZ43) Ėr Tȯshtu̇k (Table P"
+    ],
+    "digitized": true,
+    "encrypted": "no",
+    "extract_timestamp": "2026-04-11T20:34:57.536Z",
+    "file size": "4399334 bytes",
+    "form": "none",
+    "group": [
+     "lcweb"
+    ],
+    "hassegments": false,
+    "id": "https://www.loc.gov/aba/publications/Archived-LCC2018/PL-PM-text.pdf",
+    "image_url": [],
+    "index": 12,
+    "javascript": "no",
+    "mime_type": [
+     "application/pdf"
+    ],
+    "moddate": "Thu Feb 22 14:00:57 2018",
+    "online_format": [
+     "pdf"
+    ],
+    "optimized": "no",
+    "original_format": [
+     "book",
+     "web page"
+    ],
+    "page rot": "0",
+    "page size": "612 x 792 pts (letter)",
+    "pages": "510",
+    "partof": [
+     "cataloging and acquisitions"
+    ],
+    "pdf version": "1.5",
+    "shelf_id": "https://www.loc.gov/aba/publications/Archived-LCC2018/PL-PM-text.pdf",
+    "site": [
+     "lcweb"
+    ],
+    "suspects": "no",
+    "tagged": "yes",
+    "timestamp": "2026-04-11T22:27:56.917Z",
+    "title": "https://www.loc.gov/aba/publications/Archived-LCC2018/PL-PM-text.pdf",
+    "type": [
+     "text"
+    ],
+    "url": "https://www.loc.gov/aba/publications/Archived-LCC2018/PL-PM-text.pdf",
+    "userproperties": "no"
+   },
+   {
+    "access_restricted": false,
+    "aka": [
+     "https://www.loc.gov/aba/publications/Archived-LCC02/PL-PM-text.pdf"
+    ],
+    "campaigns": [],
+    "creationdate": "Thu Feb 12 16:08:00 2015",
+    "description": [
+     "PL LANGUAGES OF EASTERN ASIA, AFRICA, OCEANIA PL Languages of Eastern Asia, Africa, Oceania Ural-Altaic languages 1-9.5 21-29.5 31 41 43-43.95 44-44.95 44.9.A-Z 44.9.E69-.E693 44.9.E7-.E73 44.9.K416-.K4163 44.9.K69-.K693 44.9.K869-.K8693 44.9.M37-.M373 44.9.S45-.S453 44.9.S465-.S4653 44.9.Z474-.Z4743 44.9.Z476-.Z4763 45.A-Z 45.C48-.C4895 45.D65-.D6595 45.K45-.K4595 45.N67-.N6795 45.S55-.S5595 45.T63-.T6395 45.T88-.T8895 45.Y44-.Y4495 51 53-53.95 Including Altaic languages For Uralic languages see PH1+ General (Table P-PZ8a) Samoyedic languages see PH3801+ Turkic languages General (Table P-PZ8a) Old Turkic (Kök-Türk) Including the Yenesei and Orkhon inscriptions Northeastern (Siberian) group General works Altai (Table P-PZ15a) Kyrgyz (Table P-PZ15a modified) Literature Individual authors or works, A-Z Subarrange individual authors by Table P-PZ40 unless otherwise specified Subarrange individual works by Table P-PZ43 unless otherwise specified e.g. Ėr Soltonoĭ (Table P-PZ43) Ėr Tȯshtu̇k (Table P"
+    ],
+    "digitized": true,
+    "encrypted": "no",
+    "extract_timestamp": "2026-04-11T20:29:24.142Z",
+    "file size": "3166762 bytes",
+    "form": "none",
+    "group": [
+     "lcweb"
+    ],
+    "hassegments": false,
+    "id": "https://www.loc.gov/aba/publications/Archived-LCC02/PL-PM-text.pdf",
+    "image_url": [],
+    "index": 13,
+    "javascript": "no",
+    "mime_type": [
+     "application/pdf"
+    ],
+    "moddate": "Thu Feb 12 16:08:00 2015",
+    "online_format": [
+     "pdf"
+    ],
+    "optimized": "no",
+    "original_format": [
+     "book",
+     "web page"
+    ],
+    "page rot": "0",
+    "page size": "612 x 792 pts (letter)",
+    "pages": "491",
+    "partof": [
+     "cataloging and acquisitions"
+    ],
+    "pdf version": "1.5",
+    "shelf_id": "https://www.loc.gov/aba/publications/Archived-LCC02/PL-PM-text.pdf",
+    "site": [
+     "lcweb"
+    ],
+    "suspects": "no",
+    "tagged": "no",
+    "timestamp": "2026-04-11T22:25:44.916Z",
+    "title": "https://www.loc.gov/aba/publications/Archived-LCC02/PL-PM-text.pdf",
+    "type": [
+     "text"
+    ],
+    "url": "https://www.loc.gov/aba/publications/Archived-LCC02/PL-PM-text.pdf",
+    "userproperties": "no"
+   },
+   {
+    "access_restricted": false,
+    "aka": [
+     "https://www.loc.gov/aba/publications/Archived-LCC2017/PL-PM-text.pdf"
+    ],
+    "campaigns": [],
+    "creationdate": "Wed Apr  5 11:17:46 2017",
+    "description": [
+     "PL LANGUAGES OF EASTERN ASIA, AFRICA, OCEANIA PL Languages of Eastern Asia, Africa, Oceania Ural-Altaic languages 1-9.5 21-29.5 31 41 43-43.95 44-44.95 44.9.A-Z 44.9.E69-.E693 44.9.E7-.E73 44.9.K416-.K4163 44.9.K69-.K693 44.9.K869-.K8693 44.9.M37-.M373 44.9.S45-.S453 44.9.S465-.S4653 44.9.Z474-.Z4743 44.9.Z476-.Z4763 45.A-Z 45.C48-.C4895 45.D65-.D6595 45.K45-.K4595 45.N67-.N6795 45.S55-.S5595 45.T63-.T6395 45.T88-.T8895 45.Y44-.Y4495 51 53-53.95 Including Altaic languages For Uralic languages see PH1+ General (Table P-PZ8a) Samoyedic languages see PH3801+ Turkic languages General (Table P-PZ8a) Old Turkic (Kök-Türk) Including the Yenesei and Orkhon inscriptions Northeastern (Siberian) group General works Altai (Table P-PZ15a) Kyrgyz (Table P-PZ15a modified) Literature Individual authors or works, A-Z Subarrange individual authors by Table P-PZ40 unless otherwise specified Subarrange individual works by Table P-PZ43 unless otherwise specified e.g. Ėr Soltonoĭ (Table P-PZ43) Ėr Tȯshtu̇k (Table P"
+    ],
+    "digitized": true,
+    "encrypted": "no",
+    "extract_timestamp": "2026-04-11T20:32:00.853Z",
+    "file size": "4265486 bytes",
+    "form": "none",
+    "group": [
+     "lcweb"
+    ],
+    "hassegments": false,
+    "id": "https://www.loc.gov/aba/publications/Archived-LCC2017/PL-PM-text.pdf",
+    "image_url": [],
+    "index": 14,
+    "javascript": "no",
+    "mime_type": [
+     "application/pdf"
+    ],
+    "moddate": "Wed Apr  5 11:17:46 2017",
+    "online_format": [
+     "pdf"
+    ],
+    "optimized": "no",
+    "original_format": [
+     "book",
+     "web page"
+    ],
+    "page rot": "0",
+    "page size": "612 x 792 pts (letter)",
+    "pages": "504",
+    "partof": [
+     "cataloging and acquisitions"
+    ],
+    "pdf version": "1.5",
+    "shelf_id": "https://www.loc.gov/aba/publications/Archived-LCC2017/PL-PM-text.pdf",
+    "site": [
+     "lcweb"
+    ],
+    "suspects": "no",
+    "tagged": "yes",
+    "timestamp": "2026-04-11T22:26:34.662Z",
+    "title": "https://www.loc.gov/aba/publications/Archived-LCC2017/PL-PM-text.pdf",
+    "type": [
+     "text"
+    ],
+    "url": "https://www.loc.gov/aba/publications/Archived-LCC2017/PL-PM-text.pdf",
+    "userproperties": "no"
+   },
+   {
+    "access_restricted": false,
+    "aka": [
+     "http://lccn.loc.gov/04021191",
+     "http://www.loc.gov/item/04021191/",
+     "https://search.catalog.loc.gov/instances/3bf14396-2dc8-54c2-9468-c552941d65ec",
+     "http://www.loc.gov/resource/rbc.2025kislak04021191/",
+     "https://hdl.loc.gov/loc.rbc/Kislak.04021191"
+    ],
+    "campaigns": [],
+    "contributor": [
+     "jay i. kislak collection (library of congress)",
+     "giustiniani, agostino",
+     "john boyd thacher collection (library of congress)",
+     "sorba, laurentio lemellino"
+    ],
+    "date": "1537",
+    "dates": [
+     "1537"
+    ],
+    "description": [
+     "Edited by Laurentio Lemellino Sorba. Printer from colophon. Colophon reads: Finiscono li annali della inclita citta di Genoa co[n] diligencia, & opera del nobile Laurentio Lomellino Sorba, sta[m]pati in la detta citta lanno dell'incarnatione del nostro Signore. M.D.XXXVII. et nono della reformata liberta. regnante el quinto duce. per Antonio Bellono Taurine[n]se con gratia & priuilegio della eccelsa Republica di Genoa. a di xviii. de mazzo. Signatures: 2A⁴ 2B⁶ 2C⁴ a-z⁸ A-L⁸ M⁶ N⁴. Title page printed in red and black. Reference to Christopher Columbus on verso of fol. CCXLIX. Register at foot of text on fol. CCLXXXII. LC copy has bookseller's postcard laid in between front free endpapers and a reproduction of a 1597 map of Genoa and its port between fol. X and XI; also an ink inscription on t.p.: Paolo Borghese and ; ms. list in ink of the mayors of Genoa from 1190 to 1317, on two free endpapers after the text. Alden, J.E. European Americana, 537/11 Sabin 27518 Thacher, II, p. 17 (Americana) Kislak accession no.: 1993.023.00.0002 LAC ael 2019-03-18 no edits (1 card)"
+    ],
+    "digitized": true,
+    "extract_timestamp": "2026-08-29T11:35:12.410Z",
+    "group": [
+     "paprika-rbc",
+     "catalog-split-02",
+     "catalog",
+     "main-catalog-split-02"
+    ],
+    "hassegments": true,
+    "id": "http://www.loc.gov/item/04021191/",
+    "image_url": [
+     "https://tile.loc.gov/image-services/iiif/public:rbc:2025kislak04021191:0006/full/pct:6.25/0/default.jpg",
+     "https://tile.loc.gov/image-services/iiif/public:rbc:2025kislak04021191:0006/full/pct:6.25/0/default.jpg#h=316&w=241",
+     "https://tile.loc.gov/image-services/iiif/public:rbc:2025kislak04021191:0006/full/pct:12.5/0/default.jpg#h=633&w=482",
+     "https://tile.loc.gov/image-services/iiif/public:rbc:2025kislak04021191:0006/full/pct:25.0/0/default.jpg#h=1266&w=964",
+     "https://tile.loc.gov/image-services/iiif/public:rbc:2025kislak04021191:0006/full/pct:50.0/0/default.jpg#h=2533&w=1928",
+     "https://tile.loc.gov/image-services/iiif/public:rbc:2025kislak04021191:0006/full/pct:100.0/0/default.jpg#h=5067&w=3857"
+    ],
+    "index": 15,
+    "item": {
+     "call_number": [
+      "DG636.3 .G53",
+      "Thacher A716 Copy 1 Ms. notes in ink on verso of front free endpaper.",
+      "DG636.3 .G53 Copy 2 Provenance: Gift of Jay I. Kislak Foundation; the t.p. has had its printed portions excised, and then remounted on an old leaf not original to the book; some marginalia in Italian in a 16th cent. hand. Accompanying material laid in."
+     ],
+     "contributors": [
+      "Giustiniani, Agostino, 1470-1536",
+      "Sorba, Laurentio Lemellino",
+      "John Boyd Thacher Collection (Library of Congress)",
+      "Jay I. Kislak Collection (Library of Congress)"
+     ],
+     "created_published": [
+      "Genoa : Per Antonio Bellono, 1537."
+     ],
+     "date": "1537",
+     "format": [
+      "text"
+     ],
+     "language": [
+      "ita"
+     ],
+     "location": [
+      "Genoa (Italy)"
+     ],
+     "medium": [
+      "[14], CCLXXXII leaves : ill. (woodcut) ; 30 cm. (fol.)"
+     ],
+     "notes": [
+      "Edited by Laurentio Lemellino Sorba.",
+      "Printer from colophon.",
+      "Colophon reads: Finiscono li annali della inclita citta di Genoa co[n] diligencia, & opera del nobile Laurentio Lomellino Sorba, sta[m]pati in la detta citta lanno dell'incarnatione del nostro Signore. M.D.XXXVII. et nono della reformata liberta. regnante el quinto duce. per Antonio Bellono Taurine[n]se con gratia & priuilegio della eccelsa Republica di Genoa. a di xviii. de mazzo.",
+      "Signatures: 2A⁴ 2B⁶ 2C⁴ a-z⁸ A-L⁸ M⁶ N⁴.",
+      "Title page printed in red and black.",
+      "Reference to Christopher Columbus on verso of fol. CCXLIX.",
+      "Register at foot of text on fol. CCLXXXII.",
+      "LC copy has bookseller's postcard laid in between front free endpapers and a reproduction of a 1597 map of Genoa and its port between fol. X and XI; also an ink inscription on t.p.: Paolo Borghese and ; ms. list in ink of the mayors of Genoa from 1190 to 1317, on two free endpapers after the text.",
+      "Alden, J.E.  European Americana, 537/11",
+      "Sabin 27518",
+      "Thacher, II, p. 17 (Americana)",
+      "Kislak accession no.: 1993.023.00.0002",
+      "LAC ael 2019-03-18 no edits (1 card)"
+     ],
+     "subjects": [
+      "Genoa (Italy)--History"
+     ],
+     "title": "Castigatissimi annali con la loro copiosa tauola della eccelsa & illustrissima Republi. di Genoa, da fideli & approuati scrittori"
+    },
+    "language": [
+     "italian"
+    ],
+    "location": [
+     "italy",
+     "genoa"
+    ],
+    "mime_type": [
+     "text/xml",
+     "image/jpeg",
+     "image/jp2",
+     "text/plain",
+     "application/json",
+     "application/pdf"
+    ],
+    "number": [
+     "2026-08-24t16:44:13.200000",
+     "http://www.loc.gov/resource/rbc0001.2025kislak04021191",
+     "04021191"
+    ],
+    "number_former_id": [
+     "http://www.loc.gov/resource/rbc0001.2025kislak04021191"
+    ],
+    "number_lccn": [
+     "04021191"
+    ],
+    "number_source_modified": [
+     "2026-08-24t16:44:13.200000"
+    ],
+    "online_format": [
+     "online text",
+     "image",
+     "pdf"
+    ],
+    "original_format": [
+     "book"
+    ],
+    "partof": [
+     "jay i. kislak collection",
+     "rare book selections",
+     "rare book and special collections division",
+     "catalog"
+    ],
+    "resources": [
+     {
+      "caption": "Kislak Collection copy",
+      "files": 601,
+      "former_urls": 1,
+      "fulltext_derivative": "https://tile.loc.gov/storage-services/public/rbc/2025kislak04021191/2025kislak04021191.text.json",
+      "image": "https://tile.loc.gov/image-services/iiif/public:rbc:2025kislak04021191:0006/full/pct:6.25/0/default.jpg",
+      "paprika": [
+       "path",
+       "version",
+       "type",
+       "schema_version"
+      ],
+      "pdf": "https://tile.loc.gov/storage-services/public/rbc/2025kislak04021191/2025kislak04021191.pdf",
+      "representative_index": 5,
+      "text_file": "https://tile.loc.gov/storage-services/public/rbc/2025kislak04021191/2025kislak04021191.text.txt",
+      "url": "https://www.loc.gov/resource/rbc.2025kislak04021191/"
+     }
+    ],
+    "segments": [],
+    "shelf_id": "DG636.3 .G53 Thacher A716 Copy 1 DG636.3 .G53 Copy 2",
+    "site": [
+     "catalog"
+    ],
+    "subject": [
+     "history",
+     "genoa (italy)"
+    ],
+    "timestamp": "2026-08-29T12:05:14.753Z",
+    "title": "Castigatissimi annali con la loro copiosa tauola della eccelsa & illustrissima Republi. di Genoa, da fideli & approuati scrittori",
+    "type": [
+     "text"
+    ],
+    "url": "https://www.loc.gov/item/04021191/"
+   },
+   {
+    "access_restricted": false,
+    "aka": [
+     "http://lccn.loc.gov/2020715345",
+     "http://www.loc.gov/item/2020715345/",
+     "https://search.catalog.loc.gov/instances/28dc0601-a460-5acb-a747-4a9b758555fe",
+     "https://hdl.loc.gov/loc.gdc/gdcebookspublic.2020715345",
+     "http://www.loc.gov/resource/gdcebookspublic.2020715345/"
+    ],
+    "campaigns": [],
+    "contributor": [
+     "cuneo, daniele",
+     "vergiani, vincenzo",
+     "formigatti, camillo alessio"
+    ],
+    "date": "2017",
+    "dates": [
+     "2017"
+    ],
+    "description": [
+     "Includes bibliographical references and indexes. Description based on print version record; resource not viewed. CIP VERIFIER: Please return to C. Pierce, USPRLL/Literature Section"
+    ],
+    "digitized": true,
+    "extract_timestamp": "2026-10-17T13:51:55.514Z",
+    "group": [
+     "gdc/scd",
+     "catalog-split-13",
+     "catalog",
+     "general-collections-scan-on-demand-new",
+     "main-catalog-split-13"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2020715345/",
+    "image_url": [
+     "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/53/45/2020715345/2020715345.gif",
+     "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/53/45/2020715345/2020715345.gif#h=492&w=310"
+    ],
+    "index": 16,
+    "item": {
+     "access_advisory": [
+      "Unrestricted online access."
+     ],
+     "call_number": [
+      "Z106.5.I4"
+     ],
+     "contents": [
+      "Collections -- Sanskrit manuscripts in the Cambridge University Library : three centuries of history and preservation / Camillo A. Formigatti -- The Cambridge Jain manuscripts : provenances, highlights, colophons / Nalini Balbir -- A tentative history of the Sanskrit grammatical traditions in Nepal through the manuscript collections / Vincenzo Vergiani -- What information can be gleaned from Cambodian inscriptions about practices relating to the transmission of Sanskrit literature? / Dominic Goodall -- Codicology (from orality to print) -- Tamil satellite stanzas : genres and distribution / Eva Wilden -- Teaching and learning Sanskrit through Tamil evidence from manuscripts of the Amarakośa with Tamil annotations (Studies in late Manipravalam literatu

@@ -1,0 +1,2412 @@
+{
+ "items": [
+  {
+   "identifier": "1_20210826_20210826_1748",
+   "description": "Chola Inscription Dictionary",
+   "language": "tam",
+   "subject": [
+    "வள்ளுவர் வள்ளலார் வட்டம்",
+    "நிகண்டியம் திட்டம்",
+    "இங்கர்சால்"
+   ],
+   "title": "தஞ்சைப் பெருவுடையார் கோயில் கல்வெட்டு அகராதி",
+   "collection": [
+    "ServantsOfKnowledge",
+    "JaiGyan"
+   ]
+  },
+  {
+   "identifier": "20200915_20200915_0610",
+   "description": "தஞ்சாவூர் மராட்டியர் கல்வெட்டுகள்",
+   "language": "tam",
+   "subject": "கல்வெட்டு",
+   "title": "தஞ்சை மராட்டியர் கல்வெட்டுக்கள்",
+   "collection": [
+    "booksbylanguage_tamil",
+    "booksbylanguage",
+    "fav-jkalyanaraman",
+    "fav-rakku",
+    "fav-tejashwin_s_cse_c"
+   ]
+  },
+  {
+   "identifier": "20230903_20230903_1210",
+   "collection": [
+    "booksbylanguage_tamil",
+    "booksbylanguage",
+    "fav-mr_mohr"
+   ],
+   "creator": "பதிப்பாசிரியர்‌ : மு. சண்முகம்‌ பிள்ளை தமிழ்‌ விரிவுரையாளர்‌ சென்னைப்‌ பல்கலைக்‌ கழகம்‌ தயாரிப்பு : வெளியீடு தி கி நாராயணசாமி",
+   "date": "1980-09-22T00:00:00Z",
+   "description": "திருத்தணிகை - கந்தப்ப அய்யர்‌ பாடிய திருத்தணிகைச்‌ சந்நிதிமுறை [ சந்நிதிமுறைப்‌ பிரபந்தங்கள்‌ 15, தணிகை பற்றிய வேறு சில சிறு பிரபந்தங்கள்‌ , படங்களுடன்‌ கூடிய தலவரலாறு , கல்வெட்டு , செப்பேடுகள்‌ முதலியன அடங்கியுள்ளன ]",
+   "language": "tam",
+   "subject": [
+    "திருத்தணிகை",
+    "கந்தப்ப",
+    "அய்யர்‌.சந்நிதி",
+    "முறை பிரபந்தங்கள்‌",
+    "15.தணிகை..சிறு.பிரபந்தங்கள்‌",
+    "கூடிய தலவரலாறு",
+    "கல்வெட்டு",
+    "செப்பேடுகள்.",
+    "பதிப்பாசிரியர்‌",
+    "சண்முகம்‌",
+    "பிள்ளை",
+    "தமிழ்‌",
+    "விரிவுரையாளர்‌",
+    "சென்னைப்",
+    "பல்கலைக்‌.கழகம்‌"
+   ],
+   "title": "திருத்தணிகைச்‌ சந்நிதிமுறை",
+   "year": 1980
+  },
+  {
+   "identifier": "20250318_20250318_1031",
+   "collection": [
+    "booksbylanguage_tamil",
+    "booksbylanguage"
+   ],
+   "creator": "Ranadhira Pandiyan",
+   "date": "2025-03-18T00:00:00Z",
+   "description": "தமிழ்ச் சங்க கால இலக்கியங்கள், காப்பியங்கள், புராணங்கள் மற்றும் பள்ளு இலக்கியங்கள் உள்ளிட்ட பல தமிழ் இலக்கியங்கள் மள்ளர் எனும் தேவேந்திர குல வேளாளர்களின் வரலாற்றையும் பண்பாட்டையும் விரிவாக எடுத்துரைக்கின்றன. சங்க காலத்தில் உழவர், களமராகத் திகழ்ந்த மள்ளர்கள், தமிழகத்தின் பூர்வீகக் குடிகளாகவும், வேளாண்மை மற்றும் வீரத்தில் சிறந்தவர்களாகவும் விளங்கினர். கம்பராமாயணம் உள்ளிட்ட நூல்களில் அவர்களின் மாண்பு சித்தரிக்கப்பட்டுள்ளது. இந்நூல், தமிழர் பண்பாடு மற்றும் வரலாற்றில் மள்ளர்களின் பங்களிப்பை ஆய்வு செய்கிறது.",
+   "language": "tam",
+   "subject": [
+    "தமிழ் இலக்கியம்",
+    "மள்ளர்",
+    "தேவேந்திர குல வேளாளர்",
+    "சங்க காலம்",
+    "புறநானூறு",
+    "அகநானூறு",
+    "பதிற்றுப்பத்து",
+    "குறுந்தொகை",
+    "ஐங்குறுநூறு",
+    "நற்றிணை",
+    "கலித்தொகை",
+    "பரிபாடல்",
+    "பத்துப்பாட்டு",
+    "சிலப்பதிகாரம்",
+    "கம்பராமாயணம்",
+    "பெரியபுராணம்",
+    "கந்தபுராணம்",
+    "திருவிளையாடல் புராணம்",
+    "பள்ளு இலக்கியம்",
+    "தேவாரம்",
+    "திருவாசகம்",
+    "வேளாண்மை",
+    "வீரம்",
+    "தமிழ் பண்பாடு",
+    "தமிழக வரலாறு",
+    "பூர்வீக குடிகள்",
+    "மருத நிலம்",
+    "உழவர்",
+    "களமர்",
+    "தமிழ் மரபு",
+    "சமூக வரலாறு",
+    "தமிழ் அடையாளம்",
+    "குருசாமி சித்தர்",
+    "வேங்கடராமன்",
+    "அறிவுநம்பி",
+    "கம்பர்",
+    "மன்னர் மாண்பு",
+    "தமிழ் ஆய்வு",
+    "நாட்டுப்புற வழக்காறு",
+    "கல்வெட்டு",
+    "பண்பாட்டியல்",
+    "மாண்பு",
+    "தமிழர் பெருமை",
+    "சங்கர நாராயணசாமி",
+    "மீனாட்சியம்மை",
+    "கொங்கு மண்டலம்",
+    "தமிழ் சமுதாயம்",
+    "பழனி பிள்ளைத்தமிழ்",
+    "தமிழ் புராணம்",
+    "மருத நில மக்கள்",
+    "தமிழ் வீரர்கள்",
+    "இலக்கிய சான்று",
+    "தமிழ் நூல்கள்",
+    "மள்ளர் மரபு",
+    "தமிழர் எழுச்சி",
+    "பண்டைய தமிழகம்"
+   ],
+   "title": "கம்பர் காட்டும் மள்ளர் மாண்பு",
+   "year": 2025
+  },
+  {
+   "identifier": "30_20210804",
+   "creator": "தமிழகத் தொல்லியல் கழகம்",
+   "date": "2019-01-01T00:00:00Z",
+   "description": "ஆவணம் இதழ் 30",
+   "language": "tam",
+   "subject": "கல்வெட்டு",
+   "title": "ஆவணம் இதழ் 30",
+   "collection": [
+    "booksbylanguage_tamil",
+    "booksbylanguage",
+    "fav-lucke133",
+    "fav-rakku"
+   ],
+   "year": 2019
+  },
+  {
+   "identifier": "4_20210628_20210628",
+   "creator": "Archaeology Society",
+   "date": "1994-01-07T00:00:00Z",
+   "description": "Stone increptions ot Tamil Nadu ",
+   "language": "tam",
+   "subject": [
+    "கல்வெட்டு",
+    "ஆவணம்",
+    "செப்பேடு"
+   ],
+   "title": "ஆவணம் 4",
+   "collection": [
+    "booksbylanguage_tamil",
+    "booksbylanguage",
+    "fav-palanipriya",
+    "fav-rakku"
+   ],
+   "year": 1994
+  },
+  {
+   "identifier": "5_20210706_20210706",
+   "creator": "தமிழகத் தொல்லியல் கழகம்",
+   "date": "1994-01-01T00:00:00Z",
+   "description": "செப்பேடு கல்வெட்டுகள் பற்றிய ஆவணம் இதழ் 5",
+   "language": "tam",
+   "subject": [
+    "செப்பேடு",
+    "கல்வெட்டு"
+   ],
+   "title": "ஆவணம் இதழ் 5",
+   "collection": [
+    "booksbylanguage_tamil",
+    "booksbylanguage",
+    "fav-palanipriya",
+    "fav-venkatraman_mahadevan"
+   ],
+   "year": 1994
+  },
+  {
+   "identifier": "6_20210717",
+   "creator": "தமிழகத் தொல்லியல் கழகம்",
+   "date": "1995-01-01T00:00:00Z",
+   "description": "ஆவணம் இதழ் 6",
+   "language": "tam",
+   "subject": "கல்வெட்டு",
+   "title": "ஆவணம் இதழ் 6",
+   "collection": [
+    "booksbylanguage_tamil",
+    "booksbylanguage",
+    "fav-rakku",
+    "fav-tejashwin_s_cse_c"
+   ],
+   "year": 1995
+  },
+  {
+   "identifier": "Aavanamvolume22",
+   "creator": "தமிழகத் தொல்லியல் கழகம்",
+   "date": "2011-01-01T00:00:00Z",
+   "description": "ஆவணம் இதழ் 22",
+   "language": "tam",
+   "subject": "கல்வெட்டு",
+   "title": "ஆவணம் இதழ் 22",
+   "collection": [
+    "booksbylanguage_tamil",
+    "booksbylanguage",
+    "fav-boopathy_arunachalam",
+    "fav-rakku"
+   ],
+   "year": 2011
+  },
+  {
+   "identifier": "KMM0934-KalvettuVilakkaurai-1955",
+   "collection": [
+    "koviloorandavarlibrary",
+    "patron-library-collection"
+   ],
+   "creator": "வித்துவான் திரு.வை.சுந்தரேச வாண்டையார் அவர்களது உரையுடன்",
+   "date": "1955-01-01T00:00:00Z",
+   "language": "தமிழ்",
+   "publisher": "பொதிகைப் பதிப்பகம் 2,சீதாராம நகர்,கடலூர் என்.டி.",
+   "subject": "கம்பன் கழகம்",
+   "title": "கல்வெட்டு விளக்க உரை",
+   "year": 1955
+  },
+  {
+   "identifier": "aavanam-01",
+   "creator": "தமிழக தொல்லியல் ஆய்வு கழக வெளியீடு",
+   "date": "1991-10-05T00:00:00Z",
+   "description": "தமிழகத்தில் கண்டுபிடிக்கப்பட்ட செப்பேடு மட்டும் கல்வெட்டுகளின் தொகுப்பு",
+   "language": "tam",
+   "subject": [
+    "செப்பேடு",
+    "கல்வெட்டு"
+   ],
+   "title": "ஆவணம் இதழ் 1",
+   "collection": [
+    "booksbylanguage_tamil",
+    "booksbylanguage",
+    "fav-venkatraman_mahadevan"
+   ],
+   "year": 1991
+  },
+  {
+   "identifier": "aavanam-volume-20",
+   "creator": "தமிழகத் தொல்லியல் கழகம்",
+   "date": "2009-01-01T00:00:00Z",
+   "description": "ஆவணம் இதழ் 20",
+   "language": "tam",
+   "subject": "கல்வெட்டு",
+   "title": "ஆவணம் இதழ் 20",
+   "collection": [
+    "booksbylanguage_tamil",
+    "booksbylanguage",
+    "fav-tejashwin_s_cse_c",
+    "fav-tirumala_reddy"
+   ],
+   "year": 2009
+  },
+  {
+   "identifier": "acc.-no.-11951-kalvettu-2008",
+   "collection": [
+    "koviloorandavarlibrary",
+    "patron-library-collection"
+   ],
+   "creator": "தமிழ்நாடு அரசு தொல்லியல் துறை",
+   "date": "2008-01-01T00:00:00Z",
+   "description": "கல்வெட்டு சிறப்பிதழ் , தமிழ்நாடு அரசு தொல்லியல் துறை",
+   "language": "tam",
+   "subject": [
+    "கல்வெட்டு சிறப்பிதழ்",
+    "தமிழ்நாடு அரசு தொல்லியல் துறை"
+   ],
+   "title": "கல்வெட்டு சிறப்பிதழ்",
+   "year": 2008
+  },
+  {
+   "identifier": "acc.-no.-14079-kalvettu-2006",
+   "collection": [
+    "koviloorandavarlibrary",
+    "patron-library-collection"
+   ],
+   "creator": "தமிழ்நாடு அரசு தொல்லியல்துறை வெளியீடு",
+   "date": "2006-01-01T00:00:00Z",
+   "description": "கல்வெட்டு - சிறப்பிதழ் , சிந்துவெளி எழுத்துப் பொறிக்கப் பெற்ற கைக்கோடரி, தமிழ்நாடு அரசு தொல்லியல்துறை வெளியீடு,  ",
+   "language": "tam",
+   "subject": [
+    "கல்வெட்டு சிறப்பிதழ்",
+    "தமிழ்நாடு அரசு தொல்லியல்துறை வெளியீடு"
+   ],
+   "title": "கல்வெட்டு சிறப்பிதழ்",
+   "year": 2006
+  },
+  {
+   "identifier": "aclarch0000101a11",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00010 கல்வெட்டு (17 முதல் 21 வரை) Vol. 17"
+  },
+  {
+   "identifier": "aclarch0000103a13",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00010 கல்வெட்டு (17 முதல் 21 வரை) Vol. 19"
+  },
+  {
+   "identifier": "aclarch0000104a14",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00010 கல்வெட்டு (17 முதல் 21 வரை) Vol. 20"
+  },
+  {
+   "identifier": "aclarch0000121a17",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00012 கல்வெட்டு (22 முதல் 24 வரை) No. 23"
+  },
+  {
+   "identifier": "aclarch0000122a18",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00012 கல்வெட்டு (22 முதல் 24 வரை) No. 24"
+  },
+  {
+   "identifier": "aclarch000012a16",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00012 கல்வெட்டு (22 முதல் 24 வரை) No. 22"
+  },
+  {
+   "identifier": "aclarch0000591",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00059 கல்வெட்டு (25 முதல் 32 வரை) Vol. 26"
+  },
+  {
+   "identifier": "aclarch0000592",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00059 கல்வெட்டு (25 முதல் 32 வரை) Vol. 27"
+  },
+  {
+   "identifier": "aclarch0000592a67",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00059 கல்வெட்டு (25 முதல் 32 வரை) Vol. 27"
+  },
+  {
+   "identifier": "aclarch0000593",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00059 கல்வெட்டு (25 முதல் 32 வரை) Vol. 28"
+  },
+  {
+   "identifier": "aclarch0000593a68",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00059 கல்வெட்டு (25 முதல் 32 வரை) Vol. 28"
+  },
+  {
+   "identifier": "aclarch0000594",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00059 கல்வெட்டு (25 முதல் 32 வரை) Vol. 29"
+  },
+  {
+   "identifier": "aclarch0000594a69",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00059 கல்வெட்டு (25 முதல் 32 வரை) Vol. 29"
+  },
+  {
+   "identifier": "aclarch0000595",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00059 கல்வெட்டு (25 முதல் 32 வரை) Vol. 30"
+  },
+  {
+   "identifier": "aclarch0000596",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00059 கல்வெட்டு (25 முதல் 32 வரை) Vol. 31"
+  },
+  {
+   "identifier": "aclarch0000596a71",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00059 கல்வெட்டு (25 முதல் 32 வரை) Vol. 31"
+  },
+  {
+   "identifier": "aclarch0000597",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00059 கல்வெட்டு (25 முதல் 32 வரை) Vol. 32"
+  },
+  {
+   "identifier": "aclarch0000597a72",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00059 கல்வெட்டு (25 முதல் 32 வரை) Vol. 32"
+  },
+  {
+   "identifier": "aclarch000059a65",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00059 கல்வெட்டு (25 முதல் 32 வரை) Vol. 25"
+  },
+  {
+   "identifier": "aclarch0000601",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan",
+    "fav-jkalyanaraman"
+   ],
+   "title": "ACL-ARCH 00060 கல்வெட்டு (33 முதல் 40 வரை) Vol. 34"
+  },
+  {
+   "identifier": "aclarch0000601a74",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00060 கல்வெட்டு (33 முதல் 40 வரை) Vol. 34"
+  },
+  {
+   "identifier": "aclarch0000602",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00060 கல்வெட்டு (33 முதல் 40 வரை) Vol. 35"
+  },
+  {
+   "identifier": "aclarch0000602a75",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00060 கல்வெட்டு (33 முதல் 40 வரை) Vol. 35"
+  },
+  {
+   "identifier": "aclarch0000603",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00060 கல்வெட்டு (33 முதல் 40 வரை) Vol. 36"
+  },
+  {
+   "identifier": "aclarch0000603a76",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00060 கல்வெட்டு (33 முதல் 40 வரை) Vol. 36"
+  },
+  {
+   "identifier": "aclarch0000604",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00060 கல்வெட்டு (33 முதல் 40 வரை) Vol. 37"
+  },
+  {
+   "identifier": "aclarch0000605",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00060 கல்வெட்டு (33 முதல் 40 வரை) Vol. 38"
+  },
+  {
+   "identifier": "aclarch0000606",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan",
+    "fav-useandthrow21"
+   ],
+   "title": "ACL-ARCH 00060 கல்வெட்டு (33 முதல் 40 வரை) Vol. 39"
+  },
+  {
+   "identifier": "aclarch0000607",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00060 கல்வெட்டு (33 முதல் 40 வரை) Vol. 40"
+  },
+  {
+   "identifier": "aclarch000060a73",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00060 கல்வெட்டு (33 முதல் 40 வரை) Vol. 33"
+  },
+  {
+   "identifier": "aclarch0000611",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00061 கல்வெட்டு (41 முதல் 48 வரை) 1995 ஏப்ரல், 42"
+  },
+  {
+   "identifier": "aclarch0000612",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan",
+    "fav-lucke133"
+   ],
+   "title": "ACL-ARCH 00061 கல்வெட்டு (41 முதல் 48 வரை) 1995 ஜனவரி, 41"
+  },
+  {
+   "identifier": "aclarch0000613",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00061 கல்வெட்டு (41 முதல் 48 வரை) 1995 ஜூலை, 43"
+  },
+  {
+   "identifier": "aclarch0000614",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00061 கல்வெட்டு (41 முதல் 48 வரை) 1996 அக்டோபர், 48"
+  },
+  {
+   "identifier": "aclarch0000615",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00061 கல்வெட்டு (41 முதல் 48 வரை) 1996 ஏப்ரல் 46"
+  },
+  {
+   "identifier": "aclarch0000616",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00061 கல்வெட்டு (41 முதல் 48 வரை) 1996 ஜனவரி, 45"
+  },
+  {
+   "identifier": "aclarch0000616a87",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00061 கல்வெட்டு (41 முதல் 48 வரை) 1996 ஜனவரி, 45"
+  },
+  {
+   "identifier": "aclarch0000617",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00061 கல்வெட்டு (41 முதல் 48 வரை) 1996 ஜூலை, 47"
+  },
+  {
+   "identifier": "aclarch0000617a88",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00061 கல்வெட்டு (41 முதல் 48 வரை) 1996 ஜூலை, 47"
+  },
+  {
+   "identifier": "aclarch0000621",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00062 கல்வெட்டு (49 முதல் 51 வரை) 1997 ஜனவரி 49"
+  },
+  {
+   "identifier": "aclarch0000621a90",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00062 கல்வெட்டு (49 முதல் 51 வரை) 1997 ஜனவரி 49"
+  },
+  {
+   "identifier": "aclarch000062a89",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00062 கல்வெட்டு (49 முதல் 51 வரை) 1997 ஏப்ரல்-ஜுலை 50-51"
+  },
+  {
+   "identifier": "aclarch000063a91",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00063 கல்வெட்டு (60 முதல் 61 வரை)"
+  },
+  {
+   "identifier": "aclarch000064a92",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00064 கல்வெட்டு 62"
+  },
+  {
+   "identifier": "aclarch000065a93",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00065 கல்வெட்டு 63"
+  },
+  {
+   "identifier": "aclarch0000661",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00066 கல்வெட்டு (64 முதல் 69 வரை) 65, ஜனவரி, 2005"
+  },
+  {
+   "identifier": "aclarch0000661a95",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00066 கல்வெட்டு (64 முதல் 69 வரை) 65, ஜனவரி, 2005"
+  },
+  {
+   "identifier": "aclarch0000662",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00066 கல்வெட்டு (64 முதல் 69 வரை) 66, ஏப்ரல். 2005"
+  },
+  {
+   "identifier": "aclarch0000662a96",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00066 கல்வெட்டு (64 முதல் 69 வரை) 66, ஏப்ரல். 2005"
+  },
+  {
+   "identifier": "aclarch0000663",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00066 கல்வெட்டு (64 முதல் 69 வரை) 67, சூலை, 2005"
+  },
+  {
+   "identifier": "aclarch0000663a97",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00066 கல்வெட்டு (64 முதல் 69 வரை) 67, சூலை, 2005"
+  },
+  {
+   "identifier": "aclarch0000664",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00066 கல்வெட்டு (64 முதல் 69 வரை) 68, அக்டோபர் 2005"
+  },
+  {
+   "identifier": "aclarch0000664a98",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00066 கல்வெட்டு (64 முதல் 69 வரை) 68, அக்டோபர் 2005"
+  },
+  {
+   "identifier": "aclarch0000665",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00066 கல்வெட்டு (64 முதல் 69 வரை) 69, ஜனவரி, 2006"
+  },
+  {
+   "identifier": "aclarch0000665a99",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00066 கல்வெட்டு (64 முதல் 69 வரை) 69, ஜனவரி, 2006"
+  },
+  {
+   "identifier": "aclarch000066a94",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00066 கல்வெட்டு (64 முதல் 69 வரை) 64, அக்டோபர், 2004"
+  },
+  {
+   "identifier": "aclarch000067a100",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00067 கல்வெட்டு 71"
+  },
+  {
+   "identifier": "aclarch000068a101",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00068 கல்வெட்டு 72"
+  },
+  {
+   "identifier": "aclarch000069a102",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00069 கல்வெட்டு 78"
+  },
+  {
+   "identifier": "aclarch000070a103",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan",
+    "fav-palanipriya"
+   ],
+   "title": "ACL-ARCH 00070 கல்வெட்டு 79"
+  },
+  {
+   "identifier": "aclarch000071a104",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00071 கல்வெட்டு 80"
+  },
+  {
+   "identifier": "aclarch000091a124",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00091 கல்வெட்டு -82"
+  },
+  {
+   "identifier": "aclarch000092a125",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan",
+    "fav-rakku"
+   ],
+   "title": "ACL-ARCH 00092 கல்வெட்டு -83"
+  },
+  {
+   "identifier": "aclarch000093a126",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00093 கல்வெட்டு -91"
+  },
+  {
+   "identifier": "aclarch000094a127",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00094 கல்வெட்டு -92"
+  },
+  {
+   "identifier": "aclarch000095a128",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00095 கல்வெட்டு -96"
+  },
+  {
+   "identifier": "aclarch000096a129",
+   "collection": [
+    "AnnaDigitalLibrary",
+    "JaiGyan"
+   ],
+   "title": "ACL-ARCH 00096 கல்வெட்டு (103, 104)"
+  },
+  {
+   "identifier": "avanam-2005-vol-16",
+   "collection": [
+    "booksbylanguage_tamil",
+    "booksbylanguage",
+    "fav-rakku"
+   ],
+   "creator": "மணிகண்டன்",
+   "date": "2022-10-19T00:00:00Z",
+   "description": "ஆவணம் இதழ் 16 2005 வெளியிட பட்டது",
+   "language": "tam",
+   "subject": [
+    "கல்வெட்டு",
+    "பாண்டியர்",
+    "வரலாறு",
+    "பாண்டியன்",
+    "பூகோளம்"
+   ],
+   "title": "Avanam 2005 Vol 16",
+   "year": 2022
+  },
+  {
+   "identifier": "devakulam-kalvettu",
+   "collection": [
+    "opensource"
+   ],
+   "creator": "தமிழக அரசு தொல்லியல் துறையிலிருந்த தகவலை சங்கரன்புதூர் பாலசுப்பிரமணியம் (முருகன்) தொகுத்து பதிவேற்றியிருக்கிறார்",
+   "description": "தேவகுளம் தெய்வ விநாயகப்பிள்ளையார் கோவில் கல்வெட்டு தொகுப்பு",
+   "subject": [
+    "தேவகுளம்",
+    "கன்னியாகுமரி",
+    "கல்வெட்டு",
+    "விநாயகர்",
+    "கோவில் கல்வெட்டு",
+    "பிள்ளையார்கோவில்",
+    "வினாயகர்"
+   ],
+   "title": "Devakulam Kalvettu தேவகுளம் கல்வெட்டு"
+  },
+  {
+   "identifier": "digital.assets.kalveddu_aepral_2009",
+   "language": "tam",
+   "title": "கல்வெட்டு ஏப்ரல் 2009",
+   "collection": [
+    "folkscanomy_miscellaneous",
+    "folkscanomy"
+   ]
+  },
+  {
+   "identifier": "digital.assets.kalveddu_aepral_2010",
+   "language": "tam",
+   "title": "கல்வெட்டு ஏப்ரல் 2010",
+   "collection": [
+    "folkscanomy_miscellaneous",
+    "folkscanomy",
+    "fav-rakku"
+   ]
+  },
+  {
+   "identifier": "digital.assets.kalveddu_aepral_2011",
+   "language": "tam",
+   "title": "கல்வெட்டு ஏப்ரல் 2011",
+   "collection": [
+    "folkscanomy_miscellaneous",
+    "folkscanomy",
+    "fav-pratishkhedekar"
+   ]
+  },
+  {
+   "identifier": "digital.assets.kalveddu_aepral_2013",
+   "language": "tam",
+   "title": "கல்வெட்டு ஏப்ரல் 2013",
+   "collection": [
+    "folkscanomy_miscellaneous",
+    "folkscanomy"
+   ]
+  },
+  {
+   "identifier": "digital.assets.kalveddu_aippachi_1978",
+   "language": "tam",
+   "title": "கல்வெட்டு ஐப்பசி 1978",
+   "collection": [
+    "folkscanomy_miscellaneous",
+    "folkscanomy",
+    "fav-kalanidhi_nidhi",
+    "fav-rakku"
+   ]
+  },
+  {
+   "identifier": "digital.assets.kalveddu_chanavari_1999",
+   "language": "tam",
+   "title": "கல்வெட்டு சனவரி 1999",
+   "collection": [
+    "folkscanomy_miscellaneous",
+    "folkscanomy"
+   ]
+  },
+  {
+   "identifier": "digital.assets.kalveddu_chanavari_2002",
+   "language": "tam",
+   "title": "கல்வெட்டு சனவரி 2002",
+   "collection": [
+    "folkscanomy_miscellaneous",
+    "folkscanomy"
+   ]
+  },
+  {
+   "identifier": "digital.assets.kalveddu_chiththirai_1974",
+   "language": "tam",
+   "title": "கல்வெட்டு சித்திரை 1974",
+   "collection": [
+    "folkscanomy_miscellaneous",
+    "folkscanomy",
+    "fav-kalanidhi_nidhi",
+    "fav-tejashwin_s_cse_c"
+   ]
+  },
+  {
+   "identifier": "digital.assets.kalveddu_chiththirai_1976",
+   "language": "tam",
+   "title": "கல்வெட்டு சித்திரை 1976",
+   "collection": [
+    "folkscanomy_miscellaneous",
+    "folkscanomy"
+   ]
+  },
+  {
+   "identifier": "digital.assets.kalveddu_chiththirai_1978",
+   "language": "tam",
+   "title": "கல்வெட்டு சித்திரை 1978",
+   "collection": [
+    "folkscanomy_miscellaneous",
+    "folkscanomy",
+    "fav-rakku",
+    "fav-tejashwin_s_cse_c"
+   ]
+  },
+  {
+   "identifier": "digital.assets.kalveddu_ezuththukkaLil_thirukkuRaL",
+   "language": "tam",
+   "title": "கல்வெட்டு எழுத்துக்களில் திருக்குறள்",
+   "collection": [
+    "folkscanomy_miscellaneous",
+    "folkscanomy"
+   ]
+  },
+  {
+   "identifier": "digital.assets.kalveddu_janavari_2009",
+   "language": "tam",
+   "title": "கல்வெட்டு ஜனவரி 2009",
+   "collection": [
+    "folkscanomy_miscellaneous",
+    "folkscanomy"
+   ]
+  },
+  {
+   "identifier": "digital.assets.kalveddu_janavari_2011",
+   "language": "tam",
+   "title": "கல்வெட்டு ஜனவரி 2011",
+   "collection": [
+    "booksbylanguage_tamil",
+    "booksbylanguage"
+   ]
+  },
+  {
+   "identifier": "digital.assets.kalveddu_janavari_2012",
+   "language": "tam",
+   "title": "கல்வெட்டு ஜனவரி 2012",
+   "collection": [
+    "folkscanomy_miscellaneous",
+    "folkscanomy"
+   ]
+  },
+  {
+   "identifier": "digital.assets.kalveddu_juulai_1995",
+   "language": "tam",
+   "title": "கல்வெட்டு ஜூலை 1995",
+   "collection": [
+    "folkscanomy_miscellaneous",
+    "folkscanomy",
+    "fav-rakku"
+   ]
+  },
+  {
+   "identifier": "digital.assets.kalveddu_juulai_2002",
+   "language": "tam",
+   "title": "கல்வெட்டு ஜூலை 2002",
+   "collection": [
+    "booksbylanguage_tamil",
+    "booksbylanguage"
+   ]
+  },
+  {
+   "identifier": "digital.assets.kalveddu_juulai_2013",
+   "language": "tam",
+   "title": "கல்வெட்டு ஜூலை 2013",
+   "collection": [
+    "folkscanomy_miscellaneous",
+    "folkscanomy"
+   ]
+  },
+  {
+   "identifier": "digital.assets.kalveddu_thai_1975",
+   "language": "tam",
+   "title": "கல்வெட்டு தை 1975",
+   "collection": [
+    "folkscanomy_miscellaneous",
+    "folkscanomy"
+   ]
+  },
+  {
+   "identifier": "dli.jZY9lup2kZl6TuXGlZQdjZYekuly.TVA_BOK_0003211",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan",
+    "fav-bala0605",
+    "fav-jithu5",
+    "fav-jkalyanaraman",
+    "fav-rakku",
+    "fav-vivek905"
+   ],
+   "date": "1958-01-01T00:00:00Z",
+   "description": "Source: Tamil Digital Library Book ID: jZY9lup2kZl6TuXGlZQdjZYekuly",
+   "language": "tam",
+   "publisher": "பழனியப்பா பிரதர்ஸ் (சென்னை)",
+   "subject": "Tamil Digital Library",
+   "title": "கல்வெட்டு",
+   "year": 1958
+  },
+  {
+   "identifier": "dli.jZY9lup2kZl6TuXGlZQdjZlelZty.TVA_BOK_0006907",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan",
+    "fav-malaisp",
+    "fav-palanipriya",
+    "fav-kalai_mani823",
+    "fav-rakku",
+    "fav-bala0605"
+   ],
+   "date": "1955-01-01T00:00:00Z",
+   "description": "Source: Tamil Digital Library Book ID: jZY9lup2kZl6TuXGlZQdjZlelZty",
+   "language": "tam",
+   "publisher": "பொதிகை பதிப்பகம் (கடலூர்)",
+   "subject": "Tamil Digital Library",
+   "title": "கல்வெட்டு : விளக்க உரை",
+   "year": 1955
+  },
+  {
+   "identifier": "dli.jZY9lup2kZl6TuXGlZQdjZp2kJhy.TVA_BOK_0009515",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan",
+    "fav-kalanidhi_nidhi",
+    "fav-nidhish_aaryan",
+    "fav-ramap"
+   ],
+   "creator": "சுப்பிரமணிய பிள்ளை, பொன்.",
+   "date": "1954-01-01T00:00:00Z",
+   "description": "Source: Tamil Digital Library Book ID: jZY9lup2kZl6TuXGlZQdjZp2kJhy",
+   "language": "tam",
+   "publisher": "திருவாவடுதுறை ஆதீனம் (திருவாவடுதுறை)",
+   "subject": "Tamil Digital Library",
+   "title": "திருவிடைமருதூர்த் தலவரலாறு : கல்வெட்டு",
+   "year": 1954
+  },
+  {
+   "identifier": "kmm-0171-kalvettu",
+   "collection": [
+    "koviloorandavarlibrary",
+    "patron-library-collection",
+    "fav-rakku"
+   ],
+   "creator": "இரா.நாகசாமி",
+   "description": "கல்வெட்டு , இரா.நாகசாமி, தமிழ்நாடு அரசு தொல்பொருள் ஆய்வுத்துறையின் காலாண்டு இதழ் ",
+   "language": "tam",
+   "subject": [
+    "கல்வெட்டு",
+    "இரா.நாகசாமி"
+   ],
+   "title": "கல்வெட்டு"
+  },
+  {
+   "identifier": "kmm-0171-kalvettu-1974",
+   "collection": [
+    "koviloorandavarlibrary",
+    "patron-library-collection"
+   ],
+   "creator": "இரா.நாகசாமி",
+   "date": "1974-01-01T00:00:00Z",
+   "description": "கல்வெட்டு , இரா.நாகசாமி, தமிழ்நாடு அரசு தொல்பொருள் ஆய்வுத்துறையின் காலாண்டு இதழ் ",
+   "language": "tam",
+   "subject": [
+    "கல்வெட்டு",
+    "இரா.நாகசாமி"
+   ],
+   "title": "கல்வெட்டு",
+   "year": 1974
+  },
+  {
+   "identifier": "kmm-0171-kalvettu-1975",
+   "collection": [
+    "koviloorandavarlibrary",
+    "patron-library-collection",
+    "fav-rakku",
+    "fav-ramap"
+   ],
+   "creator": "இரா.நாகசாமி",
+   "date": "1975-01-01T00:00:00Z",
+   "description": "கல்வெட்டு , இரா.நாகசாமி, தமிழ்நாடு அரசு தொல்பொருள் ஆய்வுத்துறையின் காலாண்டு இதழ் ",
+   "language": "tam",
+   "subject": [
+    "கல்வெட்டு",
+    "இரா.நாகசாமி"
+   ],
+   "title": "கல்வெட்டு",
+   "year": 1975
+  },
+  {
+   "identifier": "kmm-0171-kalvettu-1977",
+   "collection": [
+    "koviloorandavarlibrary",
+    "patron-library-collection",
+    "fav-rakku"
+   ],
+   "creator": "இரா.நாகசாமி",
+   "date": "1977-01-01T00:00:00Z",
+   "description": "கல்வெட்டு , இரா.நாகசாமி, தமிழ்நாடு அரசு தொல்பொருள் ஆய்வுத்துறையின் காலாண்டு இதழ்",
+   "language": "tam",
+   "subject": [
+    "கல்வெட்டு",
+    "இரா.நாகசாமி"
+   ],
+   "title": "கல்வெட்டு",
+   "year": 1977
+  },
+  {
+   "identifier": "kmm-0171-kalvettu-1977-2",
+   "collection": [
+    "koviloorandavarlibrary",
+    "patron-library-collection",
+    "fav-venkatraman_mahadevan"
+   ],
+   "creator": "இரா.நாகசாமி",
+   "date": "1977-01-01T00:00:00Z",
+   "description": "கல்வெட்டு , இரா.நாகசாமி, தமிழ்நாடு அரசு தொல்பொருள் ஆய்வுத்துறையின் காலாண்டு இதழ் ",
+   "language": "tam",
+   "subject": [
+    "கல்வெட்டு",
+    "இரா.நாகசாமி"
+   ],
+   "title": "கல்வெட்டு",
+   "year": 1977
+  },
+  {
+   "identifier": "kmm-0171-kalvettu-1984",
+   "collection": [
+    "koviloorandavarlibrary",
+    "patron-library-collection",
+    "fav-rakku",
+    "fav-venkatraman_mahadevan"
+   ],
+   "creator": "தமிழ்நாடு அரசு தொல்பொருள் ஆய்வுத்துறையின் காலாண்டு இதழ்",
+   "date": "1984-01-01T00:00:00Z",
+   "description": "கல்வெட்டு , தமிழ்நாடு அரசு தொல்பொருள் ஆய்வுத்துறையின் காலாண்டு இதழ்,",
+   "language": "tam",
+   "subject": [
+    "கல்வெட்டு",
+    "தமிழ்நாடு அரசு தொல்பொருள் ஆய்வுத்துறையின் காலாண்டு இதழ்"
+   ],
+   "title": "கல்வெட்டு",
+   "year": 1984
+  },
+  {
+   "identifier": "rethinavelu_9",
+   "creator": "என்னார்",
+   "date": "2018-07-06T00:00:00Z",
+   "description": "கல்வெட்டு ஒரு பார்வை",
+   "subject": "கல்வெட்டு",
+   "title": "கள்ளர் குல அரையர் குடுத்த 9",
+   "language": "Tamil",
+   "collection": [
+    "booksbylanguage_tamil",
+    "booksbylanguage"
+   ],
+   "year": 2018
+  },
+  {
+   "identifier": "tdl.000091-airaavtm-mkaateevnnn-neerkaannl",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: கல்வெட்டு, தமிழ் பிராமி, வட்டெழுத்து, சங்க கால கல்வெட்டு, சமணம், நடுகல், தொல்காப்பியம், பௌத்தம், ஆசீவகம், இசைக் கல்வெட்டு",
+   "language": "tam",
+   "subject": [
+    "கல்வெட்டு",
+    "தமிழ் பிராமி",
+    "வட்டெழுத்து",
+    "சங்க கால கல்வெட்டு",
+    "சமணம்",
+    "நடுகல்",
+    "தொல்காப்பியம்",
+    "பௌத்தம்",
+    "ஆசீவகம்",
+    "இசைக் கல்வெட்டு",
+    "Audio"
+   ],
+   "title": "ஐராவதம் மகாதேவன் நேர்காணல்"
+  },
+  {
+   "identifier": "tdl.000092-airaavtm-mkaateevnnn-neerkaannl",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: கல்வெட்டு, தமிழ் பிராமி, வட்டெழுத்து, பாலி, சிந்து சமவெளி நாகரிகம், எழுத்து முறை, சமணம், பௌத்தம், பானை ஓடு, குறியீடு, நக்கன்",
+   "language": "tam",
+   "subject": [
+    "கல்வெட்டு",
+    "தமிழ் பிராமி",
+    "வட்டெழுத்து",
+    "பாலி",
+    "சிந்து சமவெளி நாகரிகம்",
+    "எழுத்து முறை",
+    "சமணம்",
+    "பௌத்தம்",
+    "பானை ஓடு",
+    "குறியீடு",
+    "நக்கன்",
+    "Audio"
+   ],
+   "title": "ஐராவதம் மகாதேவன் நேர்காணல்"
+  },
+  {
+   "identifier": "tdl.0009108-nuul-accum-ptippum",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: அச்சுக்கலை, எழுத்தின் தோற்றம், தமிழ் எழுத்து, முற்கால அச்சகங்கள், பழங்காலக் கல்வி முறை, கிறிஸ்தவத் தமிழ்த் தொண்டு, கல்வெட்டு, வட்டெழுத்து, தமிழ் எண்கள், தம்பிரான் வணக்கம், தமிழ் வரி வடிவம், செப்பேட்டு எழுத்து, இன்னாசி ஆச்சாமணி",
+   "language": "tam",
+   "subject": [
+    "அச்சுக்கலை",
+    "எழுத்தின் தோற்றம்",
+    "தமிழ் எழுத்து",
+    "முற்கால அச்சகங்கள்",
+    "பழங்காலக் கல்வி முறை",
+    "கிறிஸ்தவத் தமிழ்த் தொண்டு",
+    "கல்வெட்டு",
+    "வட்டெழுத்து",
+    "தமிழ் எண்கள்",
+    "தம்பிரான் வணக்கம்",
+    "தமிழ் வரி வடிவம்",
+    "செப்பேட்டு எழுத்து",
+    "இன்னாசி ஆச்சாமணி",
+    "Book"
+   ],
+   "title": "நூல் - அச்சும் பதிப்பும்"
+  },
+  {
+   "identifier": "tdl.005467-klvettttu-aayvu-tottrpaak",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: பத்துப்பாட்டு, கல்வெட்டு ஆய்வு",
+   "subject": [
+    "பத்துப்பாட்டு",
+    "கல்வெட்டு ஆய்வு",
+    "Palmleaf"
+   ],
+   "title": "கல்வெட்டு ஆய்வு தொடர்பாக",
+   "language": "tam"
+  },
+  {
+   "identifier": "tdl.005540-tennnnnnintiy-caasnnn-puttkm",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: ஹுல்ஸ் துரை, கல்வெட்டு, சோழ மன்னர்கள், இராசராசன், இராசேந்திர சோழன்",
+   "subject": [
+    "ஹுல்ஸ் துரை",
+    "கல்வெட்டு",
+    "சோழ மன்னர்கள்",
+    "இராசராசன்",
+    "இராசேந்திர சோழன்",
+    "Palmleaf"
+   ],
+   "title": "தென்னிந்திய சாஸன புத்தகம்",
+   "language": "tam"
+  },
+  {
+   "identifier": "tdl.005546-meykkiirtti-tottrpaak",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: யாப்பிலக்கணச் சுருக்கம், பாலபோத இலக்கணம், கல்வெட்டு, மகாவம்சம்",
+   "subject": [
+    "யாப்பிலக்கணச் சுருக்கம்",
+    "பாலபோத இலக்கணம்",
+    "கல்வெட்டு",
+    "மகாவம்சம்",
+    "Palmleaf"
+   ],
+   "title": "மெய்க்கீர்த்தி தொடர்பாக",
+   "language": "tam"
+  },
+  {
+   "identifier": "tdl.005643-tirukkttvuurk-koovil-klvettttu",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: திருக்கடவூர், அமிருதகடேசுவரர் கோவில், சோழவளநாடு, சேக்கிழார், பெரியபுராணம், மாணிக்கவாசகர், செப்புப்பட்டயம்",
+   "subject": [
+    "திருக்கடவூர்",
+    "அமிருதகடேசுவரர் கோவில்",
+    "சோழவளநாடு",
+    "சேக்கிழார்",
+    "பெரியபுராணம்",
+    "மாணிக்கவாசகர்",
+    "செப்புப்பட்டயம்",
+    "Palmleaf"
+   ],
+   "title": "திருக்கடவூர்க் கோவில் கல்வெட்டு",
+   "language": "tam"
+  },
+  {
+   "identifier": "tdl.005644-tiruppaatirippuliyuur-klvettttu",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: திருப்பாதிரிப்புலியூர், கல்வெட்டு, திருக்காடஞாழல் மாதேவர், கருவறை",
+   "subject": [
+    "திருப்பாதிரிப்புலியூர்",
+    "கல்வெட்டு",
+    "திருக்காடஞாழல் மாதேவர்",
+    "கருவறை",
+    "Palmleaf"
+   ],
+   "title": "திருப்பாதிரிப்புலியூர் கல்வெட்டு",
+   "language": "tam"
+  },
+  {
+   "identifier": "tdl.005840-perungktaip-puttkm-annnupp-veenntti-mttl",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: பெருங்கதை, மாரியப்ப முதலியார், அஷ்டாவதானம் சபாபதி முதலியார், தா.சொ.கந்தசாமி முதலியார், பிள்ளை வரலாறு, புறநானூறு, சேரமான் பெருஞ்சோற்றுதியன், கல்வெட்டு, பாகவதம்",
+   "language": "tam",
+   "subject": [
+    "பெருங்கதை",
+    "மாரியப்ப முதலியார்",
+    "அஷ்டாவதானம் சபாபதி முதலியார்",
+    "தா.சொ.கந்தசாமி முதலியார்",
+    "பிள்ளை வரலாறு",
+    "புறநானூறு",
+    "சேரமான் பெருஞ்சோற்றுதியன்",
+    "கல்வெட்டு",
+    "பாகவதம்",
+    "Palmleaf"
+   ],
+   "title": "பெருங்கதைப் புத்தகம் அனுப்ப வேண்டி மடல்"
+  },
+  {
+   "identifier": "tdl.006165-ennnnaayirm-kiraamm",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: நந்திவாடி, சிற்றூர், விழுப்புரம், செஞ்சி. அத்தியூர், எண்ணாயிரம், விஷ்ணு ஆலயம், இராஜராஜ சதுர்வேதிமங்கலம், சமஸ்கிருதப் பள்ளி, வேதம், வேதாந்தம், உபாத்தியாயர்கள், கோவில் கல்வெட்டு",
+   "language": "tam",
+   "subject": [
+    "நந்திவாடி",
+    "சிற்றூர்",
+    "விழுப்புரம்",
+    "செஞ்சி. அத்தியூர்",
+    "எண்ணாயிரம்",
+    "விஷ்ணு ஆலயம்",
+    "இராஜராஜ சதுர்வேதிமங்கலம்",
+    "சமஸ்கிருதப் பள்ளி",
+    "வேதம்",
+    "வேதாந்தம்",
+    "உபாத்தியாயர்கள்",
+    "கோவில் கல்வெட்டு",
+    "Palmleaf"
+   ],
+   "title": "எண்ணாயிரம் கிராமம்"
+  },
+  {
+   "identifier": "tdl.062716-nuul-tmilllr-naakrik-vrlaarru",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: தமிழக வரலாறு, மண்ணியல், கல்வெட்டு, ஆர்க்கியன் பாறை, இடைபுகு பாறை, கடல்கோள், பழங்கற்காலம், புதுக் கற்காலம், இரும்புக் காலம், சேர நாடு, சோழ நாடு, பாண்டிய நாடு, கொங்கு நாடு, தொண்டை நாடு, தமிழ் மொழி, தமிழர் நாகரிகம், தமிழர் போர் முறை, கலை, க.த. திருநாவுக்கரசு",
+   "language": "tam",
+   "subject": [
+    "தமிழக வரலாறு",
+    "மண்ணியல்",
+    "கல்வெட்டு",
+    "ஆர்க்கியன் பாறை",
+    "இடைபுகு பாறை",
+    "கடல்கோள்",
+    "பழங்கற்காலம்",
+    "புதுக் கற்காலம்",
+    "இரும்புக் காலம்",
+    "சேர நாடு",
+    "சோழ நாடு",
+    "பாண்டிய நாடு",
+    "கொங்கு நாடு",
+    "தொண்டை நாடு",
+    "தமிழ் மொழி",
+    "தமிழர் நாகரிகம்",
+    "தமிழர் போர் முறை",
+    "கலை",
+    "க.த. திருநாவுக்கரசு",
+    "Book"
+   ],
+   "title": "நூல் - தமிழர் நாகரிக வரலாறு"
+  },
+  {
+   "identifier": "tdl.062974-31",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan",
+    "fav-rakku"
+   ],
+   "description": "Keywords: சேலம், தேப்பாழிச் சுனைக் கல்வெட்டு, வட்டெழுத்து நடுகற்கள், அம்மன்கோயில்பட்டி, ஓமலூர், ஆத்தூர், தாரமங்கலம் கல்வெட்டு, திருக்காமீசுவரமுடையார் திருக்கோயில், ஆறகளூர்",
+   "language": "tam",
+   "subject": [
+    "சேலம்",
+    "தேப்பாழிச் சுனைக் கல்வெட்டு",
+    "வட்டெழுத்து நடுகற்கள்",
+    "அம்மன்கோயில்பட்டி",
+    "ஓமலூர்",
+    "ஆத்தூர்",
+    "தாரமங்கலம் கல்வெட்டு",
+    "திருக்காமீசுவரமுடையார் திருக்கோயில்",
+    "ஆறகளூர்",
+    "Book"
+   ],
+   "title": "நூல் - தமிழ்நாட்டுக் கல்வெட்டுகள் தொகுதி-31 : சேலம் மாவட்டக் கல்வெட்டுகள் - தொகுதி 1"
+  },
+  {
+   "identifier": "tdl.062975-32",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: செங்கல்பட்டு, திருக்கச்சூர், வீர ராஜேந்திரன் கல்வெட்டு, கச்சபேசுவரர் கோயில்",
+   "language": "tam",
+   "subject": [
+    "செங்கல்பட்டு",
+    "திருக்கச்சூர்",
+    "வீர ராஜேந்திரன் கல்வெட்டு",
+    "கச்சபேசுவரர் கோயில்",
+    "Book"
+   ],
+   "title": "நூல் - தமிழ்நாட்டுக் கல்வெட்டுகள் தொகுதி-32 : செங்கல்பட்டு மாவட்டக் கல்வெட்டுகள் - தொகுதி 2"
+  },
+  {
+   "identifier": "tdl.062989-11th-14th-february-2026",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan",
+    "fav-rakku"
+   ],
+   "description": "Keywords: அளவைகள், கல்வெட்டு, வரலாறு, கொங்கு நாடு, பௌத்தப்பள்ளிக் கல்வெட்டு, ஸ்தூபக் குறியீடு, சமணப்பள்ளிகள், மூவேந்தர், நடுகல், நினைவுக்கல், தென்னிந்தியா, தொல்மரபு நீட்சி, தொண்டை மண்டலம், பாண்டிய மன்னர், சடையன்மாறன், கல்லுமடைக் கல்வெட்டு, திருப்பாலையூர், மெய்க்கீர்த்தி, காதம், சண்டேசுவரப் பெருவிலை, கிழார் மரபு, Pre-historic Dravidian, Dravidian Culture, Linguistic Archaeology, Tamil Epigraphy, Vocabulary, Calligraphy, Palaeography, Inscription, Gangaikondacholapuram, Mythic Society, Karnataka, South India, Jaina Epigraphy, Jainism, Archaeology",
+   "language": "tam",
+   "subject": [
+    "அளவைகள்",
+    "கல்வெட்டு",
+    "வரலாறு",
+    "கொங்கு நாடு",
+    "பௌத்தப்பள்ளிக் கல்வெட்டு",
+    "ஸ்தூபக் குறியீடு",
+    "சமணப்பள்ளிகள்",
+    "மூவேந்தர்",
+    "நடுகல்",
+    "நினைவுக்கல்",
+    "தென்னிந்தியா",
+    "தொல்மரபு நீட்சி",
+    "தொண்டை மண்டலம்",
+    "பாண்டிய மன்னர்",
+    "சடையன்மாறன்",
+    "கல்லுமடைக் கல்வெட்டு",
+    "திருப்பாலையூர்",
+    "மெய்க்கீர்த்தி",
+    "காதம்",
+    "சண்டேசுவரப் பெருவிலை",
+    "கிழார் மரபு",
+    "Pre-historic Dravidian",
+    "Dravidian Culture",
+    "Linguistic Archaeology",
+    "Tamil Epigraphy",
+    "Vocabulary",
+    "Calligraphy",
+    "Palaeography",
+    "Inscription",
+    "Gangaikondacholapuram",
+    "Mythic Society",
+    "Karnataka",
+    "South India",
+    "Jaina Epigraphy",
+    "Jainism",
+    "Archaeology",
+    "Book"
+   ],
+   "title": "நூல் - தமிழ்க் கல்வெட்டியல் : பன்னாட்டுக் கருத்தரங்கம் (11th – 14th February 2026) ஆய்வுக் கட்டுரைகள் - தொகுதி 1"
+  },
+  {
+   "identifier": "tdl.062990-11th-14th-february-2026",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: கல்வெட்டு, கோள், செவ்வியல் இலக்கியங்களில் கோள், காடுகோள், ஏரிகோள், பஞ்சாங்கம், நாள் காட்டி, நீர்ப்பாசனம், வாய்க்கால், நீர் மேலாண்மை, முறை விழுக்காடு, குமிழி, மடை, தொண்டை மண்டலம், சோழ மண்டலம், சோழர் படைமுறை, நிலக்கொடை, கோயில், சிவபிராமணர், புதுக்கோட்டை, பூலாங்குறிச்சி கல்வெட்டு, பிரமதேயங்கள், நிலவுடமை, நிலக்கிழார், உழுகுடிகள், வேளாண்மை, சங்க காலம், இடையர் சமூகம், இடைப்பூட்சி, இடைப்பாட்டம், கோன், பட்டன், நடுகல், இலங்கை, சோழர் கோயில் பண்பாடு, நாகப்பட்டினம், கடற்சார் வணிகம், கடல் வர்த்தகம், கலிங்கம், அத்திகும்பா கல்வெட்டு, காசு, மகேந்திரவர்மன் விருதுப்பெயர்கள், Land Management, Brahmadeya, Tamil Vocabulary, Agriculture, Medieval Tamil Nadu, Trade, Merchants, Tamil Epigraphy, Inscriptions, Archaeology, Tamil Numbers, Tamil Symbols",
+   "language": "tam",
+   "subject": [
+    "கல்வெட்டு",
+    "கோள்",
+    "செவ்வியல் இலக்கியங்களில் கோள்",
+    "காடுகோள்",
+    "ஏரிகோள்",
+    "பஞ்சாங்கம்",
+    "நாள் காட்டி",
+    "நீர்ப்பாசனம்",
+    "வாய்க்கால்",
+    "நீர் மேலாண்மை",
+    "முறை விழுக்காடு",
+    "குமிழி",
+    "மடை",
+    "தொண்டை மண்டலம்",
+    "சோழ மண்டலம்",
+    "சோழர் படைமுறை",
+    "நிலக்கொடை",
+    "கோயில்",
+    "சிவபிராமணர்",
+    "புதுக்கோட்டை",
+    "பூலாங்குறிச்சி கல்வெட்டு",
+    "பிரமதேயங்கள்",
+    "நிலவுடமை",
+    "நிலக்கிழார்",
+    "உழுகுடிகள்",
+    "வேளாண்மை",
+    "சங்க காலம்",
+    "இடையர் சமூகம்",
+    "இடைப்பூட்சி",
+    "இடைப்பாட்டம்",
+    "கோன்",
+    "பட்டன்",
+    "நடுகல்",
+    "இலங்கை",
+    "சோழர் கோயில் பண்பாடு",
+    "நாகப்பட்டினம்",
+    "கடற்சார் வணிகம்",
+    "கடல் வர்த்தகம்",
+    "கலிங்கம்",
+    "அத்திகும்பா கல்வெட்டு",
+    "காசு",
+    "மகேந்திரவர்மன் விருதுப்பெயர்கள்",
+    "Land Management",
+    "Brahmadeya",
+    "Tamil Vocabulary",
+    "Agriculture",
+    "Medieval Tamil Nadu",
+    "Trade",
+    "Merchants",
+    "Tamil Epigraphy",
+    "Inscriptions",
+    "Archaeology",
+    "Tamil Numbers",
+    "Tamil Symbols",
+    "Book"
+   ],
+   "title": "நூல் - தமிழ்க் கல்வெட்டியல் : பன்னாட்டுக் கருத்தரங்கம் (11th – 14th February 2026) ஆய்வுக் கட்டுரைகள் - தொகுதி 2"
+  },
+  {
+   "identifier": "tdl.1000-knnnnnnnuur",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: தருமபுரி, ஊத்தங்கரை, கண்ணனூர், நடுகல், வீரக்கல், நினைவுக்கல், பெருங்கற்காலம், ஈமச்சின்னம், தொல்லியல் துறை, அரசு அருங்காட்சியகம், கல்வெட்டுகள், தமிழ்நாடு, சைவம், தமிழ், வைணவம், தமிழ்க் கல்வெட்டு, பலகைக் கல்வெட்டு, கொடை, தானம், கோயில்",
+   "language": "tam",
+   "subject": [
+    "தருமபுரி",
+    "ஊத்தங்கரை",
+    "கண்ணனூர்",
+    "நடுகல்",
+    "வீரக்கல்",
+    "நினைவுக்கல்",
+    "பெருங்கற்காலம்",
+    "ஈமச்சின்னம்",
+    "தொல்லியல் துறை",
+    "அரசு அருங்காட்சியகம்",
+    "கல்வெட்டுகள்",
+    "தமிழ்நாடு",
+    "சைவம்",
+    "தமிழ்",
+    "வைணவம்",
+    "தமிழ்க் கல்வெட்டு",
+    "பலகைக் கல்வெட்டு",
+    "கொடை",
+    "தானம்",
+    "கோயில்",
+    "Inscription"
+   ],
+   "title": "கண்ணனூர்"
+  },
+  {
+   "identifier": "tdl.1001-ktirmptttti",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: தருமபுரி, ஊத்தங்கரை, கதிரம்பட்டி, நடுகல், வீரக்கல், நினைவுக்கல், பெருங்கற்காலம், ஈமச்சின்னம், தொல்லியல் துறை, அரசு அருங்காட்சியகம், கல்வெட்டுகள், தமிழ்நாடு, சைவம், தமிழ், வைணவம், தமிழ்க் கல்வெட்டு, பலகைக் கல்வெட்டு, கொடை, தானம், கோயில்",
+   "language": "tam",
+   "subject": [
+    "தருமபுரி",
+    "ஊத்தங்கரை",
+    "கதிரம்பட்டி",
+    "நடுகல்",
+    "வீரக்கல்",
+    "நினைவுக்கல்",
+    "பெருங்கற்காலம்",
+    "ஈமச்சின்னம்",
+    "தொல்லியல் துறை",
+    "அரசு அருங்காட்சியகம்",
+    "கல்வெட்டுகள்",
+    "தமிழ்நாடு",
+    "சைவம்",
+    "தமிழ்",
+    "வைணவம்",
+    "தமிழ்க் கல்வெட்டு",
+    "பலகைக் கல்வெட்டு",
+    "கொடை",
+    "தானம்",
+    "கோயில்",
+    "Inscription"
+   ],
+   "title": "கதிரம்பட்டி"
+  },
+  {
+   "identifier": "tdl.1002-nttukl",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: தருமபுரி, ஊத்தங்கரை, கதிரம்பட்டி, கொண்டயம்பட்டி, நடுகல், வீரக்கல், நினைவுக்கல், பெருங்கற்காலம், ஈமச்சின்னம், தொல்லியல் துறை, அரசு அருங்காட்சியகம், கல்வெட்டுகள், தமிழ்நாடு, சைவம், தமிழ், வைணவம், தமிழ்க் கல்வெட்டு, பலகைக் கல்வெட்டு, கொடை, தானம், கோயில்",
+   "language": "tam",
+   "subject": [
+    "தருமபுரி",
+    "ஊத்தங்கரை",
+    "கதிரம்பட்டி",
+    "கொண்டயம்பட்டி",
+    "நடுகல்",
+    "வீரக்கல்",
+    "நினைவுக்கல்",
+    "பெருங்கற்காலம்",
+    "ஈமச்சின்னம்",
+    "தொல்லியல் துறை",
+    "அரசு அருங்காட்சியகம்",
+    "கல்வெட்டுகள்",
+    "தமிழ்நாடு",
+    "சைவம்",
+    "தமிழ்",
+    "வைணவம்",
+    "தமிழ்க் கல்வெட்டு",
+    "பலகைக் கல்வெட்டு",
+    "கொடை",
+    "தானம்",
+    "கோயில்",
+    "Inscription"
+   ],
+   "title": "நடுகல்"
+  },
+  {
+   "identifier": "tdl.1003-paarraikklvettttu",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: தருமபுரி, ஊத்தங்கரை, குன்னத்தூர், நடுகல், வீரக்கல், நினைவுக்கல், பெருங்கற்காலம், ஈமச்சின்னம், தொல்லியல் துறை, அரசு அருங்காட்சியகம், கல்வெட்டுகள், தமிழ்நாடு, சைவம், தமிழ், வைணவம், தமிழ்க் கல்வெட்டு, பலகைக் கல்வெட்டு, கொடை, தானம், கோயில்",
+   "language": "tam",
+   "subject": [
+    "தருமபுரி",
+    "ஊத்தங்கரை",
+    "குன்னத்தூர்",
+    "நடுகல்",
+    "வீரக்கல்",
+    "நினைவுக்கல்",
+    "பெருங்கற்காலம்",
+    "ஈமச்சின்னம்",
+    "தொல்லியல் துறை",
+    "அரசு அருங்காட்சியகம்",
+    "கல்வெட்டுகள்",
+    "தமிழ்நாடு",
+    "சைவம்",
+    "தமிழ்",
+    "வைணவம்",
+    "தமிழ்க் கல்வெட்டு",
+    "பலகைக் கல்வெட்டு",
+    "கொடை",
+    "தானம்",
+    "கோயில்",
+    "Inscription"
+   ],
+   "title": "பாறைக்கல்வெட்டு"
+  },
+  {
+   "identifier": "tdl.1004-nttukl",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: தருமபுரி, ஊத்தங்கரை, முத்தானூர், நடுகல், வீரக்கல், நினைவுக்கல், பெருங்கற்காலம், ஈமச்சின்னம், தொல்லியல் துறை, அரசு அருங்காட்சியகம், கல்வெட்டுகள், தமிழ்நாடு, சைவம், தமிழ், வைணவம், தமிழ்க் கல்வெட்டு, பலகைக் கல்வெட்டு, கொடை, தானம், கோயில்",
+   "language": "tam",
+   "subject": [
+    "தருமபுரி",
+    "ஊத்தங்கரை",
+    "முத்தானூர்",
+    "நடுகல்",
+    "வீரக்கல்",
+    "நினைவுக்கல்",
+    "பெருங்கற்காலம்",
+    "ஈமச்சின்னம்",
+    "தொல்லியல் துறை",
+    "அரசு அருங்காட்சியகம்",
+    "கல்வெட்டுகள்",
+    "தமிழ்நாடு",
+    "சைவம்",
+    "தமிழ்",
+    "வைணவம்",
+    "தமிழ்க் கல்வெட்டு",
+    "பலகைக் கல்வெட்டு",
+    "கொடை",
+    "தானம்",
+    "கோயில்",
+    "Inscription"
+   ],
+   "title": "நடுகல்"
+  },
+  {
+   "identifier": "tdl.1005-munnniyppnnn-kooyil",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: தருமபுரி, ஊத்தங்கரை, நடுபட்டி, நடுகல், வீரக்கல், நினைவுக்கல், பெருங்கற்காலம், ஈமச்சின்னம், தொல்லியல் துறை, அரசு அருங்காட்சியகம், கல்வெட்டுகள், தமிழ்நாடு, சைவம், தமிழ், வைணவம், தமிழ்க் கல்வெட்டு, பலகைக் கல்வெட்டு, கொடை, தானம், கோயில்",
+   "language": "tam",
+   "subject": [
+    "தருமபுரி",
+    "ஊத்தங்கரை",
+    "நடுபட்டி",
+    "நடுகல்",
+    "வீரக்கல்",
+    "நினைவுக்கல்",
+    "பெருங்கற்காலம்",
+    "ஈமச்சின்னம்",
+    "தொல்லியல் துறை",
+    "அரசு அருங்காட்சியகம்",
+    "கல்வெட்டுகள்",
+    "தமிழ்நாடு",
+    "சைவம்",
+    "தமிழ்",
+    "வைணவம்",
+    "தமிழ்க் கல்வெட்டு",
+    "பலகைக் கல்வெட்டு",
+    "கொடை",
+    "தானம்",
+    "கோயில்",
+    "Inscription"
+   ],
+   "title": "முனியப்பன் கோயில்"
+  },
+  {
+   "identifier": "tdl.1006-meempaalm",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: தருமபுரி, ஊத்தங்கரை, பாவக்கல், நடுகல், வீரக்கல், நினைவுக்கல், பெருங்கற்காலம், ஈமச்சின்னம், தொல்லியல் துறை, அரசு அருங்காட்சியகம், கல்வெட்டுகள், தமிழ்நாடு, சைவம், தமிழ், வைணவம், தமிழ்க் கல்வெட்டு, பலகைக் கல்வெட்டு, கொடை, தானம், கோயில்",
+   "language": "tam",
+   "subject": [
+    "தருமபுரி",
+    "ஊத்தங்கரை",
+    "பாவக்கல்",
+    "நடுகல்",
+    "வீரக்கல்",
+    "நினைவுக்கல்",
+    "பெருங்கற்காலம்",
+    "ஈமச்சின்னம்",
+    "தொல்லியல் துறை",
+    "அரசு அருங்காட்சியகம்",
+    "கல்வெட்டுகள்",
+    "தமிழ்நாடு",
+    "சைவம்",
+    "தமிழ்",
+    "வைணவம்",
+    "தமிழ்க் கல்வெட்டு",
+    "பலகைக் கல்வெட்டு",
+    "கொடை",
+    "தானம்",
+    "கோயில்",
+    "Inscription"
+   ],
+   "title": "மேம்பாலம்"
+  },
+  {
+   "identifier": "tdl.1007-nttukl",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: தருமபுரி, ஊத்தங்கரை, பொதன்ஹள்ளி, நடுகல், வீரக்கல், நினைவுக்கல், பெருங்கற்காலம், ஈமச்சின்னம், தொல்லியல் துறை, அரசு அருங்காட்சியகம், கல்வெட்டுகள், தமிழ்நாடு, சைவம், தமிழ், வைணவம், தமிழ்க் கல்வெட்டு, பலகைக் கல்வெட்டு, கொடை, தானம், கோயில்",
+   "language": "tam",
+   "subject": [
+    "தருமபுரி",
+    "ஊத்தங்கரை",
+    "பொதன்ஹள்ளி",
+    "நடுகல்",
+    "வீரக்கல்",
+    "நினைவுக்கல்",
+    "பெருங்கற்காலம்",
+    "ஈமச்சின்னம்",
+    "தொல்லியல் துறை",
+    "அரசு அருங்காட்சியகம்",
+    "கல்வெட்டுகள்",
+    "தமிழ்நாடு",
+    "சைவம்",
+    "தமிழ்",
+    "வைணவம்",
+    "தமிழ்க் கல்வெட்டு",
+    "பலகைக் கல்வெட்டு",
+    "கொடை",
+    "தானம்",
+    "கோயில்",
+    "Inscription"
+   ],
+   "title": "நடுகல்"
+  },
+  {
+   "identifier": "tdl.1008-nttukl",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: தருமபுரி, ஊத்தங்கரை, புலியானூர், நடுகல், வீரக்கல், நினைவுக்கல், பெருங்கற்காலம், ஈமச்சின்னம், தொல்லியல் துறை, அரசு அருங்காட்சியகம், கல்வெட்டுகள், தமிழ்நாடு, சைவம், தமிழ், வைணவம், தமிழ்க் கல்வெட்டு, பலகைக் கல்வெட்டு, கொடை, தானம், கோயில்",
+   "language": "tam",
+   "subject": [
+    "தருமபுரி",
+    "ஊத்தங்கரை",
+    "புலியானூர்",
+    "நடுகல்",
+    "வீரக்கல்",
+    "நினைவுக்கல்",
+    "பெருங்கற்காலம்",
+    "ஈமச்சின்னம்",
+    "தொல்லியல் துறை",
+    "அரசு அருங்காட்சியகம்",
+    "கல்வெட்டுகள்",
+    "தமிழ்நாடு",
+    "சைவம்",
+    "தமிழ்",
+    "வைணவம்",
+    "தமிழ்க் கல்வெட்டு",
+    "பலகைக் கல்வெட்டு",
+    "கொடை",
+    "தானம்",
+    "கோயில்",
+    "Inscription"
+   ],
+   "title": "நடுகல்"
+  },
+  {
+   "identifier": "tdl.1009-pillllaiyaar-kooyil",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: தருமபுரி, ஊத்தங்கரை, இராமகிருஷ்ணம்பட்டி, நடுகல், வீரக்கல், நினைவுக்கல், பெருங்கற்காலம், ஈமச்சின்னம், தொல்லியல் துறை, அரசு அருங்காட்சியகம், கல்வெட்டுகள், தமிழ்நாடு, சைவம், தமிழ், வைணவம், தமிழ்க் கல்வெட்டு, பலகைக் கல்வெட்டு, கொடை, தானம், கோயில்",
+   "language": "tam",
+   "subject": [
+    "தருமபுரி",
+    "ஊத்தங்கரை",
+    "இராமகிருஷ்ணம்பட்டி",
+    "நடுகல்",
+    "வீரக்கல்",
+    "நினைவுக்கல்",
+    "பெருங்கற்காலம்",
+    "ஈமச்சின்னம்",
+    "தொல்லியல் துறை",
+    "அரசு அருங்காட்சியகம்",
+    "கல்வெட்டுகள்",
+    "தமிழ்நாடு",
+    "சைவம்",
+    "தமிழ்",
+    "வைணவம்",
+    "தமிழ்க் கல்வெட்டு",
+    "பலகைக் கல்வெட்டு",
+    "கொடை",
+    "தானம்",
+    "கோயில்",
+    "Inscription"
+   ],
+   "title": "பிள்ளையார் கோயில்"
+  },
+  {
+   "identifier": "tdl.1010-nttukl",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: தருமபுரி, ஊத்தங்கரை, ரெட்டியூர், நடுகல், வீரக்கல், நினைவுக்கல், பெருங்கற்காலம், ஈமச்சின்னம், தொல்லியல் துறை, அரசு அருங்காட்சியகம், கல்வெட்டுகள், தமிழ்நாடு, சைவம், தமிழ், வைணவம், தமிழ்க் கல்வெட்டு, பலகைக் கல்வெட்டு, கொடை, தானம், கோயில்",
+   "language": "tam",
+   "subject": [
+    "தருமபுரி",
+    "ஊத்தங்கரை",
+    "ரெட்டியூர்",
+    "நடுகல்",
+    "வீரக்கல்",
+    "நினைவுக்கல்",
+    "பெருங்கற்காலம்",
+    "ஈமச்சின்னம்",
+    "தொல்லியல் துறை",
+    "அரசு அருங்காட்சியகம்",
+    "கல்வெட்டுகள்",
+    "தமிழ்நாடு",
+    "சைவம்",
+    "தமிழ்",
+    "வைணவம்",
+    "தமிழ்க் கல்வெட்டு",
+    "பலகைக் கல்வெட்டு",
+    "கொடை",
+    "தானம்",
+    "கோயில்",
+    "Inscription"
+   ],
+   "title": "நடுகல்"
+  },
+  {
+   "identifier": "tdl.1011-vivcaay-nilm",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: தருமபுரி, ஊத்தங்கரை, நடுகல், வீரக்கல், நினைவுக்கல், பெருங்கற்காலம், ஈமச்சின்னம், தொல்லியல் துறை, அரசு அருங்காட்சியகம், கல்வெட்டுகள், தமிழ்நாடு, சைவம், தமிழ், வைணவம், தமிழ்க் கல்வெட்டு, பலகைக் கல்வெட்டு, கொடை, தானம், கோயில்",
+   "language": "tam",
+   "subject": [
+    "தருமபுரி",
+    "ஊத்தங்கரை",
+    "நடுகல்",
+    "வீரக்கல்",
+    "நினைவுக்கல்",
+    "பெருங்கற்காலம்",
+    "ஈமச்சின்னம்",
+    "தொல்லியல் துறை",
+    "அரசு அருங்காட்சியகம்",
+    "கல்வெட்டுகள்",
+    "தமிழ்நாடு",
+    "சைவம்",
+    "தமிழ்",
+    "வைணவம்",
+    "தமிழ்க் கல்வெட்டு",
+    "பலகைக் கல்வெட்டு",
+    "கொடை",
+    "தானம்",
+    "கோயில்",
+    "Inscription"
+   ],
+   "title": "விவசாய நிலம்"
+  },
+  {
+   "identifier": "tdl.1012-civnnn-kooyil",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: ஈரோடு, பவானி, ஓலகடம், சிவன்கோயில், தொல்லியல் துறை, அரசு அருங்காட்சியகம், கல்வெட்டுகள், தமிழ்நாடு, சைவம், தமிழ், வைணவம், தமிழ்க் கல்வெட்டு, பலகைக் கல்வெட்டு, கொடை, தானம், கோயில்",
+   "language": "tam",
+   "subject": [
+    "ஈரோடு",
+    "பவானி",
+    "ஓலகடம்",
+    "சிவன்கோயில்",
+    "தொல்லியல் துறை",
+    "அரசு அருங்காட்சியகம்",
+    "கல்வெட்டுகள்",
+    "தமிழ்நாடு",
+    "சைவம்",
+    "தமிழ்",
+    "வைணவம்",
+    "தமிழ்க் கல்வெட்டு",
+    "பலகைக் கல்வெட்டு",
+    "கொடை",
+    "தானம்",
+    "கோயில்",
+    "Inscription"
+   ],
+   "title": "சிவன் கோயில்"
+  },
+  {
+   "identifier": "tdl.1013-tmilllnaattu-arcut-tolliyl-turrai",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: ஈரோடு, பவானி, தாராபுரம், ஈழகம்வலசு, சிவன்கோயில், தொல்லியல் துறை, அரசு அருங்காட்சியகம், கல்வெட்டுகள், தமிழ்நாடு, சைவம், தமிழ், வைணவம், தமிழ்க் கல்வெட்டு, பலகைக் கல்வெட்டு, கொடை, தானம், கோயில்",
+   "language": "tam",
+   "subject": [
+    "ஈரோடு",
+    "பவானி",
+    "தாராபுரம்",
+    "ஈழகம்வலசு",
+    "சிவன்கோயில்",
+    "தொல்லியல் துறை",
+    "அரசு அருங்காட்சியகம்",
+    "கல்வெட்டுகள்",
+    "தமிழ்நாடு",
+    "சைவம்",
+    "தமிழ்",
+    "வைணவம்",
+    "தமிழ்க் கல்வெட்டு",
+    "பலகைக் கல்வெட்டு",
+    "கொடை",
+    "தானம்",
+    "கோயில்",
+    "Inscription"
+   ],
+   "title": "தமிழ்நாடு அரசுத் தொல்லியல் துறை"
+  },
+  {
+   "identifier": "tdl.1014-iicuvrnnn-kooyil",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: ஈரோடு, பவானி, தாராபுரம், பொன்னிவாடி, ஈசுவரன் கோயில், சிவன் கோயில், தொல்லியல் துறை, அரசு அருங்காட்சியகம், கல்வெட்டுகள், தமிழ்நாடு, சைவம், தமிழ், வைணவம், தமிழ்க் கல்வெட்டு, பலகைக் கல்வெட்டு, கொடை, தானம், கோயில்",
+   "language": "tam",
+   "subject": [
+    "ஈரோடு",
+    "பவானி",
+    "தாராபுரம்",
+    "பொன்னிவாடி",
+    "ஈசுவரன் கோயில்",
+    "சிவன் கோயில்",
+    "தொல்லியல் துறை",
+    "அரசு அருங்காட்சியகம்",
+    "கல்வெட்டுகள்",
+    "தமிழ்நாடு",
+    "சைவம்",
+    "தமிழ்",
+    "வைணவம்",
+    "தமிழ்க் கல்வெட்டு",
+    "பலகைக் கல்வெட்டு",
+    "கொடை",
+    "தானம்",
+    "கோயில்",
+    "Inscription"
+   ],
+   "title": "ஈசுவரன் கோயில்"
+  },
+  {
+   "identifier": "tdl.1015-vellllircceel",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: ஈரோடு, பவானி, தாராபுரம், வெள்ளிரச்சேல், ஈசுவரன் கோயில், சிவன் கோயில், தொல்லியல் துறை, அரசு அருங்காட்சியகம், கல்வெட்டுகள், தமிழ்நாடு, சைவம், தமிழ், வைணவம், தமிழ்க் கல்வெட்டு, பலகைக் கல்வெட்டு, கொடை, தானம், கோயில்",
+   "language": "tam",
+   "subject": [
+    "ஈரோடு",
+    "பவானி",
+    "தாராபுரம்",
+    "வெள்ளிரச்சேல்",
+    "ஈசுவரன் கோயில்",
+    "சிவன் கோயில்",
+    "தொல்லியல் துறை",
+    "அரசு அருங்காட்சியகம்",
+    "கல்வெட்டுகள்",
+    "தமிழ்நாடு",
+    "சைவம்",
+    "தமிழ்",
+    "வைணவம்",
+    "தமிழ்க் கல்வெட்டு",
+    "பலகைக் கல்வெட்டு",
+    "கொடை",
+    "தானம்",
+    "கோயில்",
+    "Inscription"
+   ],
+   "title": "வெள்ளிரச்சேல்"
+  },
+  {
+   "identifier": "tdl.1016-arrccaalai-ammnnn-kooyil",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: ஈரோடு, பவானி, தாராபுரம், அரச்சலூர், அறச்சலூர், அம்மன் கோயில், ஈசுவரன் கோயில், சிவன் கோயில், தொல்லியல் துறை, அரசு அருங்காட்சியகம், கல்வெட்டுகள், தமிழ்நாடு, சைவம், தமிழ், வைணவம், தமிழ்க் கல்வெட்டு, பலகைக் கல்வெட்டு, கொடை, தானம், கோயில்",
+   "language": "tam",
+   "subject": [
+    "ஈரோடு",
+    "பவானி",
+    "தாராபுரம்",
+    "அரச்சலூர்",
+    "அறச்சலூர்",
+    "அம்மன் கோயில்",
+    "ஈசுவரன் கோயில்",
+    "சிவன் கோயில்",
+    "தொல்லியல் துறை",
+    "அரசு அருங்காட்சியகம்",
+    "கல்வெட்டுகள்",
+    "தமிழ்நாடு",
+    "சைவம்",
+    "தமிழ்",
+    "வைணவம்",
+    "தமிழ்க் கல்வெட்டு",
+    "பலகைக் கல்வெட்டு",
+    "கொடை",
+    "தானம்",
+    "கோயில்",
+    "Inscription"
+   ],
+   "title": "அறச்சாலை அம்மன் கோயில்"
+  },
+  {
+   "identifier": "tdl.1017-pcuveecuvrr-kooyil",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: ஈரோடு, தேவர்மலை, பசுவேசுவரர் கோயில், ஈசுவரன் கோயில், சிவன் கோயில், தொல்லியல் துறை, அரசு அருங்காட்சியகம், கல்வெட்டுகள், தமிழ்நாடு, சைவம், தமிழ், வைணவம், தமிழ்க் கல்வெட்டு, பலகைக் கல்வெட்டு, கொடை, தானம், கோயில்",
+   "language": "tam",
+   "subject": [
+    "ஈரோடு",
+    "தேவர்மலை",
+    "பசுவேசுவரர் கோயில்",
+    "ஈசுவரன் கோயில்",
+    "சிவன் கோயில்",
+    "தொல்லியல் துறை",
+    "அரசு அருங்காட்சியகம்",
+    "கல்வெட்டுகள்",
+    "தமிழ்நாடு",
+    "சைவம்",
+    "தமிழ்",
+    "வைணவம்",
+    "தமிழ்க் கல்வெட்டு",
+    "பலகைக் கல்வெட்டு",
+    "கொடை",
+    "தானம்",
+    "கோயில்",
+    "Inscription"
+   ],
+   "title": "பசுவேசுவரர் கோயில்"
+  },
+  {
+   "identifier": "tdl.1018-trkaa",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: ஈரோடு, தர்கா, பள்ளி, மசூதி, தொழுகைப்பள்ளி, இசுலாம், தொல்லியல் துறை, அரசு அருங்காட்சியகம், கல்வெட்டுகள், தமிழ்நாடு, சைவம், தமிழ், வைணவம், தமிழ்க் கல்வெட்டு, பலகைக் கல்வெட்டு, கொடை, தானம், கோயில்",
+   "language": "tam",
+   "subject": [
+    "ஈரோடு",
+    "தர்கா",
+    "பள்ளி",
+    "மசூதி",
+    "தொழுகைப்பள்ளி",
+    "இசுலாம்",
+    "தொல்லியல் துறை",
+    "அரசு அருங்காட்சியகம்",
+    "கல்வெட்டுகள்",
+    "தமிழ்நாடு",
+    "சைவம்",
+    "தமிழ்",
+    "வைணவம்",
+    "தமிழ்க் கல்வெட்டு",
+    "பலகைக் கல்வெட்டு",
+    "கொடை",
+    "தானம்",
+    "கோயில்",
+    "Inscription"
+   ],
+   "title": "தர்கா"
+  },
+  {
+   "identifier": "tdl.1019-kngkaiymmnnn-kooyil",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: ஈரோடு, கங்கையம்மன், கெங்கையம்மன், தொல்லியல் துறை, அரசு அருங்காட்சியகம், கல்வெட்டுகள், தமிழ்நாடு, சைவம், தமிழ், வைணவம், தமிழ்க் கல்வெட்டு, பலகைக் கல்வெட்டு, கொடை, தானம், கோயில்",
+   "language": "tam",
+   "subject": [
+    "ஈரோடு",
+    "கங்கையம்மன்",
+    "கெங்கையம்மன்",
+    "தொல்லியல் துறை",
+    "அரசு அருங்காட்சியகம்",
+    "கல்வெட்டுகள்",
+    "தமிழ்நாடு",
+    "சைவம்",
+    "தமிழ்",
+    "வைணவம்",
+    "தமிழ்க் கல்வெட்டு",
+    "பலகைக் கல்வெட்டு",
+    "கொடை",
+    "தானம்",
+    "கோயில்",
+    "Inscription"
+   ],
+   "title": "கங்கையம்மன் கோயில்"
+  },
+  {
+   "identifier": "tdl.1020-arcu-arungkaattciykm",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: ஈரோடு, அம்மாபேட்டை, தொல்லியல் துறை, அரசு அருங்காட்சியகம், கல்வெட்டுகள், தமிழ்நாடு, சைவம், தமிழ், வைணவம், தமிழ்க் கல்வெட்டு, பலகைக் கல்வெட்டு, கொடை, தானம், கோயில்",
+   "language": "tam",
+   "subject": [
+    "ஈரோடு",
+    "அம்மாபேட்டை",
+    "தொல்லியல் துறை",
+    "அரசு அருங்காட்சியகம்",
+    "கல்வெட்டுகள்",
+    "தமிழ்நாடு",
+    "சைவம்",
+    "தமிழ்",
+    "வைணவம்",
+    "தமிழ்க் கல்வெட்டு",
+    "பலகைக் கல்வெட்டு",
+    "கொடை",
+    "தானம்",
+    "கோயில்",
+    "Inscription"
+   ],
+   "title": "அரசு அருங்காட்சியகம்"
+  },
+  {
+   "identifier": "tdl.1021-arcu-arungkaattciykm",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: ஈரோடு, குட்டம்பூண்டி, தொல்லியல் துறை, அரசு அருங்காட்சியகம், கல்வெட்டுகள், தமிழ்நாடு, சைவம், தமிழ், வைணவம், தமிழ்க் கல்வெட்டு, பலகைக் கல்வெட்டு, கொடை, தானம், கோயில்",
+   "language": "tam",
+   "subject": [
+    "ஈரோடு",
+    "குட்டம்பூண்டி",
+    "தொல்லியல் துறை",
+    "அரசு அருங்காட்சியகம்",
+    "கல்வெட்டுகள்",
+    "தமிழ்நாடு",
+    "சைவம்",
+    "தமிழ்",
+    "வைணவம்",
+    "தமிழ்க் கல்வெட்டு",
+    "பலகைக் கல்வெட்டு",
+    "கொடை",
+    "தானம்",
+    "கோயில்",
+    "Inscription"
+   ],
+   "title": "அரசு அருங்காட்சியகம்"
+  },
+  {
+   "identifier": "tdl.1022-arcu-arungkaattciykm",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: ஈரோடு, ஊராட்சிக்கோட்டை, தொல்லியல் துறை, அரசு அருங்காட்சியகம், கல்வெட்டுகள், தமிழ்நாடு, சைவம், தமிழ், வைணவம், தமிழ்க் கல்வெட்டு, பலகைக் கல்வெட்டு, கொடை, தானம், கோயில்",
+   "language": "tam",
+   "subject": [
+    "ஈரோடு",
+    "ஊராட்சிக்கோட்டை",
+    "தொல்லியல் துறை",
+    "அரசு அருங்காட்சியகம்",
+    "கல்வெட்டுகள்",
+    "தமிழ்நாடு",
+    "சைவம்",
+    "தமிழ்",
+    "வைணவம்",
+    "தமிழ்க் கல்வெட்டு",
+    "பலகைக் கல்வெட்டு",
+    "கொடை",
+    "தானம்",
+    "கோயில்",
+    "Inscription"
+   ],
+   "title": "அரசு அருங்காட்சியகம்"
+  },
+  {
+   "identifier": "tdl.1023-arcu-arungkaattciykm",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: ஈரோடு, சிறுவலூர், தொல்லியல் துறை, அரசு அருங்காட்சியகம், கல்வெட்டுகள், தமிழ்நாடு, சைவம், தமிழ், வைணவம், தமிழ்க் கல்வெட்டு, பலகைக் கல்வெட்டு, கொடை, தானம், கோயில்",
+   "language": "tam",
+   "subject": [
+    "ஈரோடு",
+    "சிறுவலூர்",
+    "தொல்லியல் துறை",
+    "அரசு அருங்காட்சியகம்",
+    "கல்வெட்டுகள்",
+    "தமிழ்நாடு",
+    "சைவம்",
+    "தமிழ்",
+    "வைணவம்",
+    "தமிழ்க் கல்வெட்டு",
+    "பலகைக் கல்வெட்டு",
+    "கொடை",
+    "தானம்",
+    "கோயில்",
+    "Inscription"
+   ],
+   "title": "அரசு அருங்காட்சியகம்"
+  },
+  {
+   "identifier": "tdl.1024-arcu-arungkaattciykm",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: ஈரோடு, திங்களூர்-பெருமாள்கோயில், தொல்லியல் துறை, அரசு அருங்காட்சியகம், கல்வெட்டுகள், தமிழ்நாடு, சைவம், தமிழ், வைணவம், தமிழ்க் கல்வெட்டு, பலகைக் கல்வெட்டு, கொடை, தானம், கோயில்",
+   "language": "tam",
+   "subject": [
+    "ஈரோடு",
+    "திங்களூர்-பெருமாள்கோயில்",
+    "தொல்லியல் துறை",
+    "அரசு அருங்காட்சியகம்",
+    "கல்வெட்டுகள்",
+    "தமிழ்நாடு",
+    "சைவம்",
+    "தமிழ்",
+    "வைணவம்",
+    "தமிழ்க் கல்வெட்டு",
+    "பலகைக் கல்வெட்டு",
+    "கொடை",
+    "தானம்",
+    "கோயில்",
+    "Inscription"
+   ],
+   "title": "அரசு அருங்காட்சியகம்"
+  },
+  {
+   "identifier": "tdl.1025-arcu-arungkaattciykm",
+   "collection": [
+    "TamilVirtualAcademy",
+    "JaiGyan"
+   ],
+   "description": "Keywords: ஈரோடு, விண்ணப்பள்ளி, தொல்லியல் துறை, அரசு அருங்காட்சியகம், கல்வெட்டுகள், தமிழ்நாடு, சைவம், தமிழ், வைணவம், தமிழ்க் கல்வெட்டு, பலகைக் கல்வெட்டு, கொடை, தானம், கோயில்",
+   "language": "tam",
+   "subject": [
+    "ஈரோடு",
+    "விண்ணப்பள்ளி",
+    "த

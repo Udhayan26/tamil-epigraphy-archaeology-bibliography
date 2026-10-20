@@ -1,0 +1,31 @@
+{
+ "identifier": "1_20210826_20210826_1748",
+ "mediatype": "texts",
+ "description": "Chola Inscription Dictionary",
+ "language": "tam",
+ "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+ "subject": [
+  "வள்ளுவர் வள்ளலார் வட்டம்",
+  "நிகண்டியம் திட்டம்",
+  "இங்கர்சால்"
+ ],
+ "title": "தஞ்சைப் பெருவுடையார் கோயில் கல்வெட்டு அகராதி",
+ "uploader": "ingersol.selvaraj@gmail.com",
+ "publicdate": "2021-08-26 17:52:25",
+ "addeddate": "2021-08-26 17:52:25",
+ "curation": "[curator]validator@archive.org[/curator][date]20210826175744[/date][comment]checked for malware[/comment]",
+ "identifier-access": "http://archive.org/details/1_20210826_20210826_1748",
+ "identifier-ark": "ark:/13960/t51h3063x",
+ "ppi": "300",
+ "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+ "ocr_parameters": "-l tam+Tamil",
+ "ocr_module_version": "0.0.13",
+ "ocr_detected_script": "Tamil",
+ "ocr_detected_script_conf": "0.9588",
+ "ocr_detected_lang": "ta",
+ "ocr_detected_lang_conf": "1.0000",
+ "collection": [
+  "ServantsOfKnowledge",
+  "JaiGyan"
+ ]
+}

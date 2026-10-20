@@ -1,0 +1,232 @@
+{
+ "numFound": 9,
+ "start": 0,
+ "numFoundExact": true,
+ "num_found": 9,
+ "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+ "q": "kalvettu",
+ "offset": null,
+ "docs": [
+  {
+   "author_name": [
+    "Naṭan̲a Kācinātan̲"
+   ],
+   "first_publish_year": 2009,
+   "key": "/works/OL15523777W",
+   "language": [
+    "tam"
+   ],
+   "publish_place": [
+    "Cen̲n̲ai"
+   ],
+   "publish_year": [
+    2009
+   ],
+   "publisher": [
+    "Tamiḷ̲nāṭu Aracu Tolliyal Tur̲ai"
+   ],
+   "title": "Kalveṭṭu",
+   "subject": [
+    "Tamil Inscriptions"
+   ]
+  },
+  {
+   "author_name": [
+    "Gift Siromoney"
+   ],
+   "first_publish_year": 1980,
+   "key": "/works/OL6433541W",
+   "language": [
+    "tam"
+   ],
+   "publish_place": [
+    "Madras"
+   ],
+   "publish_year": [
+    1980
+   ],
+   "publisher": [
+    "Dept. of Statistics, Madras Christian College"
+   ],
+   "title": "Kalveṭṭu el̲uttukaḷil Tirukkur̲aḷ =",
+   "subject": [
+    "Alphabet",
+    "Tamil Inscriptions",
+    "Tamil language"
+   ]
+  },
+  {
+   "author_name": [
+    "Irā Kalaikkōvan̲"
+   ],
+   "first_publish_year": 2002,
+   "key": "/works/OL5084238W",
+   "language": [
+    "tam"
+   ],
+   "publish_place": [
+    "Cen̲n̲ai"
+   ],
+   "publish_year": [
+    2002
+   ],
+   "publisher": [
+    "Tirunelvēli, Ten̲n̲intiya Caivacittānta Nūr̲patippuk Kal̲akam"
+   ],
+   "title": "Taḷiccērik kalveṭṭu",
+   "subject": [
+    "Tamil Inscriptions"
+   ]
+  },
+  {
+   "author_name": [
+    "Kavirājavarōtayan̲"
+   ],
+   "first_publish_year": 1993,
+   "key": "/works/OL3434186W",
+   "language": [
+    "tam"
+   ],
+   "publish_place": [
+    "Kol̲umpu"
+   ],
+   "publish_year": [
+    1993
+   ],
+   "publisher": [
+    "Intu Camaya, Kalācāra Aluvalkaḷ Tiṇaikkaḷam"
+   ],
+   "title": "Kōṇēcar kalveṭṭu",
+   "subject": [
+    "In literature",
+    "Kōṇēsvarak Kōvil"
+   ]
+  },
+  {
+   "author_name": [
+    "Kamalakkaṇṇan̲, Pa. (Professor)"
+   ],
+   "first_publish_year": 2013,
+   "isbn": [
+    "9383632054",
+    "9789383632053"
+   ],
+   "key": "/works/OL23264313W",
+   "language": [
+    "tam"
+   ],
+   "publish_place": [
+    "Cen̲n̲ai"
+   ],
+   "publish_year": [
+    2013
+   ],
+   "publisher": [
+    "Kāvyā"
+   ],
+   "title": "Kālattin̲ kalveṭṭu pulavar Ce. Irācu",
+   "subject": [
+    "Tamil (Indic people)",
+    "Social life and customs",
+    "Tamil Inscriptions"
+   ]
+  },
+  {
+   "author_name": [
+    "Mukil Tamil̲ccelvam"
+   ],
+   "first_publish_year": 2007,
+   "key": "/works/OL11957150W",
+   "language": [
+    "tam"
+   ],
+   "publish_place": [
+    "Cen̲n̲ai"
+   ],
+   "publish_year": [
+    2007
+   ],
+   "publisher": [
+    "Cēkar Patippakam"
+   ],
+   "title": "Kalveṭṭu ārāyccip pērar̲iñar Paṇṭārattār",
+   "subject": [
+    "Biography",
+    "Epigraphists"
+   ]
+  },
+  {
+   "author_name": [
+    "Gift Siromoney"
+   ],
+   "first_publish_year": 1977,
+   "key": "/works/OL6433540W",
+   "language": [
+    "tam"
+   ],
+   "publish_place": [
+    "Madras"
+   ],
+   "publish_year": [
+    1977
+   ],
+   "publisher": [
+    "Dept. of Statistics, Madras Christian College"
+   ],
+   "title": "Kalvettu eluttukkaḷil Tirukkuraḷ. ="
+  },
+  {
+   "author_name": [
+    "Gift Siromoney"
+   ],
+   "first_publish_year": 1977,
+   "key": "/works/OL35494888W",
+   "language": [
+    "tam"
+   ],
+   "publish_place": [
+    "Madras"
+   ],
+   "publish_year": [
+    1977
+   ],
+   "publisher": [
+    "Dept. of Statistics, Madras Christian College"
+   ],
+   "title": "Kalveṭṭu eḻuttukkaḷil Tirukkuṟaḷ",
+   "subject": [
+    "Tamil language",
+    "Alphabet",
+    "Tamil Inscriptions"
+   ]
+  },
+  {
+   "author_name": [
+    "Kantappa Mun̲ivar"
+   ],
+   "first_publish_year": 1980,
+   "key": "/works/OL22675690W",
+   "language": [
+    "tam"
+   ],
+   "publish_place": [
+    "Kaṭalūr",
+    "Cen̲n̲ai"
+   ],
+   "publish_year": [
+    1980
+   ],
+   "publisher": [
+    "kiṭaikkum iṭaṅkaḷ, Pāri Nilaiyam",
+    "kiṭaikkum iṭaṅkaḷ, Pāri Nilaiyam",
+    "Ti. Ki. Nārāyaṇacāmi",
+    "Ti. Ki. Nārāyaṇacāmi"
+   ],
+   "title": "Tiruttaṇikaik Kantappa Ayyar pāṭiya Tiruttaṇikaic cannitimur̲ai",
+   "subject": [
+    "Murugan (Hindu deity)",
+    "Poetry"
+   ]
+  }
+ ]
+}

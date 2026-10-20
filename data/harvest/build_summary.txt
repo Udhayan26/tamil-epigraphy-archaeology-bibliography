@@ -1,0 +1,2 @@
+{"generated": "2026-10-20", "count": 1851, "with_author": 1161, "with_publisher": 782, "with_link": 1766, "heritage_records": 3593, "sources": {"Internet Archive": 1269, "Curated": 205, "Open Library": 422, "Noolaham": 26, "Library of Congress": 9}}
+{'EPG': 129, 'ASI': 63, 'TNS': 164, 'CPP': 133, 'TBR': 515, 'HER': 21, 'ROC': 29, 'EXC': 142, 'PRE': 34, 'ARC': 130, 'HIS': 152, 'NUM': 18, 'REF': 10, 'JOU': 301, 'ONL': 10}

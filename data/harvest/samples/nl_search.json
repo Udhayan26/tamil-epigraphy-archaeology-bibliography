@@ -1,0 +1,37 @@
+{
+ "batchcomplete": "",
+ "query": {
+  "searchinfo": {
+   "totalhits": 3
+  },
+  "search": [
+   {
+    "ns": 0,
+    "title": "நாடு காட்டுப் பரவணிக் கல்வெட்டு",
+    "pageid": 14674,
+    "size": 1235,
+    "wordcount": 25,
+    "snippet": "",
+    "timestamp": "2022-10-06T10:37:05Z"
+   },
+   {
+    "ns": 0,
+    "title": "கோணேசர் கல்வெட்டு",
+    "pageid": 15110,
+    "size": 2472,
+    "wordcount": 32,
+    "snippet": "",
+    "timestamp": "2022-06-30T07:51:43Z"
+   },
+   {
+    "ns": 0,
+    "title": "கோணேசர் கல்வெட்டு (2024)",
+    "pageid": 306998,
+    "size": 1123,
+    "wordcount": 4,
+    "snippet": "",
+    "timestamp": "2024-05-30T04:47:26Z"
+   }
+  ]
+ }
+}
