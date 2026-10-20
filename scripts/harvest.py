@@ -123,15 +123,15 @@ SUBJECTS = [
 ]
 
 # ---------------------------------------------------------------- relevance
-TA_KW = re.compile(r"(கல்வெட்டு|கல்வெட்டி|செப்பேடு|நடுக(ல்|ற்)|வீரக்கல்|தொல்லியல்|தொல்பொருள்|அகழாய்வு|அகழ்வாய்வு|அகழ்வைப்பக|பாறை ஓவிய|குகை ஓவிய|பிராமி|தமிழி|வட்டெழுத்து|பட்டய|சாசன|நாணய|பழங்காசு|காசுகள்|பெருங்கற்|முதுமக்கள்|தாழி|கீழடி|ஆதிச்சநல்லூர்|கொடுமணல்|சிவகளை|பொருந்தல்|அழகன்குளம்|தொல்லெழுத்|தொல்பழங்கால)")
+TA_KW = re.compile(r"(கல்வெட்டு|கல்வெட்டி|செப்பேடு|நடுக(ல்|ற்)|வீரக்கல்|தொல்லியல்|தொல்பொருள்|அகழாய்வு|அகழ்வாய்வு|அகழ்வைப்பக|பாறை ஓவிய|குகை ஓவிய|பிராமி|தமிழி(?![\u0B80-\u0BFF])|வட்டெழுத்து|பட்டய|சாசன|நாணய|பழங்காசு|காசுகள்|பெருங்கற்|முதுமக்கள்|தாழி|கீழடி|ஆதிச்சநல்லூர்|கொடுமணல்|சிவகளை|பொருந்தல்|அழகன்குளம்|தொல்லெழுத்|தொல்பழங்கால)")
 RO_KW = re.compile(r"(kal[vw]e[td]+[ui]|kalved+u|kalvettiyal|[sc]h?ep+[ae][dt]u|natukal|nadukal|natukar|nadukar|t?hol+iyal|tolliyal|tholporul|agazh|akazh|akal[aā]yvu|akalvaip|vat+e[lz]h?ut+u|pirami|piraami)", re.I)
 EN_KW = re.compile(r"(inscri|epigraph|palaeograph|paleograph|copper[- ]?plate|hero[- ]?stone|memorial stone|rock art|rock[- ]paint|petroglyph|cave paint|excavat|archaeolog|antiquit|antiquarian|megalith|prehistor|neolithic|palaeolith|urn[- ]burial|dolmen|cairn|brahmi|graffiti|numismat|\bcoins?\b|keeladi|keezhadi|adichanallur|arikamedu|kodumanal|porunthal|alagankulam|kaveripattinam|poompuhar|sivagalai|mangulam|epigraphia|copper plates)", re.I)
 CTX = re.compile(r"(?<![a-z])(tamil|tamizh|madras|south india|southern india|dravid|chola|cola|pandya|pandiya|pallava|chera|pudukkottai|tanjore|thanjavur|madurai|kanchi|tirunelveli|coimbatore|kongu|salem|trichy|tiruchirappalli|vellore|arcot|chingleput|chengalpattu|kanyakumari|travancore|nilgiri|dharmapuri|krishnagiri|ramanathapuram|sivaganga|thoothukudi|tuticorin|pondicherry|puducherry|vijayanagar|nayak|sri lanka|ceylon|jaffna|keeladi|keezhadi|adichanallur|arikamedu|kodumanal|porunthal|alagankulam|kaveripattinam|poompuhar|sivagalai|south indian|uraiyur|korkai|kanchipuram|kanchi|mamallapuram|mahabalipuram|chidambaram|kumbakonam|karur|erode|tiruvannamalai|villupuram|cuddalore|nagapattinam|tiruvarur|virudhunagar|theni|dindigul|namakkal|perambalur|ariyalur|karaikal|gingee|senji|uttaramerur|uttiramerur|tirumalai|tirupati|sittannavasal|kalugumalai|kazhugumalai|vellalur|paiyampalli|attirampakkam|pallavaram|tirukkoyilur|tiruchendur|rameswaram|nilgiris|kerala|malabar|vatteluttu|grantha|kongu|nanjil|chingleput|tamilaham|tamilakam|sangam)(?![a-z])", re.I)
-NOISE = re.compile(r"(athen|attic|jerusalem|yerushal|pompei|ercolan|herculan|graec|inscriptionum|inscriptiones|sylloge|lapidarium|wyandotte|indiana|bible|testament|gospel|epistle|hebrew|latin|italic|anatolia|asia minor|cyprus|troy|sinai|kiev|russia|slav|canarese|kannada|telugu|andhra|sravana|belgola|amaravati|pahlav|kashmir|bengal|assam|orissa|odisha|nepal|tibet|burma|myanmar|persian|arabic|egypt|greek|rome\b|roman empire|babylon|maya|mesopotam|china|chinese|japan|korea|europe|britain|england|scotland|ireland|america|mexico|africa|cambodia|java|indonesia|bihar|bundelkhand|kalinga|maharashtra|gujarat|rajasthan|punjab|sindh|harappa|mohenjo|mathura|gandhara|afghan|iran|israel|palestine|bible|biblical|assyria|hittite|aegean|etrusc|viking|anglo|celtic|norse|canaan|phoenic|crete|turkey|syria)", re.I)
+NOISE = re.compile(r"(spain|spanish|guadalajara|espa|portug|athen|attic|jerusalem|yerushal|pompei|ercolan|herculan|graec|inscriptionum|inscriptiones|sylloge|lapidarium|wyandotte|indiana|bible|testament|gospel|epistle|hebrew|latin|italic|anatolia|asia minor|cyprus|troy|sinai|kiev|russia|slav|canarese|kannada|telugu|andhra|sravana|belgola|amaravati|pahlav|kashmir|bengal|assam|orissa|odisha|nepal|tibet|burma|myanmar|persian|arabic|egypt|greek|rome\b|roman empire|babylon|maya|mesopotam|china|chinese|japan|korea|europe|britain|england|scotland|ireland|america|mexico|africa|cambodia|java|indonesia|bihar|bundelkhand|kalinga|maharashtra|gujarat|rajasthan|punjab|sindh|harappa|mohenjo|mathura|gandhara|afghan|iran|israel|palestine|bible|biblical|assyria|hittite|aegean|etrusc|viking|anglo|celtic|norse|canaan|phoenic|crete|turkey|syria)", re.I)
 TAMIL_SCRIPT = re.compile(r"[஀-௿]")
 
 
-SERIES = re.compile(r"(south[- ]indian inscriptions|epigraphia indica|annual reports? (on|of) (the )?(south[- ]indian |indian )?epigraphy|report on (south[- ]indian |indian )?epigraphy|madras epigraph|government epigraphist|indian antiquary|travancore archaeological|inscriptions of the pudukkottai|pudukkottai state|archaeological survey of southern india|antiquarian remains in the presidency of madras|lists? of inscriptions .*madras|topographical list of (the )?inscriptions|annual report.{0,40}archaeolog.{0,40}(madras|southern circle|south(ern)? india)|madras government museum|bulletin of the madras|ancient india[:,]? bulletin|indian archaeology[ ,:-]+a review|epigraphia carnatica|south indian temple inscriptions|tirumalai.tirupati devasthanam inscriptions)", re.I)
+SERIES = re.compile(r"(south[- ]indian inscriptions|epigraphia indica|annual reports? (on|of) (the )?(south[- ]indian |indian )?epigraphy|report on (south[- ]indian |indian )?epigraphy|madras epigraph|government epigraphist|indian antiquary|travancore archaeological|inscriptions of the pudukkottai|pudukkottai state|archaeological survey of southern india|antiquarian remains in the presidency of madras|lists? of inscriptions .*madras|topographical list of (the )?inscriptions|annual report.{0,40}archaeolog.{0,40}(madras|southern circle|south(ern)? india)|ancient india[:,]? bulletin|indian archaeology[ ,:-]+a review|epigraphia carnatica|south indian temple inscriptions|tirumalai.tirupati devasthanam inscriptions)", re.I)
 
 
 def fold(t):
@@ -158,9 +158,23 @@ def relevant(title, subjects="", extra=""):
         return False
     if TA_KW.search(blob) or RO_KW.search(t):
         return True
-    if EN_KW.search(blob) and CTX.search(blob) and not NOISE.search(t):
+    if EN_KW.search(blob) and CTX.search(blob) and not NOISE.search(blob):
         return True
     return False
+
+
+HIST_CTX = re.compile(r"(histor|varalaru|varalaaru|வரலா|temple|koyil|kovil|கோயில்|கோவில்|culture|heritage|\bart\b|architect|sculpt|bronze|iconograph|literat|ilakkiya|இலக்கிய|tamil|தமிழ்|dravid|chola|cola\b|pandya|pallava|chera|sangam|சங்க|south india|madras|thanjavur|tanjore|madurai|kanchi|jain|buddhis|saiv|vaishnav|nayak|vijayanagar|kongu|tamilakam|ceylon|sri lanka|jaffna|inscri|epigraph|archaeolog|antiquit|monument|museum|coins?\b|numismat|manuscript|palm.?leaf|polity|society|agrarian|trade|kingdom|dynast)", re.I)
+SCI_NOISE = re.compile(r"(quantum|gauge|hubbard|spectroscop|electron|phonon|lattice|semiconductor|algorithm|machine learning|neural|network|adhoc|wireless|fibromyalgia|clinical|medical|disease|cancer|diabet|hydro|agricultur|farm|chemistry|polymer|nano|biolog|genetic|zoolog|birds?\b|mammal|insect|botan|plants?\b|fisher|cardio|surgery|nursing|pharma|engineering|robot|finance|marketing|management|accounting|economics of|physics|mathemat|statistic|software|computer|data mining|cloud)", re.I)
+
+
+def relevant_author(title, subjects=""):
+    """Books found by a scholar's name: keep their history/culture/heritage work, drop namesakes' science books."""
+    t = fold(s(title)); blob = fold(f"{t} {s(subjects)}")
+    if relevant(title, subjects):
+        return True
+    if SCI_NOISE.search(blob) or NOISE.search(blob):
+        return False
+    return bool(TAMIL_SCRIPT.search(t) or HIST_CTX.search(blob))
 
 
 def rec(source, sid, title, url, authors="", publisher="", year="", language="", place="",

@@ -38,7 +38,7 @@ RULES = [
     ("JOU", r"(^இதழ்|\bjournal\b|bulletin|quarterly|காலாண்டு|சிறப்பிதழ்|\bmagazine\b|ஆவணம் :|^kalvettu[- ]?(april|jan|jul|oct|magazine)|^கல்வெட்டு\s*(ஏப்ரல்|ஜனவரி|சனவரி|ஜூலை|சூலை|அக்டோபர்|ஆகஸ்டு|சித்திரை|தை|ஐப்பசி|\d)|acl-arch|indian archaeology.{0,5}a review|ancient india|puratattva|indian antiquary)"),
     ("HER", r"(நடுக(ல்|ற்)|வீரக்கல்|nadukal|natukal|nadukar|natukar|hero[- ]?stone|memorial stone|sati stone|virakal|veerakal)"),
     ("ROC", r"(பாறை ஓவிய|குகை ஓவிய|ஓவியங்கள்|rock[- ]?art|rock[- ]paint|petroglyph|cave paint|pictograph|mural|paintings? in tamil|oviya)"),
-    ("TBR", r"(பிராமி|தமிழி\b|வட்டெழுத்து|brahmi|tamili\b|vatteluttu|vattezhuthu|graffiti|potsherd|early writing|\bscripts?\b)"),
+    ("TBR", r"(பிராமி|தமிழி(?![\u0B80-\u0BFF])|வட்டெழுத்து|brahmi|tamili\b|vatteluttu|vattezhuthu|graffiti|potsherd|early writing|\bscripts?\b)"),
     ("CPP", r"(செப்பேடு|பட்டய|copper[- ]?plates?|ceppe|seppe|cheppe|pattayam|charter)"),
     ("NUM", r"(நாணய|காசு|\bcoins?\b|numismat)"),
     ("EXC", r"(அகழாய்வு|அகழ்வாய்வு|excavat|keeladi|keezhadi|கீழடி|adichanallur|ஆதிச்சநல்லூர்|arikamedu|kodumanal|கொடுமணல்|porunthal|பொருந்தல்|alagankulam|அழகன்குளம்|kaveripattinam|poompuhar|பூம்புகார்|sivagalai|சிவகளை|uraiyur|korkai|mangulam|modur|vasavasamudram|akalayvu|agazhaivu)"),
@@ -226,10 +226,17 @@ def main():
     curated, harvested = load_curated(), load_harvest()
     heritage, books = [], []
     sys.path.insert(0, str(Path(__file__).resolve().parent))
-    from harvest import relevant
+    from harvest import relevant, relevant_author
     dropped = 0
     for r in harvested:
-        if r["source"] not in ("Shared drive", "Listed site") and not r.get("found_by") and not relevant(r.get("title", ""), r.get("subjects", "")):
+        fb = r.get("found_by", "")
+        if r["source"] in ("Shared drive", "Listed site") or fb.startswith("list:"):
+            ok = True
+        elif fb:
+            ok = relevant_author(r.get("title", ""), r.get("subjects", ""))
+        else:
+            ok = relevant(r.get("title", ""), r.get("subjects", ""))
+        if not ok:
             dropped += 1
             continue
         if r["source"] == "Internet Archive":
