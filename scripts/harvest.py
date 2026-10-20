@@ -418,7 +418,174 @@ def harvest_nl():
     return save("nl", rows)
 
 
-SOURCES = {"ia": harvest_ia, "ol": harvest_ol, "gb": harvest_gb, "loc": harvest_loc, "nl": harvest_nl}
+# ---------------------------------------------------------------- authors & publishers
+# (search names, tokens that must appear in the record's author field)
+AUTHORS = [
+    (["R. Nagaswamy", "Nagaswamy", "இரா. நாகசாமி", "நாகசாமி"], ["nagasw", "nagasam", "நாகசாமி"]),
+    (["Natana Kasinathan", "Natana. Kasinathan", "நடன. காசிநாதன்", "நடன காசிநாதன்"], ["kasinath", "kacinat", "காசிநாதன்"]),
+    (["Iravatham Mahadevan", "ஐராவதம் மகாதேவன்"], ["iravatham", "mahadevan, iravatham", "ஐராவதம்"]),
+    (["Mayilai Seeni Venkatasamy", "Venkatasami, Mayilai Cini", "மயிலை சீனி. வேங்கடசாமி"], ["venkatasam", "venkatacam", "வேங்கடசாமி"]),
+    (["Y. Subbarayalu", "Subbarayalu", "எ. சுப்பராயலு"], ["subbarayalu", "cuppirayalu", "சுப்பராயலு"]),
+    (["S. Rajavelu", "சு. இராசவேலு", "சு. ராஜவேலு"], ["rajavelu", "racavelu", "இராசவேலு", "ராஜவேலு"]),
+    (["V. Vedachalam", "வெ. வேதாசலம்"], ["vedachalam", "vetacalam", "வேதாசலம்"]),
+    (["C. Santhalingam", "சொ. சாந்தலிங்கம்"], ["santhalingam", "cantalinkam", "சாந்தலிங்கம்"]),
+    (["K. Rajan archaeology", "கா. ராஜன்"], ["rajan, k", "k. rajan", "k.rajan", "கா. ராஜன்", "கா. இராசன்"]),
+    (["Pulavar Se. Rasu", "Se. Rasu", "புலவர் செ. இராசு", "செ. இராசு"], ["se. rasu", "se.rasu", "rasu, se", "செ. இராசு", "செ.இராசு"]),
+    (["T. V. Sadasiva Pandarathar", "சதாசிவ பண்டாரத்தார்"], ["pandarathar", "pantarattar", "பண்டாரத்தார்"]),
+    (["Kudavayil Balasubramanian", "குடவாயில் பாலசுப்பிரமணியன்"], ["kudavayil", "kutavayil", "குடவாயில்"]),
+    (["R. Kalaikkovan", "இரா. கலைக்கோவன்"], ["kalaikkovan", "kalaikovan", "கலைக்கோவன்"]),
+    (["R. Poongundran", "இரா. பூங்குன்றன்"], ["poongundran", "poonkuntran", "punkunran", "பூங்குன்றன்"]),
+    (["S. Rajagopal epigraphy", "சு. இராசகோபால்"], ["rajagopal, s", "s. rajagopal", "s.rajagopal", "இராசகோபால்"]),
+    (["A. Padmavathy", "அ. பத்மாவதி"], ["padmavath", "patmavati", "பத்மாவதி"]),
+    (["N. Marxia Gandhi", "ந. மார்க்சியகாந்தி"], ["marxia", "marxiagandhi", "மார்க்சிய"]),
+    (["K. Sridharan archaeology", "க. ஸ்ரீதரன்"], ["sridharan, k", "k. sridharan", "k.sridharan", "ஸ்ரீதரன்"]),
+    (["T. S. Sridhar", "தி. ஸ்ரீ. ஸ்ரீதர்"], ["t. s. sridhar", "t.s. sridhar", "sridhar, t", "ஸ்ரீதர்"]),
+    (["T. N. Subramanian epigraphy", "தி. நா. சுப்பிரமணியன்"], ["t. n. subramanian", "subramanian, t. n", "தி. நா. சுப்பிரமணியன்"]),
+    (["R. Sivanantham", "இரா. சிவானந்தம்"], ["sivanantham", "civanantam", "சிவானந்தம்"]),
+    (["K. G. Krishnan epigraphy"], ["k. g. krishnan", "krishnan, k. g"]),
+    (["K. V. Raman archaeology"], ["k. v. raman", "raman, k. v"]),
+    (["A. Ekambaranathan"], ["ekambaranathan"]),
+    (["K. A. Nilakanta Sastri"], ["nilakanta"]),
+    (["Noboru Karashima"], ["karashima"]),
+    (["T. V. Mahalingam"], ["mahalingam, t", "t. v. mahalingam"]),
+    (["R. Krishnamurthy coins", "இரா. கிருஷ்ணமூர்த்தி"], ["krishnamurthy, r", "r. krishnamurthy", "கிருஷ்ணமூர்த்தி"]),
+    (["Ko. Vijayavenugopal", "கோ. விஜயவேணுகோபால்"], ["vijayavenugopal", "விஜயவேணுகோபால்"]),
+    (["K. T. Gandhirajan", "க.த. காந்திராஜன்"], ["gandhirajan", "காந்திராஜன்"]),
+    (["Shanti Pappu"], ["pappu, shanti", "shanti pappu"]),
+    (["V. Selvakumar archaeology"], ["selvakumar, v", "v. selvakumar"]),
+    (["K. Indrapala", "கா. இந்திரபாலா"], ["indrapala", "இந்திரபாலா"]),
+    (["S. Pathmanathan", "சி. பத்மநாதன்"], ["pathmanathan", "பத்மநாதன்"]),
+    (["P. Pushparatnam", "ப. புஷ்பரட்ணம்"], ["pushparatnam", "puspparatnam", "புஷ்பரட்ணம்", "புஷ்பரத்தினம்"]),
+    (["M. Rajamanickam", "மா. இராசமாணிக்கனார்"], ["rajamanick", "இராசமாணிக்க"]),
+    (["S. Ramachandran epigraphy", "செ. இராமச்சந்திரன்"], ["s. ramachandran", "இராமச்சந்திரன்"]),
+    (["K. S. Sampath", "கே. எஸ். சம்பத்"], ["k.s.sampath", "k. s. sampath", "சம்பத்"]),
+    (["E. Hultzsch"], ["hultzsch"]),
+    (["V. Venkayya"], ["venkayya"]),
+    (["H. Krishna Sastri"], ["krishna sastri"]),
+    (["C. Sivaramamurti"], ["sivaramamurti"]),
+    (["R. Champakalakshmi"], ["champakalakshmi"]),
+    (["Leslie C. Orr"], ["orr, leslie", "leslie c. orr", "leslie orr"]),
+]
+PUBLISHERS = [
+    ("Tamil Nadu State Department of Archaeology", ["archaeology", "tolliyal", "tholliyal", "தொல்லியல்", "தொல்பொருள்"], True),
+    ("தமிழ்நாடு அரசு தொல்லியல் துறை", ["தொல்லியல்", "தொல்பொருள்"], True),
+    ("Department of Archaeology Government of Tamil Nadu", ["archaeology"], True),
+    ("Tamil University Thanjavur", ["tamil university", "tamil univ", "தமிழ்ப் பல்கலைக்கழகம்"], False),
+    ("தமிழ்ப் பல்கலைக்கழகம்", ["தமிழ்ப் பல்கலைக்கழகம்"], False),
+    ("Pandya Nadu Centre for Historical Research", ["pandya nadu", "pandyanadu", "பாண்டிய நாடு"], True),
+    ("Tamilnadu Archaeological Society", ["archaeological society", "தொல்லியல் கழகம்"], True),
+    ("தமிழகத் தொல்லியல் கழகம்", ["தொல்லியல் கழகம்"], True),
+    ("Tamil Heritage Foundation", ["heritage foundation", "மரபு அறக்கட்டளை"], False),
+    ("International Institute of Tamil Studies", ["tamil studies", "தமிழாராய்ச்சி"], False),
+    ("Central Institute of Classical Tamil", ["classical tamil", "செம்மொழி"], False),
+    ("Institute of Asian Studies Chennai", ["asian studies"], False),
+    ("Archaeological Survey of India", ["archaeological survey"], False),
+    ("Government Museum Chennai", ["government museum", "museum"], False),
+]
+
+
+def name_match(authors, tokens):
+    a = s(authors).lower()
+    a2 = re.sub(r"[\s.]+", "", a)
+    return any(t.lower() in a or re.sub(r"[\s.]+", "", t.lower()) in a2 for t in tokens)
+
+
+def harvest_au():
+    rows = []
+
+    def add(src, sid, title, url, found_by, **kw):
+        rows.append(rec(src, sid, title, url, extra={"found_by": found_by}, **kw))
+
+    def ia_query(q, keep):
+        cursor, n = None, 0
+        for _ in range(5):
+            params = {"q": f"({q}) AND mediatype:(texts)", "fields": "identifier,title,creator,publisher,date,year,language,subject", "count": 1000}
+            if cursor:
+                params["cursor"] = cursor
+            try:
+                j = get("https://archive.org/services/search/v1/scrape?" + urllib.parse.urlencode(params), sleep=0.3)
+            except Exception as e:
+                log("[au/ia] ERR", q, e)
+                return n
+            for it in j.get("items", []):
+                if keep(it):
+                    add("Internet Archive", it["identifier"], it.get("title"), f"https://archive.org/details/{it['identifier']}",
+                        q, authors=it.get("creator"), publisher=it.get("publisher"), year=it.get("year") or it.get("date"),
+                        language=it.get("language"), subjects=it.get("subject"))
+                    n += 1
+            cursor = j.get("cursor")
+            if not cursor:
+                break
+        return n
+
+    def ol_query(params, keep, label):
+        n = 0
+        try:
+            j = get("https://openlibrary.org/search.json?" + urllib.parse.urlencode({**params, "limit": 1000,
+                    "fields": "key,title,subtitle,author_name,publisher,publish_place,first_publish_year,publish_year,language,subject,isbn,ia"}), sleep=1.0)
+        except Exception as e:
+            log("[au/ol] ERR", params, e)
+            return 0
+        for d in j.get("docs", []):
+            if keep(d):
+                title = s(d.get("title")) + (": " + s(d.get("subtitle")) if d.get("subtitle") else "")
+                ia = d.get("ia") or []
+                add("Open Library", d.get("key"), title, "https://openlibrary.org" + s(d.get("key")), label,
+                    authors=d.get("author_name"), publisher=(d.get("publisher") or [])[:3], place=(d.get("publish_place") or [])[:2],
+                    year=d.get("first_publish_year") or "", language=d.get("language"), subjects=(d.get("subject") or [])[:12])
+                if ia:
+                    rows[-1]["full_text"] = f"https://archive.org/details/{ia[0]}"
+                n += 1
+        return n
+
+    def gb_query(q, keep, label):
+        n = 0
+        for start in range(0, 200, 40):
+            try:
+                j = get("https://www.googleapis.com/books/v1/volumes?" + urllib.parse.urlencode({"q": q, "maxResults": 40, "startIndex": start}), sleep=1.2)
+            except Exception as e:
+                log("[au/gb] ERR", q, e)
+                break
+            items = j.get("items") or []
+            for it in items:
+                v = it.get("volumeInfo", {})
+                d = {"author_name": v.get("authors"), "publisher": [v.get("publisher") or ""], "title": v.get("title"), "subject": v.get("categories")}
+                if keep(d):
+                    title = s(v.get("title")) + (": " + s(v.get("subtitle")) if v.get("subtitle") else "")
+                    add("Google Books", it.get("id"), title, v.get("infoLink") or f"https://books.google.com/books?id={it.get('id')}", label,
+                        authors=v.get("authors"), publisher=v.get("publisher"), year=v.get("publishedDate"), language=v.get("language"),
+                        subjects=v.get("categories"))
+                    rows[-1]["isbn"] = ";".join(x.get("identifier", "") for x in v.get("industryIdentifiers", []) or [])
+                    n += 1
+            if len(items) < 40:
+                break
+        return n
+
+    for names, tokens in AUTHORS:
+        label = f"author:{names[0]}"
+        keep_ia = lambda it, t=tokens: name_match(it.get("creator"), t)
+        keep_ol = lambda d, t=tokens: name_match(d.get("author_name"), t)
+        tot = 0
+        for nm in names:
+            core = re.sub(r"\s+(archaeology|epigraphy|coins)$", "", nm)
+            tot += ia_query(f'creator:("{core}")', keep_ia)
+            tot += ol_query({"author": core}, keep_ol, label)
+            tot += gb_query(f'inauthor:"{core}"', keep_ol, label)
+        log(f"[au] {names[0]}: {tot}")
+
+    for pub, tokens, all_books in PUBLISHERS:
+        label = f"publisher:{pub}"
+        def keep_pub(pubs, title, subj, t=tokens, all_books=all_books):
+            ok = any(x.lower() in s(pubs).lower() for x in t)
+            return ok and (all_books or relevant(title, subj))
+        tot = ia_query(f'publisher:("{pub}")', lambda it: keep_pub(it.get("publisher"), it.get("title"), it.get("subject")))
+        tot += ol_query({"publisher": pub}, lambda d: keep_pub(d.get("publisher"), d.get("title"), (d.get("subject") or [])[:30]), label)
+        tot += gb_query(f'inpublisher:"{pub}"', lambda d: keep_pub(d.get("publisher"), d.get("title"), d.get("subject")), label)
+        log(f"[au] publisher {pub}: {tot}")
+    return save("au", rows)
+
+
+SOURCES = {"ia": harvest_ia, "ol": harvest_ol, "gb": harvest_gb, "loc": harvest_loc, "nl": harvest_nl, "au": harvest_au}
 
 
 def main():

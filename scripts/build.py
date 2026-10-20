@@ -62,7 +62,7 @@ def classify(title, subjects=""):
     for code, rx in RULES:
         if rx.search(subjects or ""):
             return code
-    return "ARC"
+    return None
 
 
 def period(year):
@@ -182,6 +182,8 @@ def main():
         for f in ("authors", "publisher", "place", "year", "language", "alt_title", "subjects"):
             if not m.get(f) and r.get(f):
                 m[f] = r[f]
+        if r.get("found_by") and r["found_by"] not in m.get("found_by", ""):
+            m["found_by"] = (m.get("found_by", "") + "; " + r["found_by"]).strip("; ")
         for f in ("isbn", "pages", "description", "full_text"):
             if r.get(f) and not m.get(f):
                 m[f] = r[f]
@@ -192,7 +194,7 @@ def main():
         m["links"].sort(key=lambda l: SOURCE_RANK.get(l["source"], 9))
         if m.get("full_text") and all(l["url"] != m["full_text"] for l in m["links"]):
             m["links"].insert(0, {"source": "Internet Archive (full text)", "url": m["full_text"]})
-        cat = m.get("category") or ("JOU" if m.get("is_journal") else None) or classify(m["title"] + " " + m.get("alt_title", ""), m.get("subjects", ""))
+        cat = m.get("category") or ("JOU" if m.get("is_journal") else None) or classify(m["title"] + " " + m.get("alt_title", ""), m.get("subjects", "")) or ("HIS" if m.get("found_by") else "ARC")
         typ = m.get("type") or ("Journal issue" if cat == "JOU" else "Book")
         counters[cat] += 1
         rows.append({
@@ -207,6 +209,7 @@ def main():
             "subjects": (m.get("subjects") or "")[:200],
             "sources": m["sources"], "url": m["links"][0]["url"] if m["links"] else "",
             "links": m["links"], "curated": m["source"] == "Curated",
+            "scholar": "; ".join(x.split(":", 1)[1] for x in (m.get("found_by") or "").split("; ") if x.startswith("author:")),
         })
 
     def sort_key(r):
@@ -229,7 +232,7 @@ def main():
     (DATA / "bibliography.js").write_text("window.BIB = " + json.dumps(slim, ensure_ascii=False, separators=(",", ":")) + ";\n", encoding="utf-8")
 
     cols = ["id", "category", "category_name", "category_name_ta", "type", "title", "alt_title", "authors", "publisher",
-            "place", "year", "period", "language", "series", "isbn", "pages", "notes", "subjects", "sources", "url", "other_links"]
+            "place", "year", "period", "language", "scholar", "series", "isbn", "pages", "notes", "subjects", "sources", "url", "other_links"]
     with open(DATA / "bibliography.csv", "w", encoding="utf-8-sig", newline="") as f:
         w = csv.writer(f)
         w.writerow(cols)
@@ -241,7 +244,7 @@ def main():
         w = csv.writer(f)
         w.writerow(["title", "category", "source_id", "url"])
         for r in heritage:
-            w.writerow([r["title"], classify(r["title"]), r["source_id"], r["url"]])
+            w.writerow([r["title"], classify(r["title"]) or "", r["source_id"], r["url"]])
 
     md = ["# Bibliography by Category / வகைவாரிப் பட்டியல்", "",
           f"Generated {meta['generated']} · **{len(rows)}** books, reports & journal issues · "

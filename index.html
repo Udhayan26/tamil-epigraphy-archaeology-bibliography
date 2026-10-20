@@ -74,7 +74,7 @@ button.theme{margin-left:auto;font:inherit;font-size:13px;background:none;border
       <select id="lang" aria-label="Language"><option value="">All languages</option><option>Tamil</option><option>English</option><option>Tamil-English</option></select>
       <select id="period" aria-label="Period"></select>
       <select id="src" aria-label="Source"></select>
-      <select id="has" aria-label="Metadata"><option value="">All records</option><option value="a">With author</option><option value="p">With publisher</option><option value="ap">With author + publisher</option><option value="cur">Hand-checked core list</option><option value="book">Books only (no journal issues)</option></select>
+      <select id="has" aria-label="Metadata"><option value="">All records</option><option value="a">With author</option><option value="p">With publisher</option><option value="ap">With author + publisher</option><option value="sch">Books by Tamil scholars (author search)</option><option value="cur">Hand-checked core list</option><option value="book">Books only (no journal issues)</option></select>
       <select id="sort" aria-label="Sort"><option value="year">Year ↑</option><option value="yeard">Year ↓</option><option value="title">Title</option><option value="author">Author</option></select>
       <button class="theme" id="theme" type="button">◐ Theme</button>
     </div>
@@ -102,7 +102,7 @@ button.theme{margin-left:auto;font:inherit;font-size:13px;background:none;border
   const state = {cat:"", q:"", lang:"", period:"", src:"", has:"", sort:"year", shown:PAGE};
   const esc = s => String(s||"").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
   const yr = r => { const m = /^(\d{4})/.exec(r.year||""); return m ? +m[1] : null; };
-  R.forEach(r => r._s = [r.title,r.alt_title,r.authors,r.publisher,r.place,r.notes,r.series,r.id,r.year,r.isbn].join(" ").toLowerCase());
+  R.forEach(r => r._s = [r.title,r.alt_title,r.authors,r.publisher,r.place,r.notes,r.series,r.id,r.year,r.isbn,r.scholar].join(" ").toLowerCase());
   $("gen").textContent = D.generated || "";
 
   const years = R.map(yr).filter(Boolean);
@@ -135,7 +135,7 @@ button.theme{margin-left:auto;font:inherit;font-size:13px;background:none;border
       (!state.lang || r.language===state.lang) &&
       (!state.period || r.period===state.period) &&
       (!state.src || r.sources.includes(state.src)) &&
-      (!state.has || (state.has==="a" ? r.authors : state.has==="p" ? r.publisher : state.has==="ap" ? (r.authors && r.publisher) : state.has==="cur" ? r.curated : r.category!=="JOU")) &&
+      (!state.has || (state.has==="a" ? r.authors : state.has==="p" ? r.publisher : state.has==="ap" ? (r.authors && r.publisher) : state.has==="cur" ? r.curated : state.has==="sch" ? r.scholar : r.category!=="JOU")) &&
       terms.every(t => r._s.includes(t)));
     const big = 99999;
     if (state.sort==="title") rs.sort((a,b)=>a.title.localeCompare(b.title));
