@@ -120,6 +120,53 @@ def heritage_record(r):
     return False
 
 
+# ------------------------------------------------------------ Tamil -> Latin (ISO 15919)
+_V = {"அ": "a", "ஆ": "ā", "இ": "i", "ஈ": "ī", "உ": "u", "ஊ": "ū", "எ": "e", "ஏ": "ē", "ஐ": "ai", "ஒ": "o", "ஓ": "ō", "ஔ": "au", "ஃ": "ḵ"}
+_C = {"க": "k", "ங": "ṅ", "ச": "c", "ஞ": "ñ", "ட": "ṭ", "ண": "ṇ", "த": "t", "ந": "n", "ப": "p", "ம": "m", "ய": "y", "ர": "r",
+      "ல": "l", "வ": "v", "ழ": "ḻ", "ள": "ḷ", "ற": "ṟ", "ன": "ṉ", "ஜ": "j", "ஷ": "ṣ", "ஸ": "s", "ஹ": "h", "ஶ": "ś"}
+_S = {"ா": "ā", "ி": "i", "ீ": "ī", "ு": "u", "ூ": "ū", "ெ": "e", "ே": "ē", "ை": "ai", "ொ": "o", "ோ": "ō", "ௌ": "au", "்": ""}
+
+
+def translit(text):
+    text = text or ""
+    out, i = [], 0
+    while i < len(text):
+        ch = text[i]
+        if ch in _C:
+            nxt = text[i + 1] if i + 1 < len(text) else ""
+            if nxt in _S:
+                out.append(_C[ch] + _S[nxt]); i += 2; continue
+            out.append(_C[ch] + "a")
+        elif ch in _V:
+            out.append(_V[ch])
+        elif ch in _S:
+            out.append(_S[ch])
+        else:
+            out.append(ch)
+        i += 1
+    res = "".join(out)
+    # capitalise first letter of each word that came from Tamil
+    return re.sub(r"(^|[\s(\-–:])([a-zāīūēōṅñṭṇḻḷṟṉś])", lambda m: m.group(1) + m.group(2).upper(), res) if TAMIL.search(text) else res
+
+
+_ROMAN = {"i": 1, "ii": 2, "iii": 3, "iv": 4, "v": 5, "vi": 6, "vii": 7, "viii": 8, "ix": 9, "x": 10, "xi": 11, "xii": 12,
+          "xiii": 13, "xiv": 14, "xv": 15, "xvi": 16, "xvii": 17, "xviii": 18, "xix": 19, "xx": 20}
+
+
+def skeleton(title):
+    """Script- and spelling-independent key so Tamil-script and romanised copies of a book merge."""
+    t = translit(clean_title(title or "")).lower()
+    t = "".join(c for c in unicodedata.normalize("NFKD", t) if not unicodedata.combining(c))
+    t = re.sub(r"\b(vol(ume)?|part|pt|no|tokuti|thogudi|thokuthi|thougudi|pakuti|pakudi|bhag)\b\.?", " ", t)
+    t = re.sub(r"\b([ivx]{1,5})\b", lambda m: str(_ROMAN.get(m.group(1), m.group(1))), t)
+    for a, b in (("zh", "l"), ("sh", "s"), ("ch", "c"), ("th", "t"), ("dh", "t"), ("kh", "k"), ("bh", "p"), ("gh", "k"), ("ph", "p"),
+                 ("ng", "n"), ("nj", "n"), ("w", "v"), ("d", "t"), ("g", "k"), ("b", "p"), ("s", "c"), ("j", "c"), ("z", "l"), ("q", "k"), ("f", "p")):
+        t = t.replace(a, b)
+    t = re.sub(r"[aeiouyh]", "", t)
+    t = re.sub(r"[^a-z0-9]", "", t)
+    return re.sub(r"(.)\1+", r"\1", t)
+
+
 # ------------------------------------------------------------ curated
 def load_curated():
     recs = []
@@ -164,22 +211,34 @@ def main():
 
     merged = OrderedDict()
     for r in curated + books:
+        if r["source"] == "Curated":
+            u = r.get("url", "")
+            if u.lower().endswith(".pdf"):
+                r.update(access="open", download_url=u, read_url=u)
+            elif re.search(r"(archive\.org/details|tamildigitallibrary\.in/(Articles|book)|whatisindia\.com|library\.cict\.in)", u):
+                r.update(access="open", read_url=u)
+            else:
+                r.update(access="catalogue" if u else "")
         is_journal_issue = r.get("is_journal", False)
-        key = norm(r["title"])[:120]
-        if is_journal_issue or len(key) < 6:
+        key = skeleton(r["title"])[:100]
+        if is_journal_issue or len(key) < 8:
             key = f"{key}|{r['source']}|{r['source_id']}"
         if key not in merged:
             m = dict(r)
             m["sources"] = [r["source"]]
-            m["links"] = [{"source": r["source"], "url": r["url"]}] if r.get("url") else []
+            m["source_urls"] = [r["url"]] if r.get("url") else []
+            m["titles"] = [r["title"]] + ([r["alt_title"]] if r.get("alt_title") else [])
             merged[key] = m
             continue
         m = merged[key]
         if r["source"] not in m["sources"]:
             m["sources"].append(r["source"])
-        if r.get("url") and all(l["url"] != r["url"] for l in m["links"]):
-            m["links"].append({"source": r["source"], "url": r["url"]})
-        for f in ("authors", "publisher", "place", "year", "language", "alt_title", "subjects"):
+        if r.get("url") and r["url"] not in m["source_urls"]:
+            m["source_urls"].append(r["url"])
+        for t in (r["title"], r.get("alt_title")):
+            if t and t not in m["titles"]:
+                m["titles"].append(t)
+        for f in ("authors", "publisher", "place", "year", "language", "subjects"):
             if not m.get(f) and r.get(f):
                 m[f] = r[f]
         if r.get("found_by") and r["found_by"] not in m.get("found_by", ""):
@@ -187,28 +246,44 @@ def main():
         for f in ("isbn", "pages", "description", "full_text"):
             if r.get(f) and not m.get(f):
                 m[f] = r[f]
+        rank = {"open": 3, "preview": 2, "borrow": 1, "catalogue": 0, "": 0}
+        if rank.get(r.get("access", ""), 0) > rank.get(m.get("access", ""), 0):
+            m["access"], m["read_url"] = r.get("access"), r.get("read_url", "")
+        if r.get("download_url") and not m.get("download_url"):
+            m["download_url"] = r["download_url"]
 
     rows = []
     counters = Counter()
     for m in merged.values():
-        m["links"].sort(key=lambda l: SOURCE_RANK.get(l["source"], 9))
-        if m.get("full_text") and all(l["url"] != m["full_text"] for l in m["links"]):
-            m["links"].insert(0, {"source": "Internet Archive (full text)", "url": m["full_text"]})
-        cat = m.get("category") or ("JOU" if m.get("is_journal") else None) or classify(m["title"] + " " + m.get("alt_title", ""), m.get("subjects", "")) or ("HIS" if m.get("found_by") else "ARC")
+        if m.get("full_text") and m.get("access") not in ("open",):
+            m.setdefault("read_url", m["full_text"])
+        titles = m["titles"]
+        ta = next((t for t in titles if TAMIL.search(t)), "")
+        lat = next((t for t in titles if not TAMIL.search(t) and re.search(r"[A-Za-z]", t)), "")
+        title_ta = ta
+        title_en = lat or (translit(ta) if ta else "")
+        title_en_is_translit = bool(ta and not lat)
+        cat = m.get("category") or ("JOU" if m.get("is_journal") else None) or classify(" ".join(titles), m.get("subjects", "")) or ("HIS" if m.get("found_by") else "ARC")
         typ = m.get("type") or ("Journal issue" if cat == "JOU" else "Book")
         counters[cat] += 1
         rows.append({
-            "id": f"{cat}-{counters[cat]:04d}", "category": cat,
+            "id": "", "category": cat,
             "category_name": CATEGORIES[cat][0], "category_name_ta": CATEGORIES[cat][1],
-            "title": m["title"], "alt_title": m.get("alt_title", ""),
-            "authors": m.get("authors", ""), "publisher": m.get("publisher", ""), "place": m.get("place", ""),
-            "year": m.get("year", ""), "period": period(m.get("year", "")),
-            "language": m["language"] if m["source"] == "Curated" else lang_of(m["title"], m.get("language"), m["source"]),
+            "title": m["title"], "title_ta": title_ta, "title_en": title_en,
+            "title_en_note": "romanised from Tamil" if title_en_is_translit else "",
+            "alt_title": m.get("alt_title", ""),
+            "authors": m.get("authors", ""), "authors_roman": translit(m.get("authors", "")) if TAMIL.search(m.get("authors", "")) else "",
+            "publisher": m.get("publisher", ""), "publisher_roman": translit(m.get("publisher", "")) if TAMIL.search(m.get("publisher", "")) else "",
+            "place": m.get("place", ""), "year": m.get("year", ""), "period": period(m.get("year", "")),
+            "language": m["language"] if m["source"] == "Curated" else lang_of(" ".join(titles), m.get("language"), m["source"]),
             "type": typ, "series": m.get("series", ""), "isbn": m.get("isbn", ""), "pages": m.get("pages", ""),
             "notes": m.get("notes") or (m.get("description") or "")[:220],
             "subjects": (m.get("subjects") or "")[:200],
-            "sources": m["sources"], "url": m["links"][0]["url"] if m["links"] else "",
-            "links": m["links"], "curated": m["source"] == "Curated",
+            "access": m.get("access") or ("catalogue" if m["source_urls"] else ""),
+            "read_url": m.get("read_url", ""), "download_url": m.get("download_url", ""),
+            "source_url": m["source_urls"][0] if m["source_urls"] else "",
+            "other_source_urls": m["source_urls"][1:6],
+            "sources": m["sources"], "curated": m["source"] == "Curated",
             "scholar": "; ".join(x.split(":", 1)[1] for x in (m.get("found_by") or "").split("; ") if x.startswith("author:")),
         })
 
@@ -222,45 +297,50 @@ def main():
         r["id"] = f"{r['category']}-{counters[r['category']]:04d}"
 
     src_counts = Counter(s for r in rows for s in r["sources"])
+    acc = Counter(r["access"] for r in rows)
     meta = {"generated": __import__("datetime").date.today().isoformat(), "count": len(rows),
             "with_author": sum(1 for r in rows if r["authors"]), "with_publisher": sum(1 for r in rows if r["publisher"]),
-            "with_link": sum(1 for r in rows if r["url"]), "heritage_records": len(heritage),
-            "sources": dict(src_counts), "categories": {k: {"en": v[0], "ta": v[1], "count": counters[k]} for k, v in CATEGORIES.items()}}
+            "with_year": sum(1 for r in rows if r["year"]), "open_access": acc.get("open", 0),
+            "with_download": sum(1 for r in rows if r["download_url"]), "heritage_records": len(heritage),
+            "access": dict(acc), "sources": dict(src_counts),
+            "categories": {k: {"en": v[0], "ta": v[1], "count": counters[k]} for k, v in CATEGORIES.items()}}
     doc = {**meta, "records": rows}
     (DATA / "bibliography.json").write_text(json.dumps(doc, ensure_ascii=False, indent=0), encoding="utf-8")
-    slim = {**meta, "records": [{k: v for k, v in r.items() if k not in ("subjects",)} for r in rows]}
+    pub = {k: v for k, v in meta.items() if k != "sources"}
+    slim = {**pub, "records": [{k: v for k, v in r.items() if k not in ("subjects", "sources", "category_name", "category_name_ta")} for r in rows]}
     (DATA / "bibliography.js").write_text("window.BIB = " + json.dumps(slim, ensure_ascii=False, separators=(",", ":")) + ";\n", encoding="utf-8")
 
-    cols = ["id", "category", "category_name", "category_name_ta", "type", "title", "alt_title", "authors", "publisher",
-            "place", "year", "period", "language", "scholar", "series", "isbn", "pages", "notes", "subjects", "sources", "url", "other_links"]
+    cols = ["id", "category", "category_name", "category_name_ta", "type", "title_ta", "title_en", "title_en_note",
+            "authors", "authors_roman", "publisher", "publisher_roman", "place", "year", "period", "language", "scholar",
+            "series", "isbn", "pages", "access", "read_url", "download_url", "source_url", "other_source_urls", "notes", "subjects"]
     with open(DATA / "bibliography.csv", "w", encoding="utf-8-sig", newline="") as f:
         w = csv.writer(f)
         w.writerow(cols)
         for r in rows:
-            w.writerow([r[c] if c not in ("sources", "other_links") else
-                        ("; ".join(r["sources"]) if c == "sources" else " ; ".join(l["url"] for l in r["links"][1:]))
-                        for c in cols])
+            w.writerow([" ; ".join(r[c]) if isinstance(r[c], list) else r[c] for c in cols])
     with open(DATA / "heritage_records.csv", "w", encoding="utf-8-sig", newline="") as f:
         w = csv.writer(f)
-        w.writerow(["title", "category", "source_id", "url"])
+        w.writerow(["title_ta", "title_en", "category", "source_url"])
         for r in heritage:
-            w.writerow([r["title"], classify(r["title"]) or "", r["source_id"], r["url"]])
+            w.writerow([r["title"], translit(r["title"]), classify(r["title"]) or "", r["url"]])
 
     md = ["# Bibliography by Category / வகைவாரிப் பட்டியல்", "",
           f"Generated {meta['generated']} · **{len(rows)}** books, reports & journal issues · "
           f"{meta['with_author']} with author/editor · {meta['with_publisher']} with publisher · "
-          f"{meta['with_link']} with direct link.", "",
-          "Sources: " + ", ".join(f"{k} ({v})" for k, v in src_counts.most_common()), ""]
+          f"{meta['with_year']} with year · {meta['open_access']} open access ({meta['with_download']} with direct download).", ""]
     for code, (en, ta) in CATEGORIES.items():
         rs = [r for r in rows if r["category"] == code]
         if not rs:
             continue
-        md += [f"## {en} — {ta} ({len(rs)})", "", "| ID | Year | Title | Author / Editor | Publisher | Lang | Link |",
-               "|---|---|---|---|---|---|---|"]
+        md += [f"## {en} — {ta} ({len(rs)})", "",
+               "| ID | Year | Title (Tamil / English) | Author / Editor | Publisher | Lang | Read / Download | Source |",
+               "|---|---|---|---|---|---|---|---|"]
         for r in rs:
-            t = r["title"] + (f"<br><sub>{r['alt_title']}</sub>" if r["alt_title"] else "")
-            link = f"[Open]({r['url']})" if r["url"] else "—"
-            cells = [r["id"], r["year"] or "—", t, r["authors"] or "—", r["publisher"] or "—", r["language"], link]
+            t = " <br>".join(x for x in (r["title_ta"], r["title_en"]) if x) or r["title"]
+            rd = " · ".join(x for x in ((f"[Read]({r['read_url']})" if r["read_url"] and r["access"] == "open" else ""),
+                                        (f"[PDF]({r['download_url']})" if r["download_url"] else ""))) or "—"
+            src = f"[Record]({r['source_url']})" if r["source_url"] else "—"
+            cells = [r["id"], r["year"] or "—", t, r["authors"] or "—", ", ".join(x for x in (r["publisher"], r["place"]) if x) or "—", r["language"], rd, src]
             md.append("| " + " | ".join(str(c).replace("|", "/").replace("\n", " ") for c in cells) + " |")
         md.append("")
     (ROOT / "BIBLIOGRAPHY.md").write_text("\n".join(md), encoding="utf-8")

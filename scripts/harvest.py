@@ -131,7 +131,8 @@ def rec(source, sid, title, url, authors="", publisher="", year="", language="",
         subjects="", alt_title="", extra=None):
     r = {"source": source, "source_id": sid, "title": s(title)[:400], "alt_title": s(alt_title)[:300],
          "authors": s(authors)[:300], "publisher": s(publisher)[:200], "place": s(place)[:100],
-         "year": year_of(year), "language": s(language)[:40], "subjects": s(subjects)[:400], "url": url}
+         "year": year_of(year), "language": s(language)[:40], "subjects": s(subjects)[:400], "url": url,
+         "access": "catalogue", "read_url": "", "download_url": ""}
     if extra:
         r.update(extra)
     return r
@@ -205,28 +206,41 @@ def harvest_ia():
                                "description": s(it.get("description"))[:600]}))
     log(f"[ia] relevant: {len(rows)}")
 
-    # enrich items missing author/publisher from the per-item metadata API
-    need = [r for r in rows if not r["authors"] or not r["publisher"]]
-    log(f"[ia] enriching {len(need)} items via metadata API")
-    for i, r in enumerate(need[:6000]):
+    # enrich every item from the per-item metadata API: author/publisher/year + open-access file links
+    BORROW = re.compile(r"(inlibrary|printdisabled|lendinglibrary|browserlending|china_inlibrary)", re.I)
+    for r in rows:
+        r["access"] = "borrow" if BORROW.search(r.get("collection", "")) else "open"
+        r["read_url"] = r["url"] if r["access"] == "open" else ""
+    log(f"[ia] enriching {len(rows)} items via metadata API")
+    for i, r in enumerate(rows[:9000]):
         try:
-            m = get(f"https://archive.org/metadata/{urllib.parse.quote(r['source_id'])}/metadata", tries=2, sleep=0.15)
-            md = m.get("result", {}) if isinstance(m, dict) else {}
+            m = get(f"https://archive.org/metadata/{urllib.parse.quote(r['source_id'])}", tries=2, sleep=0.1)
+            md = (m or {}).get("metadata", {}) if isinstance(m, dict) else {}
             if i == 0:
-                sample("ia_metadata", md)
-            for k_src, k_dst in (("creator", "authors"), ("publisher", "publisher")):
-                if not r[k_dst] and md.get(k_src):
-                    r[k_dst] = s(md[k_src])[:300]
-            for k in ("contributor", "author", "editor"):
-                if not r["authors"] and md.get(k):
-                    r["authors"] = s(md[k])[:300]
+                sample("ia_metadata", {k: v for k, v in (m or {}).items() if k != "files"})
+            if not r["authors"]:
+                for k in ("creator", "author", "editor"):          # NOT 'contributor' (= scanning library)
+                    if md.get(k):
+                        r["authors"] = s(md[k])[:300]
+                        break
+            if not r["publisher"] and md.get("publisher"):
+                r["publisher"] = s(md["publisher"])[:200]
             if not r["year"]:
-                r["year"] = year_of(md.get("year") or md.get("date") or md.get("publicdate", "")[:0])
+                r["year"] = year_of(md.get("year") or md.get("date") or "")
             if not r.get("description") and md.get("description"):
-                r["description"] = s(md["description"])[:600]
-            for k in ("pages", "imagecount", "isbn", "call_number", "subject"):
-                if md.get(k) and k not in r:
+                r["description"] = re.sub(r"<[^>]+>", " ", s(md["description"]))[:600]
+            for k in ("isbn", "call_number", "imagecount", "title_alt_script", "alternate_title"):
+                if md.get(k):
                     r[k] = s(md[k])[:200]
+            restricted = str(md.get("access-restricted-item", "")).lower() == "true" or (m or {}).get("is_dark")
+            if restricted or BORROW.search(s(md.get("collection"))):
+                r["access"], r["read_url"] = "borrow", ""
+            else:
+                r["access"], r["read_url"] = "open", r["url"]
+                pdfs = [f["name"] for f in (m or {}).get("files", []) if f.get("name", "").lower().endswith(".pdf")]
+                pdfs.sort(key=lambda n: (n.endswith("_text.pdf"), len(n)))
+                if pdfs:
+                    r["download_url"] = f"https://archive.org/download/{urllib.parse.quote(r['source_id'])}/{urllib.parse.quote(pdfs[0])}"
         except Exception as e:
             if i < 5:
                 log("[ia] meta ERR", r["source_id"], e)
@@ -238,7 +252,7 @@ def harvest_ia():
 # ---------------------------------------------------------------- Open Library
 def harvest_ol():
     rows = []
-    fl = "key,title,subtitle,author_name,publisher,publish_place,first_publish_year,publish_year,language,subject,isbn,ia"
+    fl = "key,title,subtitle,author_name,publisher,publish_place,first_publish_year,publish_year,language,subject,isbn,ia,ebook_access"
     qs = [("q", t) for t in ROMAN_TERMS + EN_TERMS + TAMIL_TERMS] + [("subject", t.split("--")[0]) for t in SUBJECTS]
     for kind, t in qs:
         page = 1
@@ -264,6 +278,11 @@ def harvest_ol():
                                 language=d.get("language"), subjects=(d.get("subject") or [])[:12],
                                 extra={"isbn": s((d.get("isbn") or [])[:2]),
                                        "full_text": f"https://archive.org/details/{ia[0]}" if ia else ""}))
+                ea = d.get("ebook_access", "")
+                if ia and ea == "public":
+                    rows[-1].update(access="open", read_url=f"https://archive.org/details/{ia[0]}")
+                elif ia and ea in ("borrowable", "printdisabled"):
+                    rows[-1].update(access="borrow")
             log(f"[ol] {kind}={t}: page {page} docs {len(docs)}")
             if len(docs) < 1000:
                 break
@@ -299,6 +318,12 @@ def harvest_gb():
                                 language=v.get("language"), subjects=v.get("categories"),
                                 extra={"isbn": isbn, "pages": s(v.get("pageCount")),
                                        "description": s(v.get("description"))[:600]}))
+                ai = it.get("accessInfo", {}) or {}
+                if ai.get("viewability") == "ALL_PAGES" or ai.get("publicDomain"):
+                    rows[-1].update(access="open", read_url=ai.get("webReaderLink") or rows[-1]["url"],
+                                    download_url=(ai.get("pdf") or {}).get("downloadLink", "") or (ai.get("epub") or {}).get("downloadLink", ""))
+                elif ai.get("viewability") == "PARTIAL":
+                    rows[-1].update(access="preview", read_url=ai.get("webReaderLink") or "")
             if len(items) < 40:
                 break
         log(f"[gb] {t}: total so far {len(rows)}")
@@ -342,6 +367,13 @@ def harvest_loc():
                                 authors=authors, publisher=pub, place=place, year=it.get("date"),
                                 language=it.get("language"), subjects=subj[:12],
                                 extra={"imprint": s(cp)[:200]}))
+                fmts = s(it.get("online_format")).lower()
+                if any(x in fmts for x in ("pdf", "image", "online text")):
+                    pdf = ""
+                    for res_ in it.get("resources") or []:
+                        if isinstance(res_, dict) and res_.get("pdf"):
+                            pdf = res_["pdf"]; break
+                    rows[-1].update(access="open", read_url=rows[-1]["url"], download_url=pdf)
             pag = j.get("pagination") or {}
             if not pag.get("next") or not res:
                 break
@@ -415,7 +447,120 @@ def harvest_nl():
                             authors=f.get("ஆசிரியர்", ""), publisher=f.get("பதிப்பகம்", ""),
                             year=f.get("பதிப்பு", ""), language=f.get("மொழி", "Tamil"), subjects=kind,
                             extra={"pages": f.get("பக்கங்கள்", "")}))
+            pdf = re.search(r"https?://[^\s\]|<>\"']+\.pdf", txt)
+            rows[-1].update(access="open", read_url=rows[-1]["url"], download_url=pdf.group(0) if pdf else "")
     return save("nl", rows)
+
+
+# ---------------------------------------------------------------- OpenAlex (scholarly books worldwide)
+def harvest_oa():
+    rows = []
+    for t in EN_TERMS + ROMAN_TERMS:
+        cursor = "*"
+        for _ in range(5):
+            url = "https://api.openalex.org/works?" + urllib.parse.urlencode({
+                "search": t, "filter": "type:book|monograph|edited-book|reference-book|report", "per-page": 200,
+                "cursor": cursor, "mailto": "bibliography@users.noreply.github.com"})
+            try:
+                j = get(url, sleep=0.3)
+            except Exception as e:
+                # older filter syntax fallback
+                try:
+                    j = get(url.replace("type%3Abook%7Cmonograph%7Cedited-book%7Creference-book%7Creport", "type%3Abook"), sleep=0.3)
+                except Exception as e2:
+                    log("[oa] ERR", t, e2)
+                    break
+            if not rows and cursor == "*":
+                sample("oa_search", j)
+            for w in j.get("results", []) or []:
+                title = s(w.get("display_name") or w.get("title"))
+                concepts = [c.get("display_name", "") for c in (w.get("concepts") or w.get("topics") or [])][:10]
+                if not relevant(title, concepts):
+                    continue
+                authors = [a.get("author", {}).get("display_name", "") for a in w.get("authorships") or []]
+                loc = w.get("primary_location") or {}
+                src = loc.get("source") or {}
+                pub = src.get("host_organization_name") or w.get("publisher") or ""
+                oa = w.get("open_access") or {}
+                best = w.get("best_oa_location") or {}
+                r = rec("OpenAlex", w.get("id"), title, w.get("doi") or loc.get("landing_page_url") or w.get("id"),
+                        authors=authors, publisher=pub, year=w.get("publication_year"), language=w.get("language"),
+                        subjects=concepts)
+                if oa.get("is_oa"):
+                    r.update(access="open", read_url=oa.get("oa_url") or best.get("landing_page_url") or "",
+                             download_url=best.get("pdf_url") or "")
+                rows.append(r)
+            cursor = (j.get("meta") or {}).get("next_cursor")
+            if not cursor or not j.get("results"):
+                break
+        log(f"[oa] {t}: total so far {len(rows)}")
+    return save("oa", rows)
+
+
+# ---------------------------------------------------------------- DOAB (open-access academic books)
+def harvest_doab():
+    rows = []
+    for t in EN_TERMS[:40] + ["Tamil", "Tamil Nadu archaeology", "South India epigraphy", "Chola", "Pallava", "Pandya"]:
+        url = "https://directory.doabooks.org/rest/search?" + urllib.parse.urlencode({"query": t, "expand": "metadata,bitstreams", "limit": 100})
+        try:
+            j = get(url, sleep=0.8)
+        except Exception as e:
+            log("[doab] ERR", t, e)
+            continue
+        if not rows:
+            sample("doab_search", j[:3] if isinstance(j, list) else j)
+        for it in j if isinstance(j, list) else []:
+            md = {}
+            for m in it.get("metadata", []) or []:
+                md.setdefault(m.get("key", ""), []).append(m.get("value", ""))
+            pick = lambda *ks: next((md[k] for k in ks if md.get(k)), [])
+            title = s(pick("dc.title"))
+            if not relevant(title, pick("dc.subject.other", "dc.subject.classification", "dc.subject"), s(pick("dc.description.abstract"))[:400]):
+                continue
+            handle = it.get("handle", "")
+            dl = s(pick("oapen.identifier.downloadUrl", "dc.identifier.uri"))
+            rows.append(rec("DOAB", handle or title, title, f"https://directory.doabooks.org/handle/{handle}" if handle else dl,
+                            authors=pick("dc.contributor.author", "dc.contributor.editor", "dc.creator"),
+                            publisher=pick("publisher.name", "dc.publisher", "oapen.relation.isPublishedBy"),
+                            year=s(pick("dc.date.issued")), language=s(pick("dc.language")),
+                            subjects=pick("dc.subject.other"),
+                            extra={"access": "open", "read_url": f"https://directory.doabooks.org/handle/{handle}" if handle else dl,
+                                   "download_url": dl if dl.lower().endswith(".pdf") or "download" in dl.lower() else "",
+                                   "isbn": s(pick("oapen.identifier.isbn", "dc.identifier.isbn"))}))
+        log(f"[doab] {t}: total so far {len(rows)}")
+    return save("doab", rows)
+
+
+# ---------------------------------------------------------------- Tamil Wikisource scanned books (Index pages)
+def harvest_ws():
+    api = "https://ta.wikisource.org/w/api.php"
+    titles = {}
+    for t in TAMIL_TERMS + ["inscriptions", "epigraphy", "archaeology"]:
+        for ns in (0, 252, 250):  # main, Index (அட்டவணை), Page
+            url = api + "?" + urllib.parse.urlencode({"action": "query", "list": "search", "srsearch": t, "srnamespace": ns,
+                                                      "srlimit": 50, "format": "json"})
+            try:
+                j = get(url, sleep=0.4)
+            except Exception as e:
+                log("[ws] ERR", t, e)
+                continue
+            if not titles:
+                sample("ws_search", j)
+            for r in j.get("query", {}).get("search", []):
+                ti = r["title"]
+                if ns == 250:   # Page:Book.pdf/123 -> Index:Book.pdf
+                    ti = "அட்டவணை:" + ti.split(":", 1)[-1].split("/")[0]
+                titles[ti] = 1
+    rows = []
+    for ti in titles:
+        name = ti.split(":", 1)[-1]
+        book = re.sub(r"\.(pdf|djvu)$", "", name, flags=re.I)
+        if not relevant(book):
+            continue
+        u = "https://ta.wikisource.org/wiki/" + urllib.parse.quote(ti.replace(" ", "_"))
+        rows.append(rec("Tamil Wikisource", ti, book, u, language="Tamil",
+                        extra={"access": "open", "read_url": u}))
+    return save("ws", rows)
 
 
 # ---------------------------------------------------------------- authors & publishers
@@ -499,7 +644,7 @@ def harvest_au():
     def ia_query(q, keep):
         cursor, n = None, 0
         for _ in range(5):
-            params = {"q": f"({q}) AND mediatype:(texts)", "fields": "identifier,title,creator,publisher,date,year,language,subject", "count": 1000}
+            params = {"q": f"({q}) AND mediatype:(texts)", "fields": "identifier,title,creator,publisher,date,year,language,subject,collection", "count": 1000}
             if cursor:
                 params["cursor"] = cursor
             try:
@@ -512,6 +657,8 @@ def harvest_au():
                     add("Internet Archive", it["identifier"], it.get("title"), f"https://archive.org/details/{it['identifier']}",
                         q, authors=it.get("creator"), publisher=it.get("publisher"), year=it.get("year") or it.get("date"),
                         language=it.get("language"), subjects=it.get("subject"))
+                    borrow = re.search(r"(inlibrary|printdisabled|lendinglibrary)", s(it.get("collection")), re.I)
+                    rows[-1].update(access="borrow" if borrow else "open", read_url="" if borrow else rows[-1]["url"])
                     n += 1
             cursor = j.get("cursor")
             if not cursor:
@@ -522,7 +669,7 @@ def harvest_au():
         n = 0
         try:
             j = get("https://openlibrary.org/search.json?" + urllib.parse.urlencode({**params, "limit": 1000,
-                    "fields": "key,title,subtitle,author_name,publisher,publish_place,first_publish_year,publish_year,language,subject,isbn,ia"}), sleep=1.0)
+                    "fields": "key,title,subtitle,author_name,publisher,publish_place,first_publish_year,publish_year,language,subject,isbn,ia,ebook_access"}), sleep=1.0)
         except Exception as e:
             log("[au/ol] ERR", params, e)
             return 0
@@ -535,6 +682,8 @@ def harvest_au():
                     year=d.get("first_publish_year") or "", language=d.get("language"), subjects=(d.get("subject") or [])[:12])
                 if ia:
                     rows[-1]["full_text"] = f"https://archive.org/details/{ia[0]}"
+                    if d.get("ebook_access") == "public":
+                        rows[-1].update(access="open", read_url=rows[-1]["full_text"])
                 n += 1
         return n
 
@@ -556,6 +705,10 @@ def harvest_au():
                         authors=v.get("authors"), publisher=v.get("publisher"), year=v.get("publishedDate"), language=v.get("language"),
                         subjects=v.get("categories"))
                     rows[-1]["isbn"] = ";".join(x.get("identifier", "") for x in v.get("industryIdentifiers", []) or [])
+                    ai = it.get("accessInfo", {}) or {}
+                    if ai.get("viewability") == "ALL_PAGES" or ai.get("publicDomain"):
+                        rows[-1].update(access="open", read_url=ai.get("webReaderLink") or rows[-1]["url"],
+                                        download_url=(ai.get("pdf") or {}).get("downloadLink", ""))
                     n += 1
             if len(items) < 40:
                 break
@@ -585,7 +738,7 @@ def harvest_au():
     return save("au", rows)
 
 
-SOURCES = {"ia": harvest_ia, "ol": harvest_ol, "gb": harvest_gb, "loc": harvest_loc, "nl": harvest_nl, "au": harvest_au}
+SOURCES = {"ia": harvest_ia, "ol": harvest_ol, "gb": harvest_gb, "loc": harvest_loc, "nl": harvest_nl, "au": harvest_au, "oa": harvest_oa, "doab": harvest_doab, "ws": harvest_ws}
 
 
 def main():

@@ -51,6 +51,7 @@ a.open{background:var(--ok-soft);color:var(--ok);padding:3px 10px;border-radius:
 footer{border-top:1px solid var(--line);padding:24px 0;color:var(--muted);font-size:13px}
 footer a{color:var(--accent)}
 .empty{padding:40px;text-align:center;color:var(--muted)}
+.more[hidden]{display:none}
 .more{display:block;margin:18px auto;font:inherit;background:var(--panel);border:1px solid var(--line);color:var(--accent);border-radius:8px;padding:10px 22px;cursor:pointer}
 .who{font-size:14px;margin:6px 0 0}.who b{font-weight:600;color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.03em;margin-right:4px}
 .src{font-size:12px;color:var(--muted)}
@@ -63,7 +64,7 @@ button.theme{margin-left:auto;font:inherit;font-size:13px;background:none;border
   <div class="wrap">
     <h1>Tamil Epigraphy, Inscriptions, Archaeology, Rock Art &amp; Hero Stones — Books</h1>
     <p class="ta" style="font-size:18px;margin:0 0 10px">தமிழ்க் கல்வெட்டியல், கல்வெட்டுகள், தொல்லியல், பாறை ஓவியம், நடுகல் — நூல்கள்</p>
-    <p class="sub">Tamil and English books, inscription volumes, excavation reports and journals from about 1820 to today, with author or editor, publisher, year and links. Collected from Internet Archive (including Tamil Digital Library, Roja Muthiah and Digital Library of India copies), Open Library, Google Books, the Library of Congress, Noolaham and a hand-checked core list. The list is refreshed weekly.</p>
+    <p class="sub">Books on Tamil inscriptions, epigraphy, archaeology, rock art and hero stones by writers around the world, in Tamil and English, from about 1820 to today. Each entry gives the title in Tamil and English, the author or editor, the publisher, the year, the source record link and, for freely available books, a link to read or download the book.</p>
     <div class="stats" id="stats"></div>
   </div>
 </header>
@@ -73,7 +74,7 @@ button.theme{margin-left:auto;font:inherit;font-size:13px;background:none;border
       <input type="search" id="q" placeholder="Search title, author, publisher, place… / நூல், ஆசிரியர், பதிப்பகம் தேடுக" aria-label="Search">
       <select id="lang" aria-label="Language"><option value="">All languages</option><option>Tamil</option><option>English</option><option>Tamil-English</option></select>
       <select id="period" aria-label="Period"></select>
-      <select id="src" aria-label="Source"></select>
+      <select id="acc" aria-label="Access"><option value="">All access</option><option value="open">Free to read / download</option><option value="dl">Direct PDF download</option><option value="preview">Preview only</option><option value="borrow">Borrow only</option><option value="catalogue">Catalogue record only</option></select>
       <select id="has" aria-label="Metadata"><option value="">All records</option><option value="a">With author</option><option value="p">With publisher</option><option value="ap">With author + publisher</option><option value="sch">Books by Tamil scholars (author search)</option><option value="cur">Hand-checked core list</option><option value="book">Books only (no journal issues)</option></select>
       <select id="sort" aria-label="Sort"><option value="year">Year ↑</option><option value="yeard">Year ↓</option><option value="title">Title</option><option value="author">Author</option></select>
       <button class="theme" id="theme" type="button">◐ Theme</button>
@@ -90,7 +91,7 @@ button.theme{margin-left:auto;font:inherit;font-size:13px;background:none;border
 </main>
 <footer>
   <div class="wrap">
-    Download: <a href="data/bibliography.csv">CSV (Excel)</a> · <a href="data/bibliography.json">JSON</a> · <a href="BIBLIOGRAPHY.md">Category-wise list</a> · <a href="https://github.com/Udhayan26/tamil-epigraphy-archaeology-bibliography">GitHub repo</a> · Updated <span id="gen"></span>. Harvested records come from library catalogues, so check details against the book itself.
+    Download: <a href="data/bibliography.csv">CSV (Excel)</a> · <a href="data/bibliography.json">JSON</a> · <a href="BIBLIOGRAPHY.md">Category-wise list</a> · <a href="https://github.com/Udhayan26/tamil-epigraphy-archaeology-bibliography">GitHub repo</a> · Updated <span id="gen"></span>. Details come from library catalogues; check them against the book itself.
   </div>
 </footer>
 <script src="data/bibliography.js"></script>
@@ -99,23 +100,21 @@ button.theme{margin-left:auto;font:inherit;font-size:13px;background:none;border
   const D = window.BIB, R = D.records, C = D.categories;
   const $ = id => document.getElementById(id);
   const PAGE = 60;
-  const state = {cat:"", q:"", lang:"", period:"", src:"", has:"", sort:"year", shown:PAGE};
+  const state = {cat:"", q:"", lang:"", period:"", acc:"", has:"", sort:"year", shown:PAGE};
   const esc = s => String(s||"").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
   const yr = r => { const m = /^(\d{4})/.exec(r.year||""); return m ? +m[1] : null; };
-  R.forEach(r => r._s = [r.title,r.alt_title,r.authors,r.publisher,r.place,r.notes,r.series,r.id,r.year,r.isbn,r.scholar].join(" ").toLowerCase());
+  R.forEach(r => r._s = [r.title,r.title_ta,r.title_en,r.alt_title,r.authors,r.authors_roman,r.publisher,r.publisher_roman,r.place,r.notes,r.series,r.id,r.year,r.isbn,r.scholar].join(" ").toLowerCase());
   $("gen").textContent = D.generated || "";
 
   const years = R.map(yr).filter(Boolean);
   $("stats").innerHTML = [
     [R.length.toLocaleString(), "books & volumes"], [D.with_author.toLocaleString(), "with author"],
-    [D.with_publisher.toLocaleString(), "with publisher"], [R.filter(r=>r.language!=="English").length.toLocaleString(), "Tamil / bilingual"],
+    [D.with_publisher.toLocaleString(), "with publisher"], [D.open_access.toLocaleString(), "free to read"],
     [Math.min(...years)+"–"+Math.max(...years), "years covered"]
   ].map(([b,s]) => `<div class="stat"><b>${b}</b><span>${s}</span></div>`).join("");
 
   const periods = [...new Set(R.map(r=>r.period))].sort();
   $("period").innerHTML = '<option value="">All periods</option>' + periods.map(p=>`<option>${esc(p)}</option>`).join("");
-  const srcs = {}; R.forEach(r => r.sources.forEach(s => srcs[s]=(srcs[s]||0)+1));
-  $("src").innerHTML = '<option value="">All sources</option>' + Object.entries(srcs).sort((a,b)=>b[1]-a[1]).map(([s,n])=>`<option value="${esc(s)}">${esc(s)} (${n})</option>`).join("");
 
   const counts = {}; R.forEach(r => counts[r.category] = (counts[r.category]||0)+1);
   $("cats").innerHTML = `<button class="cat" data-c="" aria-pressed="true">All<small>${R.length}</small></button>` +
@@ -134,7 +133,7 @@ button.theme{margin-left:auto;font:inherit;font-size:13px;background:none;border
       (!state.cat || r.category===state.cat) &&
       (!state.lang || r.language===state.lang) &&
       (!state.period || r.period===state.period) &&
-      (!state.src || r.sources.includes(state.src)) &&
+      (!state.acc || (state.acc==="dl" ? r.download_url : r.access===state.acc)) &&
       (!state.has || (state.has==="a" ? r.authors : state.has==="p" ? r.publisher : state.has==="ap" ? (r.authors && r.publisher) : state.has==="cur" ? r.curated : state.has==="sch" ? r.scholar : r.category!=="JOU")) &&
       terms.every(t => r._s.includes(t)));
     const big = 99999;
@@ -144,21 +143,28 @@ button.theme{margin-left:auto;font:inherit;font-size:13px;background:none;border
     return rs;
   }
   function card(r){
-    const links = (r.links||[]).slice(0,4).map((l,i)=>`<a class="${i?"":"open"}" href="${esc(l.url)}" target="_blank" rel="noopener">${i?"":"✓ "}${esc(l.source)}</a>`).join("");
-    const qs = encodeURIComponent((r.title+" "+(r.authors||"").split(/[;,]/)[0]).slice(0,150));
+    const ta = r.title_ta, en = r.title_en;
+    const main = ta || en || r.title, second = ta ? en : "";
+    const qs = encodeURIComponent((en||r.title).slice(0,150));
+    const acts = [];
+    if (r.access==="open" && r.read_url) acts.push(`<a class="open" href="${esc(r.read_url)}" target="_blank" rel="noopener">📖 Read online</a>`);
+    if (r.download_url) acts.push(`<a class="open" href="${esc(r.download_url)}" target="_blank" rel="noopener">⬇ Download PDF</a>`);
+    if (r.access==="preview" && r.read_url) acts.push(`<a href="${esc(r.read_url)}" target="_blank" rel="noopener">Preview</a>`);
+    if (r.source_url) acts.push(`<a href="${esc(r.source_url)}" target="_blank" rel="noopener">Source record</a>`);
+    (r.other_source_urls||[]).slice(0,3).forEach((u,i)=>acts.push(`<a href="${esc(u)}" target="_blank" rel="noopener">Record ${i+2}</a>`));
+    acts.push(`<a href="https://www.worldcat.org/search?q=${qs}" target="_blank" rel="noopener">Find in a library</a>`);
+    const accLabel = {open:"Free to read", preview:"Preview", borrow:"Borrow only", catalogue:"Catalogue record"}[r.access] || "";
+    const pub = [r.publisher, r.place].filter(Boolean).join(", ");
     return `<article class="card">
       <div class="yr">${esc(r.year||"n.d.")}<small>${esc(r.language)}</small></div>
       <div>
-        <h2 class="t">${esc(r.title)}</h2>
-        ${r.alt_title?`<p class="alt">${esc(r.alt_title)}</p>`:""}
-        <p class="who"><b>Author/Editor</b>${esc(r.authors||"—")}</p>
-        <p class="who"><b>Publisher</b>${esc([r.publisher,r.place].filter(Boolean).join(", ")||"—")}</p>
+        <h2 class="t">${esc(main)}</h2>
+        ${second?`<p class="alt">${esc(second)}${r.title_en_note?` <span class="src">(${esc(r.title_en_note)})</span>`:""}</p>`:""}
+        <p class="who"><b>Author/Editor</b>${esc(r.authors||"—")}${r.authors_roman?` <span class="src">(${esc(r.authors_roman)})</span>`:""}</p>
+        <p class="who"><b>Publisher</b>${esc(pub||"—")}${r.publisher_roman?` <span class="src">(${esc(r.publisher_roman)})</span>`:""}</p>
         ${r.notes?`<p class="notes">${esc(r.notes)}</p>`:""}
-        <div class="tags"><span class="tag">${esc(C[r.category].en)}</span><span class="tag">${esc(r.type)}</span>${r.series?`<span class="tag">${esc(r.series)}</span>`:""}${r.isbn?`<span class="tag">ISBN ${esc(r.isbn)}</span>`:""}<span class="tag id">${r.id}</span></div>
-        <div class="links">${links}
-          <a href="https://www.worldcat.org/search?q=${qs}" target="_blank" rel="noopener">WorldCat</a>
-          <a href="https://www.google.com/search?tbm=bks&q=${qs}" target="_blank" rel="noopener">Google Books</a></div>
-        <div class="src">Source: ${esc(r.sources.join(", "))}</div>
+        <div class="tags"><span class="tag">${esc(C[r.category].en)}</span><span class="tag">${esc(r.type)}</span>${accLabel?`<span class="tag">${accLabel}</span>`:""}${r.series?`<span class="tag">${esc(r.series)}</span>`:""}${r.isbn?`<span class="tag">ISBN ${esc(r.isbn)}</span>`:""}${r.pages?`<span class="tag">${esc(r.pages)} p.</span>`:""}<span class="tag id">${r.id}</span></div>
+        <div class="links">${acts.join("")}</div>
       </div></article>`;
   }
   function render(){
@@ -169,7 +175,7 @@ button.theme{margin-left:auto;font:inherit;font-size:13px;background:none;border
   }
   $("more").addEventListener("click", () => { state.shown += PAGE * 2; render(); });
   let t; $("q").addEventListener("input", e => { clearTimeout(t); t = setTimeout(()=>{ state.q = e.target.value; state.shown = PAGE; render(); }, 150); });
-  ["lang","period","src","has","sort"].forEach(id => $(id).addEventListener("change", e => { state[id] = e.target.value; state.shown = PAGE; render(); }));
+  ["lang","period","acc","has","sort"].forEach(id => $(id).addEventListener("change", e => { state[id] = e.target.value; state.shown = PAGE; render(); }));
   $("theme").addEventListener("click", () => {
     const cur = document.documentElement.dataset.theme || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
     const next = cur==="dark" ? "light" : "dark";

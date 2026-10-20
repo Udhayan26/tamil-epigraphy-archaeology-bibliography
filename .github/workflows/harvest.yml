@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
     inputs:
       sources:
-        description: "Sources to harvest (space separated: ia ol gb loc nl au). Empty = all"
+        description: "Sources to harvest (space separated: ia ol gb loc nl au oa doab ws). Empty = all"
         required: false
         default: ""
   schedule:
@@ -36,7 +36,7 @@ jobs:
         continue-on-error: true
         run: |
           SRC="${{ github.event.inputs.sources }}"
-          [ -z "$SRC" ] && SRC="ia ol gb loc nl au"
+          [ -z "$SRC" ] && SRC="ia ol gb loc nl au oa doab ws"
           mkdir -p data/harvest/logs
           for s in $SRC; do
             ( python scripts/harvest.py $s > data/harvest/logs/$s.log 2>&1; echo "exit $?" >> data/harvest/logs/$s.log ) &

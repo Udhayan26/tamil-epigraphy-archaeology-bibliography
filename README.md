@@ -1,10 +1,20 @@
-# Tamil Epigraphy, Inscriptions, Archaeology, Rock Art & Hero Stones — Bibliography
+# Tamil Epigraphy, Inscriptions, Archaeology, Rock Art & Hero Stones — Books
 
-**தமிழ்க் கல்வெட்டியல், கல்வெட்டுகள், தொல்லியல், பாறை ஓவியங்கள், நடுகற்கள் — நூல் பட்டியல் (1820கள் – 2026)**
+**தமிழ்க் கல்வெட்டியல், கல்வெட்டுகள், தொல்லியல், பாறை ஓவியங்கள், நடுகற்கள் — நூல் பட்டியல் (1820 – இன்று)**
 
-A categorized, searchable bibliography of Tamil and English books, inscription corpora, excavation reports, journals and online resources covering roughly 200 years of scholarship — from the Mackenzie Collection catalogue (1828) and Burnell's *South-Indian Palaeography* (1874) to the Tamil Nadu State Department of Archaeology's 2026 volumes on rock art and inscribed potsherds.
+A categorized, searchable bibliography of books on Tamil inscriptions, epigraphy, archaeology, rock art and hero stones by writers around the world, in Tamil and English, from about 1820 to today. It covers books, inscription volumes, excavation reports and journals.
 
-🌐 **Website (search & filter):** enable GitHub Pages for this repo (Settings → Pages → Deploy from branch `main` / root) — the site will be at `https://udhayan26.github.io/<repo-name>/`
+Each entry has:
+
+- **Title** in Tamil script and in English or exact romanised form (ISO 15919)
+- **Author / editor**, **publisher**, place, **year**, language, ISBN and pages where known
+- **Category** (15 subject groups, below)
+- **Source record URL**, plus extra record URLs where the same book appears in several catalogues
+- **Read online / Download PDF** links when the book is freely available
+
+🌐 **Website:** https://udhayan26.github.io/tamil-epigraphy-archaeology-bibliography/ (Settings → Pages → `main` / root)
+
+The list is rebuilt automatically every week by `scripts/harvest.py` (GitHub Actions), which searches public library catalogues and open-access book collections by subject keywords (Tamil, romanised and English), by the names of Tamil epigraphists and archaeologists, and by specialist publishers.
 
 ## What's inside
 
@@ -12,7 +22,7 @@ A categorized, searchable bibliography of Tamil and English books, inscription c
 |---|---|
 | [`index.html`](index.html) | Searchable website: filter by category, language, period, link status |
 | [`BIBLIOGRAPHY.md`](BIBLIOGRAPHY.md) | Full list as Markdown tables, grouped by category |
-| [`data/bibliography.csv`](data/bibliography.csv) | Spreadsheet (UTF-8, opens in Excel / Google Sheets) |
+| [`data/bibliography.csv`](data/bibliography.csv) | Spreadsheet (UTF-8, opens in Excel): title_ta, title_en, authors, publisher, year, access, read_url, download_url, source_url… |
 | [`data/bibliography.json`](data/bibliography.json) | Machine-readable data with search links |
 | [`data/records.txt`](data/records.txt) | Master source file (edit this to add books) |
 | [`scripts/build.py`](scripts/build.py) | Regenerates CSV, JSON, JS and Markdown from the master file |
@@ -37,25 +47,17 @@ A categorized, searchable bibliography of Tamil and English books, inscription c
 | JOU | Journals & Periodicals | இதழ்கள் |
 | ONL | Online Resources & Digital Libraries | இணைய வளங்கள் |
 
-## Metadata fields
+## How records are gathered
 
-`id` · `category` · `title` · `alt_title` (Tamil script / transliteration / translation) · `authors` (author or editor) · `year` · `period` · `language` · `publisher` · `place` · `type` (book, report, journal, catalogue…) · `series` (volume / series) · `notes` · `url` · `link_status` · `search` (Internet Archive, Tamil Digital Library, Open Library, WorldCat, Google Books)
-
-**Links:** `verified` means a direct link (full-text PDF, Internet Archive item, Tamil Digital Library record, or catalogue/info page) was checked while compiling. `search-only` records still get ready-made search links for every major library.
-
-## Main sources consulted
-
-- Tamil Virtual Academy — Tamil Digital Library (tamildigitallibrary.in), incl. MARC records of Tamil Nadu State Department of Archaeology books
-- Internet Archive (archive.org) — scans of SII, ARE, Tamil Nadu inscription volumes
-- Tamil Nadu State Department of Archaeology (tnarch.gov.in) — Department Press, *Kalvettu* journal
-- whatisindia.com (South Indian Inscriptions & Epigraphia Indica texts), Open Library, Central Institute of Classical Tamil library
-- Standard scholarly bibliographies of South Indian epigraphy and archaeology
+- A hand-checked core list (`data/records.txt`)
+- Automatic weekly harvest from public catalogues and open-access collections (`scripts/harvest.py`)
+- Records of the same book from different catalogues are merged, including Tamil-script and romanised copies of the same title
+- Single photo or artefact records (not books) are kept apart in `data/heritage_records.csv`
 
 ## Notes & limitations
 
 - Years left blank are not confirmed; volume series show the full span (e.g. `1891-1913`).
 - The Tamil Nadu State Department of Archaeology alone has issued 285–300+ titles; this list includes the key ones and is meant to grow.
-- For Sri Lankan Tamil inscriptions see the companion repo [srilanka-tamil-inscriptions-bibliography](https://github.com/Udhayan26/srilanka-tamil-inscriptions-bibliography).
 
 ## Adding a book
 
