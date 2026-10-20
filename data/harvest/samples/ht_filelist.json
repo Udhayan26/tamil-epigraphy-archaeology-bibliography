@@ -1,0 +1,42 @@
+[
+ {
+  "filename": "hathi_full_20260901.txt.gz",
+  "full": true,
+  "size": 1223866680,
+  "created": "2026-09-01 09:25:04 -0400",
+  "modified": "2026-09-01 09:22:00 -0400",
+  "url": "https://www.hathitrust.org/files/hathifiles/hathi_full_20260901.txt.gz"
+ },
+ {
+  "filename": "hathi_full_20261001.txt.gz",
+  "full": true,
+  "size": 1226768096,
+  "created": "2026-10-01 09:34:52 -0400",
+  "modified": "2026-10-01 09:31:29 -0400",
+  "url": "https://www.hathitrust.org/files/hathifiles/hathi_full_20261001.txt.gz"
+ },
+ {
+  "filename": "hathi_upd_20260810.txt.gz",
+  "full": false,
+  "size": 7291730,
+  "created": "2026-08-10 04:35:41 -0400",
+  "modified": "2026-08-10 04:35:40 -0400",
+  "url": "https://www.hathitrust.org/files/hathifiles/hathi_upd_20260810.txt.gz"
+ },
+ {
+  "filename": "hathi_upd_20260811.txt.gz",
+  "full": false,
+  "size": 7207567,
+  "created": "2026-08-11 04:36:00 -0400",
+  "modified": "2026-08-11 04:35:58 -0400",
+  "url": "https://www.hathitrust.org/files/hathifiles/hathi_upd_20260811.txt.gz"
+ },
+ {
+  "filename": "hathi_upd_20260812.txt.gz",
+  "full": false,
+  "size": 5992669,
+  "created": "2026-08-12 04:35:49 -0400",
+  "modified": "2026-08-12 04:35:48 -0400",
+  "url": "https://www.hathitrust.org/files/hathifiles/hathi_upd_20260812.txt.gz"
+ }
+]

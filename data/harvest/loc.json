@@ -11,6 +11,9 @@
 "language": "english",
 "subjects": "netherlands; middle east specialists; religion; biography; middle east; reelant, adriaan; orientalism; history; cartographers; sources; books and reading; biographies",
 "url": "https://www.loc.gov/item/2021018090/",
+"access": "open",
+"read_url": "https://www.loc.gov/item/2021018090/",
+"download_url": "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/21/01/80/90/2021018090/2021018090.pdf",
 "imprint": "Leiden ; Boston : Brill, [2021]"
 },
 {
@@ -25,6 +28,9 @@
 "language": "english",
 "subjects": "indians of north america; georgia; antiquities; southern states",
 "url": "https://www.loc.gov/item/02014101/",
+"access": "open",
+"read_url": "https://www.loc.gov/item/02014101/",
+"download_url": "https://tile.loc.gov/storage-services/public/gdcmassbookdig/antiquitiesofsou00jone_0/antiquitiesofsou00jone_0.pdf",
 "imprint": "New York : D. Appleton and Co., 1873."
 },
 {
@@ -39,6 +45,9 @@
 "language": "english",
 "subjects": "discovery and exploration; arabian peninsula",
 "url": "https://www.loc.gov/item/04008296/",
+"access": "open",
+"read_url": "https://www.loc.gov/item/04008296/",
+"download_url": "https://tile.loc.gov/storage-services/public/gdcmassbookdig/penetrationofara00hoga/penetrationofara00hoga.pdf",
 "imprint": "New York, F. A. Stokes [1904]"
 },
 {
@@ -53,6 +62,9 @@
 "language": "english",
 "subjects": "oracles; gods, roman; gods, greek; gods, assyro-babylonian",
 "url": "https://www.loc.gov/item/2020718181/",
+"access": "open",
+"read_url": "https://www.loc.gov/item/2020718181/",
+"download_url": "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/81/81/2020718181/2020718181.pdf",
 "imprint": "Leuven : Peeters, 2019.; ©2019"
 },
 {
@@ -67,6 +79,9 @@
 "language": "english",
 "subjects": "crucifixion; jesus christ; stations of the cross",
 "url": "https://www.loc.gov/item/37017861/",
+"access": "open",
+"read_url": "https://www.loc.gov/item/37017861/",
+"download_url": "https://tile.loc.gov/storage-services/public/gdcmassbookdig/lastjourneymemor00bege/lastjourneymemor00bege.pdf",
 "imprint": "New York, The Catholic Publication Society Co., 1880."
 },
 {
@@ -81,6 +96,9 @@
 "language": "english",
 "subjects": "bactria; numismatics; afghanistan; antiquities; stūpas",
 "url": "https://www.loc.gov/item/10022371/",
+"access": "open",
+"read_url": "https://www.loc.gov/item/10022371/",
+"download_url": "https://tile.loc.gov/storage-services/public/gdc/10022371/10022371.pdf",
 "imprint": "London, Pub. under the authority of the honourable the court of directors of the East India company, 1841."
 },
 {
@@ -95,6 +113,9 @@
 "language": "english",
 "subjects": "biographies; rijksmuseum van oudheden te leiden; netherlands; history; reuvens, caspar jacob christiaan; biography; archaeologists",
 "url": "https://www.loc.gov/item/2020717752/",
+"access": "open",
+"read_url": "https://www.loc.gov/item/2020717752/",
+"download_url": "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/77/52/2020717752/2020717752.pdf",
 "imprint": "London ; New York : Routledge, 2003."
 },
 {
@@ -109,6 +130,9 @@
 "language": "latin",
 "subjects": "venice; epigrams, latin; elegiac poetry, latin; italy",
 "url": "https://www.loc.gov/item/73237951/",
+"access": "open",
+"read_url": "https://www.loc.gov/item/73237951/",
+"download_url": "https://tile.loc.gov/storage-services/service/rbc/rbc0001/2024/2024rosen0798b/2024rosen0798b.pdf",
 "imprint": "[Venetiis, In aedibus Guilielmi de Fontaneto, 1520]"
 },
 {
@@ -123,6 +147,77 @@
 "language": "french",
 "subjects": "paris; america; france; discovery and exploration",
 "url": "https://www.loc.gov/item/2006593874/",
+"access": "open",
+"read_url": "https://www.loc.gov/item/2006593874/",
+"download_url": "https://tile.loc.gov/storage-services/public/rbc/2025kislak2006593874v01/2025kislak2006593874v01.pdf",
 "imprint": "A Paris : Chez Nicolas & Iean de La Coste ... 1660-1671."
+},
+{
+"source": "Library of Congress",
+"source_id": "http://lccn.loc.gov/48035741",
+"title": "Epigraphia carnatica",
+"alt_title": "",
+"authors": "mysore (india : state). archaeological department; krishna, mysore hatti; rice, b. lewis (benjamin lewis); narasimhachar, r. (ramanujapuram)",
+"publisher": "",
+"place": "",
+"year": "1886",
+"language": "english",
+"subjects": "",
+"url": "//lccn.loc.gov/48035741",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"imprint": "Bangalore, Mysore Govt. Central Press, 1886-<1970 >"
+},
+{
+"source": "Library of Congress",
+"source_id": "http://www.loc.gov/item/hlas-bi2016000872/",
+"title": "The archaeology of Andean pastoralism. Edited by José M. Capriles and Nicholas Tripcevich",
+"alt_title": "",
+"authors": "conlee, christina a.; capriles flores, josé m.; tripcevich, nicholas",
+"publisher": "",
+"place": "",
+"year": "2016",
+"language": "english",
+"subjects": "social change; landscape archeology; herders and herding; social archeology; andean region; excavations (archaeology); camelidae; indians of south america; indigenous peoples -- herders and herding; antiquities; precolumbian civilizations -- herders and herding; social change -- andean region",
+"url": "https://www.loc.gov/item/hlas-bi2016000872/",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"imprint": ""
+},
+{
+"source": "Library of Congress",
+"source_id": "http://www.loc.gov/item/hlas-bi2008001546/",
+"title": "Trincheras sites in time, space, and society / edited by Suzanne K. Fish, Paul R. Fish, and M. Elisa Villalpando",
+"alt_title": "",
+"authors": "villalpando, m. elisa, 1954; fish, paul r.; fish, suzanne k.; joyce, arthur a.",
+"publisher": "",
+"place": "",
+"year": "2007",
+"language": "english",
+"subjects": "rites and ceremonies; indians of north america; arizona; antiquities; mexico; religion; excavations (archaeology); indians of mexico; religion, prehistoric",
+"url": "https://www.loc.gov/item/hlas-bi2008001546/",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"imprint": ""
+},
+{
+"source": "Library of Congress",
+"source_id": "http://www.loc.gov/item/hlas-bi2009003097/",
+"title": "Pueblos, rituales y condiciones de vida prehispánicas en el Valle del Cauca. Con la colaboración de Sonia Blanco y Alexander Clavijo",
+"alt_title": "",
+"authors": "blanco, sonia; rodríguez cuenca, josé vicente; ramírez, susan e.; clavijo, alexander",
+"publisher": "",
+"place": "",
+"year": "2005",
+"language": "spanish",
+"subjects": "cauca river valley (colombia); rites and ceremonies; human remains; antiquities; precolumbian civilizations; cauca river valley (colombia) -- rites and ceremonies; colombia; precolumbian civilizations -- colombia; excavations (archaeology); human remains (archaeology); indians of south america; human remains -- colombia",
+"url": "https://www.loc.gov/item/hlas-bi2009003097/",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"imprint": ""
 }
 ]

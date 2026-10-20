@@ -1,0 +1,263 @@
+[au/gb] ERR inauthor:"R. Nagaswamy" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"Nagaswamy" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"இரா. நாகசாமி" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"நாகசாமி" HTTP Error 429: Too Many Requests
+[au] R. Nagaswamy: 44
+[au/gb] ERR inauthor:"Natana Kasinathan" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"Natana. Kasinathan" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"நடன. காசிநாதன்" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"நடன காசிநாதன்" HTTP Error 429: Too Many Requests
+[au] Natana Kasinathan: 20
+[au/gb] ERR inauthor:"Iravatham Mahadevan" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"ஐராவதம் மகாதேவன்" HTTP Error 429: Too Many Requests
+[au] Iravatham Mahadevan: 11
+[au/gb] ERR inauthor:"Mayilai Seeni Venkatasamy" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"Venkatasami, Mayilai Cini" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"மயிலை சீனி. வேங்கடசாமி" HTTP Error 429: Too Many Requests
+[au] Mayilai Seeni Venkatasamy: 7
+[au/gb] ERR inauthor:"Y. Subbarayalu" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"Subbarayalu" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"எ. சுப்பராயலு" HTTP Error 429: Too Many Requests
+[au] Y. Subbarayalu: 29
+[au/gb] ERR inauthor:"S. Rajavelu" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"சு. இராசவேலு" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"சு. ராஜவேலு" HTTP Error 429: Too Many Requests
+[au] S. Rajavelu: 2
+[au/gb] ERR inauthor:"V. Vedachalam" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"வெ. வேதாசலம்" HTTP Error 429: Too Many Requests
+[au] V. Vedachalam: 7
+[au/gb] ERR inauthor:"C. Santhalingam" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"சொ. சாந்தலிங்கம்" HTTP Error 429: Too Many Requests
+[au] C. Santhalingam: 2
+[au/gb] ERR inauthor:"K. Rajan" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"கா. ராஜன்" HTTP Error 429: Too Many Requests
+[au] K. Rajan archaeology: 39
+[au/gb] ERR inauthor:"Pulavar Se. Rasu" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"Se. Rasu" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"புலவர் செ. இராசு" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"செ. இராசு" HTTP Error 429: Too Many Requests
+[au] Pulavar Se. Rasu: 8
+[au/gb] ERR inauthor:"T. V. Sadasiva Pandarathar" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"சதாசிவ பண்டாரத்தார்" HTTP Error 429: Too Many Requests
+[au] T. V. Sadasiva Pandarathar: 8
+[au/gb] ERR inauthor:"Kudavayil Balasubramanian" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"குடவாயில் பாலசுப்பிரமணியன்" HTTP Error 429: Too Many Requests
+[au] Kudavayil Balasubramanian: 3
+[au/gb] ERR inauthor:"R. Kalaikkovan" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"இரா. கலைக்கோவன்" HTTP Error 429: Too Many Requests
+[au] R. Kalaikkovan: 3
+[au/gb] ERR inauthor:"R. Poongundran" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"இரா. பூங்குன்றன்" HTTP Error 429: Too Many Requests
+[au] R. Poongundran: 0
+[au/gb] ERR inauthor:"S. Rajagopal" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"சு. இராசகோபால்" HTTP Error 429: Too Many Requests
+[au] S. Rajagopal epigraphy: 32
+[au/gb] ERR inauthor:"A. Padmavathy" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"அ. பத்மாவதி" HTTP Error 429: Too Many Requests
+[au] A. Padmavathy: 1
+[au/gb] ERR inauthor:"N. Marxia Gandhi" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"ந. மார்க்சியகாந்தி" HTTP Error 429: Too Many Requests
+[au] N. Marxia Gandhi: 1
+[au/gb] ERR inauthor:"K. Sridharan" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"க. ஸ்ரீதரன்" HTTP Error 429: Too Many Requests
+[au] K. Sridharan archaeology: 46
+[au/gb] ERR inauthor:"T. S. Sridhar" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"தி. ஸ்ரீ. ஸ்ரீதர்" HTTP Error 429: Too Many Requests
+[au] T. S. Sridhar: 5
+[au/gb] ERR inauthor:"T. N. Subramanian" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"தி. நா. சுப்பிரமணியன்" HTTP Error 429: Too Many Requests
+[au] T. N. Subramanian epigraphy: 0
+[au/gb] ERR inauthor:"R. Sivanantham" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"இரா. சிவானந்தம்" HTTP Error 429: Too Many Requests
+[au] R. Sivanantham: 1
+[au/gb] ERR inauthor:"K. G. Krishnan" HTTP Error 429: Too Many Requests
+[au] K. G. Krishnan epigraphy: 5
+[au/gb] ERR inauthor:"K. V. Raman" HTTP Error 429: Too Many Requests
+[au] K. V. Raman archaeology: 19
+[au/gb] ERR inauthor:"A. Ekambaranathan" HTTP Error 429: Too Many Requests
+[au] A. Ekambaranathan: 0
+[au/gb] ERR inauthor:"K. A. Nilakanta Sastri" HTTP Error 429: Too Many Requests
+[au] K. A. Nilakanta Sastri: 65
+[au/gb] ERR inauthor:"Noboru Karashima" HTTP Error 429: Too Many Requests
+[au] Noboru Karashima: 34
+[au/gb] ERR inauthor:"T. V. Mahalingam" HTTP Error 429: Too Many Requests
+[au] T. V. Mahalingam: 15
+[au/gb] ERR inauthor:"R. Krishnamurthy" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"இரா. கிருஷ்ணமூர்த்தி" HTTP Error 429: Too Many Requests
+[au] R. Krishnamurthy coins: 89
+[au/gb] ERR inauthor:"Ko. Vijayavenugopal" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"கோ. விஜயவேணுகோபால்" HTTP Error 429: Too Many Requests
+[au] Ko. Vijayavenugopal: 0
+[au/gb] ERR inauthor:"K. T. Gandhirajan" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"க.த. காந்திராஜன்" HTTP Error 429: Too Many Requests
+[au] K. T. Gandhirajan: 0
+[au/gb] ERR inauthor:"Shanti Pappu" HTTP Error 429: Too Many Requests
+[au] Shanti Pappu: 3
+[au/gb] ERR inauthor:"V. Selvakumar" HTTP Error 429: Too Many Requests
+[au] V. Selvakumar archaeology: 1
+[au/gb] ERR inauthor:"K. Indrapala" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"கா. இந்திரபாலா" HTTP Error 429: Too Many Requests
+[au] K. Indrapala: 1
+[au/gb] ERR inauthor:"S. Pathmanathan" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"சி. பத்மநாதன்" HTTP Error 429: Too Many Requests
+[au] S. Pathmanathan: 6
+[au/gb] ERR inauthor:"P. Pushparatnam" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"ப. புஷ்பரட்ணம்" HTTP Error 429: Too Many Requests
+[au] P. Pushparatnam: 0
+[au/gb] ERR inauthor:"M. Rajamanickam" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"மா. இராசமாணிக்கனார்" HTTP Error 429: Too Many Requests
+[au] M. Rajamanickam: 20
+[au/gb] ERR inauthor:"S. Ramachandran" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"செ. இராமச்சந்திரன்" HTTP Error 429: Too Many Requests
+[au] S. Ramachandran epigraphy: 140
+[au/gb] ERR inauthor:"K. S. Sampath" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"கே. எஸ். சம்பத்" HTTP Error 429: Too Many Requests
+[au] K. S. Sampath: 4
+[au/gb] ERR inauthor:"E. Hultzsch" HTTP Error 429: Too Many Requests
+[au] E. Hultzsch: 21
+[au/gb] ERR inauthor:"V. Venkayya" HTTP Error 429: Too Many Requests
+[au] V. Venkayya: 2
+[au/gb] ERR inauthor:"H. Krishna Sastri" HTTP Error 429: Too Many Requests
+[au] H. Krishna Sastri: 16
+[au/gb] ERR inauthor:"C. Sivaramamurti" HTTP Error 429: Too Many Requests
+[au] C. Sivaramamurti: 107
+[au/gb] ERR inauthor:"R. Champakalakshmi" HTTP Error 429: Too Many Requests
+[au] R. Champakalakshmi: 7
+[au/gb] ERR inauthor:"Leslie C. Orr" HTTP Error 429: Too Many Requests
+[au] Leslie C. Orr: 3
+[au/gb] ERR inauthor:"James Burgess" HTTP Error 429: Too Many Requests
+[au] James Burgess: 169
+[au/gb] ERR inauthor:"Robert Sewell" HTTP Error 429: Too Many Requests
+[au] Robert Sewell: 74
+[au/gb] ERR inauthor:"A. C. Burnell" HTTP Error 429: Too Many Requests
+[au] A. C. Burnell: 39
+[au/gb] ERR inauthor:"V. Rangacharya" HTTP Error 429: Too Many Requests
+[au] V. Rangacharya: 16
+[au/gb] ERR inauthor:"T. A. Gopinatha Rao" HTTP Error 429: Too Many Requests
+[au] T. A. Gopinatha Rao: 19
+[au/gb] ERR inauthor:"K. V. Subrahmanya Aiyar" HTTP Error 429: Too Many Requests
+[au] K. V. Subrahmanya Aiyar: 1
+[au/gb] ERR inauthor:"A. S. Ramanatha Ayyar" HTTP Error 429: Too Many Requests
+[au] A. S. Ramanatha Ayyar: 7
+[au/gb] ERR inauthor:"G. V. Srinivasa Rao" HTTP Error 429: Too Many Requests
+[au] G. V. Srinivasa Rao: 2
+[au/gb] ERR inauthor:"K. R. Srinivasan" HTTP Error 429: Too Many Requests
+[au] K. R. Srinivasan archaeology: 12
+[au/gb] ERR inauthor:"S. R. Balasubrahmanyam" HTTP Error 429: Too Many Requests
+[au] S. R. Balasubrahmanyam: 11
+[au/gb] ERR inauthor:"V. Venkatasubba Ayyar" HTTP Error 429: Too Many Requests
+[au] V. Venkatasubba Ayyar: 0
+[au/gb] ERR inauthor:"C. Minakshi" HTTP Error 429: Too Many Requests
+[au] C. Minakshi: 5
+[au/gb] ERR inauthor:"D. C. Sircar" HTTP Error 429: Too Many Requests
+[au] D. C. Sircar: 30
+[au/gb] ERR inauthor:"N. Subrahmanian" HTTP Error 429: Too Many Requests
+[au] N. Subrahmanian: 35
+[au/gb] ERR inauthor:"R. Tirumalai" HTTP Error 429: Too Many Requests
+[au] R. Tirumalai: 8
+[au/gb] ERR inauthor:"S. Krishnaswami Aiyangar" HTTP Error 429: Too Many Requests
+[au] S. Krishnaswami Aiyangar: 10
+[au/gb] ERR inauthor:"M. Raghava Iyengar" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"மு. இராகவையங்கார்" HTTP Error 429: Too Many Requests
+[au] M. Raghava Iyengar: 5
+[au/gb] ERR inauthor:"Alexander Rea" HTTP Error 429: Too Many Requests
+[au] Alexander Rea: 13
+[au/gb] ERR inauthor:"Robert Bruce Foote" HTTP Error 429: Too Many Requests
+[au] Robert Bruce Foote: 12
+[au/gb] ERR inauthor:"A. H. Longhurst" HTTP Error 429: Too Many Requests
+[au] A. H. Longhurst: 8
+[au/gb] ERR inauthor:"K. V. Soundara Rajan" HTTP Error 429: Too Many Requests
+[au] K. V. Soundara Rajan: 24
+[au/gb] ERR inauthor:"T. N. Ramachandran" HTTP Error 429: Too Many Requests
+[au] T. N. Ramachandran: 38
+[au/gb] ERR inauthor:"Gift Siromoney" HTTP Error 429: Too Many Requests
+[au] Gift Siromoney: 6
+[au/gb] ERR inauthor:"Burton Stein" HTTP Error 429: Too Many Requests
+[au] Burton Stein: 26
+[au/gb] ERR inauthor:"James Heitzman" HTTP Error 429: Too Many Requests
+[au] James Heitzman: 15
+[au/gb] ERR inauthor:"Whitney Cox" HTTP Error 429: Too Many Requests
+[au] Whitney Cox: 6
+[au/gb] ERR inauthor:"Vimala Begley" HTTP Error 429: Too Many Requests
+[au] Vimala Begley: 0
+[au/gb] ERR inauthor:"P. Shanmugam" HTTP Error 429: Too Many Requests
+[au] P. Shanmugam: 9
+[au/gb] ERR inauthor:"S. Gurumurthy" HTTP Error 429: Too Many Requests
+[au] S. Gurumurthy: 8
+[au/gb] ERR inauthor:"Avvai Duraisamy Pillai" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"ஔவை துரைசாமிப் பிள்ளை" HTTP Error 429: Too Many Requests
+[au] Avvai Duraisamy Pillai: 14
+[au/gb] ERR inauthor:"M. Arunachalam" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"மு. அருணாசலம்" HTTP Error 429: Too Many Requests
+[au] M. Arunachalam: 105
+[au/gb] ERR inauthor:"K. K. Pillay" HTTP Error 429: Too Many Requests
+[au] K. K. Pillay: 2
+[au/gb] ERR inauthor:"S. Vaiyapuri Pillai" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"எஸ். வையாபுரிப் பிள்ளை" HTTP Error 429: Too Many Requests
+[au] S. Vaiyapuri Pillai: 7
+[au/gb] ERR inauthor:"N. Karashima" HTTP Error 429: Too Many Requests
+[au] N. Karashima: 0
+[au/gb] ERR inauthor:"C. Sivaramamurti" HTTP Error 429: Too Many Requests
+[au] C. Sivaramamurti: 107
+[au/gb] ERR inauthor:"R. Gopalan" HTTP Error 429: Too Many Requests
+[au] R. Gopalan: 14
+[au/gb] ERR inauthor:"T. Gopalan" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"தி. கோபாலன்" HTTP Error 429: Too Many Requests
+[au] T. Gopalan epigraphy: 2
+[au/gb] ERR inauthor:"M. Senthilselvakumaran" HTTP Error 429: Too Many Requests
+[au] M. Senthilselvakumaran: 0
+[au/gb] ERR inauthor:"V. Veeraraghavan" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"வீரராகவன்" HTTP Error 429: Too Many Requests
+[au] V. Veeraraghavan: 9
+[au/gb] ERR inauthor:"Pon. Venkatesan" HTTP Error 429: Too Many Requests
+[au/ol] ERR {'author': 'பொன். வெங்கடேசன்'} HTTP Error 502: Bad Gateway
+[au/gb] ERR inauthor:"பொன். வெங்கடேசன்" HTTP Error 429: Too Many Requests
+[au] Pon. Venkatesan: 1
+[au/gb] ERR inauthor:"Kalaikkovan" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"இரா. கலைக்கோவன்" HTTP Error 429: Too Many Requests
+[au] Kalaikkovan: 3
+[au/gb] ERR inauthor:"Su. Thiyagarajan" HTTP Error 429: Too Many Requests
+[au] Su. Thiyagarajan archaeology: 0
+[au/gb] ERR inauthor:"S. Vasanthi" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"சு. வசந்தி" HTTP Error 429: Too Many Requests
+[au] S. Vasanthi archaeology: 12
+[au/gb] ERR inauthor:"R. Vasanthakalyani" HTTP Error 429: Too Many Requests
+[au] R. Vasanthakalyani: 0
+[au/gb] ERR inauthor:"Seetharam Gurumurthy" HTTP Error 429: Too Many Requests
+[au/gb] ERR inauthor:"சீதாராம் குருமூர்த்தி" HTTP Error 429: Too Many Requests
+[au] Seetharam Gurumurthy: 3
+[au/gb] ERR inauthor:"T. Arunraj" HTTP Error 429: Too Many Requests
+[au] T. Arunraj archaeology: 0
+[au/gb] ERR inauthor:"Amarnath Ramakrishna" HTTP Error 429: Too Many Requests
+[au] Amarnath Ramakrishna: 1
+[au/gb] ERR inpublisher:"Tamil Nadu State Department of Archaeology" HTTP Error 429: Too Many Requests
+[au] publisher Tamil Nadu State Department of Archaeology: 0
+[au/gb] ERR inpublisher:"தமிழ்நாடு அரசு தொல்லியல் துறை" HTTP Error 429: Too Many Requests
+[au] publisher தமிழ்நாடு அரசு தொல்லியல் துறை: 0
+[au/gb] ERR inpublisher:"Department of Archaeology Government of Tamil Nadu" HTTP Error 429: Too Many Requests
+[au] publisher Department of Archaeology Government of Tamil Nadu: 3
+[au/gb] ERR inpublisher:"Tamil University Thanjavur" HTTP Error 429: Too Many Requests
+[au] publisher Tamil University Thanjavur: 1
+[au/gb] ERR inpublisher:"தமிழ்ப் பல்கலைக்கழகம்" HTTP Error 429: Too Many Requests
+[au] publisher தமிழ்ப் பல்கலைக்கழகம்: 3
+[au/gb] ERR inpublisher:"Pandya Nadu Centre for Historical Research" HTTP Error 429: Too Many Requests
+[au] publisher Pandya Nadu Centre for Historical Research: 1
+[au/gb] ERR inpublisher:"Tamilnadu Archaeological Society" HTTP Error 429: Too Many Requests
+[au] publisher Tamilnadu Archaeological Society: 0
+[au/gb] ERR inpublisher:"தமிழகத் தொல்லியல் கழகம்" HTTP Error 429: Too Many Requests
+[au] publisher தமிழகத் தொல்லியல் கழகம்: 1
+[au/gb] ERR inpublisher:"Tamil Heritage Foundation" HTTP Error 429: Too Many Requests
+[au] publisher Tamil Heritage Foundation: 1
+[au/gb] ERR inpublisher:"International Institute of Tamil Studies" HTTP Error 429: Too Many Requests
+[au] publisher International Institute of Tamil Studies: 0
+[au/gb] ERR inpublisher:"Central Institute of Classical Tamil" HTTP Error 429: Too Many Requests
+[au] publisher Central Institute of Classical Tamil: 2
+[au/gb] ERR inpublisher:"Institute of Asian Studies Chennai" HTTP Error 429: Too Many Requests
+[au] publisher Institute of Asian Studies Chennai: 0
+[au/gb] ERR inpublisher:"Archaeological Survey of India" HTTP Error 429: Too Many Requests
+[au] publisher Archaeological Survey of India: 50
+[au/gb] ERR inpublisher:"Government Museum Chennai" HTTP Error 429: Too Many Requests
+[au] publisher Government Museum Chennai: 50
+[au] saved 1653 records
+[au] took 11918s
+total 11918s

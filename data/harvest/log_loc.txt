@@ -81,6 +81,42 @@
 [loc] Jaina inscriptions Tamil Nadu: total so far 22
 [loc] Tamil graffiti potsherds: total so far 22
 [loc] Sri Lanka Tamil inscriptions: total so far 23
-[loc] saved 9 records
-[loc] took 2160s
-total 2160s
+[loc] Annual Report on Indian Epigraphy: total so far 26
+[loc] Annual Report on South Indian Epigraphy: total so far 29
+[loc] Annual report on epigraphy Madras: total so far 29
+[loc] Report on epigraphy: total so far 32
+[loc] Madras epigraphy: total so far 32
+[loc] Government Epigraphist Madras: total so far 32
+[loc] Epigraphia Indica: total so far 32
+[loc] Indian Antiquary: total so far 34
+[loc] Epigraphia Carnatica: total so far 35
+[loc] South Indian Inscriptions volume: total so far 38
+[loc] Pudukkottai State inscriptions: total so far 38
+[loc] Travancore Archaeological Series: total so far 38
+[loc] Archaeological Survey of Southern India: total so far 39
+[loc] antiquarian remains Madras: total so far 40
+[loc] Madras Government Museum bulletin: total so far 40
+[loc] Ancient India bulletin: total so far 41
+[loc] Indian Archaeology a review: total so far 45
+[loc] Annual report archaeological department southern circle: total so far 46
+[loc] Mackenzie collection: total so far 47
+[loc] Tamil Nadu State Department of Archaeology: total so far 47
+[loc] Madras district gazetteer antiquities: total so far 47
+[loc] Vijayanagara inscriptions Tamil: total so far 47
+[loc] Nayak inscriptions: total so far 47
+[loc] Sethupathi copper plates: total so far 47
+[loc] Maratha Tanjore inscriptions: total so far 47
+[loc] Kongu inscriptions: total so far 47
+[loc] Jain inscriptions Tamil: total so far 47
+[loc] Buddhist Tamil inscriptions: total so far 47
+[loc] Grantha script: total so far 47
+[loc] Tamil script evolution: total so far 48
+[loc] Thanjavur Brihadisvara inscriptions: total so far 48
+[loc] Chidambaram inscriptions: total so far 48
+[loc] Srirangam inscriptions: total so far 48
+[loc] Kanchipuram inscriptions: total so far 48
+[loc] Tirumalai Tirupati inscriptions: total so far 48
+[loc] Madurai inscriptions: total so far 48
+[loc] saved 13 records
+[loc] took 2912s
+total 2912s

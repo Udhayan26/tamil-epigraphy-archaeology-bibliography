@@ -81,6 +81,42 @@
 [ol] q=Jaina inscriptions Tamil Nadu: page 1 docs 3
 [ol] q=Tamil graffiti potsherds: page 1 docs 1
 [ol] q=Sri Lanka Tamil inscriptions: page 1 docs 19
+[ol] q=Annual Report on Indian Epigraphy: page 1 docs 2
+[ol] q=Annual Report on South Indian Epigraphy: page 1 docs 1
+[ol] q=Annual report on epigraphy Madras: page 1 docs 0
+[ol] q=Report on epigraphy: page 1 docs 10
+[ol] q=Madras epigraphy: page 1 docs 3
+[ol] q=Government Epigraphist Madras: page 1 docs 0
+[ol] q=Epigraphia Indica: page 1 docs 14
+[ol] q=Indian Antiquary: page 1 docs 39
+[ol] q=Epigraphia Carnatica: page 1 docs 16
+[ol] q=South Indian Inscriptions volume: page 1 docs 6
+[ol] q=Pudukkottai State inscriptions: page 1 docs 6
+[ol] q=Travancore Archaeological Series: page 1 docs 4
+[ol] q=Archaeological Survey of Southern India: page 1 docs 11
+[ol] q=antiquarian remains Madras: page 1 docs 3
+[ol] q=Madras Government Museum bulletin: page 1 docs 11
+[ol] q=Ancient India bulletin: page 1 docs 6
+[ol] q=Indian Archaeology a review: page 1 docs 63
+[ol] q=Annual report archaeological department southern circle: page 1 docs 5
+[ol] q=Mackenzie collection: page 1 docs 547
+[ol] q=Tamil Nadu State Department of Archaeology: page 1 docs 2
+[ol] q=Madras district gazetteer antiquities: page 1 docs 0
+[ol] q=Vijayanagara inscriptions Tamil: page 1 docs 1
+[ol] q=Nayak inscriptions: page 1 docs 1
+[ol] q=Sethupathi copper plates: page 1 docs 0
+[ol] q=Maratha Tanjore inscriptions: page 1 docs 1
+[ol] q=Kongu inscriptions: page 1 docs 1
+[ol] q=Jain inscriptions Tamil: page 1 docs 3
+[ol] q=Buddhist Tamil inscriptions: page 1 docs 3
+[ol] q=Grantha script: page 1 docs 6
+[ol] q=Tamil script evolution: page 1 docs 5
+[ol] q=Thanjavur Brihadisvara inscriptions: page 1 docs 0
+[ol] q=Chidambaram inscriptions: page 1 docs 1
+[ol] q=Srirangam inscriptions: page 1 docs 1
+[ol] q=Kanchipuram inscriptions: page 1 docs 3
+[ol] q=Tirumalai Tirupati inscriptions: page 1 docs 13
+[ol] q=Madurai inscriptions: page 1 docs 4
 [ol] q=கல்வெட்டு: page 1 docs 0
 [ol] q=கல்வெட்டுகள்: page 1 docs 0
 [ol] q=கல்வெட்டுக்கள்: page 1 docs 0
@@ -150,6 +186,6 @@
 [ol] subject=Inscriptions: page 4 docs 1000
 [ol] subject=Inscriptions: page 5 docs 1000
 [ol] subject=Paleography, Tamil: page 1 docs 0
-[ol] saved 488 records
-[ol] took 261s
-total 261s
+[ol] saved 626 records
+[ol] took 265s
+total 265s

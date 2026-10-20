@@ -1,0 +1,2341 @@
+{
+ "meta": {
+  "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. The mailto parameter doesn't raise this limit. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
+  "count": 399,
+  "db_response_time_ms": 49,
+  "page": null,
+  "per_page": 200,
+  "next_cursor": "IlsyLjAzNDUxNTksIDE3MDQwNjcyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQwNTQ2MDMyNiddIg==",
+  "groups_count": null,
+  "x_query": {
+   "oql": "get works where full text has (Tamil inscriptions)\n  and type is ([book](book) or edited-book or monograph or reference-book or [report](report))",
+   "x_new_oql": "get works with (Tamil inscriptions) in the full text where type is ([book](book) or edited-book or monograph or reference-book or [report](report))",
+   "oqo": {
+    "get_rows": "works",
+    "filter_rows": [
+     {
+      "column_id": "fulltext.search",
+      "value": "Tamil inscriptions",
+      "operator": "has"
+     },
+     {
+      "join": "or",
+      "filters": [
+       {
+        "column_id": "type",
+        "value": "book"
+       },
+       {
+        "column_id": "type",
+        "value": "edited-book"
+       },
+       {
+        "column_id": "type",
+        "value": "monograph"
+       },
+       {
+        "column_id": "type",
+        "value": "reference-book"
+       },
+       {
+        "column_id": "type",
+        "value": "report"
+       }
+      ]
+     }
+    ]
+   },
+   "url": "/works?filter=fulltext.search:Tamil inscriptions,type:book|edited-book|monograph|reference-book|report&per_page=200&cursor=%2A"
+  },
+  "cost_usd": 0.001
+ },
+ "results": [
+  {
+   "id": "https://openalex.org/W7145546797",
+   "doi": null,
+   "title": "Tamil inscriptions",
+   "display_name": "Tamil inscriptions",
+   "relevance_score": 199.20676,
+   "publication_year": null,
+   "publication_date": null,
+   "ids": {
+    "openalex": "https://openalex.org/W7145546797"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "pmh:oai:irdb.nii.ac.jp:00885:0006205986",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "https://tufs.repo.nii.ac.jp/records/44939",
+    "pdf_url": null,
+    "source": {
+     "id": "https://openalex.org/S7407056385",
+     "display_name": "Institutional Repositories DataBase (IRDB)",
+     "issn_l": null,
+     "issn": null,
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": "https://openalex.org/I184597095",
+     "host_organization_name": "National Institute of Informatics",
+     "host_organization_lineage": [
+      "https://openalex.org/I184597095"
+     ],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "book"
+   },
+   "volume": null,
+   "type": "book",
+   "indexed_in": [],
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://tufs.repo.nii.ac.jp/records/44939",
+    "any_repository_has_fulltext": true
+   },
+   "authorships": [],
+   "institutions": [],
+   "countries_distinct_count": 0,
+   "institutions_distinct_count": 0,
+   "corresponding_author_ids": [],
+   "corresponding_institution_ids": [],
+   "apc_list": null,
+   "apc_paid": null,
+   "fwci": null,
+   "has_fulltext": false,
+   "cited_by_count": 0,
+   "citation_normalized_percentile": null,
+   "cited_by_percentile_year": null,
+   "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T11563",
+    "display_name": "Indian and Buddhist Studies",
+    "score": 0.9672999978065491,
+    "subfield": {
+     "id": "https://openalex.org/subfields/1212",
+     "display_name": "Religious studies"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/12",
+     "display_name": "Arts and Humanities"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/2",
+     "display_name": "Social Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T11563",
+     "display_name": "Indian and Buddhist Studies",
+     "score": 0.9672999978065491,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1212",
+      "display_name": "Religious studies"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/12",
+      "display_name": "Arts and Humanities"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T14170",
+     "display_name": "Classical Studies and Philology",
+     "score": 0.011099999770522118,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1203",
+      "display_name": "Language and Linguistics"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/12",
+      "display_name": "Arts and Humanities"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T12949",
+     "display_name": "South Asian Studies and Diaspora",
+     "score": 0.006300000008195639,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1211",
+      "display_name": "Philosophy"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/12",
+      "display_name": "Arts and Humanities"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/tamil-inscriptions",
+     "display_name": "Tamil inscriptions",
+     "score": 0.9890000224113464
+    },
+    {
+     "id": "https://openalex.org/keywords/epigraphy",
+     "display_name": "epigraphy",
+     "score": 0.9459999799728394
+    },
+    {
+     "id": "https://openalex.org/keywords/tanjore",
+     "display_name": "Tanjore",
+     "score": 0.8320000171661377
+    },
+    {
+     "id": "https://openalex.org/keywords/chola-dynasty",
+     "display_name": "Chola dynasty",
+     "score": 0.9789999723434448
+    },
+    {
+     "id": "https://openalex.org/keywords/pallava-dynasty",
+     "display_name": "Pallava dynasty",
+     "score": 0.996999979019165
+    },
+    {
+     "id": "https://openalex.org/keywords/pandya-dynasty",
+     "display_name": "Pandya dynasty",
+     "score": 0.9549999833106995
+    },
+    {
+     "id": "https://openalex.org/keywords/temple-inscriptions",
+     "display_name": "temple inscriptions",
+     "score": 0.6159999966621399
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C140688305",
+     "wikidata": "https://www.wikidata.org/wiki/Q5885",
+     "display_name": "Tamil",
+     "level": 2,
+     "score": 0.8870999813079834
+    },
+    {
+     "id": "https://openalex.org/C95457728",
+     "wikidata": "https://www.wikidata.org/wiki/Q309",
+     "display_name": "History",
+     "level": 0,
+     "score": 0.6018999814987183
+    },
+    {
+     "id": "https://openalex.org/C195244886",
+     "wikidata": "https://www.wikidata.org/wiki/Q41493",
+     "display_name": "Ancient history",
+     "level": 1,
+     "score": 0.5368000268936157
+    },
+    {
+     "id": "https://openalex.org/C2777382242",
+     "wikidata": "https://www.wikidata.org/wiki/Q6017816",
+     "display_name": "Index (typography)",
+     "level": 2,
+     "score": 0.4650999903678894
+    },
+    {
+     "id": "https://openalex.org/C142362112",
+     "wikidata": "https://www.wikidata.org/wiki/Q735",
+     "display_name": "Art",
+     "level": 0,
+     "score": 0.2890999913215637
+    },
+    {
+     "id": "https://openalex.org/C205649164",
+     "wikidata": "https://www.wikidata.org/wiki/Q1071",
+     "display_name": "Geography",
+     "level": 0,
+     "score": 0.24040000140666962
+    },
+    {
+     "id": "https://openalex.org/C2992790187",
+     "wikidata": "https://www.wikidata.org/wiki/Q1145106",
+     "display_name": "Historical record",
+     "level": 3,
+     "score": 0.2287999987602234
+    },
+    {
+     "id": "https://openalex.org/C76978605",
+     "wikidata": "https://www.wikidata.org/wiki/Q102532",
+     "display_name": "Diphthong",
+     "level": 3,
+     "score": 0.21250000596046448
+    },
+    {
+     "id": "https://openalex.org/C166957645",
+     "wikidata": "https://www.wikidata.org/wiki/Q23498",
+     "display_name": "Archaeology",
+     "level": 1,
+     "score": 0.21170000731945038
+    },
+    {
+     "id": "https://openalex.org/C2781291010",
+     "wikidata": "https://www.wikidata.org/wiki/Q178580",
+     "display_name": "Period (music)",
+     "level": 2,
+     "score": 0.18369999527931213
+    }
+   ],
+   "mesh": [],
+   "locations_count": 1,
+   "locations": [
+    {
+     "id": "pmh:oai:irdb.nii.ac.jp:00885:0006205986",
+     "doi": null,
+     "is_oa": true,
+     "landing_page_url": "https://tufs.repo.nii.ac.jp/records/44939",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S7407056385",
+      "display_name": "Institutional Repositories DataBase (IRDB)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I184597095",
+      "host_organization_name": "National Institute of Informatics",
+      "host_organization_lineage": [
+       "https://openalex.org/I184597095"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": "cc-by-nc-nd",
+     "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+     "version": "submittedVersion",
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": null,
+     "raw_type": "book"
+    }
+   ],
+   "best_oa_location": {
+    "id": "pmh:oai:irdb.nii.ac.jp:00885:0006205986",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "https://tufs.repo.nii.ac.jp/records/44939",
+    "pdf_url": null,
+    "source": {
+     "id": "https://openalex.org/S7407056385",
+     "display_name": "Institutional Repositories DataBase (IRDB)",
+     "issn_l": null,
+     "issn": null,
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": "https://openalex.org/I184597095",
+     "host_organization_name": "National Institute of Informatics",
+     "host_organization_lineage": [
+      "https://openalex.org/I184597095"
+     ],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "book"
+   },
+   "sustainable_development_goals": [],
+   "sustainable_development_goals_aurora": [],
+   "study_designs": [],
+   "awards": [],
+   "funders": [],
+   "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+   },
+   "content_urls": null,
+   "referenced_works_count": 0,
+   "referenced_works": [],
+   "related_works": [],
+   "abstract_inverted_index": {
+    "pt.": [
+     0,
+     29
+    ],
+    "1": [
+     1,
+     30
+    ],
+    "&": [
+     2,
+     6
+    ],
+    "2-pt.": [
+     3
+    ],
+    "3,": [
+     4
+    ],
+    "4": [
+     5,
+     38
+    ],
+    "5.": [
+     7
+    ],
+    "Tamil": [
+     8
+    ],
+    "inscriptions": [
+     9
+    ],
+    "in": [
+     10
+    ],
+    "the": [
+     11,
+     21
+    ],
+    "Rajarajesvara": [
+     12
+    ],
+    "Temple": [
+     13
+    ],
+    "at": [
+     14
+    ],
+    "Tanjavur": [
+     15
+    ],
+    "and": [
+     16,
+     25,
+     49
+    ],
+    "other": [
+     17
+    ],
+    "miscellaneous": [
+     18
+    ],
+    "records": [
+     19
+    ],
+    "of": [
+     20
+    ],
+    "Chola,": [
+     22
+    ],
+    "Pallava,": [
+     23
+    ],
+    "Pandya": [
+     24
+    ],
+    "Vijayanagara": [
+     26
+    ],
+    "dynasties": [
+     27
+    ],
+    "/": [
+     28
+    ],
+    "to": [
+     31
+    ],
+    "3": [
+     32
+    ],
+    "by": [
+     33,
+     39,
+     51
+    ],
+    "E.": [
+     34
+    ],
+    "Hu;tzsch": [
+     35
+    ],
+    ";": [
+     36,
+     44
+    ],
+    "pt": [
+     37,
+     45
+    ],
+    "Rai": [
+     40
+    ],
+    "Bahadur": [
+     41
+    ],
+    "V.": [
+     42
+    ],
+    "Venkayya": [
+     43
+    ],
+    "5": [
+     46
+    ],
+    "with": [
+     47
+    ],
+    "introduction": [
+     48
+    ],
+    "index": [
+     50
+    ],
+    "Rao": [
+     52
+    ],
+    "Sahib": [
+     53
+    ],
+    "H.": [
+     54
+    ],
+    "Krishna": [
+     55
+    ],
+    "Sastri": [
+     56
+    ]
+   },
+   "counts_by_year": [],
+   "updated_date": "2026-07-14T23:32:53.992493",
+   "created_date": "2026-04-01T00:00:00"
+  },
+  {
+   "id": "https://openalex.org/W7145397225",
+   "doi": null,
+   "title": "Tamil inscriptions",
+   "display_name": "Tamil inscriptions",
+   "relevance_score": 198.59708,
+   "publication_year": null,
+   "publication_date": null,
+   "ids": {
+    "openalex": "https://openalex.org/W7145397225"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "pmh:oai:irdb.nii.ac.jp:00885:0006205985",
+    "doi": null,
+    "is_oa": false,
+    "landing_page_url": "https://tufs.repo.nii.ac.jp/records/44938",
+    "pdf_url": null,
+    "source": {
+     "id": "https://openalex.org/S7407056385",
+     "display_name": "Institutional Repositories DataBase (IRDB)",
+     "issn_l": null,
+     "issn": null,
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": "https://openalex.org/I184597095",
+     "host_organization_name": "National Institute of Informatics",
+     "host_organization_lineage": [
+      "https://openalex.org/I184597095"
+     ],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "book"
+   },
+   "volume": null,
+   "type": "book",
+   "indexed_in": [],
+   "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+   },
+   "authorships": [],
+   "institutions": [],
+   "countries_distinct_count": 0,
+   "institutions_distinct_count": 0,
+   "corresponding_author_ids": [],
+   "corresponding_institution_ids": [],
+   "apc_list": null,
+   "apc_paid": null,
+   "fwci": null,
+   "has_fulltext": false,
+   "cited_by_count": 0,
+   "citation_normalized_percentile": null,
+   "cited_by_percentile_year": null,
+   "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T11563",
+    "display_name": "Indian and Buddhist Studies",
+    "score": 0.9672999978065491,
+    "subfield": {
+     "id": "https://openalex.org/subfields/1212",
+     "display_name": "Religious studies"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/12",
+     "display_name": "Arts and Humanities"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/2",
+     "display_name": "Social Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T11563",
+     "display_name": "Indian and Buddhist Studies",
+     "score": 0.9672999978065491,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1212",
+      "display_name": "Religious studies"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/12",
+      "display_name": "Arts and Humanities"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T14170",
+     "display_name": "Classical Studies and Philology",
+     "score": 0.011099999770522118,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1203",
+      "display_name": "Language and Linguistics"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/12",
+      "display_name": "Arts and Humanities"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T12949",
+     "display_name": "South Asian Studies and Diaspora",
+     "score": 0.006300000008195639,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1211",
+      "display_name": "Philosophy"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/12",
+      "display_name": "Arts and Humanities"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/tamil-inscriptions",
+     "display_name": "Tamil inscriptions",
+     "score": 0.9890000224113464
+    },
+    {
+     "id": "https://openalex.org/keywords/epigraphy",
+     "display_name": "epigraphy",
+     "score": 0.9459999799728394
+    },
+    {
+     "id": "https://openalex.org/keywords/tanjore",
+     "display_name": "Tanjore",
+     "score": 0.8320000171661377
+    },
+    {
+     "id": "https://openalex.org/keywords/chola-dynasty",
+     "display_name": "Chola dynasty",
+     "score": 0.9789999723434448
+    },
+    {
+     "id": "https://openalex.org/keywords/pallava-dynasty",
+     "display_name": "Pallava dynasty",
+     "score": 0.996999979019165
+    },
+    {
+     "id": "https://openalex.org/keywords/pandya-dynasty",
+     "display_name": "Pandya dynasty",
+     "score": 0.9549999833106995
+    },
+    {
+     "id": "https://openalex.org/keywords/temple-inscriptions",
+     "display_name": "temple inscriptions",
+     "score": 0.6159999966621399
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C140688305",
+     "wikidata": "https://www.wikidata.org/wiki/Q5885",
+     "display_name": "Tamil",
+     "level": 2,
+     "score": 0.8870999813079834
+    },
+    {
+     "id": "https://openalex.org/C95457728",
+     "wikidata": "https://www.wikidata.org/wiki/Q309",
+     "display_name": "History",
+     "level": 0,
+     "score": 0.6018999814987183
+    },
+    {
+     "id": "https://openalex.org/C195244886",
+     "wikidata": "https://www.wikidata.org/wiki/Q41493",
+     "display_name": "Ancient history",
+     "level": 1,
+     "score": 0.5368000268936157
+    },
+    {
+     "id": "https://openalex.org/C2777382242",
+     "wikidata": "https://www.wikidata.org/wiki/Q6017816",
+     "display_name": "Index (typography)",
+     "level": 2,
+     "score": 0.4650999903678894
+    },
+    {
+     "id": "https://openalex.org/C142362112",
+     "wikidata": "https://www.wikidata.org/wiki/Q735",
+     "display_name": "Art",
+     "level": 0,
+     "score": 0.2890999913215637
+    },
+    {
+     "id": "https://openalex.org/C205649164",
+     "wikidata": "https://www.wikidata.org/wiki/Q1071",
+     "display_name": "Geography",
+     "level": 0,
+     "score": 0.24040000140666962
+    },
+    {
+     "id": "https://openalex.org/C2992790187",
+     "wikidata": "https://www.wikidata.org/wiki/Q1145106",
+     "display_name": "Historical record",
+     "level": 3,
+     "score": 0.2287999987602234
+    },
+    {
+     "id": "https://openalex.org/C76978605",
+     "wikidata": "https://www.wikidata.org/wiki/Q102532",
+     "display_name": "Diphthong",
+     "level": 3,
+     "score": 0.21250000596046448
+    },
+    {
+     "id": "https://openalex.org/C166957645",
+     "wikidata": "https://www.wikidata.org/wiki/Q23498",
+     "display_name": "Archaeology",
+     "level": 1,
+     "score": 0.21170000731945038
+    },
+    {
+     "id": "https://openalex.org/C2781291010",
+     "wikidata": "https://www.wikidata.org/wiki/Q178580",
+     "display_name": "Period (music)",
+     "level": 2,
+     "score": 0.18369999527931213
+    }
+   ],
+   "mesh": [],
+   "locations_count": 1,
+   "locations": [
+    {
+     "id": "pmh:oai:irdb.nii.ac.jp:00885:0006205985",
+     "doi": null,
+     "is_oa": false,
+     "landing_page_url": "https://tufs.repo.nii.ac.jp/records/44938",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S7407056385",
+      "display_name": "Institutional Repositories DataBase (IRDB)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I184597095",
+      "host_organization_name": "National Institute of Informatics",
+      "host_organization_lineage": [
+       "https://openalex.org/I184597095"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+     },
+     "license": null,
+     "license_id": null,
+     "version": "submittedVersion",
+     "is_accepted": false,
+     "is_published": false,
+     "raw_source_name": null,
+     "raw_type": "book"
+    }
+   ],
+   "best_oa_location": null,
+   "sustainable_development_goals": [],
+   "sustainable_development_goals_aurora": [],
+   "study_designs": [],
+   "awards": [],
+   "funders": [],
+   "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+   },
+   "content_urls": null,
+   "referenced_works_count": 0,
+   "referenced_works": [],
+   "related_works": [],
+   "abstract_inverted_index": {
+    "pt.": [
+     0,
+     29
+    ],
+    "1": [
+     1,
+     30
+    ],
+    "&": [
+     2,
+     6
+    ],
+    "2-pt.": [
+     3
+    ],
+    "3,": [
+     4
+    ],
+    "4": [
+     5,
+     38
+    ],
+    "5.": [
+     7
+    ],
+    "Tamil": [
+     8
+    ],
+    "inscriptions": [
+     9
+    ],
+    "in": [
+     10
+    ],
+    "the": [
+     11,
+     21
+    ],
+    "Rajarajesvara": [
+     12
+    ],
+    "Temple": [
+     13
+    ],
+    "at": [
+     14
+    ],
+    "Tanjavur": [
+     15
+    ],
+    "and": [
+     16,
+     25,
+     49
+    ],
+    "other": [
+     17
+    ],
+    "miscellaneous": [
+     18
+    ],
+    "records": [
+     19
+    ],
+    "of": [
+     20
+    ],
+    "Chola,": [
+     22
+    ],
+    "Pallava,": [
+     23
+    ],
+    "Pandya": [
+     24
+    ],
+    "Vijayanagara": [
+     26
+    ],
+    "dynasties": [
+     27
+    ],
+    "/": [
+     28
+    ],
+    "to": [
+     31
+    ],
+    "3": [
+     32
+    ],
+    "by": [
+     33,
+     39,
+     51
+    ],
+    "E.": [
+     34
+    ],
+    "Hu;tzsch": [
+     35
+    ],
+    ";": [
+     36,
+     44
+    ],
+    "pt": [
+     37,
+     45
+    ],
+    "Rai": [
+     40
+    ],
+    "Bahadur": [
+     41
+    ],
+    "V.": [
+     42
+    ],
+    "Venkayya": [
+     43
+    ],
+    "5": [
+     46
+    ],
+    "with": [
+     47
+    ],
+    "introduction": [
+     48
+    ],
+    "index": [
+     50
+    ],
+    "Rao": [
+     52
+    ],
+    "Sahib": [
+     53
+    ],
+    "H.": [
+     54
+    ],
+    "Krishna": [
+     55
+    ],
+    "Sastri": [
+     56
+    ]
+   },
+   "counts_by_year": [],
+   "updated_date": "2026-07-14T23:32:53.992493",
+   "created_date": "2026-04-01T00:00:00"
+  },
+  {
+   "id": "https://openalex.org/W104868331",
+   "doi": null,
+   "title": "Ceylon Tamil inscriptions",
+   "display_name": "Ceylon Tamil inscriptions",
+   "relevance_score": 171.44981,
+   "publication_year": 1972,
+   "publication_date": "1972-01-01",
+   "ids": {
+    "openalex": "https://openalex.org/W104868331",
+    "mag": "104868331"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "mag:104868331",
+    "doi": null,
+    "is_oa": false,
+    "landing_page_url": "http://ci.nii.ac.jp/ncid/BA67032561",
+    "pdf_url": null,
+    "source": {
+     "id": "https://openalex.org/S4210197683",
+     "display_name": "Medical Entomology and Zoology",
+     "issn_l": "0424-7086",
+     "issn": [
+      "0424-7086",
+      "2185-5609"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "cwts-core"
+     ],
+     "host_organization": "https://openalex.org/P4310319750",
+     "host_organization_name": "Japan Society of Medical Entomology and Zoology",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310319750"
+     ],
+     "host_organization_lineage_names": [
+      "Japan Society of Medical Entomology and Zoology"
+     ],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": null,
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": null
+   },
+   "volume": null,
+   "type": "book",
+   "indexed_in": [],
+   "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5067212582",
+      "display_name": "Alvappillai Veluppillai",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": true,
+     "raw_author_name": "Alvappillai Veluppillai",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 0,
+   "institutions_distinct_count": 0,
+   "corresponding_author_ids": [
+    "https://openalex.org/A5067212582"
+   ],
+   "corresponding_institution_ids": [],
+   "apc_list": null,
+   "apc_paid": null,
+   "fwci": 0.0,
+   "has_fulltext": false,
+   "cited_by_count": 0,
+   "citation_normalized_percentile": {
+    "value": 0.00107875,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+   },
+   "cited_by_percentile_year": null,
+   "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T11563",
+    "display_name": "Indian and Buddhist Studies",
+    "score": 0.8637999892234802,
+    "subfield": {
+     "id": "https://openalex.org/subfields/1212",
+     "display_name": "Religious studies"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/12",
+     "display_name": "Arts and Humanities"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/2",
+     "display_name": "Social Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T11563",
+     "display_name": "Indian and Buddhist Studies",
+     "score": 0.8637999892234802,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1212",
+      "display_name": "Religious studies"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/12",
+      "display_name": "Arts and Humanities"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T14170",
+     "display_name": "Classical Studies and Philology",
+     "score": 0.07819999754428864,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1203",
+      "display_name": "Language and Linguistics"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/12",
+      "display_name": "Arts and Humanities"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T12768",
+     "display_name": "Linguistics and language evolution",
+     "score": 0.0142000000923872,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1203",
+      "display_name": "Language and Linguistics"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/12",
+      "display_name": "Arts and Humanities"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/tamil-inscriptions",
+     "display_name": "Tamil inscriptions",
+     "score": 0.9860000014305115
+    },
+    {
+     "id": "https://openalex.org/keywords/epigraphy",
+     "display_name": "epigraphy",
+     "score": 0.7850000262260437
+    },
+    {
+     "id": "https://openalex.org/keywords/ceylon",
+     "display_name": "Ceylon",
+     "score": 0.7139999866485596
+    },
+    {
+     "id": "https://openalex.org/keywords/sri-lanka",
+     "display_name": "Sri Lanka",
+     "score": 0.6480000019073486
+    },
+    {
+     "id": "https://openalex.org/keywords/tamil",
+     "display_name": "Tamil language",
+     "score": 0.6060000061988831
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C2779598827",
+     "wikidata": "https://www.wikidata.org/wiki/Q93482",
+     "display_name": "Ceylon",
+     "level": 2,
+     "score": 0.987263023853302
+    },
+    {
+     "id": "https://openalex.org/C140688305",
+     "wikidata": "https://www.wikidata.org/wiki/Q5885",
+     "display_name": "Tamil",
+     "level": 2,
+     "score": 0.9662492275238037
+    },
+    {
+     "id": "https://openalex.org/C3017649214",
+     "wikidata": "https://www.wikidata.org/wiki/Q854",
+     "display_name": "Sri lanka",
+     "level": 3,
+     "score": 0.5050674080848694
+    },
+    {
+     "id": "https://openalex.org/C195244886",
+     "wikidata": "https://www.wikidata.org/wiki/Q41493",
+     "display_name": "Ancient history",
+     "level": 1,
+     "score": 0.41575223207473755
+    },
+    {
+     "id": "https://openalex.org/C95457728",
+     "wikidata": "https://www.wikidata.org/wiki/Q309",
+     "display_name": "History",
+     "level": 0,
+     "score": 0.37479451298713684
+    },
+    {
+     "id": "https://openalex.org/C205649164",
+     "wikidata": "https://www.wikidata.org/wiki/Q1071",
+     "display_name": "Geography",
+     "level": 0,
+     "score": 0.3652380108833313
+    },
+    {
+     "id": "https://openalex.org/C142362112",
+     "wikidata": "https://www.wikidata.org/wiki/Q735",
+     "display_name": "Art",
+     "level": 0,
+     "score": 0.2940494418144226
+    },
+    {
+     "id": "https://openalex.org/C124952713",
+     "wikidata": "https://www.wikidata.org/wiki/Q8242",
+     "display_name": "Literature",
+     "level": 1,
+     "score": 0.15726998448371887
+    },
+    {
+     "id": "https://openalex.org/C3019281177",
+     "wikidata": "https://www.wikidata.org/wiki/Q771405",
+     "display_name": "South asia",
+     "level": 2,
+     "score": 0.0
+    }
+   ],
+   "mesh": [],
+   "locations_count": 1,
+   "locations": [
+    {
+     "id": "mag:104868331",
+     "doi": null,
+     "is_oa": false,
+     "landing_page_url": "http://ci.nii.ac.jp/ncid/BA67032561",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4210197683",
+      "display_name": "Medical Entomology and Zoology",
+      "issn_l": "0424-7086",
+      "issn": [
+       "0424-7086",
+       "2185-5609"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+       "cwts-core"
+      ],
+      "host_organization": "https://openalex.org/P4310319750",
+      "host_organization_name": "Japan Society of Medical Entomology and Zoology",
+      "host_organization_lineage": [
+       "https://openalex.org/P4310319750"
+      ],
+      "host_organization_lineage_names": [
+       "Japan Society of Medical Entomology and Zoology"
+      ],
+      "type": "journal"
+     },
+     "license": null,
+     "license_id": null,
+     "version": null,
+     "is_accepted": false,
+     "is_published": null,
+     "raw_source_name": null,
+     "raw_type": null
+    }
+   ],
+   "best_oa_location": null,
+   "sustainable_development_goals": [],
+   "sustainable_development_goals_aurora": [],
+   "study_designs": [],
+   "awards": [],
+   "funders": [],
+   "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+   },
+   "content_urls": null,
+   "referenced_works_count": 0,
+   "referenced_works": [],
+   "related_works": [],
+   "abstract_inverted_index": null,
+   "counts_by_year": [],
+   "updated_date": "2025-11-06T04:12:42.849631",
+   "created_date": "2025-10-10T00:00:00"
+  },
+  {
+   "id": "https://openalex.org/W614002726",
+   "doi": null,
+   "title": "தமழக கலவடடச சலலகரத = Glossary of Tamil inscriptions",
+   "display_name": "தமழக கலவடடச சலலகரத = Glossary of Tamil inscriptions",
+   "relevance_score": 146.27072,
+   "publication_year": 2002,
+   "publication_date": "2002-01-01",
+   "ids": {
+    "openalex": "https://openalex.org/W614002726",
+    "mag": "614002726"
+   },
+   "language": "ta",
+   "primary_location": {
+    "id": "mag:614002726",
+    "doi": null,
+    "is_oa": false,
+    "landing_page_url": "http://ci.nii.ac.jp/ncid/BA72687796",
+    "pdf_url": null,
+    "source": {
+     "id": "https://openalex.org/S4210197683",
+     "display_name": "Medical Entomology and Zoology",
+     "issn_l": "0424-7086",
+     "issn": [
+      "0424-7086",
+      "2185-5609"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "cwts-core"
+     ],
+     "host_organization": "https://openalex.org/P4310319750",
+     "host_organization_name": "Japan Society of Medical Entomology and Zoology",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310319750"
+     ],
+     "host_organization_lineage_names": [
+      "Japan Society of Medical Entomology and Zoology"
+     ],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": null,
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": null
+   },
+   "volume": null,
+   "type": "book",
+   "indexed_in": [],
+   "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5024377728",
+      "display_name": "Y. Subbarayalu",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": true,
+     "raw_author_name": "Y. Subbarayalu",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 0,
+   "institutions_distinct_count": 0,
+   "corresponding_author_ids": [
+    "https://openalex.org/A5024377728"
+   ],
+   "corresponding_institution_ids": [],
+   "apc_list": null,
+   "apc_paid": null,
+   "fwci": 0.0,
+   "has_fulltext": false,
+   "cited_by_count": 0,
+   "citation_normalized_percentile": {
+    "value": 0.20211468,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+   },
+   "cited_by_percentile_year": null,
+   "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T14170",
+    "display_name": "Classical Studies and Philology",
+    "score": 0.5009999871253967,
+    "subfield": {
+     "id": "https://openalex.org/subfields/1203",
+     "display_name": "Language and Linguistics"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/12",
+     "display_name": "Arts and Humanities"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/2",
+     "display_name": "Social Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T14170",
+     "display_name": "Classical Studies and Philology",
+     "score": 0.5009999871253967,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1203",
+      "display_name": "Language and Linguistics"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/12",
+      "display_name": "Arts and Humanities"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T11563",
+     "display_name": "Indian and Buddhist Studies",
+     "score": 0.2786000072956085,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1212",
+      "display_name": "Religious studies"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/12",
+      "display_name": "Arts and Humanities"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T12768",
+     "display_name": "Linguistics and language evolution",
+     "score": 0.11760000139474869,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1203",
+      "display_name": "Language and Linguistics"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/12",
+      "display_name": "Arts and Humanities"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/tamil-inscriptions",
+     "display_name": "Tamil inscriptions",
+     "score": 0.9829999804496765
+    },
+    {
+     "id": "https://openalex.org/keywords/glossary",
+     "display_name": "glossary",
+     "score": 0.6359999775886536
+    },
+    {
+     "id": "https://openalex.org/keywords/tamil-epigraphy",
+     "display_name": "Tamil epigraphy",
+     "score": 0.6520000100135803
+    },
+    {
+     "id": "https://openalex.org/keywords/tamil",
+     "display_name": "Tamil language",
+     "score": 0.4449999928474426
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C2780031656",
+     "wikidata": "https://www.wikidata.org/wiki/Q859161",
+     "display_name": "Glossary",
+     "level": 2,
+     "score": 0.9430329203605652
+    },
+    {
+     "id": "https://openalex.org/C140688305",
+     "wikidata": "https://www.wikidata.org/wiki/Q5885",
+     "display_name": "Tamil",
+     "level": 2,
+     "score": 0.9392558932304382
+    },
+    {
+     "id": "https://openalex.org/C95457728",
+     "wikidata": "https://www.wikidata.org/wiki/Q309",
+     "display_name": "History",
+     "level": 0,
+     "score": 0.39501315355300903
+    },
+    {
+     "id": "https://openalex.org/C142362112",
+     "wikidata": "https://www.wikidata.org/wiki/Q735",
+     "display_name": "Art",
+     "level": 0,
+     "score": 0.2821108102798462
+    },
+    {
+     "id": "https://openalex.org/C41895202",
+     "wikidata": "https://www.wikidata.org/wiki/Q8162",
+     "display_name": "Linguistics",
+     "level": 1,
+     "score": 0.2409304976463318
+    },
+    {
+     "id": "https://openalex.org/C124952713",
+     "wikidata": "https://www.wikidata.org/wiki/Q8242",
+     "display_name": "Literature",
+     "level": 1,
+     "score": 0.18676793575286865
+    },
+    {
+     "id": "https://openalex.org/C138885662",
+     "wikidata": "https://www.wikidata.org/wiki/Q5891",
+     "display_name": "Philosophy",
+     "level": 0,
+     "score": 0.16588622331619263
+    }
+   ],
+   "mesh": [],
+   "locations_count": 1,
+   "locations": [
+    {
+     "id": "mag:614002726",
+     "doi": null,
+     "is_oa": false,
+     "landing_page_url": "http://ci.nii.ac.jp/ncid/BA72687796",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4210197683",
+      "display_name": "Medical Entomology and Zoology",
+      "issn_l": "0424-7086",
+      "issn": [
+       "0424-7086",
+       "2185-5609"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+       "cwts-core"
+      ],
+      "host_organization": "https://openalex.org/P4310319750",
+      "host_organization_name": "Japan Society of Medical Entomology and Zoology",
+      "host_organization_lineage": [
+       "https://openalex.org/P4310319750"
+      ],
+      "host_organization_lineage_names": [
+       "Japan Society of Medical Entomology and Zoology"
+      ],
+      "type": "journal"
+     },
+     "license": null,
+     "license_id": null,
+     "version": null,
+     "is_accepted": false,
+     "is_published": null,
+     "raw_source_name": null,
+     "raw_type": null
+    }
+   ],
+   "best_oa_location": null,
+   "sustainable_development_goals": [],
+   "sustainable_development_goals_aurora": [
+    {
+     "id": "https://metadata.un.org/sdg/4",
+     "score": 0.6000000238418579,
+     "display_name": "Quality education"
+    }
+   ],
+   "study_designs": [],
+   "awards": [],
+   "funders": [],
+   "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+   },
+   "content_urls": null,
+   "referenced_works_count": 0,
+   "referenced_works": [],
+   "related_works": [],
+   "abstract_inverted_index": null,
+   "counts_by_year": [],
+   "updated_date": "2025-11-06T04:12:42.849631",
+   "created_date": "2025-10-10T00:00:00"
+  },
+  {
+   "id": "https://openalex.org/W1532967068",
+   "doi": null,
+   "title": "Tamil inscriptions of Rajaraja, Rajendra-Chola, and others in the Rajarajesvara Temple at Tanjavur",
+   "display_name": "Tamil inscriptions of Rajaraja, Rajendra-Chola, and others in the Rajarajesvara Temple at Tanjavur",
+   "relevance_score": 126.99576,
+   "publication_year": 1913,
+   "publication_date": "1913-01-01",
+   "ids": {
+    "openalex": "https://openalex.org/W1532967068",
+    "mag": "1532967068"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "mag:1532967068",
+    "doi": null,
+    "is_oa": false,
+    "landing_page_url": "http://ci.nii.ac.jp/ncid/BA27138625",
+    "pdf_url": null,
+    "source": {
+     "id": "https://openalex.org/S4306472888",
+     "display_name": "In-house reproduction eBooks",
+     "issn_l": null,
+     "issn": null,
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "ebook platform"
+    },
+    "license": null,
+    "license_id": null,
+    "version": null,
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "In-house reproduction eBooks",
+    "raw_type": null
+   },
+   "volume": null,
+   "type": "book",
+   "indexed_in": [],
+   "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5007787704",
+      "display_name": "Rai Bhadur V. Venkayya",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": true,
+     "raw_author_name": "Rai Bhadur V. Venkayya",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 0,
+   "institutions_distinct_count": 0,
+   "corresponding_author_ids": [
+    "https://openalex.org/A5007787704"
+   ],
+   "corresponding_institution_ids": [],
+   "apc_list": null,
+   "apc_paid": null,
+   "fwci": 0.0,
+   "has_fulltext": false,
+   "cited_by_count": 0,
+   "citation_normalized_percentile": {
+    "value": 0.3857868,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+   },
+   "cited_by_percentile_year": null,
+   "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T11563",
+    "display_name": "Indian and Buddhist Studies",
+    "score": 0.9824000000953674,
+    "subfield": {
+     "id": "https://openalex.org/subfields/1212",
+     "display_name": "Religious studies"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/12",
+     "display_name": "Arts and Humanities"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/2",
+     "display_name": "Social Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T11563",
+     "display_name": "Indian and Buddhist Studies",
+     "score": 0.9824000000953674,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1212",
+      "display_name": "Religious studies"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/12",
+      "display_name": "Arts and Humanities"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T12949",
+     "display_name": "South Asian Studies and Diaspora",
+     "score": 0.003700000001117587,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1211",
+      "display_name": "Philosophy"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/12",
+      "display_name": "Arts and Humanities"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T14506",
+     "display_name": "Historical and Architectural Studies",
+     "score": 0.0026000000070780516,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1204",
+      "display_name": "Archeology"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/12",
+      "display_name": "Arts and Humanities"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/tamil-inscriptions",
+     "display_name": "Tamil inscriptions",
+     "score": 0.9739999771118164
+    },
+    {
+     "id": "https://openalex.org/keywords/chola-dynasty",
+     "display_name": "Chola dynasty",
+     "score": 0.8539999723434448
+    },
+    {
+     "id": "https://openalex.org/keywords/tanjore",
+     "display_name": "Tanjore",
+     "score": 0.7860000133514404
+    },
+    {
+     "id": "https://openalex.org/keywords/epigraphy",
+     "display_name": "epigraphy",
+     "score": 0.7149999737739563
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C140688305",
+     "wikidata": "https://www.wikidata.org/wiki/Q5885",
+     "display_name": "Tamil",
+     "level": 2,
+     "score": 0.7946006059646606
+    },
+    {
+     "id": "https://openalex.org/C2776478597",
+     "wikidata": "https://www.wikidata.org/wiki/Q243999",
+     "display_name": "Temple",
+     "level": 2,
+     "score": 0.7036287784576416
+    },
+    {
+     "id": "https://openalex.org/C195244886",
+     "wikidata": "https://www.wikidata.org/wiki/Q41493",
+     "display_name": "Ancient history",
+     "level": 1,
+     "score": 0.4441296458244324
+    },
+    {
+     "id": "https://openalex.org/C142362112",
+     "wikidata": "https://www.wikidata.org/wiki/Q735",
+     "display_name": "Art",
+     "level": 0,
+     "score": 0.44081854820251465
+    },
+    {
+     "id": "https://openalex.org/C95457728",
+     "wikidata": "https://www.wikidata.org/wiki/Q309",
+     "display_name": "History",
+     "level": 0,
+     "score": 0.30871039628982544
+    },
+    {
+     "id": "https://openalex.org/C124952713",
+     "wikidata": "https://www.wikidata.org/wiki/Q8242",
+     "display_name": "Literature",
+     "level": 1,
+     "score": 0.1774195432662964
+    }
+   ],
+   "mesh": [],
+   "locations_count": 1,
+   "locations": [
+    {
+     "id": "mag:1532967068",
+     "doi": null,
+     "is_oa": false,
+     "landing_page_url": "http://ci.nii.ac.jp/ncid/BA27138625",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4306472888",
+      "display_name": "In-house reproduction eBooks",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "ebook platform"
+     },
+     "license": null,
+     "license_id": null,
+     "version": null,
+     "is_accepted": false,
+     "is_published": null,
+     "raw_source_name": "In-house reproduction eBooks",
+     "raw_type": null
+    }
+   ],
+   "best_oa_location": null,
+   "sustainable_development_goals": [],
+   "sustainable_development_goals_aurora": [],
+   "study_designs": [],
+   "awards": [],
+   "funders": [],
+   "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+   },
+   "content_urls": null,
+   "referenced_works_count": 0,
+   "referenced_works": [],
+   "related_works": [
+    "https://openalex.org/W595476257",
+    "https://openalex.org/W2988937888",
+    "https://openalex.org/W634151192",
+    "https://openalex.org/W3162642805",
+    "https://openalex.org/W2988475000",
+    "https://openalex.org/W3139226734",
+    "https://openalex.org/W2087225954",
+    "https://openalex.org/W1961791553",
+    "https://openalex.org/W2846087064",
+    "https://openalex.org/W2995368085",
+    "https://openalex.org/W3016390644",
+    "https://openalex.org/W353083840"
+   ],
+   "abstract_inverted_index": null,
+   "counts_by_year": [],
+   "updated_date": "2025-10-10T17:16:08.811792",
+   "created_date": "2025-10-10T00:00:00"
+  },
+  {
+   "id": "https://openalex.org/W650088312",
+   "doi": null,
+   "title": "Reading manuscripts : observations on emergence of medieval society in South India as revealed from the change in imprecations in Tamil inscriptions",
+   "display_name": "Reading manuscripts : observations on emergence of medieval society in South India as revealed from the change in imprecations in Tamil inscriptions",
+   "relevance_score": 105.62523,
+   "publication_year": 2010,
+   "publication_date": "2010-01-01",
+   "ids": {
+    "openalex": "https://openalex.org/W650088312",
+    "mag": "650088312"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "mag:650088312",
+    "doi": null,
+    "is_oa": false,
+    "landing_page_url": "http://ci.nii.ac.jp/ncid/BB06171084",
+    "pdf_url": null,
+    "source": {
+     "id": "https://openalex.org/S4210197683",
+     "display_name": "Medical Entomology and Zoology",
+     "issn_l": "0424-7086",
+     "issn": [
+      "0424-7086",
+      "2185-5609"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "cwts-core"
+     ],
+     "host_organization": "https://openalex.org/P4310319750",
+     "host_organization_name": "Japan Society of Medical Entomology and Zoology",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310319750"
+     ],
+     "host_organization_lineage_names": [
+      "Japan Society of Medical Entomology and Zoology"
+     ],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": null,
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": null
+   },
+   "volume": null,
+   "type": "book",
+   "indexed_in": [],
+   "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+   },
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5077273381",
+      "display_name": "昇 辛島",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": true,
+     "raw_author_name": "昇 辛島",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    }
+   ],
+   "institutions": [],
+   "countries_distinct_count": 0,
+   "institutions_distinct_count": 0,
+   "corresponding_author_ids": [
+    "https://openalex.org/A5077273381"
+   ],
+   "corresponding_institution_ids": [],
+   "apc_list": null,
+   "apc_paid": null,
+   "fwci": 0.0,
+   "has_fulltext": false,
+   "cited_by_count": 0,
+   "citation_normalized_percentile": {
+    "value": 0.21121102,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+   },
+   "cited_by_percentile_year": null,
+   "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+   },
+   "is_retracted": false,
+   "is_paratext": false,
+   "is_xpac": false,
+   "primary_topic": {
+    "id": "https://openalex.org/T11563",
+    "display_name": "Indian and Buddhist Studies",
+    "score": 0.7148000001907349,
+    "subfield": {
+     "id": "https://openalex.org/subfields/1212",
+     "display_name": "Religious studies"
+    },
+    "field": {
+     "id": "https://openalex.org/fields/12",
+     "display_name": "Arts and Humanities"
+    },
+    "domain": {
+     "id": "https://openalex.org/domains/2",
+     "display_name": "Social Sciences"
+    }
+   },
+   "topics": [
+    {
+     "id": "https://openalex.org/T11563",
+     "display_name": "Indian and Buddhist Studies",
+     "score": 0.7148000001907349,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1212",
+      "display_name": "Religious studies"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/12",
+      "display_name": "Arts and Humanities"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T12949",
+     "display_name": "South Asian Studies and Diaspora",
+     "score": 0.08810000121593475,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1211",
+      "display_name": "Philosophy"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/12",
+      "display_name": "Arts and Humanities"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+     }
+    },
+    {
+     "id": "https://openalex.org/T13198",
+     "display_name": "Historical, Religious, and Philosophical Studies",
+     "score": 0.045099999755620956,
+     "subfield": {
+      "id": "https://openalex.org/subfields/1204",
+      "display_name": "Archeology"
+     },
+     "field": {
+      "id": "https://openalex.org/fields/12",
+      "display_name": "Arts and Humanities"
+     },
+     "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+     }
+    }
+   ],
+   "keywords": [
+    {
+     "id": "https://openalex.org/keywords/tamil-inscriptions",
+     "display_name": "Tamil inscriptions",
+     "score": 0.9240000247955322
+    },
+    {
+     "id": "https://openalex.org/keywords/imprecation",
+     "display_name": "imprecation",
+     "score": 0.9539999961853027
+    },
+    {
+     "id": "https://openalex.org/keywords/medieval-south-india",
+     "display_name": "medieval South India",
+     "score": 0.7960000038146973
+    },
+    {
+     "id": "https://openalex.org/keywords/epigraphy",
+     "display_name": "epigraphy",
+     "score": 0.6159999966621399
+    },
+    {
+     "id": "https://openalex.org/keywords/social-change",
+     "display_name": "social change",
+     "score": 0.453000009059906
+    },
+    {
+     "id": "https://openalex.org/keywords/tamil-literature",
+     "display_name": "Tamil literature",
+     "score": 0.4729999899864197
+    }
+   ],
+   "concepts": [
+    {
+     "id": "https://openalex.org/C140688305",
+     "wikidata": "https://www.wikidata.org/wiki/Q5885",
+     "display_name": "Tamil",
+     "level": 2,
+     "score": 0.9732989072799683
+    },
+    {
+     "id": "https://openalex.org/C554936623",
+     "wikidata": "https://www.wikidata.org/wiki/Q199657",
+     "display_name": "Reading (process)",
+     "level": 2,
+     "score": 0.7496762871742249
+    },
+    {
+     "id": "https://openalex.org/C195244886",
+     "wikidata": "https://www.wikidata.org/wiki/Q41493",
+     "display_name": "Ancient history",
+     "level": 1,
+     "score": 0.4731670022010803
+    },
+    {
+     "id": "https://openalex.org/C95457728",
+     "wikidata": "https://www.wikidata.org/wiki/Q309",
+     "display_name": "History",
+     "level": 0,
+     "score": 0.4531569182872772
+    },
+    {
+     "id": "https://openalex.org/C74916050",
+     "wikidata": "https://www.wikidata.org/wiki/Q841090",
+     "display_name": "Classics",
+     "level": 1,
+     "score": 0.4385165572166443
+    },
+    {
+     "id": "https://openalex.org/C124952713",
+     "wikidata": "https://www.wikidata.org/wiki/Q8242",
+     "display_name": "Literature",
+     "level": 1,
+     "score": 0.38216376304626465
+    },
+    {
+     "id": "https://openalex.org/C142362112",
+     "wikidata": "https://www.wikidata.org/wiki/Q735",
+     "display_name": "Art",
+     "level": 0,
+     "score": 0.34542542695999146
+    },
+    {
+     "id": "https://openalex.org/C138885662",
+     "wikidata": "https://www.wikidata.org/wiki/Q5891",
+     "display_name": "Philosophy",
+     "level": 0,
+     "score": 0.15599748492240906
+    },
+    {
+     "id": "https://openalex.org/C41895202",
+     "wikidata": "https://www.wikidata.org/wiki/Q8162",
+     "display_name": "Linguistics",
+     "level": 1,
+     "score": 0.10185164213180542
+    }
+   ],
+   "mesh": [],
+   "locations_count": 1,
+   "locations": [
+    {
+     "id": "mag:650088312",
+     "doi": null,
+     "is_oa": false,
+     "landing_page_url": "http://ci.nii.ac.jp/ncid/BB06171084",
+     "pdf_url": null,
+     "source": {
+      "id": "https://openalex.org/S4210197683",
+      "display_name": "Medical Entomology and Zoology",
+      "issn_l": "0424-7086",
+      "issn": [
+       "0424-7086",
+       "2185-5609"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+       "cwts-core"
+      ],
+      "host_organization": "https://openalex.org/P4310319750",
+      "host_organization_name": "Japan Society of Medical Entomology and Zoology",
+      "host_organization_lineage": [
+       "https://openalex.org/P4310319750"
+      ],
+      "host_organization_lineage_names": [
+       "Japan Society of Medical Entomology and Zoology"
+      ],
+      "type": "journal"
+     },
+     "license": null,
+     "license_id": null,
+     "version": null,
+     "is_accepted": false,
+     "is_published": null,
+     "raw_source_name": null,
+     "raw_type": null
+    }
+   ],
+   "best_oa_location": null,
+   "sustainable_development_goals": [],
+   "sustainable_development_goals_aurora": [
+    {
+     "id": "https://metadata.un.org/sdg/4",
+     "score": 0.7300000190734863,
+     "display_name": "Quality education"
+    }
+   ],
+   "study_designs": [],
+   "awards": [],
+   "funders": [],
+   "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+   },
+   "content_urls": null,
+   "referenced_works_count": 0,
+   "referenced_works": [],
+   "related_works": [],
+   "abstract_inverted_index": null,
+   "counts_by_year": [],
+   "updated_date": "2025-11-06T04:12:42.849631",
+   "created_date": "2025-10-10T00:00:00"
+  },
+  {
+   "id": "https://openalex.org/W7145330427",
+   "doi": null,
+   "title": "Miscellaneous inscriptions in Tamil",
+   "display_name": "Miscellaneous inscriptions in Tamil",
+   "relevance_score": 104.58533,
+   "publication_year": null,
+   "publication_date": null,
+   "ids": {
+    "openalex": "https://openalex.org/W7145330427"
+   },
+   "language": "en",
+   "primary_location": {
+    "id": "pmh:oai:irdb.nii.ac.jp:00885:0006200400",
+    "doi": null,
+    "is_oa": false,
+    "landing_page_url": "https://tufs.repo.nii.ac.jp/records/39412",
+    "pdf_url": null,
+    "source": {
+     "id": "https://openalex.org/S7407056385",
+     "display_name": "Institutional Repositories DataBase (IRDB)",
+     "issn_l": null,
+     "issn": null,
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": "https://openalex.org/I184597095",
+     "host_organization_name": "National Institute of Informatics",
+     "host_organization_lineage": [
+      "https://openalex.org/I184597095"
+     ],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "book"
+   },
+   "volume": null,
+   "type": "book",
+   "indexed_in": [],
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://tufs.repo.nii.ac.jp/records/39413",
+    "any_repository_has_fulltext": true
+   },
+   "authorships": [],
+   "institutions": [],
+   "countries_distinct_count": 0,
+   "institutions_distinct_count": 0,
+   "corresponding_author_ids": [],
+   "corresponding_institution_ids": [],
+   "apc_list": null,
+   "apc_paid": null,
+   "fwci": null,
+   "has_fulltext": false,
+   "cited_by_count": 0,
+   "citation_normalized_percentile": null,
+   "cited_by_percentile_year": null,
+   "biblio":

@@ -53,5 +53,5 @@
 [nl] content ERR HTTP Error 414: URI Too Long
 [nl] content ERR HTTP Error 414: URI Too Long
 [nl] saved 27 records
-[nl] took 504s
-total 504s
+[nl] took 500s
+total 500s
