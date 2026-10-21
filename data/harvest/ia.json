@@ -77424,7 +77424,7 @@
 "access": "open",
 "read_url": "https://archive.org/details/in.ernet.dli.2015.95780",
 "download_url": "https://archive.org/download/in.ernet.dli.2015.95780/2015.95780.South-Indian-Inscriptions-Vol-3.pdf",
-"collection": "digitallibraryindia; JaiGyan; fav-aeve; fav-kalanidhi_nidhi; fav-tirumala_reddy",
+"collection": "digitallibraryindia; JaiGyan; fav-aeve; fav-tirumala_reddy; fav-kalanidhi_nidhi",
 "description": "Book Source: Digital Library of India Item 2015.95780 dc.contributor.author: E Hultzsch dc.contributor.other: State Central Library, Hyd dc.date.accessioned: 2015-07-01T15:07:45Z dc.date.available: 2015-07-01T15:07:45Z dc.date.digitalpublicationdate: 0000-00-00 dc.date.citation: 1929 dc.identifier: - dc.identifier.barcode: 2020030002762 dc.identifier.origpath: /data8/upload/0207/996 dc.identifier.copyno: 1 dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/95780 dc.description.scanningcentre: RMSC, IIIT-H dc.description.main: 1 dc.description.tagged: 0 dc.description.totalpages: 142 dc"
 },
 {
@@ -79862,7 +79862,7 @@
 "access": "open",
 "read_url": "https://archive.org/details/dli.csl.6505",
 "download_url": "https://archive.org/download/dli.csl.6505/6505.pdf",
-"collection": "digitallibraryindia; JaiGyan; fav-ac_phale319; fav-rakku; fav-tirumala_reddy",
+"collection": "digitallibraryindia; JaiGyan; fav-tirumala_reddy; fav-rakku; fav-ac_phale319",
 "description": "Central Secretariat Library, Government of India Source URL: http://192.168.1.42:8080//handle/123456789/6505"
 },
 {
@@ -82276,7 +82276,7 @@
 "access": "open",
 "read_url": "https://archive.org/details/epigraphiaindicavol26_86_r",
 "download_url": "https://archive.org/download/epigraphiaindicavol26_86_r/Epigraphia%20Indica%20Vol%2026.pdf",
-"collection": "digitallibraryindia; JaiGyan",
+"collection": "digitallibraryindia; JaiGyan; fav-information_facebook",
 "description": "'Epigraphia Indica Vol 26'"
 },
 {
@@ -82420,7 +82420,7 @@
 "access": "open",
 "read_url": "https://archive.org/details/epigraphiaindicavol33_21_X",
 "download_url": "https://archive.org/download/epigraphiaindicavol33_21_X/Epigraphia%20Indica%20Vol%2033.pdf",
-"collection": "digitallibraryindia; JaiGyan; fav-ac_phale319; fav-prasanna_aduvalli",
+"collection": "digitallibraryindia; JaiGyan; fav-prasanna_aduvalli; fav-ac_phale319",
 "description": "'Epigraphia Indica Vol 33'"
 },
 {
@@ -100309,7 +100309,7 @@
 "access": "open",
 "read_url": "https://archive.org/details/epigraphiacarna00survgoog",
 "download_url": "https://archive.org/download/epigraphiacarna00survgoog/epigraphiacarna00survgoog.pdf",
-"collection": "americana; fav-mpnarahari; fav-satyarthi; fav-shubham_beldar",
+"collection": "americana; fav-shubham_beldar; fav-satyarthi; fav-mpnarahari",
 "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.; Vols. 1-2 issued without general title; Imprint varies slightly. Vols. 5 and 10 have imprint: Bangalore, Basil Mission Pres; v. 14-15 have imprint: Mysore, Printed by the Asst. Supdt. at the Government Branch Press; Vol. 2, Rev. ed., by R. Narasimhacjar' v. 13- by M.H. Krishna; [v. 1]. Coorg inscriptions.--[v. 2] Inscriptions at Sravana Belgola--v. 2. Rev. ed.--[v. 3]. Inscriptions in the Mysore District.--v. 5. Inscriptions inthe Hussan District.--v. 6. Inscriptions in the Kadur ",
 "imagecount": "503"
 },
@@ -100467,11 +100467,9 @@
 "url": "https://archive.org/details/epigraphiacarnat06myso",
 "access": "open",
 "read_url": "https://archive.org/details/epigraphiacarnat06myso",
-"download_url": "https://archive.org/download/epigraphiacarnat06myso/epigraphiacarnat06myso.pdf",
+"download_url": "",
 "collection": "robarts; toronto; university_of_toronto; fav-auh_soj; fav-loverofbooks123; fav-mpnarahari",
-"description": "Editor and imprint vary; Vol. 2, Rev. ed., by R. Narasimhachar; Vol. 1 without series note; commitment to retain; 26 45 52; NEW",
-"call_number": "AAT-1661",
-"imagecount": "952"
+"description": "Editor and imprint vary; Vol. 2, Rev. ed., by R. Narasimhachar; Vol. 1 without series note; commitment to retain; 26 45 52; NEW"
 },
 {
 "source": "Internet Archive",
@@ -103236,7 +103234,7 @@
 "access": "open",
 "read_url": "https://archive.org/details/dli.csl.6727",
 "download_url": "https://archive.org/download/dli.csl.6727/6727.pdf",
-"collection": "digitallibraryindia; JaiGyan; fav-aeve; fav-hetish_umashankar; fav-kos1993; fav-moher786; fav-scoobydooby7728; fav-the_hindu_guy; fav-tirumala_reddy; fav-vts05",
+"collection": "digitallibraryindia; JaiGyan; fav-scoobydooby7728; fav-aeve; fav-vts05; fav-kos1993; fav-moher786; fav-the_hindu_guy; fav-tirumala_reddy; fav-hetish_umashankar",
 "description": "Central Secretariat Library, Government of India Source URL: http://192.168.1.42:8080//handle/123456789/6727"
 },
 {
@@ -103655,7 +103653,7 @@
 "access": "open",
 "read_url": "https://archive.org/details/cu31924007648516",
 "download_url": "https://archive.org/download/cu31924007648516/cu31924007648516.pdf",
-"collection": "cornell; americana; fav-azeron1701; fav-championess; fav-chris411978; fav-dianamortenson; fav-flambedude; fav-jeanthewanderer; fav-julie_adams; fav-karendebruyne; fav-karenjake; fav-kim128; fav-maxt94",
+"collection": "cornell; americana; fav-flambedude; fav-pgiles; fav-sgsgsgsg; fav-subhashjaya; fav-julie_adams; fav-rysc; fav-championess; fav-piptay123; fav-tslundberg; fav-karendebruyne; fav-sistar_soul; fav-chris4",
 "description": "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
 "call_number": "CS1183 .L4",
 "imagecount": "486"
