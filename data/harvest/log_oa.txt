@@ -115,16 +115,27 @@
 [oa] seppedugal: total so far 347
 [oa] seppedukal: total so far 347
 [oa] ceppetu: total so far 347
+[oa] ERR ceppetukal HTTP Error 429: Too Many Requests
 [oa] ceppetukal: total so far 347
+[oa] ERR nadukal HTTP Error 429: Too Many Requests
 [oa] nadukal: total so far 347
+[oa] ERR nadukarkal HTTP Error 429: Too Many Requests
 [oa] nadukarkal: total so far 347
+[oa] ERR natukal HTTP Error 429: Too Many Requests
 [oa] natukal: total so far 347
+[oa] ERR natukarkal HTTP Error 429: Too Many Requests
 [oa] natukarkal: total so far 347
+[oa] ERR tholliyal HTTP Error 429: Too Many Requests
 [oa] tholliyal: total so far 347
+[oa] ERR tolliyal HTTP Error 429: Too Many Requests
 [oa] tolliyal: total so far 347
+[oa] ERR tholporul HTTP Error 429: Too Many Requests
 [oa] tholporul: total so far 347
+[oa] ERR agazhaivu HTTP Error 429: Too Many Requests
 [oa] agazhaivu: total so far 347
+[oa] ERR akalayvu HTTP Error 429: Too Many Requests
 [oa] akalayvu: total so far 347
+[oa] ERR akazhaivu HTTP Error 429: Too Many Requests
 [oa] akazhaivu: total so far 347
 [oa] ERR akalvaippakam HTTP Error 429: Too Many Requests
 [oa] akalvaippakam: total so far 347
@@ -143,5 +154,5 @@
 [oa] ERR pattayam HTTP Error 429: Too Many Requests
 [oa] pattayam: total so far 347
 [oa] saved 146 records
-[oa] took 2059s
-total 2059s
+[oa] took 3761s
+total 3761s

@@ -155,7 +155,7 @@
 [ia]     0  (title:("Madurai inscriptions") OR subject:("Madurai inscriptions"))
 [ia]     3  subject:("Inscriptions, Tamil")
 [ia]   229  subject:("Tamil language")
-[ia]  4858  subject:("Inscriptions")
+[ia]  4861  subject:("Inscriptions")
 [ia]    75  subject:("Tamil Nadu (India)")
 [ia]  3609  subject:("Excavations (Archaeology)")
 [ia]     4  subject:("Hero stones")
@@ -167,7 +167,7 @@
 [ia]     0  subject:("Coins, Tamil")
 [ia]   262  subject:("Megalithic monuments")
 [ia]     0  subject:("Inscriptions, Dravidian")
-[ia]  4858  subject:("Inscriptions")
+[ia]  4861  subject:("Inscriptions")
 [ia]     0  subject:("Paleography, Tamil")
 [ia]     0  collection:(tamildigitallibrary) AND (title:(inscriptions OR epigraphy OR archaeology OR e
 [ia]  1279  collection:(digitallibraryindia) AND (title:(inscriptions OR epigraphy OR archaeology OR e
@@ -176,7 +176,7 @@
 [ia]     0  collection:(tamilheritagefoundation) AND (title:(inscriptions OR epigraphy OR archaeology 
 [ia]     0  collection:(noolaham) AND (title:(inscriptions OR epigraphy OR archaeology OR excavation O
 [ia]  1043  collection:(TamilVirtualAcademy) AND (title:(inscriptions OR epigraphy OR archaeology OR e
-[ia] raw unique hits: 16423
+[ia] raw unique hits: 16426
 [ia] relevant: 5864
 [ia] enriching 5864 items via metadata API
 [ia] enriched 500
@@ -191,5 +191,5 @@
 [ia] enriched 5000
 [ia] enriched 5500
 [ia] saved 5864 records
-[ia] took 6379s
-total 6379s
+[ia] took 4763s
+total 4763s

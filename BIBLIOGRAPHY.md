@@ -1,6 +1,6 @@
 # Bibliography by Category / வகைவாரிப் பட்டியல்
 
-Generated 2026-10-21 · **4108** books, reports & journal issues · 2320 with author/editor · 2325 with publisher · 2844 with year · 2540 open access (1905 with direct download).
+Generated 2026-10-22 · **4108** books, reports & journal issues · 2320 with author/editor · 2325 with publisher · 2844 with year · 2540 open access (1905 with direct download).
 
 ## Epigraphy: Manuals, Palaeography & Studies — கல்வெட்டியல்: கையேடுகள், எழுத்தியல், ஆய்வுகள் (151)
 
