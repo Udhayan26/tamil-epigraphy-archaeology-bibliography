@@ -954,9 +954,9 @@
 "year": "2006",
 "language": "en",
 "subjects": "Excavation; Sri lanka; Archaeology; Context (archaeology); Sequence (biology); Radiocarbon dating; Assemblage (archaeology); Geography; History; South asia",
-"url": "https://durham-repository.worktribe.com/file/1127178/1/Published%20Book",
+"url": "http://dro.dur.ac.uk/3728/",
 "access": "open",
-"read_url": "https://durham-repository.worktribe.com/file/1127178/1/Published%20Book",
+"read_url": "https://durham-repository.worktribe.com/output/1127178",
 "download_url": ""
 },
 {
@@ -1313,22 +1313,6 @@
 },
 {
 "source": "OpenAlex",
-"source_id": "https://openalex.org/W4291298296",
-"title": "Annual Report on Indian Epigraphy for 1987-88",
-"alt_title": "",
-"authors": "Madhav N. Katti",
-"publisher": "European Organization for Nuclear Research",
-"place": "",
-"year": "1997",
-"language": "en",
-"subjects": "Epigraphy; Ancient history; Geography; History",
-"url": "https://doi.org/10.5281/zenodo.3978969",
-"access": "open",
-"read_url": "https://doi.org/10.5281/zenodo.3978969",
-"download_url": ""
-},
-{
-"source": "OpenAlex",
 "source_id": "https://openalex.org/W4302801544",
 "title": "Annual Report on Indian Epigraphy for 1973-74",
 "alt_title": "",
@@ -1341,6 +1325,22 @@
 "url": "https://doi.org/10.5281/zenodo.3978825",
 "access": "open",
 "read_url": "https://doi.org/10.5281/zenodo.3978825",
+"download_url": ""
+},
+{
+"source": "OpenAlex",
+"source_id": "https://openalex.org/W4291298296",
+"title": "Annual Report on Indian Epigraphy for 1987-88",
+"alt_title": "",
+"authors": "Madhav N. Katti",
+"publisher": "European Organization for Nuclear Research",
+"place": "",
+"year": "1997",
+"language": "en",
+"subjects": "Epigraphy; Ancient history; Geography; History",
+"url": "https://doi.org/10.5281/zenodo.3978969",
+"access": "open",
+"read_url": "https://doi.org/10.5281/zenodo.3978969",
 "download_url": ""
 },
 {

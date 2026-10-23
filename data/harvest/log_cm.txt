@@ -1,52 +1,52 @@
-[cm] South Indian Inscriptions: files so far 495
-[cm] Epigraphia Indica: files so far 663
-[cm] Annual report epigraphy: files so far 763
-[cm] Indian Antiquary: files so far 1187
-[cm] Tamil inscriptions: files so far 1607
-[cm] Travancore Archaeological Series: files so far 1662
-[cm] Pudukkottai inscriptions: files so far 1664
+[cm] South Indian Inscriptions: files so far 496
+[cm] Epigraphia Indica: files so far 665
+[cm] Annual report epigraphy: files so far 765
+[cm] Indian Antiquary: files so far 1189
+[cm] Tamil inscriptions: files so far 1612
+[cm] Travancore Archaeological Series: files so far 1667
+[cm] Pudukkottai inscriptions: files so far 1669
 [cm] Madras archaeology: files so far 2046
-[cm] copper plates Tamil: files so far 2186
-[cm] Tamil Brahmi: files so far 2255
-[cm] hero stone Tamil: files so far 2448
-[cm] Tamil Nadu archaeology: files so far 2468
-[cm] Archaeological Survey of Southern India: files so far 2817
-[cm] கல்வெட்டு: files so far 3239
-[cm] கல்வெட்டுகள்: files so far 3259
-[cm] கல்வெட்டுக்கள்: files so far 3276
-[cm] கல்வெட்டியல்: files so far 3576
-[cm] செப்பேடு: files so far 3581
-[cm] செப்பேடுகள்: files so far 3596
-[cm] நடுகல்: files so far 3613
-[cm] நடுகற்கள்: files so far 3613
-[cm] வீரக்கல்: files so far 3614
-[cm] தொல்லியல்: files so far 4084
-[cm] தொல்பொருள்: files so far 4479
-[cm] அகழாய்வு: files so far 4483
-[cm] அகழ்வாய்வு: files so far 4937
-[cm] அகழ்வைப்பகம்: files so far 4937
-[cm] பாறை ஓவியம்: files so far 5331
-[cm] பாறை ஓவியங்கள்: files so far 5331
-[cm] குகை ஓவியங்கள்: files so far 5333
-[cm] தமிழ்-பிராமி: files so far 5334
-[cm] தமிழ் பிராமி: files so far 5334
-[cm] தமிழி: files so far 5345
-[cm] வட்டெழுத்து: files so far 5349
-[cm] பட்டயம்: files so far 5827
-[cm] சாசனம்: files so far 6060
-[cm] சாசனங்கள்: files so far 6062
-[cm] நாணயவியல்: files so far 6535
-[cm] பழங்காசுகள்: files so far 6535
-[cm] பெருங்கற்காலம்: files so far 6977
-[cm] முதுமக்கள் தாழி: files so far 6995
-[cm] கீழடி: files so far 6995
-[cm] ஆதிச்சநல்லூர்: files so far 6996
-[cm] கொடுமணல்: files so far 6996
-[cm] சிவகளை: files so far 6997
-[cm] பொருந்தல்: files so far 6998
-[cm] அழகன்குளம்: files so far 6998
-[cm] பூம்புகார் அகழாய்வு: files so far 6998
-[cm] தொல்லெழுத்தியல்: files so far 6999
+[cm] copper plates Tamil: files so far 2185
+[cm] Tamil Brahmi: files so far 2253
+[cm] hero stone Tamil: files so far 2444
+[cm] Tamil Nadu archaeology: files so far 2463
+[cm] Archaeological Survey of Southern India: files so far 2807
+[cm] கல்வெட்டு: files so far 3225
+[cm] கல்வெட்டுகள்: files so far 3245
+[cm] கல்வெட்டுக்கள்: files so far 3262
+[cm] கல்வெட்டியல்: files so far 3558
+[cm] செப்பேடு: files so far 3563
+[cm] செப்பேடுகள்: files so far 3579
+[cm] நடுகல்: files so far 3596
+[cm] நடுகற்கள்: files so far 3596
+[cm] வீரக்கல்: files so far 3597
+[cm] தொல்லியல்: files so far 4065
+[cm] தொல்பொருள்: files so far 4451
+[cm] அகழாய்வு: files so far 4455
+[cm] அகழ்வாய்வு: files so far 4915
+[cm] அகழ்வைப்பகம்: files so far 4915
+[cm] பாறை ஓவியம்: files so far 5310
+[cm] பாறை ஓவியங்கள்: files so far 5310
+[cm] குகை ஓவியங்கள்: files so far 5312
+[cm] தமிழ்-பிராமி: files so far 5314
+[cm] தமிழ் பிராமி: files so far 5314
+[cm] தமிழி: files so far 5326
+[cm] வட்டெழுத்து: files so far 5330
+[cm] பட்டயம்: files so far 5806
+[cm] சாசனம்: files so far 6043
+[cm] சாசனங்கள்: files so far 6045
+[cm] நாணயவியல்: files so far 6513
+[cm] பழங்காசுகள்: files so far 6513
+[cm] பெருங்கற்காலம்: files so far 6956
+[cm] முதுமக்கள் தாழி: files so far 6971
+[cm] கீழடி: files so far 6971
+[cm] ஆதிச்சநல்லூர்: files so far 6972
+[cm] கொடுமணல்: files so far 6972
+[cm] சிவகளை: files so far 6973
+[cm] பொருந்தல்: files so far 6976
+[cm] அழகன்குளம்: files so far 6976
+[cm] பூம்புகார் அகழாய்வு: files so far 6976
+[cm] தொல்லெழுத்தியல்: files so far 6977
 [cm] saved 183 records
-[cm] took 162s
-total 162s
+[cm] took 158s
+total 158s

@@ -1,9 +1,9 @@
 {
-"generated": "2026-10-22",
-"count": 4108,
-"with_author": 2320,
-"with_publisher": 2325,
-"with_year": 2844,
+"generated": "2026-10-23",
+"count": 4109,
+"with_author": 2321,
+"with_publisher": 2326,
+"with_year": 2845,
 "open_access": 2540,
 "with_download": 1905,
 "heritage_records": 3723,
@@ -11,14 +11,14 @@
 "access": {
 "open": 2540,
 "": 66,
-"catalogue": 1293,
+"catalogue": 1294,
 "open-us": 185,
 "borrow": 24
 },
 "sources": {
 "Internet Archive": 2054,
 "Noolaham": 34,
-"Open Library": 805,
+"Open Library": 806,
 "Curated": 205,
 "OpenAlex": 142,
 "Wikimedia Commons": 181,
@@ -77,7 +77,7 @@
 "ARC": {
 "en": "Archaeology: General, Surveys & Museums",
 "ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
-"count": 287
+"count": 288
 },
 "HIS": {
 "en": "History from Inscriptions",
@@ -69970,12 +69970,12 @@
 "notes": "",
 "subjects": "Excavation; Sri lanka; Archaeology; Context (archaeology); Sequence (biology); Assemblage (archaeology); Radiocarbon dating; Geography; Horizon; History",
 "access": "open",
-"read_url": "https://durham-repository.worktribe.com/file/1127178/1/Published%20Book",
+"read_url": "https://durham-repository.worktribe.com/output/1127178",
 "download_url": "",
 "buy_url": "",
 "source_url": "https://doi.org/10.30861/9781841719429",
 "other_source_urls": [
-"https://durham-repository.worktribe.com/file/1127178/1/Published%20Book"
+"http://dro.dur.ac.uk/3728/"
 ],
 "sources": [
 "OpenAlex"
@@ -83963,6 +83963,44 @@
 "scholar": "K. S. Sampath",
 "from_list": false,
 "added": "2026-10-20"
+},
+{
+"id": "TB-005143",
+"category": "ARC",
+"category_name": "Archaeology: General, Surveys & Museums",
+"category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
+"title": "Tamil̲akat tolliyalum varalār̲um",
+"title_ta": "",
+"title_en": "Tamil̲akat tolliyalum varalār̲um",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Ti Cuppiramaṇiyan̲",
+"authors_roman": "",
+"publisher": "Niyu Ceñcuri Puk Havus",
+"publisher_roman": "",
+"place": "Cen̲n̲ai",
+"year": "2009",
+"period": "1991–2010",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "9788123415621",
+"pages": "",
+"notes": "",
+"subjects": "Excavations (Archaeology); Antiquities; History; Antiquites",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://openlibrary.org/works/OL18736788W",
+"other_source_urls": [],
+"sources": [
+"Open Library"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-23"
 },
 {
 "id": "TB-003084",

@@ -154,5 +154,5 @@
 [oa] ERR pattayam HTTP Error 429: Too Many Requests
 [oa] pattayam: total so far 347
 [oa] saved 146 records
-[oa] took 3761s
-total 3761s
+[oa] took 3729s
+total 3729s
