@@ -118,5 +118,5 @@
 [loc] Tirumalai Tirupati inscriptions: total so far 1
 [loc] Madurai inscriptions: total so far 1
 [loc] saved 1 records
-[loc] took 1107s
-total 1107s
+[loc] took 3979s
+total 3979s

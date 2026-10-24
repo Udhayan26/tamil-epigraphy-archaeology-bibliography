@@ -21,7 +21,7 @@
    }
   ]
  },
- "created": 1792713901,
+ "created": 1792795529,
  "d1": "ia600506.us.archive.org",
  "d2": "ia800506.us.archive.org",
  "dir": "/12/items/1_20210826_20210826_1748",
@@ -59,10 +59,10 @@
    "JaiGyan"
   ]
  },
- "server": "ia600506.us.archive.org",
- "uniq": 1269076796,
+ "server": "ia800506.us.archive.org",
+ "uniq": 2096574060,
  "workable_servers": [
-  "ia600506.us.archive.org",
-  "ia800506.us.archive.org"
+  "ia800506.us.archive.org",
+  "ia600506.us.archive.org"
  ]
 }

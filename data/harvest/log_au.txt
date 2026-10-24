@@ -31,7 +31,7 @@
 [au] C. Santhalingam: 2
 [au/gb] ERR inauthor:"K. Rajan" Google Books quota exhausted for this run
 [au/gb] ERR inauthor:"கா. ராஜன்" Google Books quota exhausted for this run
-[au] K. Rajan archaeology: 39
+[au] K. Rajan archaeology: 40
 [au/gb] ERR inauthor:"Pulavar Se. Rasu" Google Books quota exhausted for this run
 [au/gb] ERR inauthor:"Se. Rasu" Google Books quota exhausted for this run
 [au/gb] ERR inauthor:"புலவர் செ. இராசு" Google Books quota exhausted for this run
@@ -257,6 +257,6 @@
 [au] publisher Archaeological Survey of India: 50
 [au/gb] ERR inpublisher:"Government Museum Chennai" Google Books quota exhausted for this run
 [au] publisher Government Museum Chennai: 33
-[au] saved 1637 records
-[au] took 592s
-total 592s
+[au] saved 1638 records
+[au] took 493s
+total 493s

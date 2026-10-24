@@ -173,7 +173,7 @@
 [ol] subject=Rock paintings: page 2 docs 720
 [ol] subject=Petroglyphs: page 1 docs 1000
 [ol] subject=Petroglyphs: page 2 docs 1000
-[ol] subject=Petroglyphs: page 3 docs 425
+[ol] subject=Petroglyphs: page 3 docs 424
 [ol] subject=Copper plates: page 1 docs 31
 [ol] subject=Brahmi inscriptions: page 1 docs 24
 [ol] subject=Coins, Tamil: page 1 docs 4
@@ -187,5 +187,5 @@
 [ol] subject=Inscriptions: page 5 docs 1000
 [ol] subject=Paleography, Tamil: page 1 docs 0
 [ol] saved 471 records
-[ol] took 356s
-total 356s
+[ol] took 338s
+total 338s
