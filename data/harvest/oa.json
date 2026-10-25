@@ -385,6 +385,22 @@
 },
 {
 "source": "OpenAlex",
+"source_id": "https://openalex.org/W654578660",
+"title": "South India under the Cholas",
+"alt_title": "",
+"authors": "Y. Subbarayalu",
+"publisher": "Centre National de la Recherche Scientifique",
+"place": "",
+"year": "2012",
+"language": "en",
+"subjects": "Epigraphy; Tamil; State (computer science); Revenue; Terminology; Index (typography); History; Geography; Ancient history; Genealogy",
+"url": "https://hal.science/hal-03252941",
+"access": "catalogue",
+"read_url": "",
+"download_url": ""
+},
+{
+"source": "OpenAlex",
 "source_id": "https://openalex.org/W2135272740",
 "title": "Epigraphia Zeylanica, being Lithic and other inscriptions of Ceylon",
 "alt_title": "",
@@ -1313,22 +1329,6 @@
 },
 {
 "source": "OpenAlex",
-"source_id": "https://openalex.org/W4302801544",
-"title": "Annual Report on Indian Epigraphy for 1973-74",
-"alt_title": "",
-"authors": "G. S. Gai; K. V. Ramesh",
-"publisher": "European Organization for Nuclear Research",
-"place": "",
-"year": "1986",
-"language": "en",
-"subjects": "Epigraphy; Ancient history; History",
-"url": "https://doi.org/10.5281/zenodo.3978825",
-"access": "open",
-"read_url": "https://doi.org/10.5281/zenodo.3978825",
-"download_url": ""
-},
-{
-"source": "OpenAlex",
 "source_id": "https://openalex.org/W4291298296",
 "title": "Annual Report on Indian Epigraphy for 1987-88",
 "alt_title": "",
@@ -1341,6 +1341,22 @@
 "url": "https://doi.org/10.5281/zenodo.3978969",
 "access": "open",
 "read_url": "https://doi.org/10.5281/zenodo.3978969",
+"download_url": ""
+},
+{
+"source": "OpenAlex",
+"source_id": "https://openalex.org/W4302801544",
+"title": "Annual Report on Indian Epigraphy for 1973-74",
+"alt_title": "",
+"authors": "G. S. Gai; K. V. Ramesh",
+"publisher": "European Organization for Nuclear Research",
+"place": "",
+"year": "1986",
+"language": "en",
+"subjects": "Epigraphy; Ancient history; History",
+"url": "https://doi.org/10.5281/zenodo.3978825",
+"access": "open",
+"read_url": "https://doi.org/10.5281/zenodo.3978825",
 "download_url": ""
 },
 {

@@ -91,5 +91,5 @@
 [doab] ERR directory.doabooks.org Pandya HTTP Error 403: Forbidden
 [doab] ERR library.oapen.org Pandya HTTP Error 403: Forbidden
 [doab] saved 0 records
-[doab] took 479s
-total 479s
+[doab] took 473s
+total 473s

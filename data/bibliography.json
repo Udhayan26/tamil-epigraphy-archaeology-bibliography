@@ -1,5 +1,5 @@
 {
-"generated": "2026-10-24",
+"generated": "2026-10-25",
 "count": 4109,
 "with_author": 2321,
 "with_publisher": 2326,
@@ -20,7 +20,7 @@
 "Noolaham": 34,
 "Open Library": 806,
 "Curated": 205,
-"OpenAlex": 142,
+"OpenAlex": 143,
 "Wikimedia Commons": 181,
 "HathiTrust": 935,
 "Tamil Wikisource": 41,
@@ -106165,10 +106165,13 @@
 "download_url": "",
 "buy_url": "",
 "source_url": "https://openlibrary.org/works/OL21036698W",
-"other_source_urls": [],
+"other_source_urls": [
+"https://hal.science/hal-03252941"
+],
 "sources": [
 "Curated",
-"Open Library"
+"Open Library",
+"OpenAlex"
 ],
 "curated": true,
 "scholar": "Y. Subbarayalu",
