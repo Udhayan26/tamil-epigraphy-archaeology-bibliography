@@ -114,6 +114,7 @@
 [oa] seppedu: total so far 352
 [oa] seppedugal: total so far 352
 [oa] seppedukal: total so far 352
+[oa] ERR ceppetu HTTP Error 429: Too Many Requests
 [oa] ceppetu: total so far 352
 [oa] ERR ceppetukal HTTP Error 429: Too Many Requests
 [oa] ceppetukal: total so far 352
@@ -133,7 +134,6 @@
 [oa] tholporul: total so far 352
 [oa] ERR agazhaivu HTTP Error 429: Too Many Requests
 [oa] agazhaivu: total so far 352
-[oa] ERR akalayvu HTTP Error 429: Too Many Requests
 [oa] akalayvu: total so far 352
 [oa] akazhaivu: total so far 352
 [oa] akalvaippakam: total so far 352
@@ -145,5 +145,5 @@
 [oa] sasanam: total so far 352
 [oa] pattayam: total so far 352
 [oa] saved 147 records
-[oa] took 2472s
-total 2472s
+[oa] took 2488s
+total 2488s

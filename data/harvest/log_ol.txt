@@ -161,7 +161,7 @@
 [ol] subject=Inscriptions: page 3 docs 1000
 [ol] subject=Inscriptions: page 4 docs 1000
 [ol] subject=Inscriptions: page 5 docs 1000
-[ol] ERR Tamil Nadu (India) HTTP Error 503: Service Unavailable
+[ol] subject=Tamil Nadu (India): page 1 docs 132
 [ol] subject=Excavations (Archaeology): page 1 docs 1000
 [ol] subject=Excavations (Archaeology): page 2 docs 1000
 [ol] subject=Excavations (Archaeology): page 3 docs 1000
@@ -187,5 +187,5 @@
 [ol] subject=Inscriptions: page 5 docs 1000
 [ol] subject=Paleography, Tamil: page 1 docs 0
 [ol] saved 471 records
-[ol] took 1237s
-total 1237s
+[ol] took 311s
+total 311s
