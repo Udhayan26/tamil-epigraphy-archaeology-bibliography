@@ -1089,22 +1089,6 @@
 },
 {
 "source": "OpenAlex",
-"source_id": "https://openalex.org/W4298026384",
-"title": "Epigraphia Indica 24 (1937-38)",
-"alt_title": "",
-"authors": "N. P. Chakravarti",
-"publisher": "European Organization for Nuclear Research",
-"place": "",
-"year": "1938",
-"language": "en",
-"subjects": "Geography",
-"url": "https://doi.org/10.5281/zenodo.1442730",
-"access": "open",
-"read_url": "https://doi.org/10.5281/zenodo.1442730",
-"download_url": ""
-},
-{
-"source": "OpenAlex",
 "source_id": "https://openalex.org/W2979291216",
 "title": "Epigraphia Indica 11 (1911-12)",
 "alt_title": "",
@@ -1117,6 +1101,22 @@
 "url": "https://doi.org/10.5281/zenodo.3475030",
 "access": "open",
 "read_url": "https://doi.org/10.5281/zenodo.3475030",
+"download_url": ""
+},
+{
+"source": "OpenAlex",
+"source_id": "https://openalex.org/W4298026384",
+"title": "Epigraphia Indica 24 (1937-38)",
+"alt_title": "",
+"authors": "N. P. Chakravarti",
+"publisher": "European Organization for Nuclear Research",
+"place": "",
+"year": "1938",
+"language": "en",
+"subjects": "Geography",
+"url": "https://doi.org/10.5281/zenodo.1442730",
+"access": "open",
+"read_url": "https://doi.org/10.5281/zenodo.1442730",
 "download_url": ""
 },
 {
@@ -1153,22 +1153,6 @@
 },
 {
 "source": "OpenAlex",
-"source_id": "https://openalex.org/W4292121043",
-"title": "Epigraphia Indica 17 (1923-24)",
-"alt_title": "",
-"authors": "Hosakote Krishna Sastri",
-"publisher": "European Organization for Nuclear Research",
-"place": "",
-"year": "1924",
-"language": "en",
-"subjects": "Geography",
-"url": "https://doi.org/10.5281/zenodo.3362336",
-"access": "open",
-"read_url": "https://zenodo.org/record/3362337",
-"download_url": ""
-},
-{
-"source": "OpenAlex",
 "source_id": "https://openalex.org/W4291306558",
 "title": "Epigraphia Indica 3 (1894-95)",
 "alt_title": "",
@@ -1181,6 +1165,22 @@
 "url": "https://doi.org/10.5281/zenodo.3384230",
 "access": "open",
 "read_url": "https://doi.org/10.5281/zenodo.3384230",
+"download_url": ""
+},
+{
+"source": "OpenAlex",
+"source_id": "https://openalex.org/W4292121043",
+"title": "Epigraphia Indica 17 (1923-24)",
+"alt_title": "",
+"authors": "Hosakote Krishna Sastri",
+"publisher": "European Organization for Nuclear Research",
+"place": "",
+"year": "1924",
+"language": "en",
+"subjects": "Geography",
+"url": "https://doi.org/10.5281/zenodo.3362336",
+"access": "open",
+"read_url": "https://zenodo.org/record/3362337",
 "download_url": ""
 },
 {

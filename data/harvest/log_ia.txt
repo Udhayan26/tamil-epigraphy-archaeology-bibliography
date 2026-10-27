@@ -59,7 +59,7 @@
 [ia]     0  title:(akalvaippakam*)
 [ia]     0  title:("paarai oviyangal")
 [ia]     0  title:("tamil pirami")
-[ia]   115  title:(tamili*)
+[ia]   113  title:(tamili*)
 [ia]     2  title:(vatteluttu*)
 [ia]     0  title:(vattezhuthu*)
 [ia]    11  title:(sasanam*)
@@ -176,7 +176,7 @@
 [ia]     0  collection:(tamilheritagefoundation) AND (title:(inscriptions OR epigraphy OR archaeology 
 [ia]     0  collection:(noolaham) AND (title:(inscriptions OR epigraphy OR archaeology OR excavation O
 [ia]  1043  collection:(TamilVirtualAcademy) AND (title:(inscriptions OR epigraphy OR archaeology OR e
-[ia] raw unique hits: 16429
+[ia] raw unique hits: 16427
 [ia] relevant: 5864
 [ia] enriching 5864 items via metadata API
 [ia] enriched 500
@@ -191,5 +191,5 @@
 [ia] enriched 5000
 [ia] enriched 5500
 [ia] saved 5864 records
-[ia] took 7184s
-total 7184s
+[ia] took 7282s
+total 7282s
