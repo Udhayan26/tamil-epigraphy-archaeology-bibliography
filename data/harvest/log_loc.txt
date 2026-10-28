@@ -108,68 +108,68 @@
 [loc] Ancient India bulletin: total so far 16
 [loc] Indian Archaeology a review: total so far 17
 [loc] Annual report archaeological department southern circle: total so far 18
-[loc] Mackenzie collection: total so far 18
-[loc] Tamil Nadu State Department of Archaeology: total so far 18
-[loc] Madras district gazetteer antiquities: total so far 19
-[loc] Vijayanagara inscriptions Tamil: total so far 19
-[loc] Nayak inscriptions: total so far 20
-[loc] Sethupathi copper plates: total so far 20
-[loc] Maratha Tanjore inscriptions: total so far 21
-[loc] Kongu inscriptions: total so far 21
-[loc] Jain inscriptions Tamil: total so far 22
-[loc] Buddhist Tamil inscriptions: total so far 23
-[loc] Grantha script: total so far 23
-[loc] Tamil script evolution: total so far 24
-[loc] Thanjavur Brihadisvara inscriptions: total so far 24
-[loc] Chidambaram inscriptions: total so far 24
-[loc] Srirangam inscriptions: total so far 25
-[loc] Kanchipuram inscriptions: total so far 26
-[loc] Tirumalai Tirupati inscriptions: total so far 26
-[loc] Madurai inscriptions: total so far 27
-[loc] palm-leaf manuscripts Tamil: total so far 28
-[loc] palm leaf manuscripts South India: total so far 29
-[loc] Tamil manuscripts catalogue: total so far 30
-[loc] descriptive catalogue Tamil manuscripts: total so far 31
-[loc] manuscriptology Tamil: total so far 31
-[loc] Government Oriental Manuscripts Library: total so far 33
-[loc] Saraswathi Mahal Library manuscripts: total so far 33
-[loc] Mackenzie manuscripts: total so far 34
-[loc] Tamil manuscripts conservation: total so far 34
-[loc] cadjan manuscripts: total so far 34
-[loc] palm leaf records Tamil Nadu: total so far 35
-[loc] Chola coins: total so far 36
-[loc] Pandya coins: total so far 37
-[loc] Chera coins: total so far 38
-[loc] Pallava coins: total so far 38
-[loc] Sangam age coins: total so far 38
-[loc] Roman coins South India: total so far 39
-[loc] Roman coins Tamil Nadu: total so far 40
-[loc] punch-marked coins Tamil Nadu: total so far 40
-[loc] South Indian coins: total so far 40
-[loc] Studies in South Indian Coins: total so far 40
-[loc] coins Madras Government Museum: total so far 40
-[loc] Vijayanagara coins: total so far 40
-[loc] Nayak coins: total so far 41
-[loc] Sri Lanka Tamil coins: total so far 42
-[loc] numismatics Tamil Nadu: total so far 42
-[loc] copper plate grants South India: total so far 42
-[loc] copper-plate grant Chola: total so far 42
-[loc] Velvikudi grant: total so far 42
-[loc] Larger Leiden plates: total so far 42
-[loc] Anbil plates: total so far 42
-[loc] Tiruvalangadu plates: total so far 42
-[loc] Karandai plates: total so far 42
-[loc] Kasakudi plates: total so far 42
-[loc] Esalam copper plates: total so far 42
-[loc] Sinnamanur plates: total so far 42
-[loc] seals sealings Tamil Nadu: total so far 43
-[loc] rock-cut caves Tamil Nadu: total so far 44
-[loc] Jaina beds Tamil Nadu: total so far 45
-[loc] cave inscriptions Madurai: total so far 46
-[loc] inscriptional glossary Tamil: total so far 46
-[loc] Tamil inscriptions translation: total so far 47
-[loc] Grantha inscriptions: total so far 47
-[loc] bilingual inscriptions Tamil Sanskrit: total so far 47
+[loc] Mackenzie collection: total so far 19
+[loc] Tamil Nadu State Department of Archaeology: total so far 19
+[loc] Madras district gazetteer antiquities: total so far 20
+[loc] Vijayanagara inscriptions Tamil: total so far 20
+[loc] Nayak inscriptions: total so far 21
+[loc] Sethupathi copper plates: total so far 21
+[loc] Maratha Tanjore inscriptions: total so far 22
+[loc] Kongu inscriptions: total so far 22
+[loc] Jain inscriptions Tamil: total so far 23
+[loc] Buddhist Tamil inscriptions: total so far 24
+[loc] Grantha script: total so far 24
+[loc] Tamil script evolution: total so far 25
+[loc] Thanjavur Brihadisvara inscriptions: total so far 25
+[loc] Chidambaram inscriptions: total so far 25
+[loc] Srirangam inscriptions: total so far 26
+[loc] Kanchipuram inscriptions: total so far 27
+[loc] Tirumalai Tirupati inscriptions: total so far 27
+[loc] Madurai inscriptions: total so far 28
+[loc] palm-leaf manuscripts Tamil: total so far 29
+[loc] palm leaf manuscripts South India: total so far 30
+[loc] Tamil manuscripts catalogue: total so far 31
+[loc] descriptive catalogue Tamil manuscripts: total so far 32
+[loc] manuscriptology Tamil: total so far 32
+[loc] Government Oriental Manuscripts Library: total so far 34
+[loc] Saraswathi Mahal Library manuscripts: total so far 34
+[loc] Mackenzie manuscripts: total so far 35
+[loc] Tamil manuscripts conservation: total so far 35
+[loc] cadjan manuscripts: total so far 35
+[loc] palm leaf records Tamil Nadu: total so far 36
+[loc] Chola coins: total so far 37
+[loc] Pandya coins: total so far 38
+[loc] Chera coins: total so far 39
+[loc] Pallava coins: total so far 39
+[loc] Sangam age coins: total so far 39
+[loc] Roman coins South India: total so far 40
+[loc] Roman coins Tamil Nadu: total so far 41
+[loc] punch-marked coins Tamil Nadu: total so far 41
+[loc] South Indian coins: total so far 41
+[loc] Studies in South Indian Coins: total so far 41
+[loc] coins Madras Government Museum: total so far 41
+[loc] Vijayanagara coins: total so far 41
+[loc] Nayak coins: total so far 42
+[loc] Sri Lanka Tamil coins: total so far 43
+[loc] numismatics Tamil Nadu: total so far 43
+[loc] copper plate grants South India: total so far 43
+[loc] copper-plate grant Chola: total so far 43
+[loc] Velvikudi grant: total so far 43
+[loc] Larger Leiden plates: total so far 43
+[loc] Anbil plates: total so far 43
+[loc] Tiruvalangadu plates: total so far 43
+[loc] Karandai plates: total so far 43
+[loc] Kasakudi plates: total so far 43
+[loc] Esalam copper plates: total so far 43
+[loc] Sinnamanur plates: total so far 43
+[loc] seals sealings Tamil Nadu: total so far 44
+[loc] rock-cut caves Tamil Nadu: total so far 45
+[loc] Jaina beds Tamil Nadu: total so far 46
+[loc] cave inscriptions Madurai: total so far 47
+[loc] inscriptional glossary Tamil: total so far 47
+[loc] Tamil inscriptions translation: total so far 48
+[loc] Grantha inscriptions: total so far 48
+[loc] bilingual inscriptions Tamil Sanskrit: total so far 48
 [loc] saved 4 records
-[loc] took 3922s
-total 3922s
+[loc] took 5165s
+total 5165s

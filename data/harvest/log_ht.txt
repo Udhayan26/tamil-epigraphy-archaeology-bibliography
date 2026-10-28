@@ -10,5 +10,5 @@
 [ht] scanned 18,000,000 lines, kept 1390
 [ht] scanned 19,701,406 lines total
 [ht] saved 1458 records
-[ht] took 2127s
-total 2127s
+[ht] took 2336s
+total 2336s
