@@ -27,6 +27,11 @@ Edit [`data/extra_sources.txt`](data/extra_sources.txt) on GitHub and add one li
 Public Google Drive folders (with sub-folders), Blogger blogs (all posts) and any page listing books or PDFs are supported.
 They are searched on every daily run.
 
+## No duplicates
+
+- The same book from different libraries, in Tamil script or romanised, with or without subtitle, or with the same ISBN, is one entry.
+- Every scan of the same volume of South Indian Inscriptions, Epigraphia Indica, Annual Report on Epigraphy, Indian Antiquary, Travancore Archaeological Series and Epigraphia Carnatica is one entry, with the extra scans listed as *Copy 2, Copy 3…*
+
 ## Links for each book
 
 - **Read online / Download PDF** – when the book is freely available
@@ -60,7 +65,9 @@ They are searched on every daily run.
 | PRE | Archaeology: Prehistory & Megaliths | தொல்பழங்காலம், பெருங்கற்காலம் |
 | ARC | Archaeology: General, Surveys & Museums | தொல்லியல்: பொது, அகழ்வைப்பகங்கள் |
 | HIS | History from Inscriptions | கல்வெட்டு வழி வரலாறு |
-| NUM | Numismatics (Inscribed Coins) | நாணயவியல் |
+| NUM | Numismatics (Coins) | நாணயவியல் |
+| PLM | Palm-leaf Manuscripts & Manuscriptology | ஓலைச்சுவடிகள், சுவடியியல் |
+| SEA | Seals, Rock-cut Caves & Jain Beds | முத்திரைகள், குடைவரைகள், சமணப் படுகைகள் |
 | REF | Reference: Catalogues, Lists & Glossaries | பட்டியல்கள், சொல்லகராதிகள் |
 | JOU | Journals & Periodicals | இதழ்கள் |
 | ONL | Online Resources & Digital Libraries | இணைய வளங்கள் |

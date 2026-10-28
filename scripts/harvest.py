@@ -80,6 +80,10 @@ TAMIL_TERMS = [
     "தமிழ் பிராமி", "தமிழி", "வட்டெழுத்து", "பட்டயம்", "சாசனம்", "சாசனங்கள்", "நாணயவியல்",
     "பழங்காசுகள்", "பெருங்கற்காலம்", "முதுமக்கள் தாழி", "கீழடி", "ஆதிச்சநல்லூர்", "கொடுமணல்",
     "சிவகளை", "பொருந்தல்", "அழகன்குளம்", "பூம்புகார் அகழாய்வு", "தொல்லெழுத்தியல்",
+    "ஓலைச்சுவடி", "ஓலைச்சுவடிகள்", "சுவடியியல்", "ஏட்டுச்சுவடி", "சுவடிகள்", "பனையோலை", "ஓலை ஆவணங்கள்",
+    "நாணயங்கள்", "காசுகள்", "பழங்காசு", "காசியல்", "சோழர் காசுகள்", "பாண்டியர் காசுகள்", "சங்ககாலக் காசுகள்",
+    "செப்புப் பட்டயம்", "செப்புப்பட்டயங்கள்", "பட்டயங்கள்", "முத்திரைகள்", "குடைவரை", "சமணப் படுகை",
+    "கல்வெட்டுச் சொல்", "சாசனத் தமிழ்", "தமிழ்க் கல்வெட்டுகள்", "கோயில் கல்வெட்டுகள்",
 ]
 ROMAN_TERMS = [
     "kalvettu", "kalvettukal", "kalvettukkal", "kalvettugal", "kalvetukal", "kalvettiyal",
@@ -87,6 +91,7 @@ ROMAN_TERMS = [
     "nadukarkal", "natukal", "natukarkal", "tholliyal", "tolliyal", "tholporul", "agazhaivu",
     "akalayvu", "akazhaivu", "akalvaippakam", "paarai oviyangal", "tamil pirami", "tamili",
     "vatteluttu", "vattezhuthu", "sasanam", "pattayam",
+    "olaichuvadi", "olai chuvadi", "olaiccuvati", "cuvatiyiyal", "suvadiyiyal", "suvadi", "kacukal", "kasukal", "nanayangal",
 ]
 EN_TERMS = [
     "Tamil inscriptions", "inscriptions Tamil Nadu", "Tamilnadu inscriptions", "Tamil epigraphy",
@@ -113,6 +118,16 @@ EN_TERMS = [
     "Maratha Tanjore inscriptions", "Kongu inscriptions", "Jain inscriptions Tamil", "Buddhist Tamil inscriptions",
     "Grantha script", "Tamil script evolution", "Thanjavur Brihadisvara inscriptions", "Chidambaram inscriptions",
     "Srirangam inscriptions", "Kanchipuram inscriptions", "Tirumalai Tirupati inscriptions", "Madurai inscriptions",
+    "palm-leaf manuscripts Tamil", "palm leaf manuscripts South India", "Tamil manuscripts catalogue", "descriptive catalogue Tamil manuscripts",
+    "manuscriptology Tamil", "Government Oriental Manuscripts Library", "Saraswathi Mahal Library manuscripts", "Mackenzie manuscripts",
+    "Tamil manuscripts conservation", "cadjan manuscripts", "palm leaf records Tamil Nadu",
+    "Chola coins", "Pandya coins", "Chera coins", "Pallava coins", "Sangam age coins", "Roman coins South India", "Roman coins Tamil Nadu",
+    "punch-marked coins Tamil Nadu", "South Indian coins", "Studies in South Indian Coins", "coins Madras Government Museum",
+    "Vijayanagara coins", "Nayak coins", "Sri Lanka Tamil coins", "numismatics Tamil Nadu",
+    "copper plate grants South India", "copper-plate grant Chola", "Velvikudi grant", "Larger Leiden plates", "Anbil plates",
+    "Tiruvalangadu plates", "Karandai plates", "Kasakudi plates", "Esalam copper plates", "Sinnamanur plates",
+    "seals sealings Tamil Nadu", "rock-cut caves Tamil Nadu", "Jaina beds Tamil Nadu", "cave inscriptions Madurai",
+    "inscriptional glossary Tamil", "Tamil inscriptions translation", "Grantha inscriptions", "bilingual inscriptions Tamil Sanskrit",
 ]
 SUBJECTS = [
     "Inscriptions, Tamil", "Tamil language--Inscriptions", "Inscriptions--India--Tamil Nadu",
@@ -123,15 +138,15 @@ SUBJECTS = [
 ]
 
 # ---------------------------------------------------------------- relevance
-TA_KW = re.compile(r"(கல்வெட்டு|கல்வெட்டி|செப்பேடு|நடுக(ல்|ற்)|வீரக்கல்|தொல்லியல்|தொல்பொருள்|அகழாய்வு|அகழ்வாய்வு|அகழ்வைப்பக|பாறை ஓவிய|குகை ஓவிய|பிராமி|தமிழி(?![\u0B80-\u0BFF])|வட்டெழுத்து|பட்டய|சாசன|நாணய|பழங்காசு|காசுகள்|பெருங்கற்|முதுமக்கள்|தாழி|கீழடி|ஆதிச்சநல்லூர்|கொடுமணல்|சிவகளை|பொருந்தல்|அழகன்குளம்|தொல்லெழுத்|தொல்பழங்கால)")
-RO_KW = re.compile(r"(kal[vw]e[td]+[ui]|kalved+u|kalvettiyal|[sc]h?ep+[ae][dt]u|natukal|nadukal|natukar|nadukar|t?hol+iyal|tolliyal|tholporul|agazh|akazh|akal[aā]yvu|akalvaip|vat+e[lz]h?ut+u|pirami|piraami)", re.I)
-EN_KW = re.compile(r"(inscri|epigraph|palaeograph|paleograph|copper[- ]?plate|hero[- ]?stone|memorial stone|rock art|rock[- ]paint|petroglyph|cave paint|excavat|archaeolog|antiquit|antiquarian|megalith|prehistor|neolithic|palaeolith|urn[- ]burial|dolmen|cairn|brahmi|graffiti|numismat|\bcoins?\b|keeladi|keezhadi|adichanallur|arikamedu|kodumanal|porunthal|alagankulam|kaveripattinam|poompuhar|sivagalai|mangulam|epigraphia|copper plates)", re.I)
+TA_KW = re.compile(r"(கல்வெட்டு|கல்வெட்டி|செப்பேடு|நடுக(ல்|ற்)|வீரக்கல்|தொல்லியல்|தொல்பொருள்|அகழாய்வு|அகழ்வாய்வு|அகழ்வைப்பக|பாறை ஓவிய|குகை ஓவிய|பிராமி|தமிழி(?![\u0B80-\u0BFF])|வட்டெழுத்து|பட்டய|சாசன|நாணய|பழங்காசு|காசுகள்|பெருங்கற்|முதுமக்கள்|தாழி|கீழடி|ஆதிச்சநல்லூர்|கொடுமணல்|சிவகளை|பொருந்தல்|அழகன்குளம்|தொல்லெழுத்|தொல்பழங்கால|ஓலைச்சுவடி|ஓலைச்சுவடிகள்|சுவடியியல்|ஏட்டுச்சுவடி|பனையோலை|நாணயங்கள்|காசியல்|முத்திரைகள்|குடைவரை|சமணப் படுகை)")
+RO_KW = re.compile(r"(kal[vw]e[td]+[ui]|kalved+u|kalvettiyal|[sc]h?ep+[ae][dt]u|natukal|nadukal|natukar|nadukar|t?hol+iyal|tolliyal|tholporul|agazh|akazh|akal[aā]yvu|akalvaip|vat+e[lz]h?ut+u|pirami|piraami|ola[i]?\s?c+h?u[vw]a[dt]i|cuvatiyiyal|suvadiyiyal)", re.I)
+EN_KW = re.compile(r"(coinage|palm[- ]?leaf|cadjan|manuscript|manuscriptology|seals?\b|sealings|rock[- ]cut cave|jaina? beds|inscri|epigraph|palaeograph|paleograph|copper[- ]?plate|hero[- ]?stone|memorial stone|rock art|rock[- ]paint|petroglyph|cave paint|excavat|archaeolog|antiquit|antiquarian|megalith|prehistor|neolithic|palaeolith|urn[- ]burial|dolmen|cairn|brahmi|graffiti|numismat|\bcoins?\b|keeladi|keezhadi|adichanallur|arikamedu|kodumanal|porunthal|alagankulam|kaveripattinam|poompuhar|sivagalai|mangulam|epigraphia|copper plates)", re.I)
 CTX = re.compile(r"(?<![a-z])(tamil|tamizh|madras|south india|southern india|dravid|chola|cola|pandya|pandiya|pallava|chera|pudukkottai|tanjore|thanjavur|madurai|kanchi|tirunelveli|coimbatore|kongu|salem|trichy|tiruchirappalli|vellore|arcot|chingleput|chengalpattu|kanyakumari|travancore|nilgiri|dharmapuri|krishnagiri|ramanathapuram|sivaganga|thoothukudi|tuticorin|pondicherry|puducherry|vijayanagar|nayak|sri lanka|ceylon|jaffna|keeladi|keezhadi|adichanallur|arikamedu|kodumanal|porunthal|alagankulam|kaveripattinam|poompuhar|sivagalai|south indian|uraiyur|korkai|kanchipuram|kanchi|mamallapuram|mahabalipuram|chidambaram|kumbakonam|karur|erode|tiruvannamalai|villupuram|cuddalore|nagapattinam|tiruvarur|virudhunagar|theni|dindigul|namakkal|perambalur|ariyalur|karaikal|gingee|senji|uttaramerur|uttiramerur|tirumalai|tirupati|sittannavasal|kalugumalai|kazhugumalai|vellalur|paiyampalli|attirampakkam|pallavaram|tirukkoyilur|tiruchendur|rameswaram|nilgiris|kerala|malabar|vatteluttu|grantha|kongu|nanjil|chingleput|tamilaham|tamilakam|sangam)(?![a-z])", re.I)
 NOISE = re.compile(r"(spain|spanish|guadalajara|espa|portug|athen|attic|jerusalem|yerushal|pompei|ercolan|herculan|graec|inscriptionum|inscriptiones|sylloge|lapidarium|wyandotte|indiana|bible|testament|gospel|epistle|hebrew|latin|italic|anatolia|asia minor|cyprus|troy|sinai|kiev|russia|slav|canarese|kannada|telugu|andhra|sravana|belgola|amaravati|pahlav|kashmir|bengal|assam|orissa|odisha|nepal|tibet|burma|myanmar|persian|arabic|egypt|greek|rome\b|roman empire|babylon|maya|mesopotam|china|chinese|japan|korea|europe|britain|england|scotland|ireland|america|mexico|africa|cambodia|java|indonesia|bihar|bundelkhand|kalinga|maharashtra|gujarat|rajasthan|punjab|sindh|harappa|mohenjo|mathura|gandhara|afghan|iran|israel|palestine|bible|biblical|assyria|hittite|aegean|etrusc|viking|anglo|celtic|norse|canaan|phoenic|crete|turkey|syria)", re.I)
 TAMIL_SCRIPT = re.compile(r"[஀-௿]")
 
 
-SERIES = re.compile(r"(south[- ]indian inscriptions|epigraphia indica|annual reports? (on|of) (the )?(south[- ]indian |indian )?epigraphy|report on (south[- ]indian |indian )?epigraphy|madras epigraph|government epigraphist|indian antiquary|travancore archaeological|inscriptions of the pudukkottai|pudukkottai state|archaeological survey of southern india|antiquarian remains in the presidency of madras|lists? of inscriptions .*madras|topographical list of (the )?inscriptions|annual report.{0,40}archaeolog.{0,40}(madras|southern circle|south(ern)? india)|ancient india[:,]? bulletin|indian archaeology[ ,:-]+a review|epigraphia carnatica|south indian temple inscriptions|tirumalai.tirupati devasthanam inscriptions)", re.I)
+SERIES = re.compile(r"(studies in south indian coins|descriptive catalogue of (the )?tamil manuscripts|catalogue of (the )?tamil manuscripts|oriental manuscripts library|saraswath?i mahal|mackenzie (collection|manuscripts)|south[- ]indian inscriptions|epigraphia indica|annual reports? (on|of) (the )?(south[- ]indian |indian )?epigraphy|report on (south[- ]indian |indian )?epigraphy|madras epigraph|government epigraphist|indian antiquary|travancore archaeological|inscriptions of the pudukkottai|pudukkottai state|archaeological survey of southern india|antiquarian remains in the presidency of madras|lists? of inscriptions .*madras|topographical list of (the )?inscriptions|annual report.{0,40}archaeolog.{0,40}(madras|southern circle|south(ern)? india)|ancient india[:,]? bulletin|indian archaeology[ ,:-]+a review|epigraphia carnatica|south indian temple inscriptions|tirumalai.tirupati devasthanam inscriptions)", re.I)
 
 
 def fold(t):
@@ -1110,6 +1125,14 @@ AUTHORS = [
     (["Seetharam Gurumurthy", "சீதாராம் குருமூர்த்தி"], ["seetharam", "சீதாராம்"]),
     (["T. Arunraj archaeology"], ["arunraj"]),
     (["Amarnath Ramakrishna"], ["amarnath"]),
+    (["T. Desikachari"], ["desikachari"]),
+    (["Walter Elliot"], ["elliot, walter", "walter elliot"]),
+    (["Michael Mitchiner"], ["mitchiner"]),
+    (["A. V. Narasimha Murthy"], ["narasimha murthy", "narasimhamurthy"]),
+    (["S. Suresh Roman coins"], ["suresh, s", "s. suresh"]),
+    (["P. L. Gupta numismatics"], ["gupta, p. l", "p. l. gupta", "parmeshwari lal gupta"]),
+    (["William Taylor oriental manuscripts"], ["taylor, william", "william taylor"]),
+    (["H. H. Wilson Mackenzie"], ["wilson, h. h", "h. h. wilson", "horace hayman wilson"]),
 ]
 PUBLISHERS = [
     ("Tamil Nadu State Department of Archaeology", ["archaeology", "tolliyal", "tholliyal", "தொல்லியல்", "தொல்பொருள்"], True),
@@ -1126,6 +1149,12 @@ PUBLISHERS = [
     ("Institute of Asian Studies Chennai", ["asian studies"], False),
     ("Archaeological Survey of India", ["archaeological survey"], False),
     ("Government Museum Chennai", ["government museum", "museum"], False),
+    ("Government Oriental Manuscripts Library", ["oriental manuscripts", "manuscripts library"], True),
+    ("Tanjore Maharaja Serfoji's Sarasvati Mahal Library", ["sarasvati mahal", "saraswathi mahal", "saraswati mahal", "சரசுவதி மகால்"], True),
+    ("South Indian Numismatic Society", ["numismatic society"], True),
+    ("Garnet Publishers", ["garnet"], False),
+    ("Institut français de Pondichéry", ["institut français", "french institute", "ifp"], False),
+    ("École française d'Extrême-Orient", ["extrême-orient", "extreme-orient", "efeo"], False),
 ]
 
 

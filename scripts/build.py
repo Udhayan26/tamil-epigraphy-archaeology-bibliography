@@ -27,6 +27,8 @@ CATEGORIES = OrderedDict([
     ("ARC", ("Archaeology: General, Surveys & Museums", "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்")),
     ("HIS", ("History from Inscriptions", "கல்வெட்டு வழி வரலாறு")),
     ("NUM", ("Numismatics (Coins)", "நாணயவியல்")),
+    ("PLM", ("Palm-leaf Manuscripts & Manuscriptology", "ஓலைச்சுவடிகள், சுவடியியல்")),
+    ("SEA", ("Seals, Rock-cut Caves & Jain Beds", "முத்திரைகள், குடைவரைகள், சமணப் படுகைகள்")),
     ("REF", ("Reference: Catalogues, Lists & Glossaries", "பட்டியல்கள், சொல்லகராதிகள்")),
     ("JOU", ("Journals & Periodicals", "இதழ்கள்")),
     ("ONL", ("Online Resources & Digital Libraries", "இணைய வளங்கள்")),
@@ -40,7 +42,9 @@ RULES = [
     ("ROC", r"(பாறை ஓவிய|குகை ஓவிய|ஓவியங்கள்|rock[- ]?art|rock[- ]paint|petroglyph|cave paint|pictograph|mural|paintings? in tamil|oviya)"),
     ("TBR", r"(பிராமி|தமிழி(?![\u0B80-\u0BFF])|வட்டெழுத்து|brahmi|tamili\b|vatteluttu|vattezhuthu|graffiti|potsherd|early writing|\bscripts?\b)"),
     ("CPP", r"(செப்பேடு|பட்டய|copper[- ]?plates?|ceppe|seppe|cheppe|pattayam|charter)"),
-    ("NUM", r"(நாணய|காசு|\bcoins?\b|numismat)"),
+    ("NUM", r"(நாணய|காசு|காசியல்|\bcoins?\b|coinage|numismat|kacukal|kasukal)"),
+    ("PLM", r"(ஓலைச்சுவடி|ஓலை ஆவண|சுவடியியல்|ஏட்டுச்சுவடி|சுவடிகள்|பனையோலை|palm[- ]?leaf|cadjan|manuscriptology|manuscripts? (library|catalogue|collection)|catalogue of (the )?(tamil |oriental )?manuscripts|olai\s?c+h?u[vw]a[dt]i|cuvatiyiyal|suvadi)"),
+    ("SEA", r"(முத்திரை|குடைவரை|சமணப் படுகை|\bseals?\b|sealings|rock[- ]cut cave|cave temple|jaina? beds)"),
     ("EXC", r"(அகழாய்வு|அகழ்வாய்வு|excavat|keeladi|keezhadi|கீழடி|adichanallur|ஆதிச்சநல்லூர்|arikamedu|kodumanal|கொடுமணல்|porunthal|பொருந்தல்|alagankulam|அழகன்குளம்|kaveripattinam|poompuhar|பூம்புகார்|sivagalai|சிவகளை|uraiyur|korkai|mangulam|modur|vasavasamudram|akalayvu|agazhaivu)"),
     ("PRE", r"(பெருங்கற்|முதுமக்கள்|தாழி|தொல்பழங்கால|megalith|prehistor|palaeolith|paleolith|neolith|urn burial|dolmen|cairn|stone age|pandoo|pandukal)"),
     ("REF", r"(topographical list|அகராதி|அகரமுதலி|glossary|dictionary|concordance|catalogue|catalog\b|அடைவு|index of|bibliography|lists? of (inscriptions|antiquarian))"),
@@ -236,6 +240,123 @@ def series_key(title, series=""):
     return None
 
 
+# ------------------------------------------------------------ second pass: same book with/without subtitle, author spelling, script
+def main_title_key(t):
+    t = clean_title(t or "")
+    t = re.split(r"\s[:/;]\s|:\s|\s/\s|\s—\s|\s–\s|\s-\s|\(|\[", t)[0]
+    return skeleton(t)[:70]
+
+
+def core_key(t):
+    t = clean_title(t or "")
+    t = re.split(r"\s/\s", t)[0]
+    t = re.sub(r"(\d{4})\s*[-–/]\s*\d{2,4}", r"\1", t)
+    t = re.sub(r"\(.*?\)|\[.*?\]", " ", t)
+    return skeleton(t)[:90]
+
+
+def title_years(titles):
+    return {y for t in titles for y in re.findall(r"(?<!\d)(1[6-9]\d\d|20[0-3]\d)(?!\d)", t or "")}
+
+
+def vol_tokens(t):
+    t = translit(t or "").lower()
+    return tuple(sorted(set(re.findall(r"(?:vol(?:ume)?|part|pt|tokuti|thogudi|thokuthi|no)\.?\s*[-:]?\s*(\d{1,3}|[ivx]{1,6})\b", t))))
+
+
+def surname_key(a):
+    a = (a or "").split(";")[0]
+    a = translit(a) if TAMIL.search(a) else a
+    toks = [x for x in re.split(r"[\s,.()\-]+", a.lower()) if len(x) > 3 and x not in
+            ("editor", "edited", "compiler", "department", "government", "india", "tamil", "nadu", "state", "archaeology", "translated")]
+    return skeleton(max(toks, key=len)) if toks else ""
+
+
+def years_ok(a, b):
+    ya, yb = re.match(r"\d{4}", a or ""), re.match(r"\d{4}", b or "")
+    return not ya or not yb or abs(int(ya.group()) - int(yb.group())) <= 1
+
+
+def absorb(a, b):
+    """merge entry b into a"""
+    for s_ in b["sources"]:
+        if s_ not in a["sources"]:
+            a["sources"].append(s_)
+    for u in b["source_urls"]:
+        if u not in a["source_urls"]:
+            a["source_urls"].append(u)
+    for t in b["titles"]:
+        if t not in a["titles"]:
+            a["titles"].append(t)
+    for c in b.get("copies", []):
+        if c not in a.setdefault("copies", []):
+            a["copies"].append(c)
+    a.setdefault("member_keys", []).extend(k for k in b.get("member_keys", []) if k not in a["member_keys"])
+    for f in ("authors", "publisher", "place", "year", "language", "subjects", "isbn", "pages", "description", "full_text", "buy_url", "download_url", "notes"):
+        if not a.get(f) and b.get(f):
+            a[f] = b[f]
+    rank = {"open": 4, "open-us": 3, "preview": 2, "borrow": 1, "catalogue": 0, "": 0, None: 0}
+    if rank.get(b.get("access"), 0) > rank.get(a.get("access"), 0):
+        if a.get("read_url") or a.get("download_url"):
+            c = {"read": a.get("read_url", ""), "pdf": a.get("download_url", "")}
+            if c not in a["copies"]:
+                a["copies"].append(c)
+        a["access"], a["read_url"] = b.get("access"), b.get("read_url", "")
+        a["download_url"] = b.get("download_url") or a.get("download_url", "")
+    if b.get("found_by") and b["found_by"] not in a.get("found_by", ""):
+        a["found_by"] = (a.get("found_by", "") + "; " + b["found_by"]).strip("; ")
+
+
+def richness(m):
+    return (m["source"] == "Curated", sum(1 for f in ("authors", "publisher", "year", "place") if m.get(f)), len(m.get("sources", [])))
+
+
+def fuzzy_merge(merged):
+    groups = {}
+    for k, m in merged.items():
+        if k.startswith("SERIES|") or m.get("is_journal"):
+            continue
+        keys = {main_title_key(t) for t in m["titles"]}
+        for mk in keys:
+            if len(mk) >= 6:
+                groups.setdefault(mk, []).append(k)
+    gone = set()
+    n = 0
+    for mk, ks in groups.items():
+        ks = [k for k in dict.fromkeys(ks) if k not in gone and k in merged]
+        if len(ks) < 2:
+            continue
+        ks.sort(key=lambda k: richness(merged[k]), reverse=True)
+        for i, ka in enumerate(ks):
+            if ka in gone:
+                continue
+            a = merged[ka]
+            for kb in ks[i + 1:]:
+                if kb in gone:
+                    continue
+                b = merged[kb]
+                sa, sb = surname_key(a.get("authors")), surname_key(b.get("authors"))
+                va, vb = vol_tokens(" ".join(a["titles"])), vol_tokens(" ".join(b["titles"]))
+                ca = {core_key(t) for t in a["titles"]}; cb = {core_key(t) for t in b["titles"]}
+                ma = {main_title_key(t) for t in a["titles"]}; mb = {main_title_key(t) for t in b["titles"]}
+                same_book = bool(ca & cb) or bool(ca & mb) or bool(cb & ma)
+                shared = (ca & cb) | (ca & mb) | (cb & ma)
+                short = min((len(x) for x in shared), default=0) < 12
+                bare_series = any(rx.fullmatch(re.sub(r"[^a-z ]", "", clean_title(t).lower()).strip()) for t in a["titles"] + b["titles"] for _, rx in SERIES_CANON)
+                authors_match = bool(sa and sb and (sa == sb or sa in sb or sb in sa))
+                tya, tyb = title_years(a["titles"]), title_years(b["titles"])
+                if tya and tyb and tya.isdisjoint(tyb):
+                    continue
+                if (same_book and not bare_series and (not short or authors_match)
+                        and (not sa or not sb or authors_match) and years_ok(a.get("year"), b.get("year")) and (not va or not vb or va == vb)):
+                    absorb(a, b)
+                    gone.add(kb)
+                    n += 1
+    for k in gone:
+        merged.pop(k, None)
+    return n
+
+
 # ------------------------------------------------------------ curated
 def load_curated():
     recs = []
@@ -294,7 +415,7 @@ def main():
             continue
         if r["source"] == "Internet Archive":
             fix_by_title(r)
-        if r["source"] == "HathiTrust" and r.get("series") and re.search(r"\d{4}\s*-\s*[\]\.<]*\s*$", r.get("imprint", "")):
+        if r["source"] == "HathiTrust" and r.get("series") and re.search(r"\d{4}\s*-", r.get("imprint", "")):
             y = re.search(r"\b(1[6-9]\d\d|20[0-3]\d)\b", r.get("series", ""))
             r["year"] = y.group(1) if y else ""
         if r["source"] == "Internet Archive" and "access" not in r:
@@ -381,6 +502,8 @@ def main():
         if r.get("buy_url") and not m.get("buy_url"):
             m["buy_url"] = r["buy_url"]
 
+    n_fuzzy = fuzzy_merge(merged)
+    print("merged near-duplicates:", n_fuzzy)
     rows = []
     counters = Counter()
     for mkey, m in merged.items():
