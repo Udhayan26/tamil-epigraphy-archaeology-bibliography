@@ -517,12 +517,19 @@ def harvest_nl():
     tl = list(titles)
     rows = live("nl")
     log(f"[nl] fetching content of {len(tl)} pages")
-    for i in range(0, len(tl), 20):
-        batch = tl[i:i + 20]
+    for i in range(0, len(tl), 5):
+        batch = tl[i:i + 5]
         try:
-            j = get(NL_API, sleep=0.6, data={"action": "query", "prop": "revisions", "rvprop": "content",
-                                             "rvslots": "main", "titles": "|".join(batch), "format": "json",
-                                             "formatversion": 2})
+            url = NL_API + "?" + urllib.parse.urlencode({"action": "query", "prop": "revisions", "rvprop": "content",
+                                                         "rvslots": "main", "titles": "|".join(batch), "format": "json",
+                                                         "formatversion": 2})
+            raw = get(url, sleep=0.6, as_json=False, tries=2)
+            try:
+                j = json.loads(raw)
+            except Exception:
+                if i < 15:
+                    (SAMPLES / f"nl_fail_{i}.txt").write_text(raw[:5000], encoding="utf-8")
+                raise
         except Exception as e:
             log("[nl] content ERR", e)
             continue
@@ -1007,24 +1014,36 @@ def harvest_td():
         log("[td] robots.txt disallows - skipped")
         return save("td", list(prev.values()))
     n_ok = 0
+    fails = 0
     for i, (r, num) in enumerate(targets[:1500]):
         raw_title = re.sub(r"^\s*(நூல்|இதழ்)\s*-\s*", "", r["title"]).strip()
-        url = probe + urllib.parse.quote(f"நூல்-{num}-{raw_title}")
-        try:
-            html = get(url, as_json=False, sleep=0.8, tries=2, ua=BROWSER_UA)
-        except Exception as e:
-            if i < 5:
-                log("[td] ERR", num, e)
-            continue
-        if i < 3:
-            (SAMPLES / f"td_{num}.html").write_text(html[:80000], encoding="utf-8")
-        f = parse_marc_html(html)
+        urls = [probe + urllib.parse.quote(f"நூல்-{int(num)}-{raw_title}"),
+                probe + urllib.parse.quote(f"{num.zfill(6)}_{re.sub(r'\s+', '_', raw_title)}"),
+                probe + urllib.parse.quote(f"நூல்-{num}-{raw_title}")]
+        f, used, html = {}, "", ""
+        for url in urls:
+            try:
+                html = get(url, as_json=False, sleep=0.6, tries=2, ua=BROWSER_UA)
+            except Exception as e:
+                html = ""
+                continue
+            if len(html) > 2000:
+                f = parse_marc_html(html)
+                if f:
+                    used = url
+                    break
         if f:
             n_ok += 1
-            rows.append({"source": "TDL-details", "source_id": r["source_id"], "title": r["title"], "url": url,
+            if n_ok <= 2:
+                (SAMPLES / f"td_ok_{num}.html").write_text(html[:80000], encoding="utf-8")
+            rows.append({"source": "TDL-details", "source_id": r["source_id"], "title": r["title"], "url": used,
                          "authors": "; ".join(f.get("authors", [])), "publisher": f.get("publisher", ""),
                          "place": f.get("place", ""), "year": f.get("year", ""), "pages": f.get("pages", ""),
                          "isbn": f.get("isbn", "")})
+        else:
+            fails += 1
+            if fails <= 3 and html:
+                (SAMPLES / f"td_fail_{num}.html").write_text(html[:80000], encoding="utf-8")
         if i and i % 100 == 0:
             log(f"[td] {i} fetched, {n_ok} parsed")
     log(f"[td] parsed {n_ok} of {min(len(targets), 1500)}")
