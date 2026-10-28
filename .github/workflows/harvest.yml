@@ -75,11 +75,24 @@ jobs:
         run: |
           pip install -q openpyxl
           python scripts/merge_harvest.py /tmp/prev data/harvest | tee data/harvest/merge_summary.txt
-          python scripts/build.py | tee data/harvest/build_summary.txt
-      - name: Commit results
+          mkdir -p /tmp/run && cp data/harvest/*.json data/harvest/*.txt /tmp/run/ 2>/dev/null || true
+          cp -r data/harvest/samples /tmp/run/ 2>/dev/null || true
+      - name: Rebuild on latest main and save
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A data
-          git commit -m "Harvest update $(date -u +%Y-%m-%d)" || echo "nothing to commit"
-          for i in 1 2 3; do git pull --rebase -X theirs origin main && git push && break; sleep 5; done
+          for i in 1 2 3 4 5; do
+            git fetch -q origin main
+            git reset -q --hard origin/main
+            mkdir -p /tmp/latest && rm -f /tmp/latest/*.json && cp data/harvest/*.json /tmp/latest/ 2>/dev/null || true
+            cp /tmp/run/*.json data/harvest/ 2>/dev/null || true
+            cp /tmp/run/*.txt data/harvest/ 2>/dev/null || true
+            cp -r /tmp/run/samples data/harvest/ 2>/dev/null || true
+            python scripts/merge_harvest.py /tmp/latest data/harvest > /dev/null
+            python scripts/build.py | tee data/harvest/build_summary.txt
+            git add -A data
+            git commit -q -m "Harvest update $(date -u +%Y-%m-%d)" || { echo "nothing to commit"; exit 0; }
+            if git push -q origin HEAD:main; then echo "saved"; exit 0; fi
+            echo "push failed, retrying ($i)"; sleep $((i*10))
+          done
+          echo "::error::could not save results"; exit 1
