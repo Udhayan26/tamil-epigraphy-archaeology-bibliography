@@ -139,6 +139,7 @@ def main():
         ("With direct PDF download", f"=COUNTIF({B}!P2:P{n},\"PDF\")"),
         ("Not online – buy / library", f"=COUNTIF({B}!N2:N{n},\"Not online*\")"),
         ("Tamil-language", f"=COUNTIF({B}!J2:J{n},\"Tamil*\")"),
+        ("Added in last 7 days", f"=COUNTIF({B}!U2:U{n},\">=\"&(TODAY()-7))"),
         ("Added in last 30 days", f"=COUNTIF({B}!U2:U{n},\">=\"&(TODAY()-30))"),
     ]
     ws["A5"], ws["B5"] = "Overview", "Count"
