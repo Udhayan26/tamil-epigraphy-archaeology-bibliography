@@ -32,7 +32,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        source: ${{ fromJSON(github.event.inputs.sources != '' && github.event.inputs.sources || (github.event.schedule == '17 21 * * *' && '["xs","ia","ol","gb","nl","oa","doab","ws","cm","wi"]' || '["xs","ia","ol","gb","loc","nl","au","oa","doab","ws","ht","cm","wi"]')) }}
+        source: ${{ fromJSON(github.event.inputs.sources != '' && github.event.inputs.sources || (github.event.schedule == '17 21 * * *' && '["xs","ia","ol","gb","nl","oa","ws","cm","wi","td"]' || '["xs","ia","ol","gb","loc","nl","au","oa","doab","ws","ht","cm","wi","td"]')) }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5

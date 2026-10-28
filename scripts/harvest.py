@@ -42,9 +42,9 @@ def get(url, tries=4, as_json=True, sleep=0.4, data=None, ua=None):
             body = urllib.parse.urlencode(data).encode() if data else None
             req = urllib.request.Request(url, data=body, headers={"User-Agent": ua or UA, "Accept": "application/json, text/html;q=0.9, */*;q=0.8"})
             with urllib.request.urlopen(req, timeout=60) as r:
-                data = r.read().decode("utf-8", "replace")
+                text = r.read().decode("utf-8", "replace")
             time.sleep(sleep)
-            return json.loads(data) if as_json else data
+            return json.loads(text) if as_json else text
         except Exception as e:  # noqa
             last = e
             code = getattr(e, "code", None)
@@ -934,6 +934,88 @@ def harvest_xs():
     return save("xs", rows)
 
 
+# ---------------------------------------------------------------- Tamil Digital Library catalogue details for its mirrored books
+MARC_TAGS = {"100": "authors", "110": "authors", "700": "authors", "245": "title", "260": "imprint", "264": "imprint",
+             "300": "pages", "020": "isbn", "041": "language", "546": "language"}
+
+
+def parse_marc_html(html):
+    """Very tolerant: find MARC tag rows like '100 ... a Name' in the TDL MARC view."""
+    text = re.sub(r"<(br|/tr|/p|/div|/li)[^>]*>", "\n", html, flags=re.I)
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = re.sub(r"&nbsp;|&#160;", " ", text)
+    out = {}
+    for line in text.split("\n"):
+        line = re.sub(r"\s+", " ", line).strip()
+        m = re.match(r"^(\d{3})\b\s*(.*)$", line)
+        if not m or m.group(1) not in MARC_TAGS:
+            continue
+        tag, rest = m.group(1), m.group(2)
+        subs = dict(re.findall(r"[$|‡]\s*([a-z])\s*([^$|‡]+)", rest))
+        if tag in ("100", "110", "700"):
+            name = (subs.get("a") or rest).strip(" ,.;:")
+            if name and len(name) < 120:
+                out.setdefault("authors", [])
+                if name not in out["authors"]:
+                    out["authors"].append(name)
+        elif tag in ("260", "264"):
+            out["place"] = (subs.get("a") or "").strip(" :;,[]")
+            out["publisher"] = (subs.get("b") or "").strip(" :;,[]")
+            y = re.search(r"(1[6-9]\d\d|20[0-3]\d)", subs.get("c") or rest)
+            if y:
+                out["year"] = y.group(1)
+        elif tag == "300":
+            out["pages"] = (subs.get("a") or rest)[:60].strip(" :;,")
+        elif tag == "020":
+            out["isbn"] = re.sub(r"[^0-9Xx]", "", subs.get("a") or rest)[:13]
+    return out
+
+
+def harvest_td():
+    rows = live("td")
+    prev = {}
+    pf = OUT / "td.json"
+    if pf.exists():
+        try:
+            prev = {r["source_id"]: r for r in json.loads(pf.read_text(encoding="utf-8"))}
+        except Exception:
+            prev = {}
+    ia = json.loads((OUT / "ia.json").read_text(encoding="utf-8")) if (OUT / "ia.json").exists() else []
+    targets = []
+    for r in ia:
+        m = re.match(r"^tdl\.(\d{3,6})-", r["source_id"])
+        if m and r["source_id"] not in prev and (not r.get("authors") or not r.get("publisher")):
+            targets.append((r, m.group(1)))
+    log(f"[td] {len(targets)} mirrored books need details ({len(prev)} done before)")
+    probe = "https://tamildigitallibrary.in/Marc-Articles/"
+    if not robots_ok(probe + "x"):
+        log("[td] robots.txt disallows - skipped")
+        return save("td", list(prev.values()))
+    n_ok = 0
+    for i, (r, num) in enumerate(targets[:1500]):
+        raw_title = re.sub(r"^\s*(நூல்|இதழ்)\s*-\s*", "", r["title"]).strip()
+        url = probe + urllib.parse.quote(f"நூல்-{num}-{raw_title}")
+        try:
+            html = get(url, as_json=False, sleep=0.8, tries=2, ua=BROWSER_UA)
+        except Exception as e:
+            if i < 5:
+                log("[td] ERR", num, e)
+            continue
+        if i < 3:
+            (SAMPLES / f"td_{num}.html").write_text(html[:80000], encoding="utf-8")
+        f = parse_marc_html(html)
+        if f:
+            n_ok += 1
+            rows.append({"source": "TDL-details", "source_id": r["source_id"], "title": r["title"], "url": url,
+                         "authors": "; ".join(f.get("authors", [])), "publisher": f.get("publisher", ""),
+                         "place": f.get("place", ""), "year": f.get("year", ""), "pages": f.get("pages", ""),
+                         "isbn": f.get("isbn", "")})
+        if i and i % 100 == 0:
+            log(f"[td] {i} fetched, {n_ok} parsed")
+    log(f"[td] parsed {n_ok} of {min(len(targets), 1500)}")
+    return save("td", rows + list(prev.values()))
+
+
 # ---------------------------------------------------------------- authors & publishers
 # (search names, tokens that must appear in the record's author field)
 AUTHORS = [
@@ -1159,7 +1241,7 @@ def harvest_au():
     return save("au", rows)
 
 
-SOURCES = {"ia": harvest_ia, "ol": harvest_ol, "gb": harvest_gb, "loc": harvest_loc, "nl": harvest_nl, "au": harvest_au, "oa": harvest_oa, "doab": harvest_doab, "ws": harvest_ws, "ht": harvest_ht, "cm": harvest_cm, "wi": harvest_wi, "xs": harvest_xs}
+SOURCES = {"ia": harvest_ia, "ol": harvest_ol, "gb": harvest_gb, "loc": harvest_loc, "nl": harvest_nl, "au": harvest_au, "oa": harvest_oa, "doab": harvest_doab, "ws": harvest_ws, "ht": harvest_ht, "cm": harvest_cm, "wi": harvest_wi, "xs": harvest_xs, "td": harvest_td}
 
 
 class Deadline(Exception):

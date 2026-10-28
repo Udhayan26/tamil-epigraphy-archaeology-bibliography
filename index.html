@@ -151,6 +151,7 @@ button.theme{margin-left:auto;font:inherit;font-size:13px;background:none;border
     const acts = [];
     if ((r.access==="open"||r.access==="open-us") && r.read_url) acts.push(`<a class="open" href="${esc(r.read_url)}" target="_blank" rel="noopener">📖 Read online</a>`);
     if (r.download_url) acts.push(`<a class="open" href="${esc(r.download_url)}" target="_blank" rel="noopener">⬇ Download PDF</a>`);
+    (r.copies||[]).slice(0,5).forEach((c,i)=>{ const u=c.pdf||c.read; if(u) acts.push(`<a href="${esc(u)}" target="_blank" rel="noopener">${c.pdf?"⬇":"📖"} Copy ${i+2}</a>`); });
     if (r.access==="preview" && r.read_url) acts.push(`<a href="${esc(r.read_url)}" target="_blank" rel="noopener">Preview</a>`);
     if (r.source_url) acts.push(`<a href="${esc(r.source_url)}" target="_blank" rel="noopener">Source record</a>`);
     (r.other_source_urls||[]).slice(0,3).forEach((u,i)=>acts.push(`<a href="${esc(u)}" target="_blank" rel="noopener">Record ${i+2}</a>`));

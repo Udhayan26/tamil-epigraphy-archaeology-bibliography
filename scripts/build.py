@@ -191,6 +191,51 @@ def fix_by_title(r):
         r["authors"] = ""
 
 
+# ------------------------------------------------------------ series volumes: one entry per volume, all scans as copies
+SERIES_CANON = [
+    ("South Indian Inscriptions", re.compile(r"south[- ]indian inscriptions", re.I)),
+    ("Epigraphia Indica", re.compile(r"epigraphia indica", re.I)),
+    ("Indian Antiquary", re.compile(r"indian antiquary", re.I)),
+    ("Annual Report on Epigraphy", re.compile(r"annual reports? (on|of) (the )?(south[- ]indian |indian )?epigraphy|report on (south[- ]indian |indian )?epigraphy", re.I)),
+    ("Travancore Archaeological Series", re.compile(r"travancore archaeological series", re.I)),
+    ("Epigraphia Carnatica", re.compile(r"epigraphia carnatica", re.I)),
+]
+_RN = {"i": 1, "ii": 2, "iii": 3, "iv": 4, "v": 5, "vi": 6, "vii": 7, "viii": 8, "ix": 9, "x": 10, "xi": 11, "xii": 12, "xiii": 13,
+       "xiv": 14, "xv": 15, "xvi": 16, "xvii": 17, "xviii": 18, "xix": 19, "xx": 20, "xxi": 21, "xxii": 22, "xxiii": 23, "xxiv": 24,
+       "xxv": 25, "xxvi": 26, "xxvii": 27, "xxviii": 28, "xxix": 29, "xxx": 30, "xxxi": 31, "xxxii": 32, "xxxiii": 33, "xxxiv": 34,
+       "xxxv": 35, "xxxvi": 36, "xxxvii": 37, "xxxviii": 38, "xxxix": 39, "xl": 40, "xli": 41, "xlii": 42}
+
+
+def _num(x):
+    x = x.lower().strip(".")
+    return int(x) if x.isdigit() else _RN.get(x)
+
+
+def series_key(title, series=""):
+    t = re.sub(r"^\s*(acl[- ]?(arch|cpl)\s*\d+|the)\s+", "", (title or "") + " " + (series or ""), flags=re.I)
+    if re.search(r"(supplement|appendix|index|dictionary|glossary|selected|select\b|studies|concordance)", t, re.I):
+        return None
+    for canon, rx in SERIES_CANON:
+        m = rx.search(t)
+        if not m or m.start() > 25:
+            continue
+        rest = t[m.end():]
+        if canon == "Annual Report on Epigraphy":
+            y = re.search(r"\b(18[89]\d|19\d\d|20[0-2]\d)\b", rest)
+            return (f"SERIES|{canon}|y{y.group(1)}", f"{canon} {y.group(1)}") if y else None
+        v = re.search(r"\b(?:vol(?:ume)?s?|v)\s*\.?\s*[-:]?\s*(\d{1,3}|[ivxl]{1,7})\b", rest, re.I)
+        if not v:
+            v = re.match(r"\s*[,.:-]?\s*(\d{1,2}|[ivxl]{1,7})\b", rest, re.I)
+        if not v or _num(v.group(1)) is None:
+            return None
+        vol = _num(v.group(1))
+        p = re.search(r"\b(?:part|pt|parat)\s*\.?\s*[-:]?\s*(\d{1,2}|[ivx]{1,5})\b", rest, re.I)
+        part = _num(p.group(1)) if p else None
+        label = f"{canon}, Vol. {vol}" + (f", Part {part}" if part else "")
+        return (f"SERIES|{canon}|v{vol}|p{part or 0}", label)
+    return None
+
+
 # ------------------------------------------------------------ curated
 def load_curated():
     recs = []
@@ -224,6 +269,14 @@ SOURCE_RANK = {"Curated": 0, "Tamil Digital Library": 1, "Internet Archive": 2, 
 
 def main():
     curated, harvested = load_curated(), load_harvest()
+    details = {r["source_id"]: r for r in harvested if r.get("source") == "TDL-details"}
+    harvested = [r for r in harvested if r.get("source") != "TDL-details"]
+    for r in harvested:
+        d_ = details.get(r.get("source_id"))
+        if d_ and r.get("source") == "Internet Archive":
+            for f in ("authors", "publisher", "place", "year", "pages", "isbn"):
+                if d_.get(f) and not r.get(f):
+                    r[f] = d_[f]
     heritage, books = [], []
     sys.path.insert(0, str(Path(__file__).resolve().parent))
     from harvest import relevant, relevant_author
@@ -241,6 +294,9 @@ def main():
             continue
         if r["source"] == "Internet Archive":
             fix_by_title(r)
+        if r["source"] == "HathiTrust" and r.get("series") and re.search(r"\d{4}\s*-\s*[\]\.<]*\s*$", r.get("imprint", "")):
+            y = re.search(r"\b(1[6-9]\d\d|20[0-3]\d)\b", r.get("series", ""))
+            r["year"] = y.group(1) if y else ""
         if r["source"] == "Internet Archive" and "access" not in r:
             borrow = re.search(r"(inlibrary|printdisabled|lendinglibrary)", r.get("collection", ""), re.I)
             r["access"], r["read_url"] = ("borrow", "") if borrow else ("open", r["url"])
@@ -263,9 +319,17 @@ def main():
             else:
                 r.update(access="catalogue" if u else "")
         is_journal_issue = r.get("is_journal", False)
-        key = skeleton(r["title"])[:100]
-        if is_journal_issue or len(key) < 8:
-            key = f"{key}|{r['source']}|{r['source_id']}"
+        sk = series_key(r["title"], r.get("series", ""))
+        old_key = skeleton(r["title"])[:100]
+        if is_journal_issue or len(old_key) < 8:
+            old_key = f"{old_key}|{r['source']}|{r['source_id']}"
+        if sk:
+            key = sk[0]
+            r["canon_title"] = sk[1]
+        else:
+            key = skeleton(r["title"])[:100]
+            if is_journal_issue or len(key) < 8:
+                key = f"{key}|{r['source']}|{r['source_id']}"
         isbns = [re.sub(r"[^0-9Xx]", "", x) for x in re.split(r"[;,\s]+", r.get("isbn") or "") if len(re.sub(r"[^0-9Xx]", "", x)) in (10, 13)]
         for i_ in isbns:
             if i_ in isbn_key and isbn_key[i_] in merged:
@@ -278,6 +342,11 @@ def main():
             m["sources"] = [r["source"]]
             m["source_urls"] = [r["url"]] if r.get("url") else []
             m["titles"] = [r["title"]] + ([r["alt_title"]] if r.get("alt_title") else [])
+            m["copies"] = []
+            m["member_keys"] = [old_key]
+            m["years"] = [r["year"]] if r.get("year") else []
+            if r.get("access") in ("open", "open-us") and (r.get("read_url") or r.get("download_url")):
+                m["copies"].append({"read": r.get("read_url", ""), "pdf": r.get("download_url", "")})
             merged[key] = m
             continue
         m = merged[key]
@@ -296,6 +365,14 @@ def main():
         for f in ("isbn", "pages", "description", "full_text"):
             if r.get(f) and not m.get(f):
                 m[f] = r[f]
+        if r.get("year"):
+            m.setdefault("years", []).append(r["year"])
+        if old_key not in m["member_keys"]:
+            m["member_keys"].append(old_key)
+        if r.get("access") in ("open", "open-us") and (r.get("read_url") or r.get("download_url")):
+            c = {"read": r.get("read_url", ""), "pdf": r.get("download_url", "")}
+            if c not in m["copies"]:
+                m["copies"].append(c)
         rank = {"open": 4, "open-us": 3, "preview": 2, "borrow": 1, "catalogue": 0, "": 0}
         if rank.get(r.get("access", ""), 0) > rank.get(m.get("access", ""), 0):
             m["access"], m["read_url"] = r.get("access"), r.get("read_url", "")
@@ -310,6 +387,13 @@ def main():
         if m.get("full_text") and m.get("access") not in ("open",):
             m.setdefault("read_url", m["full_text"])
         titles = m["titles"]
+        if m.get("canon_title") and m.get("years") and m["source"] != "Curated":
+            ys = Counter(y[:4] for y in m["years"] if re.match(r"\d{4}", y))
+            if ys:
+                m["year"] = sorted(ys.items(), key=lambda kv: (-kv[1], kv[0]))[0][0]
+        if m.get("canon_title"):
+            m["alt_title"] = m.get("alt_title") or next((t for t in titles if t != m["canon_title"]), "")
+            titles = [m["canon_title"]] + [t for t in titles if TAMIL.search(t)]
         ta = next((t for t in titles if TAMIL.search(t)), "")
         lat = next((t for t in titles if not TAMIL.search(t) and re.search(r"[A-Za-z]", t)), "")
         title_ta = ta
@@ -319,9 +403,9 @@ def main():
         typ = m.get("type") or ("Journal issue" if cat == "JOU" else "Book")
         counters[cat] += 1
         rows.append({
-            "id": "", "_key": mkey, "category": cat,
+            "id": "", "_key": mkey, "_members": m.get("member_keys", []), "category": cat,
             "category_name": CATEGORIES[cat][0], "category_name_ta": CATEGORIES[cat][1],
-            "title": m["title"], "title_ta": title_ta, "title_en": title_en,
+            "title": m.get("canon_title") or m["title"], "title_ta": title_ta, "title_en": title_en,
             "title_en_note": "romanised from Tamil" if title_en_is_translit else "",
             "alt_title": m.get("alt_title", ""),
             "authors": m.get("authors", ""), "authors_roman": translit(m.get("authors", "")) if TAMIL.search(m.get("authors", "")) else "",
@@ -329,12 +413,13 @@ def main():
             "place": m.get("place", ""), "year": m.get("year", ""), "period": period(m.get("year", "")),
             "language": m["language"] if m["source"] == "Curated" else lang_of(" ".join(titles), m.get("language"), m["source"]),
             "type": typ, "series": m.get("series", ""), "isbn": m.get("isbn", ""), "pages": m.get("pages", ""),
-            "notes": m.get("notes") or (m.get("description") or "")[:220],
+            "notes": m.get("notes") or ("" if re.search(r"(digital library of india|scanning cent|date accessioned|barcode|uploaded by|digitized by)", m.get("description") or "", re.I) else (m.get("description") or "")[:220]),
             "subjects": (m.get("subjects") or "")[:200],
             "access": m.get("access") or ("catalogue" if m["source_urls"] else ""),
             "read_url": m.get("read_url", ""), "download_url": m.get("download_url", ""),
             "buy_url": m.get("buy_url", ""),
             "source_url": m["source_urls"][0] if m["source_urls"] else "",
+            "copies": [c for c in m.get("copies", []) if c.get("read") != m.get("read_url") or c.get("pdf") != m.get("download_url")][:8],
             "other_source_urls": m["source_urls"][1:6],
             "sources": m["sources"], "curated": m["source"] == "Curated",
             "scholar": "; ".join(x.split(":", 1)[1] for x in (m.get("found_by") or "").split("; ") if x.startswith("author:")),
@@ -349,9 +434,28 @@ def main():
     reg_path = DATA / "registry.json"
     reg = json.loads(reg_path.read_text(encoding="utf-8")) if reg_path.exists() else {}
     nxt = max([int(v["id"].split("-")[1]) for v in reg.values()] or [0]) + 1
+    # repair: one ID per entry (older builds could hand the same ID to two keys)
+    seen_ids = set()
+    for k in sorted(reg, key=lambda k: (reg[k]["added"], reg[k]["id"], k)):
+        if reg[k]["id"] in seen_ids:
+            reg[k] = {"id": f"TB-{nxt:06d}", "added": reg[k]["added"]}
+            nxt += 1
+        seen_ids.add(reg[k]["id"])
     first_build = not reg
+    used = {reg[r["_key"]]["id"] for r in rows if r["_key"] in reg}
     for r in rows:
         k = r.pop("_key")
+        members = r.pop("_members")
+        if k not in reg:
+            prior = sorted((reg[x] for x in members if x in reg), key=lambda v: (v["added"], v["id"]))
+            free = [p_ for p_ in prior if p_["id"] not in used]
+            if free:
+                reg[k] = dict(free[0])
+                used.add(free[0]["id"])
+            elif prior:
+                reg[k] = {"id": f"TB-{nxt:06d}", "added": prior[0]["added"]}
+                nxt += 1
+                used.add(reg[k]["id"])
         if k not in reg:
             reg[k] = {"id": f"TB-{nxt:06d}", "added": "2026-10-20" if first_build or r["curated"] else today.isoformat()}
             nxt += 1
@@ -376,12 +480,13 @@ def main():
 
     from urllib.parse import quote_plus
     for r in rows:
+        r["more_copies"] = " ; ".join(c.get("pdf") or c.get("read") for c in r.get("copies", []))
         q = (r["title_en"] or r["title"])[:120] + " " + (r["authors"].split(";")[0] if r["authors"] else "")
         r["buy_search_url"] = ("https://www.panuval.com/index.php?route=product/search&search=" + quote_plus(r["title_ta"][:80])
                                if r["title_ta"] else "https://www.amazon.in/s?k=" + quote_plus(q.strip()))
     cols = ["id", "added", "category", "category_name", "category_name_ta", "type", "title_ta", "title_en", "title_en_note",
             "authors", "authors_roman", "publisher", "publisher_roman", "place", "year", "period", "language", "scholar",
-            "series", "isbn", "pages", "access", "read_url", "download_url", "buy_url", "buy_search_url", "source_url", "other_source_urls", "notes", "subjects"]
+            "series", "isbn", "pages", "access", "read_url", "download_url", "more_copies", "buy_url", "buy_search_url", "source_url", "other_source_urls", "notes", "subjects"]
     with open(DATA / "bibliography.csv", "w", encoding="utf-8-sig", newline="") as f:
         w = csv.writer(f)
         w.writerow(cols)
