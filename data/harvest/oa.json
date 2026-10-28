@@ -1025,22 +1025,6 @@
 },
 {
 "source": "OpenAlex",
-"source_id": "https://openalex.org/W4292079012",
-"title": "Epigraphia Indica 25 (1939-40)",
-"alt_title": "",
-"authors": "N. P. Chakravarti",
-"publisher": "European Organization for Nuclear Research",
-"place": "",
-"year": "1939",
-"language": "en",
-"subjects": "Computer science",
-"url": "https://doi.org/10.5281/zenodo.3360402",
-"access": "open",
-"read_url": "https://zenodo.org/record/3360403",
-"download_url": ""
-},
-{
-"source": "OpenAlex",
 "source_id": "https://openalex.org/W3214349589",
 "title": "Epigraphia Indica 38 (1969-70)",
 "alt_title": "",
@@ -1053,6 +1037,22 @@
 "url": "https://doi.org/10.5281/zenodo.3366879",
 "access": "open",
 "read_url": "https://zenodo.org/record/3366880",
+"download_url": ""
+},
+{
+"source": "OpenAlex",
+"source_id": "https://openalex.org/W4292079012",
+"title": "Epigraphia Indica 25 (1939-40)",
+"alt_title": "",
+"authors": "N. P. Chakravarti",
+"publisher": "European Organization for Nuclear Research",
+"place": "",
+"year": "1939",
+"language": "en",
+"subjects": "Computer science",
+"url": "https://doi.org/10.5281/zenodo.3360402",
+"access": "open",
+"read_url": "https://zenodo.org/record/3360403",
 "download_url": ""
 },
 {
@@ -1185,22 +1185,6 @@
 },
 {
 "source": "OpenAlex",
-"source_id": "https://openalex.org/W4291322956",
-"title": "Epigraphia Indica 15 (1919-20)",
-"alt_title": "",
-"authors": "F. W. Thomas",
-"publisher": "European Organization for Nuclear Research",
-"place": "",
-"year": "1925",
-"language": "en",
-"subjects": "Computer science",
-"url": "https://doi.org/10.5281/zenodo.3362297",
-"access": "open",
-"read_url": "https://zenodo.org/record/3362298",
-"download_url": ""
-},
-{
-"source": "OpenAlex",
 "source_id": "https://openalex.org/W4300437961",
 "title": "Epigraphia Indica 34 (1961-62)",
 "alt_title": "",
@@ -1213,6 +1197,22 @@
 "url": "https://doi.org/10.5281/zenodo.3475081",
 "access": "open",
 "read_url": "https://zenodo.org/record/3475082",
+"download_url": ""
+},
+{
+"source": "OpenAlex",
+"source_id": "https://openalex.org/W4291322956",
+"title": "Epigraphia Indica 15 (1919-20)",
+"alt_title": "",
+"authors": "F. W. Thomas",
+"publisher": "European Organization for Nuclear Research",
+"place": "",
+"year": "1925",
+"language": "en",
+"subjects": "Computer science",
+"url": "https://doi.org/10.5281/zenodo.3362297",
+"access": "open",
+"read_url": "https://zenodo.org/record/3362298",
 "download_url": ""
 },
 {
@@ -1297,22 +1297,6 @@
 },
 {
 "source": "OpenAlex",
-"source_id": "https://openalex.org/W4300646543",
-"title": "Annual Report on Indian Epigraphy for 1992-93",
-"alt_title": "",
-"authors": "Madhav N. Katti; M.D. Sampath",
-"publisher": "European Organization for Nuclear Research",
-"place": "",
-"year": "1998",
-"language": "en",
-"subjects": "Epigraphy; Ancient history; Geography; History",
-"url": "https://doi.org/10.5281/zenodo.5005453",
-"access": "open",
-"read_url": "https://doi.org/10.5281/zenodo.5005453",
-"download_url": ""
-},
-{
-"source": "OpenAlex",
 "source_id": "https://openalex.org/W4213145771",
 "title": "Annual Report on Indian Epigraphy for 1982-83",
 "alt_title": "",
@@ -1325,6 +1309,22 @@
 "url": "https://doi.org/10.5281/zenodo.5005412",
 "access": "open",
 "read_url": "https://doi.org/10.5281/zenodo.5005412",
+"download_url": ""
+},
+{
+"source": "OpenAlex",
+"source_id": "https://openalex.org/W4300646543",
+"title": "Annual Report on Indian Epigraphy for 1992-93",
+"alt_title": "",
+"authors": "Madhav N. Katti; M.D. Sampath",
+"publisher": "European Organization for Nuclear Research",
+"place": "",
+"year": "1998",
+"language": "en",
+"subjects": "Epigraphy; Ancient history; Geography; History",
+"url": "https://doi.org/10.5281/zenodo.5005453",
+"access": "open",
+"read_url": "https://doi.org/10.5281/zenodo.5005453",
 "download_url": ""
 },
 {
@@ -2129,22 +2129,6 @@
 },
 {
 "source": "OpenAlex",
-"source_id": "https://openalex.org/W4285020635",
-"title": "The Indian Antiquary 15 (1886)",
-"alt_title": "",
-"authors": "John Faithfull Fleet",
-"publisher": "European Organization for Nuclear Research",
-"place": "",
-"year": "",
-"language": "en",
-"subjects": "Computer science",
-"url": "https://doi.org/10.5281/zenodo.3364252",
-"access": "open",
-"read_url": "https://zenodo.org/record/3364253",
-"download_url": ""
-},
-{
-"source": "OpenAlex",
 "source_id": "https://openalex.org/W4291227554",
 "title": "The Indian Antiquary 61 (1932)",
 "alt_title": "",
@@ -2157,6 +2141,22 @@
 "url": "https://doi.org/10.5281/zenodo.3457371",
 "access": "open",
 "read_url": "https://zenodo.org/record/3457372",
+"download_url": ""
+},
+{
+"source": "OpenAlex",
+"source_id": "https://openalex.org/W4285020635",
+"title": "The Indian Antiquary 15 (1886)",
+"alt_title": "",
+"authors": "John Faithfull Fleet",
+"publisher": "European Organization for Nuclear Research",
+"place": "",
+"year": "",
+"language": "en",
+"subjects": "Computer science",
+"url": "https://doi.org/10.5281/zenodo.3364252",
+"access": "open",
+"read_url": "https://zenodo.org/record/3364253",
 "download_url": ""
 },
 {

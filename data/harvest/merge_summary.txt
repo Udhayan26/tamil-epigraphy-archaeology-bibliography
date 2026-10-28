@@ -1,5 +1,5 @@
 au.json: previous 1654, this run 1654, kept from before 0, total 1654
-cm.json: previous 189, this run 184, kept from before 5, total 189
+cm.json: previous 189, this run 182, kept from before 7, total 189
 doab.json: previous 0, this run 0, kept from before 0, total 0
 gb.json: previous 0, this run 0, kept from before 0, total 0
 ht.json: previous 2173, this run 2173, kept from before 0, total 2173

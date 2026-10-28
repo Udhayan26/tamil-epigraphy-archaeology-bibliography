@@ -44,5 +44,5 @@
 [nl] content ERR not a valid non-string sequence or mapping object
 [nl] content ERR not a valid non-string sequence or mapping object
 [nl] saved 0 records
-[nl] took 98s
-total 98s
+[nl] took 104s
+total 104s

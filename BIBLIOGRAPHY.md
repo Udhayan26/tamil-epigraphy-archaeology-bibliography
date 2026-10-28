@@ -1,6 +1,6 @@
 # Bibliography by Category / வகைவாரிப் பட்டியல்
 
-Generated 2026-10-27 · **4109** books, reports & journal issues · 2321 with author/editor · 2306 with publisher · 2845 with year · 2539 open access (1905 with direct download).
+Generated 2026-10-28 · **4109** books, reports & journal issues · 2321 with author/editor · 2306 with publisher · 2845 with year · 2539 open access (1905 with direct download).
 
 ## Epigraphy: Manuals, Palaeography & Studies — கல்வெட்டியல்: கையேடுகள், எழுத்தியல், ஆய்வுகள் (151)
 
@@ -1252,7 +1252,7 @@ Generated 2026-10-27 · **4109** books, reports & journal issues · 2321 with au
 | TB-000498 | 1926 | Two statues of Palla kings and five Pallava inscriptions in a rock-temple at Mahabalipuram | H. Krishna Sastri | Govt. of India, Central Publication Branch, Calcutta | English |  ·  | [Record](https://openlibrary.org/works/OL1772525W) |
 | TB-000499 | 1926 | Two statues of Pallava kings and five Pallava inscriptions in a rock-temple at Mahabalipuram | H. Krishna Sastri | Government of India, Central publication branch, Calcutta | English |  ·  | [Record](https://openlibrary.org/works/OL44792642W) |
 | TB-000500 | 1928 | South-Indian inscriptions : miscellaneous inscriptions from the Tamil Telugu and Kannada countries (with five plates) | — | Government of India, Calcutta | Tamil | [Read](https://archive.org/details/dli.csl.7357) · [PDF](https://archive.org/download/dli.csl.7357/7357.pdf) | [Record](https://archive.org/details/dli.csl.7357) |
-| TB-000501 | 1930 | Report on the inscriptions of the Devasthanam collection with illustrations | Sadhu Subrahmanya Sastry | Tirupati Sri Mahant's Press; Tirumala Tirupati Devasthanam; Sine nomine, Tirupati; Madras | English |  ·  | [Record](https://openlibrary.org/works/OL2322151W) |
+| TB-000501 | 1930 | Report on the inscriptions of the Devasthanam collection with illustrations | Sadhu Subrahmanya Sastry | Sine nomine; Tirupati Sri Mahant's Press; Tirumala Tirupati Devasthanam, [s.l; Madras | English |  ·  | [Record](https://openlibrary.org/works/OL2322151W) |
 | TB-000502 | 1932 | Historical inscriptions of Southern India (collected till 1923) and outlines of political hisotry | Sewell, Robert | University of Madras, Madras | English | [Read](https://archive.org/details/dli.csl.6511) · [PDF](https://archive.org/download/dli.csl.6511/6511.pdf) | [Record](https://archive.org/details/dli.csl.6511) |
 | TB-000503 | 1932 | South-Indian inscriptions (texts) : miscellaneous inscriptions from the Tamil, Malayalam, Telugu and Kannada countries | — | The Government of India, Calcutta | English | [Read](https://archive.org/details/dli.csl.7363) · [PDF](https://archive.org/download/dli.csl.7363/7363.pdf) | [Record](https://archive.org/details/dli.csl.7363) |
 | TB-000504 | 1932 | The Historical Inscriptions of Southern India | Robert Sewell | — | English | [Read](https://archive.org/details/in.ernet.dli.2015.277064) · [PDF](https://archive.org/download/in.ernet.dli.2015.206655/2015.206655.The-Historical.pdf) | [Record](https://archive.org/details/in.ernet.dli.2015.277064) |

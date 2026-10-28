@@ -20,6 +20,7 @@
 [oa] Pallava copper plates: total so far 182
 [oa] Chola copper plates: total so far 184
 [oa] Pandya copper plates: total so far 185
+[oa] ERR copper plates Tamil HTTP Error 401: Unauthorized
 [oa] copper plates Tamil: total so far 193
 [oa] Tamil Brahmi: total so far 195
 [oa] Tamil-Brahmi inscriptions: total so far 196
@@ -154,5 +155,5 @@
 [oa] ERR pattayam HTTP Error 429: Too Many Requests
 [oa] pattayam: total so far 352
 [oa] saved 147 records
-[oa] took 3739s
-total 3739s
+[oa] took 3768s
+total 3768s
