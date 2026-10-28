@@ -19,7 +19,7 @@ Each entry has:
 - **Every day at 02:47 IST** – quick search of catalogues, open-access collections and your listed sources.
 - **Every Saturday at 01:17 IST** – full deep search (old/colonial catalogue, ~90 scholars by name, all catalogues).
 - Each book keeps a **permanent ID** (`TB-000123`) and the **date it was first added**; duplicates (same title in Tamil script / romanised, or same ISBN) are merged into one entry.
-- New finds of the last 30 days: [`data/new_books.csv`](data/new_books.csv), or on the website choose **Newly added**.
+- New finds of the last 30 days: the **Newly Added** sheet in the Excel file.
 
 ## Add your own sources (Google Drive, blogs, government sites)
 
@@ -39,16 +39,21 @@ They are searched on every daily run.
 - **Source record** – the catalogue page the details came from
 
 
-## What's inside
+## The book list (Excel)
 
-| File | Contents |
+📥 **[data/Tamil_Epigraphy_Books.xlsx](data/Tamil_Epigraphy_Books.xlsx)**, updated automatically every day.
+
+| Sheet | Contents |
 |---|---|
-| [`index.html`](index.html) | Searchable website: filter by category, language, period, link status |
-| [`BIBLIOGRAPHY.md`](BIBLIOGRAPHY.md) | Full list as Markdown tables, grouped by category |
-| [`data/bibliography.csv`](data/bibliography.csv) | Spreadsheet (UTF-8, opens in Excel): title_ta, title_en, authors, publisher, year, access, read_url, download_url, source_url… |
-| [`data/bibliography.json`](data/bibliography.json) | Machine-readable data with search links |
-| [`data/records.txt`](data/records.txt) | Master source file (edit this to add books) |
-| [`scripts/build.py`](scripts/build.py) | Regenerates CSV, JSON, JS and Markdown from the master file |
+| Summary | Totals and per-category counts, with links to each sheet |
+| All Books | Every book / volume, one row each, with filters |
+| Newly Added (30 days) | What the daily search found recently |
+| One sheet per category | Epigraphy, SII & colonial series, Tamil Nadu inscriptions, Copper plates, Tamil-Brahmi, Hero stones, Rock art, Excavations, Prehistory, Archaeology, History, Coins, Palm-leaf manuscripts, Seals & caves, Catalogues, Journals |
+| Photo Records (not books) | Single hero-stone / inscription photo records, kept apart |
+
+Columns: ID · Category · வகை · Title (Tamil) · Title (English / romanised) · Author / Editor · Publisher · Place · Year · Language · Type · Series / Volume · ISBN · Access · **Read** · **PDF** · More copies · **Buy** · Source record · Other records · Date added · Notes
+
+Scripts: `scripts/harvest.py` (search), `scripts/build.py` (merge, de-duplicate, classify), `scripts/excel.py` (workbook). Hand-checked core list: `data/records.txt`.
 
 ## Categories / வகைகள்
 

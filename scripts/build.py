@@ -610,43 +610,11 @@ def main():
     cols = ["id", "added", "category", "category_name", "category_name_ta", "type", "title_ta", "title_en", "title_en_note",
             "authors", "authors_roman", "publisher", "publisher_roman", "place", "year", "period", "language", "scholar",
             "series", "isbn", "pages", "access", "read_url", "download_url", "more_copies", "buy_url", "buy_search_url", "source_url", "other_source_urls", "notes", "subjects"]
-    with open(DATA / "bibliography.csv", "w", encoding="utf-8-sig", newline="") as f:
-        w = csv.writer(f)
-        w.writerow(cols)
-        for r in rows:
-            w.writerow([" ; ".join(r[c]) if isinstance(r[c], list) else r[c] for c in cols])
-    recent = [r for r in rows if r["added"] >= (today - __import__("datetime").timedelta(days=30)).isoformat() and not r["curated"]]
-    with open(DATA / "new_books.csv", "w", encoding="utf-8-sig", newline="") as f:
-        w = csv.writer(f)
-        w.writerow(cols)
-        for r in sorted(recent, key=lambda r: r["added"], reverse=True):
-            w.writerow([" ; ".join(r[c]) if isinstance(r[c], list) else r[c] for c in cols])
-    with open(DATA / "heritage_records.csv", "w", encoding="utf-8-sig", newline="") as f:
-        w = csv.writer(f)
-        w.writerow(["title_ta", "title_en", "category", "source_url"])
-        for r in heritage:
-            w.writerow([r["title"], translit(r["title"]), classify(r["title"]) or "", r["url"]])
-
-    md = ["# Bibliography by Category / வகைவாரிப் பட்டியல்", "",
-          f"Generated {meta['generated']} · **{len(rows)}** books, reports & journal issues · "
-          f"{meta['with_author']} with author/editor · {meta['with_publisher']} with publisher · "
-          f"{meta['with_year']} with year · {meta['open_access']} open access ({meta['with_download']} with direct download).", ""]
-    for code, (en, ta) in CATEGORIES.items():
-        rs = [r for r in rows if r["category"] == code]
-        if not rs:
-            continue
-        md += [f"## {en} — {ta} ({len(rs)})", "",
-               "| ID | Year | Title (Tamil / English) | Author / Editor | Publisher | Lang | Read / Download | Source |",
-               "|---|---|---|---|---|---|---|---|"]
-        for r in rs:
-            t = " <br>".join(x for x in (r["title_ta"], r["title_en"]) if x) or r["title"]
-            rd = " · ".join(x for x in ((f"[Read]({r['read_url']})" if r["read_url"] and r["access"] == "open" else ""),
-                                        (f"[PDF]({r['download_url']})" if r["download_url"] else ""))) or "—"
-            src = f"[Record]({r['source_url']})" if r["source_url"] else "—"
-            cells = [r["id"], r["year"] or "—", t, r["authors"] or "—", ", ".join(x for x in (r["publisher"], r["place"]) if x) or "—", r["language"], rd, src]
-            md.append("| " + " | ".join(str(c).replace("|", "/").replace("\n", " ") for c in cells) + " |")
-        md.append("")
-    (ROOT / "BIBLIOGRAPHY.md").write_text("\n".join(md), encoding="utf-8")
+    (DATA / "heritage_records.json").write_text(json.dumps(
+        [{"title_ta": r["title"], "title_en": translit(r["title"]), "category": classify(r["title"]) or "", "url": r["url"]} for r in heritage],
+        ensure_ascii=False, indent=0), encoding="utf-8")
+    import excel
+    excel.main()
     print(json.dumps({k: v for k, v in meta.items() if k != "categories"}, ensure_ascii=False))
     print("dropped by relevance re-check:", dropped)
     print({k: counters[k] for k in CATEGORIES})
