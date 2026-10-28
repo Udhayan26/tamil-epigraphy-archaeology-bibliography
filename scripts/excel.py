@@ -49,7 +49,7 @@ COLS = [  # header, width, getter
     ("Buy", 10, "buy"),
     ("Source record", 13, "source"),
     ("Other records", 13, "others"),
-    ("Date added", 11, lambda r: r.get("added", "")),
+    ("Date added", 11, lambda r: date.fromisoformat(r["added"]) if re.match(r"\d{4}-\d\d-\d\d$", r.get("added", "")) else None),
     ("Notes", 40, lambda r: r.get("notes", "")),
 ]
 
@@ -89,6 +89,8 @@ def book_sheet(wb, name, rows, table_name):
                 c = ws.cell(row=ri, column=ci, value=v if v not in (None, "") else None)
                 c.font = BODY
                 c.alignment = Alignment(vertical="top", wrap_text=ci in (4, 5, 6, 7, 22))
+                if h == "Date added":
+                    c.number_format = "yyyy-mm-dd"
             elif g == "read" and r["access"] in ("open", "open-us"):
                 link(ws, ri, ci, r.get("read_url"), "Read")
             elif g == "pdf":
@@ -137,7 +139,7 @@ def main():
         ("With direct PDF download", f"=COUNTIF({B}!P2:P{n},\"PDF\")"),
         ("Not online – buy / library", f"=COUNTIF({B}!N2:N{n},\"Not online*\")"),
         ("Tamil-language", f"=COUNTIF({B}!J2:J{n},\"Tamil*\")"),
-        ("Added in last 30 days", f"=COUNTIF({B}!U2:U{n},\">=\"&TEXT(TODAY()-30,\"yyyy-mm-dd\"))"),
+        ("Added in last 30 days", f"=COUNTIF({B}!U2:U{n},\">=\"&(TODAY()-30))"),
     ]
     ws["A5"], ws["B5"] = "Overview", "Count"
     for c in (ws["A5"], ws["B5"]):
