@@ -34,6 +34,30 @@
 [ia]     2  (title:("அழகன்குளம்") OR subject:("அழகன்குளம்"))
 [ia]     1  (title:("பூம்புகார் அகழாய்வு") OR subject:("பூம்புகார் அகழாய்வு"))
 [ia]     2  (title:("தொல்லெழுத்தியல்") OR subject:("தொல்லெழுத்தியல்"))
+[ia]    15  (title:("ஓலைச்சுவடி") OR subject:("ஓலைச்சுவடி"))
+[ia]     8  (title:("ஓலைச்சுவடிகள்") OR subject:("ஓலைச்சுவடிகள்"))
+[ia]     5  (title:("சுவடியியல்") OR subject:("சுவடியியல்"))
+[ia]     3  (title:("ஏட்டுச்சுவடி") OR subject:("ஏட்டுச்சுவடி"))
+[ia]   111  (title:("சுவடிகள்") OR subject:("சுவடிகள்"))
+[ia]     0  (title:("பனையோலை") OR subject:("பனையோலை"))
+[ia]     5  (title:("ஓலை ஆவணங்கள்") OR subject:("ஓலை ஆவணங்கள்"))
+[ia]   363  (title:("நாணயங்கள்") OR subject:("நாணயங்கள்"))
+[ia]   364  (title:("காசுகள்") OR subject:("காசுகள்"))
+[ia]     3  (title:("பழங்காசு") OR subject:("பழங்காசு"))
+[ia]   164  (title:("காசியல்") OR subject:("காசியல்"))
+[ia]     1  (title:("சோழர் காசுகள்") OR subject:("சோழர் காசுகள்"))
+[ia]    28  (title:("பாண்டியர் காசுகள்") OR subject:("பாண்டியர் காசுகள்"))
+[ia]     2  (title:("சங்ககாலக் காசுகள்") OR subject:("சங்ககாலக் காசுகள்"))
+[ia]     0  (title:("செப்புப் பட்டயம்") OR subject:("செப்புப் பட்டயம்"))
+[ia]     0  (title:("செப்புப்பட்டயங்கள்") OR subject:("செப்புப்பட்டயங்கள்"))
+[ia]     6  (title:("பட்டயங்கள்") OR subject:("பட்டயங்கள்"))
+[ia]     6  (title:("முத்திரைகள்") OR subject:("முத்திரைகள்"))
+[ia]   168  (title:("குடைவரை") OR subject:("குடைவரை"))
+[ia]     0  (title:("சமணப் படுகை") OR subject:("சமணப் படுகை"))
+[ia]     0  (title:("கல்வெட்டுச் சொல்") OR subject:("கல்வெட்டுச் சொல்"))
+[ia]     0  (title:("சாசனத் தமிழ்") OR subject:("சாசனத் தமிழ்"))
+[ia]     2  (title:("தமிழ்க் கல்வெட்டுகள்") OR subject:("தமிழ்க் கல்வெட்டுகள்"))
+[ia]    67  (title:("கோயில் கல்வெட்டுகள்") OR subject:("கோயில் கல்வெட்டுகள்"))
 [ia]    50  title:(kalvettu*)
 [ia]    24  title:(kalvettukal*)
 [ia]    12  title:(kalvettukkal*)
@@ -64,6 +88,15 @@
 [ia]     0  title:(vattezhuthu*)
 [ia]    11  title:(sasanam*)
 [ia]    67  title:(pattayam*)
+[ia]     2  title:(olaichuvadi*)
+[ia]     0  title:("olai chuvadi")
+[ia]     0  title:(olaiccuvati*)
+[ia]     0  title:(cuvatiyiyal*)
+[ia]     0  title:(suvadiyiyal*)
+[ia]    44  title:(suvadi*)
+[ia]     0  title:(kacukal*)
+[ia]     0  title:(kasukal*)
+[ia]     1  title:(nanayangal*)
 [ia]    33  (title:("Tamil inscriptions") OR subject:("Tamil inscriptions"))
 [ia]    17  title:(inscriptions Tamil Nadu)
 [ia]     0  (title:("Tamilnadu inscriptions") OR subject:("Tamilnadu inscriptions"))
@@ -153,6 +186,50 @@
 [ia]     0  (title:("Kanchipuram inscriptions") OR subject:("Kanchipuram inscriptions"))
 [ia]     0  title:(Tirumalai Tirupati inscriptions)
 [ia]     0  (title:("Madurai inscriptions") OR subject:("Madurai inscriptions"))
+[ia]     9  title:(palm-leaf manuscripts Tamil)
+[ia]     0  title:(palm leaf manuscripts South India)
+[ia]   130  title:(Tamil manuscripts catalogue)
+[ia]    89  title:(descriptive catalogue Tamil manuscripts)
+[ia]     0  (title:("manuscriptology Tamil") OR subject:("manuscriptology Tamil"))
+[ia]   229  title:(Government Oriental Manuscripts Library)
+[ia]    15  title:(Saraswathi Mahal Library manuscripts)
+[ia]    13  (title:("Mackenzie manuscripts") OR subject:("Mackenzie manuscripts"))
+[ia]     0  title:(Tamil manuscripts conservation)
+[ia]     0  (title:("cadjan manuscripts") OR subject:("cadjan manuscripts"))
+[ia]     0  title:(palm leaf records Tamil Nadu)
+[ia]     3  (title:("Chola coins") OR subject:("Chola coins"))
+[ia]     1  (title:("Pandya coins") OR subject:("Pandya coins"))
+[ia]     0  (title:("Chera coins") OR subject:("Chera coins"))
+[ia]     1  (title:("Pallava coins") OR subject:("Pallava coins"))
+[ia]     1  title:(Sangam age coins)
+[ia]     0  title:(Roman coins South India)
+[ia]     1  title:(Roman coins Tamil Nadu)
+[ia]     0  title:(punch-marked coins Tamil Nadu)
+[ia]    14  title:(South Indian coins)
+[ia]     1  title:(Studies in South Indian Coins)
+[ia]    14  title:(coins Madras Government Museum)
+[ia]     1  (title:("Vijayanagara coins") OR subject:("Vijayanagara coins"))
+[ia]     0  (title:("Nayak coins") OR subject:("Nayak coins"))
+[ia]     0  title:(Sri Lanka Tamil coins)
+[ia]     0  title:(numismatics Tamil Nadu)
+[ia]     0  title:(copper plate grants South India)
+[ia]     0  title:(copper-plate grant Chola)
+[ia]     0  (title:("Velvikudi grant") OR subject:("Velvikudi grant"))
+[ia]     0  title:(Larger Leiden plates)
+[ia]     0  (title:("Anbil plates") OR subject:("Anbil plates"))
+[ia]     0  (title:("Tiruvalangadu plates") OR subject:("Tiruvalangadu plates"))
+[ia]     0  (title:("Karandai plates") OR subject:("Karandai plates"))
+[ia]     0  (title:("Kasakudi plates") OR subject:("Kasakudi plates"))
+[ia]     0  title:(Esalam copper plates)
+[ia]     0  (title:("Sinnamanur plates") OR subject:("Sinnamanur plates"))
+[ia]     0  title:(seals sealings Tamil Nadu)
+[ia]     0  title:(rock-cut caves Tamil Nadu)
+[ia]     0  title:(Jaina beds Tamil Nadu)
+[ia]     0  title:(cave inscriptions Madurai)
+[ia]     0  title:(inscriptional glossary Tamil)
+[ia]     0  title:(Tamil inscriptions translation)
+[ia]     2  (title:("Grantha inscriptions") OR subject:("Grantha inscriptions"))
+[ia]     0  title:(bilingual inscriptions Tamil Sanskrit)
 [ia]     3  subject:("Inscriptions, Tamil")
 [ia]   229  subject:("Tamil language")
 [ia]  4861  subject:("Inscriptions")
@@ -176,9 +253,9 @@
 [ia]     0  collection:(tamilheritagefoundation) AND (title:(inscriptions OR epigraphy OR archaeology 
 [ia]     0  collection:(noolaham) AND (title:(inscriptions OR epigraphy OR archaeology OR excavation O
 [ia]  1043  collection:(TamilVirtualAcademy) AND (title:(inscriptions OR epigraphy OR archaeology OR e
-[ia] raw unique hits: 16428
-[ia] relevant: 5864
-[ia] enriching 5864 items via metadata API
+[ia] raw unique hits: 17316
+[ia] relevant: 6687
+[ia] enriching 6687 items via metadata API
 [ia] enriched 500
 [ia] enriched 1000
 [ia] enriched 1500
@@ -190,6 +267,8 @@
 [ia] enriched 4500
 [ia] enriched 5000
 [ia] enriched 5500
-[ia] saved 5864 records
-[ia] took 6526s
-total 6526s
+[ia] enriched 6000
+[ia] enriched 6500
+[ia] saved 6687 records
+[ia] took 5519s
+total 5519s

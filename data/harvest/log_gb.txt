@@ -58,6 +58,24 @@
 [gb] sasanam: total so far 0
 [gb] ERR pattayam Google Books quota exhausted for this run
 [gb] pattayam: total so far 0
+[gb] ERR olaichuvadi Google Books quota exhausted for this run
+[gb] olaichuvadi: total so far 0
+[gb] ERR olai chuvadi Google Books quota exhausted for this run
+[gb] olai chuvadi: total so far 0
+[gb] ERR olaiccuvati Google Books quota exhausted for this run
+[gb] olaiccuvati: total so far 0
+[gb] ERR cuvatiyiyal Google Books quota exhausted for this run
+[gb] cuvatiyiyal: total so far 0
+[gb] ERR suvadiyiyal Google Books quota exhausted for this run
+[gb] suvadiyiyal: total so far 0
+[gb] ERR suvadi Google Books quota exhausted for this run
+[gb] suvadi: total so far 0
+[gb] ERR kacukal Google Books quota exhausted for this run
+[gb] kacukal: total so far 0
+[gb] ERR kasukal Google Books quota exhausted for this run
+[gb] kasukal: total so far 0
+[gb] ERR nanayangal Google Books quota exhausted for this run
+[gb] nanayangal: total so far 0
 [gb] ERR Tamil inscriptions Google Books quota exhausted for this run
 [gb] Tamil inscriptions: total so far 0
 [gb] ERR inscriptions Tamil Nadu Google Books quota exhausted for this run
@@ -236,6 +254,94 @@
 [gb] Tirumalai Tirupati inscriptions: total so far 0
 [gb] ERR Madurai inscriptions Google Books quota exhausted for this run
 [gb] Madurai inscriptions: total so far 0
+[gb] ERR palm-leaf manuscripts Tamil Google Books quota exhausted for this run
+[gb] palm-leaf manuscripts Tamil: total so far 0
+[gb] ERR palm leaf manuscripts South India Google Books quota exhausted for this run
+[gb] palm leaf manuscripts South India: total so far 0
+[gb] ERR Tamil manuscripts catalogue Google Books quota exhausted for this run
+[gb] Tamil manuscripts catalogue: total so far 0
+[gb] ERR descriptive catalogue Tamil manuscripts Google Books quota exhausted for this run
+[gb] descriptive catalogue Tamil manuscripts: total so far 0
+[gb] ERR manuscriptology Tamil Google Books quota exhausted for this run
+[gb] manuscriptology Tamil: total so far 0
+[gb] ERR Government Oriental Manuscripts Library Google Books quota exhausted for this run
+[gb] Government Oriental Manuscripts Library: total so far 0
+[gb] ERR Saraswathi Mahal Library manuscripts Google Books quota exhausted for this run
+[gb] Saraswathi Mahal Library manuscripts: total so far 0
+[gb] ERR Mackenzie manuscripts Google Books quota exhausted for this run
+[gb] Mackenzie manuscripts: total so far 0
+[gb] ERR Tamil manuscripts conservation Google Books quota exhausted for this run
+[gb] Tamil manuscripts conservation: total so far 0
+[gb] ERR cadjan manuscripts Google Books quota exhausted for this run
+[gb] cadjan manuscripts: total so far 0
+[gb] ERR palm leaf records Tamil Nadu Google Books quota exhausted for this run
+[gb] palm leaf records Tamil Nadu: total so far 0
+[gb] ERR Chola coins Google Books quota exhausted for this run
+[gb] Chola coins: total so far 0
+[gb] ERR Pandya coins Google Books quota exhausted for this run
+[gb] Pandya coins: total so far 0
+[gb] ERR Chera coins Google Books quota exhausted for this run
+[gb] Chera coins: total so far 0
+[gb] ERR Pallava coins Google Books quota exhausted for this run
+[gb] Pallava coins: total so far 0
+[gb] ERR Sangam age coins Google Books quota exhausted for this run
+[gb] Sangam age coins: total so far 0
+[gb] ERR Roman coins South India Google Books quota exhausted for this run
+[gb] Roman coins South India: total so far 0
+[gb] ERR Roman coins Tamil Nadu Google Books quota exhausted for this run
+[gb] Roman coins Tamil Nadu: total so far 0
+[gb] ERR punch-marked coins Tamil Nadu Google Books quota exhausted for this run
+[gb] punch-marked coins Tamil Nadu: total so far 0
+[gb] ERR South Indian coins Google Books quota exhausted for this run
+[gb] South Indian coins: total so far 0
+[gb] ERR Studies in South Indian Coins Google Books quota exhausted for this run
+[gb] Studies in South Indian Coins: total so far 0
+[gb] ERR coins Madras Government Museum Google Books quota exhausted for this run
+[gb] coins Madras Government Museum: total so far 0
+[gb] ERR Vijayanagara coins Google Books quota exhausted for this run
+[gb] Vijayanagara coins: total so far 0
+[gb] ERR Nayak coins Google Books quota exhausted for this run
+[gb] Nayak coins: total so far 0
+[gb] ERR Sri Lanka Tamil coins Google Books quota exhausted for this run
+[gb] Sri Lanka Tamil coins: total so far 0
+[gb] ERR numismatics Tamil Nadu Google Books quota exhausted for this run
+[gb] numismatics Tamil Nadu: total so far 0
+[gb] ERR copper plate grants South India Google Books quota exhausted for this run
+[gb] copper plate grants South India: total so far 0
+[gb] ERR copper-plate grant Chola Google Books quota exhausted for this run
+[gb] copper-plate grant Chola: total so far 0
+[gb] ERR Velvikudi grant Google Books quota exhausted for this run
+[gb] Velvikudi grant: total so far 0
+[gb] ERR Larger Leiden plates Google Books quota exhausted for this run
+[gb] Larger Leiden plates: total so far 0
+[gb] ERR Anbil plates Google Books quota exhausted for this run
+[gb] Anbil plates: total so far 0
+[gb] ERR Tiruvalangadu plates Google Books quota exhausted for this run
+[gb] Tiruvalangadu plates: total so far 0
+[gb] ERR Karandai plates Google Books quota exhausted for this run
+[gb] Karandai plates: total so far 0
+[gb] ERR Kasakudi plates Google Books quota exhausted for this run
+[gb] Kasakudi plates: total so far 0
+[gb] ERR Esalam copper plates Google Books quota exhausted for this run
+[gb] Esalam copper plates: total so far 0
+[gb] ERR Sinnamanur plates Google Books quota exhausted for this run
+[gb] Sinnamanur plates: total so far 0
+[gb] ERR seals sealings Tamil Nadu Google Books quota exhausted for this run
+[gb] seals sealings Tamil Nadu: total so far 0
+[gb] ERR rock-cut caves Tamil Nadu Google Books quota exhausted for this run
+[gb] rock-cut caves Tamil Nadu: total so far 0
+[gb] ERR Jaina beds Tamil Nadu Google Books quota exhausted for this run
+[gb] Jaina beds Tamil Nadu: total so far 0
+[gb] ERR cave inscriptions Madurai Google Books quota exhausted for this run
+[gb] cave inscriptions Madurai: total so far 0
+[gb] ERR inscriptional glossary Tamil Google Books quota exhausted for this run
+[gb] inscriptional glossary Tamil: total so far 0
+[gb] ERR Tamil inscriptions translation Google Books quota exhausted for this run
+[gb] Tamil inscriptions translation: total so far 0
+[gb] ERR Grantha inscriptions Google Books quota exhausted for this run
+[gb] Grantha inscriptions: total so far 0
+[gb] ERR bilingual inscriptions Tamil Sanskrit Google Books quota exhausted for this run
+[gb] bilingual inscriptions Tamil Sanskrit: total so far 0
 [gb] ERR கல்வெட்டு Google Books quota exhausted for this run
 [gb] கல்வெட்டு: total so far 0
 [gb] ERR கல்வெட்டுகள் Google Books quota exhausted for this run
@@ -308,6 +414,54 @@
 [gb] பூம்புகார் அகழாய்வு: total so far 0
 [gb] ERR தொல்லெழுத்தியல் Google Books quota exhausted for this run
 [gb] தொல்லெழுத்தியல்: total so far 0
+[gb] ERR ஓலைச்சுவடி Google Books quota exhausted for this run
+[gb] ஓலைச்சுவடி: total so far 0
+[gb] ERR ஓலைச்சுவடிகள் Google Books quota exhausted for this run
+[gb] ஓலைச்சுவடிகள்: total so far 0
+[gb] ERR சுவடியியல் Google Books quota exhausted for this run
+[gb] சுவடியியல்: total so far 0
+[gb] ERR ஏட்டுச்சுவடி Google Books quota exhausted for this run
+[gb] ஏட்டுச்சுவடி: total so far 0
+[gb] ERR சுவடிகள் Google Books quota exhausted for this run
+[gb] சுவடிகள்: total so far 0
+[gb] ERR பனையோலை Google Books quota exhausted for this run
+[gb] பனையோலை: total so far 0
+[gb] ERR ஓலை ஆவணங்கள் Google Books quota exhausted for this run
+[gb] ஓலை ஆவணங்கள்: total so far 0
+[gb] ERR நாணயங்கள் Google Books quota exhausted for this run
+[gb] நாணயங்கள்: total so far 0
+[gb] ERR காசுகள் Google Books quota exhausted for this run
+[gb] காசுகள்: total so far 0
+[gb] ERR பழங்காசு Google Books quota exhausted for this run
+[gb] பழங்காசு: total so far 0
+[gb] ERR காசியல் Google Books quota exhausted for this run
+[gb] காசியல்: total so far 0
+[gb] ERR சோழர் காசுகள் Google Books quota exhausted for this run
+[gb] சோழர் காசுகள்: total so far 0
+[gb] ERR பாண்டியர் காசுகள் Google Books quota exhausted for this run
+[gb] பாண்டியர் காசுகள்: total so far 0
+[gb] ERR சங்ககாலக் காசுகள் Google Books quota exhausted for this run
+[gb] சங்ககாலக் காசுகள்: total so far 0
+[gb] ERR செப்புப் பட்டயம் Google Books quota exhausted for this run
+[gb] செப்புப் பட்டயம்: total so far 0
+[gb] ERR செப்புப்பட்டயங்கள் Google Books quota exhausted for this run
+[gb] செப்புப்பட்டயங்கள்: total so far 0
+[gb] ERR பட்டயங்கள் Google Books quota exhausted for this run
+[gb] பட்டயங்கள்: total so far 0
+[gb] ERR முத்திரைகள் Google Books quota exhausted for this run
+[gb] முத்திரைகள்: total so far 0
+[gb] ERR குடைவரை Google Books quota exhausted for this run
+[gb] குடைவரை: total so far 0
+[gb] ERR சமணப் படுகை Google Books quota exhausted for this run
+[gb] சமணப் படுகை: total so far 0
+[gb] ERR கல்வெட்டுச் சொல் Google Books quota exhausted for this run
+[gb] கல்வெட்டுச் சொல்: total so far 0
+[gb] ERR சாசனத் தமிழ் Google Books quota exhausted for this run
+[gb] சாசனத் தமிழ்: total so far 0
+[gb] ERR தமிழ்க் கல்வெட்டுகள் Google Books quota exhausted for this run
+[gb] தமிழ்க் கல்வெட்டுகள்: total so far 0
+[gb] ERR கோயில் கல்வெட்டுகள் Google Books quota exhausted for this run
+[gb] கோயில் கல்வெட்டுகள்: total so far 0
 [gb] ERR subject:"Inscriptions, Tamil" Google Books quota exhausted for this run
 [gb] subject:"Inscriptions, Tamil": total so far 0
 [gb] ERR subject:"Tamil language" Google Books quota exhausted for this run
@@ -341,5 +495,5 @@
 [gb] ERR subject:"Paleography, Tamil" Google Books quota exhausted for this run
 [gb] subject:"Paleography, Tamil": total so far 0
 [gb] saved 0 records
-[gb] took 210s
-total 210s
+[gb] took 211s
+total 211s

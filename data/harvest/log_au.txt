@@ -106,7 +106,7 @@
 [au] P. Pushparatnam: 0
 [au/gb] ERR inauthor:"M. Rajamanickam" Google Books quota exhausted for this run
 [au/gb] ERR inauthor:"மா. இராசமாணிக்கனார்" Google Books quota exhausted for this run
-[au] M. Rajamanickam: 20
+[au] M. Rajamanickam: 21
 [au/gb] ERR inauthor:"S. Ramachandran" Google Books quota exhausted for this run
 [au/gb] ERR inauthor:"செ. இராமச்சந்திரன்" Google Books quota exhausted for this run
 [au] S. Ramachandran epigraphy: 140
@@ -229,6 +229,22 @@
 [au] T. Arunraj archaeology: 0
 [au/gb] ERR inauthor:"Amarnath Ramakrishna" Google Books quota exhausted for this run
 [au] Amarnath Ramakrishna: 1
+[au/gb] ERR inauthor:"T. Desikachari" Google Books quota exhausted for this run
+[au] T. Desikachari: 2
+[au/gb] ERR inauthor:"Walter Elliot" Google Books quota exhausted for this run
+[au] Walter Elliot: 40
+[au/gb] ERR inauthor:"Michael Mitchiner" Google Books quota exhausted for this run
+[au] Michael Mitchiner: 42
+[au/gb] ERR inauthor:"A. V. Narasimha Murthy" Google Books quota exhausted for this run
+[au] A. V. Narasimha Murthy: 42
+[au/gb] ERR inauthor:"S. Suresh Roman" Google Books quota exhausted for this run
+[au] S. Suresh Roman coins: 0
+[au/gb] ERR inauthor:"P. L. Gupta numismatics" Google Books quota exhausted for this run
+[au] P. L. Gupta numismatics: 0
+[au/gb] ERR inauthor:"William Taylor oriental manuscripts" Google Books quota exhausted for this run
+[au] William Taylor oriental manuscripts: 0
+[au/gb] ERR inauthor:"H. H. Wilson Mackenzie" Google Books quota exhausted for this run
+[au] H. H. Wilson Mackenzie: 1
 [au/gb] ERR inpublisher:"Tamil Nadu State Department of Archaeology" Google Books quota exhausted for this run
 [au] publisher Tamil Nadu State Department of Archaeology: 0
 [au/gb] ERR inpublisher:"தமிழ்நாடு அரசு தொல்லியல் துறை" Google Books quota exhausted for this run
@@ -248,15 +264,27 @@
 [au/gb] ERR inpublisher:"Tamil Heritage Foundation" Google Books quota exhausted for this run
 [au] publisher Tamil Heritage Foundation: 1
 [au/gb] ERR inpublisher:"International Institute of Tamil Studies" Google Books quota exhausted for this run
-[au] publisher International Institute of Tamil Studies: 0
+[au] publisher International Institute of Tamil Studies: 1
 [au/gb] ERR inpublisher:"Central Institute of Classical Tamil" Google Books quota exhausted for this run
 [au] publisher Central Institute of Classical Tamil: 1
 [au/gb] ERR inpublisher:"Institute of Asian Studies Chennai" Google Books quota exhausted for this run
-[au] publisher Institute of Asian Studies Chennai: 0
+[au] publisher Institute of Asian Studies Chennai: 1
 [au/gb] ERR inpublisher:"Archaeological Survey of India" Google Books quota exhausted for this run
 [au] publisher Archaeological Survey of India: 50
 [au/gb] ERR inpublisher:"Government Museum Chennai" Google Books quota exhausted for this run
 [au] publisher Government Museum Chennai: 33
-[au] saved 1638 records
-[au] took 493s
-total 493s
+[au/gb] ERR inpublisher:"Government Oriental Manuscripts Library" Google Books quota exhausted for this run
+[au] publisher Government Oriental Manuscripts Library: 174
+[au/gb] ERR inpublisher:"Tanjore Maharaja Serfoji's Sarasvati Mahal Library" Google Books quota exhausted for this run
+[au] publisher Tanjore Maharaja Serfoji's Sarasvati Mahal Library: 29
+[au/gb] ERR inpublisher:"South Indian Numismatic Society" Google Books quota exhausted for this run
+[au] publisher South Indian Numismatic Society: 1
+[au/gb] ERR inpublisher:"Garnet Publishers" Google Books quota exhausted for this run
+[au] publisher Garnet Publishers: 3
+[au/gb] ERR inpublisher:"Institut français de Pondichéry" Google Books quota exhausted for this run
+[au] publisher Institut français de Pondichéry: 1
+[au/gb] ERR inpublisher:"École française d'Extrême-Orient" Google Books quota exhausted for this run
+[au] publisher École française d'Extrême-Orient: 1
+[au] saved 1975 records
+[au] took 589s
+total 589s

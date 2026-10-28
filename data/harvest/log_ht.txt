@@ -1,14 +1,26 @@
 [ht] streaming https://www.hathitrust.org/files/hathifiles/hathi_full_20261001.txt.gz (1226768096 bytes)
-[ht] scanned 2,000,000 lines, kept 164
-[ht] scanned 4,000,000 lines, kept 543
-[ht] scanned 6,000,000 lines, kept 663
-[ht] scanned 8,000,000 lines, kept 787
-[ht] scanned 10,000,000 lines, kept 933
-[ht] scanned 12,000,000 lines, kept 953
-[ht] scanned 14,000,000 lines, kept 1035
-[ht] scanned 16,000,000 lines, kept 1064
-[ht] scanned 18,000,000 lines, kept 1138
-[ht] scanned 19,701,406 lines total
-[ht] saved 1190 records
-[ht] took 1804s
-total 1804s
+[ht] scanned 2,000,000 lines, kept 178
+[ht] scanned 4,000,000 lines, kept 559
+[ht] scanned 6,000,000 lines, kept 712
+[ht] scanned 8,000,000 lines, kept 872
+[ht] scanned 10,000,000 lines, kept 1027
+[ht] FAILED
+Traceback (most recent call last):
+  File "/home/runner/work/tamil-epigraphy-archaeology-bibliography/tamil-epigraphy-archaeology-bibliography/scripts/harvest.py", line 1294, in main
+    SOURCES[name]()
+  File "/home/runner/work/tamil-epigraphy-archaeology-bibliography/tamil-epigraphy-archaeology-bibliography/scripts/harvest.py", line 703, in harvest_ht
+    for raw in io.TextIOWrapper(gz, encoding="utf-8", errors="replace"):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/gzip.py", line 351, in read1
+    return self._buffer.read1(size)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/_compression.py", line 68, in readinto
+    data = self.read(len(byte_view))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/gzip.py", line 564, in read
+    raise EOFError("Compressed file ended before the "
+EOFError: Compressed file ended before the end-of-stream marker was reached
+
+[ht] saved 1083 records
+[ht] took 761s
+total 761s

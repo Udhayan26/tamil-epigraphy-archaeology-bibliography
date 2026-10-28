@@ -1,3 +1,5 @@
-{"generated": "2026-10-28", "count": 4109, "with_author": 2321, "with_publisher": 2306, "with_year": 2845, "open_access": 2539, "with_download": 1905, "heritage_records": 3723, "with_buy": 0, "access": {"open": 2539, "": 66, "catalogue": 1295, "open-us": 185, "borrow": 24}, "sources": {"Internet Archive": 2054, "Noolaham": 34, "Open Library": 806, "Curated": 205, "OpenAlex": 143, "Wikimedia Commons": 181, "HathiTrust": 935, "Tamil Wikisource": 41, "Online text": 41, "English Wikisource": 78, "Library of Congress": 1}}
-dropped by relevance re-check: 2206
-{'EPG': 151, 'ASI': 1048, 'TNS': 376, 'CPP': 89, 'TBR': 58, 'HER': 25, 'ROC': 29, 'EXC': 111, 'PRE': 63, 'ARC': 288, 'HIS': 642, 'NUM': 56, 'REF': 108, 'JOU': 1055, 'ONL': 10}
+merged near-duplicates: 257
+Excel written: Tamil_Epigraphy_Books.xlsx (3474 books, 21 sheets)
+{"generated": "2026-10-28", "count": 3474, "with_author": 2288, "with_publisher": 2052, "with_year": 2404, "open_access": 2228, "with_download": 1732, "heritage_records": 4211, "with_buy": 0, "access": {"open": 2228, "catalogue": 1102, "": 47, "open-us": 70, "borrow": 27}, "sources": {"Internet Archive": 2010, "Noolaham": 34, "Open Library": 936, "Curated": 204, "OpenAlex": 169, "HathiTrust": 751, "Wikimedia Commons": 152, "Tamil Wikisource": 62, "Online text": 43, "English Wikisource": 77, "Library of Congress": 3}}
+dropped by relevance re-check: 2398
+{'EPG': 137, 'ASI': 576, 'TNS': 335, 'CPP': 89, 'TBR': 95, 'HER': 24, 'ROC': 30, 'EXC': 99, 'PRE': 52, 'ARC': 303, 'HIS': 670, 'NUM': 113, 'PLM': 235, 'SEA': 17, 'REF': 87, 'JOU': 602, 'ONL': 10}

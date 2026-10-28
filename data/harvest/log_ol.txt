@@ -28,6 +28,15 @@
 [ol] q=vattezhuthu: page 1 docs 0
 [ol] q=sasanam: page 1 docs 10
 [ol] q=pattayam: page 1 docs 7
+[ol] q=olaichuvadi: page 1 docs 0
+[ol] q=olai chuvadi: page 1 docs 0
+[ol] q=olaiccuvati: page 1 docs 1
+[ol] q=cuvatiyiyal: page 1 docs 2
+[ol] q=suvadiyiyal: page 1 docs 0
+[ol] q=suvadi: page 1 docs 1
+[ol] q=kacukal: page 1 docs 1
+[ol] q=kasukal: page 1 docs 22
+[ol] q=nanayangal: page 1 docs 0
 [ol] q=Tamil inscriptions: page 1 docs 240
 [ol] q=inscriptions Tamil Nadu: page 1 docs 94
 [ol] q=Tamilnadu inscriptions: page 1 docs 14
@@ -117,6 +126,50 @@
 [ol] q=Kanchipuram inscriptions: page 1 docs 3
 [ol] q=Tirumalai Tirupati inscriptions: page 1 docs 13
 [ol] q=Madurai inscriptions: page 1 docs 4
+[ol] q=palm-leaf manuscripts Tamil: page 1 docs 30
+[ol] q=palm leaf manuscripts South India: page 1 docs 3
+[ol] q=Tamil manuscripts catalogue: page 1 docs 30
+[ol] q=descriptive catalogue Tamil manuscripts: page 1 docs 19
+[ol] q=manuscriptology Tamil: page 1 docs 1
+[ol] q=Government Oriental Manuscripts Library: page 1 docs 266
+[ol] q=Saraswathi Mahal Library manuscripts: page 1 docs 1
+[ol] q=Mackenzie manuscripts: page 1 docs 67
+[ol] q=Tamil manuscripts conservation: page 1 docs 2
+[ol] q=cadjan manuscripts: page 1 docs 0
+[ol] q=palm leaf records Tamil Nadu: page 1 docs 0
+[ol] q=Chola coins: page 1 docs 5
+[ol] q=Pandya coins: page 1 docs 5
+[ol] q=Chera coins: page 1 docs 1
+[ol] q=Pallava coins: page 1 docs 3
+[ol] q=Sangam age coins: page 1 docs 2
+[ol] q=Roman coins South India: page 1 docs 13
+[ol] q=Roman coins Tamil Nadu: page 1 docs 2
+[ol] q=punch-marked coins Tamil Nadu: page 1 docs 0
+[ol] q=South Indian coins: page 1 docs 48
+[ol] q=Studies in South Indian Coins: page 1 docs 13
+[ol] q=coins Madras Government Museum: page 1 docs 17
+[ol] q=Vijayanagara coins: page 1 docs 4
+[ol] q=Nayak coins: page 1 docs 1
+[ol] q=Sri Lanka Tamil coins: page 1 docs 7
+[ol] q=numismatics Tamil Nadu: page 1 docs 4
+[ol] q=copper plate grants South India: page 1 docs 5
+[ol] q=copper-plate grant Chola: page 1 docs 0
+[ol] q=Velvikudi grant: page 1 docs 0
+[ol] q=Larger Leiden plates: page 1 docs 0
+[ol] q=Anbil plates: page 1 docs 0
+[ol] q=Tiruvalangadu plates: page 1 docs 0
+[ol] q=Karandai plates: page 1 docs 1
+[ol] q=Kasakudi plates: page 1 docs 0
+[ol] q=Esalam copper plates: page 1 docs 0
+[ol] q=Sinnamanur plates: page 1 docs 0
+[ol] q=seals sealings Tamil Nadu: page 1 docs 0
+[ol] q=rock-cut caves Tamil Nadu: page 1 docs 0
+[ol] q=Jaina beds Tamil Nadu: page 1 docs 0
+[ol] q=cave inscriptions Madurai: page 1 docs 0
+[ol] q=inscriptional glossary Tamil: page 1 docs 11
+[ol] q=Tamil inscriptions translation: page 1 docs 7
+[ol] q=Grantha inscriptions: page 1 docs 7
+[ol] q=bilingual inscriptions Tamil Sanskrit: page 1 docs 0
 [ol] q=கல்வெட்டு: page 1 docs 0
 [ol] q=கல்வெட்டுகள்: page 1 docs 0
 [ol] q=கல்வெட்டுக்கள்: page 1 docs 0
@@ -153,6 +206,30 @@
 [ol] q=அழகன்குளம்: page 1 docs 0
 [ol] q=பூம்புகார் அகழாய்வு: page 1 docs 0
 [ol] q=தொல்லெழுத்தியல்: page 1 docs 0
+[ol] q=ஓலைச்சுவடி: page 1 docs 0
+[ol] q=ஓலைச்சுவடிகள்: page 1 docs 0
+[ol] q=சுவடியியல்: page 1 docs 0
+[ol] q=ஏட்டுச்சுவடி: page 1 docs 0
+[ol] q=சுவடிகள்: page 1 docs 0
+[ol] q=பனையோலை: page 1 docs 0
+[ol] q=ஓலை ஆவணங்கள்: page 1 docs 0
+[ol] q=நாணயங்கள்: page 1 docs 0
+[ol] q=காசுகள்: page 1 docs 0
+[ol] q=பழங்காசு: page 1 docs 0
+[ol] q=காசியல்: page 1 docs 0
+[ol] q=சோழர் காசுகள்: page 1 docs 0
+[ol] q=பாண்டியர் காசுகள்: page 1 docs 0
+[ol] q=சங்ககாலக் காசுகள்: page 1 docs 0
+[ol] q=செப்புப் பட்டயம்: page 1 docs 1
+[ol] q=செப்புப்பட்டயங்கள்: page 1 docs 0
+[ol] q=பட்டயங்கள்: page 1 docs 0
+[ol] q=முத்திரைகள்: page 1 docs 0
+[ol] q=குடைவரை: page 1 docs 0
+[ol] q=சமணப் படுகை: page 1 docs 0
+[ol] q=கல்வெட்டுச் சொல்: page 1 docs 0
+[ol] q=சாசனத் தமிழ்: page 1 docs 0
+[ol] q=தமிழ்க் கல்வெட்டுகள்: page 1 docs 0
+[ol] q=கோயில் கல்வெட்டுகள்: page 1 docs 0
 [ol] subject=Inscriptions, Tamil: page 1 docs 192
 [ol] subject=Tamil language: page 1 docs 1000
 [ol] subject=Tamil language: page 2 docs 678
@@ -186,6 +263,6 @@
 [ol] subject=Inscriptions: page 4 docs 1000
 [ol] subject=Inscriptions: page 5 docs 1000
 [ol] subject=Paleography, Tamil: page 1 docs 0
-[ol] saved 471 records
-[ol] took 468s
-total 468s
+[ol] saved 561 records
+[ol] took 445s
+total 445s
