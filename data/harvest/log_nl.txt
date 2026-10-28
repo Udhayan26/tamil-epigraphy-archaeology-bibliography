@@ -56,15 +56,15 @@
 [nl] சமணப் படுகை: titles so far 24
 [nl] கல்வெட்டுச் சொல்: titles so far 60
 [nl] சாசனத் தமிழ்: titles so far 60
-[nl] தமிழ்க் கல்வெட்டுகள்: titles so far 110
-[nl] கோயில் கல்வெட்டுகள்: titles so far 160
-[nl] epigraphy: titles so far 161
-[nl] inscriptions: titles so far 172
-[nl] archaeology: titles so far 177
-[nl] excavation: titles so far 177
-[nl] hero stone: titles so far 177
-[nl] Brahmi: titles so far 177
-[nl] fetching content of 177 pages
+[nl] தமிழ்க் கல்வெட்டுகள்: titles so far 113
+[nl] கோயில் கல்வெட்டுகள்: titles so far 163
+[nl] epigraphy: titles so far 164
+[nl] inscriptions: titles so far 175
+[nl] archaeology: titles so far 180
+[nl] excavation: titles so far 180
+[nl] hero stone: titles so far 180
+[nl] Brahmi: titles so far 180
+[nl] fetching content of 180 pages
 [nl] content ERR Expecting value: line 1 column 1 (char 0)
 [nl] content ERR Expecting value: line 1 column 1 (char 0)
 [nl] content ERR Expecting value: line 1 column 1 (char 0)
@@ -75,5 +75,5 @@
 [nl] content ERR Expecting value: line 1 column 1 (char 0)
 [nl] content ERR Expecting value: line 1 column 1 (char 0)
 [nl] saved 0 records
-[nl] took 338s
-total 338s
+[nl] took 402s
+total 402s

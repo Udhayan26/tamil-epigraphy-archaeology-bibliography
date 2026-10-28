@@ -171,5 +171,5 @@
 [loc] Grantha inscriptions: total so far 47
 [loc] bilingual inscriptions Tamil Sanskrit: total so far 47
 [loc] saved 4 records
-[loc] took 12162s
-total 12162s
+[loc] took 3922s
+total 3922s
