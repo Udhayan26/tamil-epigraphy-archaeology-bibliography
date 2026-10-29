@@ -232,7 +232,7 @@
 [ia]     0  title:(bilingual inscriptions Tamil Sanskrit)
 [ia]     3  subject:("Inscriptions, Tamil")
 [ia]   229  subject:("Tamil language")
-[ia]  4861  subject:("Inscriptions")
+[ia]  4864  subject:("Inscriptions")
 [ia]    75  subject:("Tamil Nadu (India)")
 [ia]  3611  subject:("Excavations (Archaeology)")
 [ia]     4  subject:("Hero stones")
@@ -244,7 +244,7 @@
 [ia]     0  subject:("Coins, Tamil")
 [ia]   262  subject:("Megalithic monuments")
 [ia]     0  subject:("Inscriptions, Dravidian")
-[ia]  4861  subject:("Inscriptions")
+[ia]  4864  subject:("Inscriptions")
 [ia]     0  subject:("Paleography, Tamil")
 [ia]     0  collection:(tamildigitallibrary) AND (title:(inscriptions OR epigraphy OR archaeology OR e
 [ia]  1279  collection:(digitallibraryindia) AND (title:(inscriptions OR epigraphy OR archaeology OR e
@@ -253,7 +253,7 @@
 [ia]     0  collection:(tamilheritagefoundation) AND (title:(inscriptions OR epigraphy OR archaeology 
 [ia]     0  collection:(noolaham) AND (title:(inscriptions OR epigraphy OR archaeology OR excavation O
 [ia]  1043  collection:(TamilVirtualAcademy) AND (title:(inscriptions OR epigraphy OR archaeology OR e
-[ia] raw unique hits: 17316
+[ia] raw unique hits: 17319
 [ia] relevant: 6687
 [ia] enriching 6687 items via metadata API
 [ia] enriched 500
@@ -270,5 +270,5 @@
 [ia] enriched 6000
 [ia] enriched 6500
 [ia] saved 6687 records
-[ia] took 6799s
-total 6799s
+[ia] took 7362s
+total 7362s

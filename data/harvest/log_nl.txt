@@ -66,5 +66,5 @@
 [nl] Brahmi: titles so far 177
 [nl] fetching content of 177 pages
 [nl] saved 37 records
-[nl] took 121s
-total 121s
+[nl] took 133s
+total 133s

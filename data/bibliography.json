@@ -1,11 +1,11 @@
 {
-"generated": "2026-10-28",
+"generated": "2026-10-29",
 "count": 3573,
 "with_author": 2327,
 "with_publisher": 2151,
 "with_year": 2421,
 "open_access": 2238,
-"with_download": 1733,
+"with_download": 1732,
 "heritage_records": 4211,
 "with_buy": 0,
 "access": {
@@ -39623,7 +39623,7 @@
 "isbn": "",
 "pages": "",
 "notes": "Coimbatore Mavatta Kalvettugal Thogudi 1",
-"subjects": "Tamil Inscriptions; Sources; History",
+"subjects": "Coimbatore; Kalvettugal",
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10643-%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D%20%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%A4%E0%AF%8A%E0%AE%95%E0%AF%81%E0%AE%A4%E0%AE%BF%20-%201",
 "download_url": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_1.pdf",
@@ -39639,19 +39639,19 @@
 "pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_1.pdf"
 },
 {
-"read": "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
-"pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D.pdf"
-},
-{
 "read": "https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
 "pdf": "https://archive.org/download/coimbatore-mavatta-kalvettugal-thogudi-1/Coimbatore%20Mavatta%20Kalvettugal%20-%20Thogudi%201.pdf"
+},
+{
+"read": "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
+"pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D.pdf"
 }
 ],
 "other_source_urls": [
 "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1",
+"https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
 "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
-"https://openlibrary.org/works/OL18734808W",
-"https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1"
+"https://openlibrary.org/works/OL18734808W"
 ],
 "sources": [
 "Curated",
@@ -112243,7 +112243,7 @@
 "subjects": "Sanskrit; Government (linguistics); Library science; Sanskrit literature; History; Ancient history; Geography; Art; Literature; Computer science",
 "access": "open",
 "read_url": "https://archive.org/details/descriptivecatal0000indi",
-"download_url": "https://archive.org/download/descriptivecatal0000indi/descriptivecatal0000indi.pdf",
+"download_url": "",
 "buy_url": "",
 "source_url": "https://archive.org/details/descriptivecatal0000indi",
 "copies": [
@@ -123547,12 +123547,12 @@
 "source_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary%2C_Vol._4-1875.djvu",
 "copies": [
 {
-"read": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_4_%28IGNCA%29.pdf",
-"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_4_%28IGNCA%29.pdf"
-},
-{
 "read": "https://commons.wikimedia.org/wiki/File%3ATHE_INDIAN_ANTIQUARY_A_JOURNAL_OF_ORIENTAL_RESEARCH_VOL_4_%28IA_indianantiquarya014355mbp%29.pdf",
 "pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/THE_INDIAN_ANTIQUARY_A_JOURNAL_OF_ORIENTAL_RESEARCH_VOL_4_%28IA_indianantiquarya014355mbp%29.pdf"
+},
+{
+"read": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_4_%28IGNCA%29.pdf",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_4_%28IGNCA%29.pdf"
 },
 {
 "read": "https://babel.hathitrust.org/cgi/pt?id=hvd.32044020400578",
@@ -123580,8 +123580,8 @@
 }
 ],
 "other_source_urls": [
-"https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_4_%28IGNCA%29.pdf",
 "https://commons.wikimedia.org/wiki/File%3ATHE_INDIAN_ANTIQUARY_A_JOURNAL_OF_ORIENTAL_RESEARCH_VOL_4_%28IA_indianantiquarya014355mbp%29.pdf",
+"https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_4_%28IGNCA%29.pdf",
 "https://catalog.hathitrust.org/Record/000501150",
 "https://catalog.hathitrust.org/Record/000501154",
 "https://catalog.hathitrust.org/Record/000547964"
@@ -123767,7 +123767,7 @@
 "title_ta": "",
 "title_en": "Indian Antiquary, Vol. 6",
 "title_en_note": "",
-"alt_title": "The Indian Antiquary Vol 6",
+"alt_title": "The Indian Antiquary Vol Vi (IA TheIndianAntiquaryVolVI)",
 "authors": "Jas. Burgess M.R.A.S",
 "authors_roman": "",
 "publisher": "Popular Prakashan [etc",
@@ -123783,14 +123783,14 @@
 "notes": "",
 "subjects": "-",
 "access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_6.pdf",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_6.pdf",
+"read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_Vi_%28IA_TheIndianAntiquaryVolVI%29.pdf",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_Vi_%28IA_TheIndianAntiquaryVolVI%29.pdf",
 "buy_url": "",
-"source_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_6.pdf",
+"source_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_Vi_%28IA_TheIndianAntiquaryVolVI%29.pdf",
 "copies": [
 {
-"read": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_Vi_%28IA_TheIndianAntiquaryVolVI%29.pdf",
-"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_Vi_%28IA_TheIndianAntiquaryVolVI%29.pdf"
+"read": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_6.pdf",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_6.pdf"
 },
 {
 "read": "https://babel.hathitrust.org/cgi/pt?id=mdp.39015013161768",
@@ -123822,7 +123822,7 @@
 }
 ],
 "other_source_urls": [
-"https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_Vi_%28IA_TheIndianAntiquaryVolVI%29.pdf",
+"https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_6.pdf",
 "https://catalog.hathitrust.org/Record/000501150",
 "https://catalog.hathitrust.org/Record/000547964",
 "https://catalog.hathitrust.org/Record/100729889",
@@ -124167,7 +124167,7 @@
 "title_ta": "",
 "title_en": "Indian Antiquary, Vol. 9",
 "title_en_note": "",
-"alt_title": "Indian Antiquary, vol 9, 1880",
+"alt_title": "The Indian Antiquary Vol 9",
 "authors": "Burgess, Jas, Ed.",
 "authors_roman": "",
 "publisher": "Popular Prakashan [etc",
@@ -124183,14 +124183,14 @@
 "notes": "",
 "subjects": "C-DAK",
 "access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3AIndian_Antiquary%2C_vol_9%2C_1880.djvu",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian_Antiquary%2C_vol_9%2C_1880.djvu",
+"read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_9.pdf",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_9.pdf",
 "buy_url": "",
-"source_url": "https://commons.wikimedia.org/wiki/File%3AIndian_Antiquary%2C_vol_9%2C_1880.djvu",
+"source_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_9.pdf",
 "copies": [
 {
-"read": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_9.pdf",
-"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_9.pdf"
+"read": "https://commons.wikimedia.org/wiki/File%3AIndian_Antiquary%2C_vol_9%2C_1880.djvu",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian_Antiquary%2C_vol_9%2C_1880.djvu"
 },
 {
 "read": "https://babel.hathitrust.org/cgi/pt?id=ufl.31262053227590",
@@ -124222,7 +124222,7 @@
 }
 ],
 "other_source_urls": [
-"https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_9.pdf",
+"https://commons.wikimedia.org/wiki/File%3AIndian_Antiquary%2C_vol_9%2C_1880.djvu",
 "https://catalog.hathitrust.org/Record/000501150",
 "https://catalog.hathitrust.org/Record/000547964",
 "https://catalog.hathitrust.org/Record/009790464",
@@ -124791,7 +124791,7 @@
 "title_ta": "",
 "title_en": "Indian Antiquary, Vol. 16",
 "title_en_note": "",
-"alt_title": "The Indian Antiquary Vol 16",
+"alt_title": "The Indian Antiquary Vol. Xvi (IA TheIndianAntiquaryVolXVI)",
 "authors": "John Faithful Fleet, Richard Carnac Temple",
 "authors_roman": "",
 "publisher": "Swati Publications",
@@ -124807,14 +124807,14 @@
 "notes": "",
 "subjects": "City",
 "access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_16.pdf",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_16.pdf",
+"read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol._Xvi_%28IA_TheIndianAntiquaryVolXVI%29.pdf",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol._Xvi_%28IA_TheIndianAntiquaryVolXVI%29.pdf",
 "buy_url": "",
-"source_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_16.pdf",
+"source_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol._Xvi_%28IA_TheIndianAntiquaryVolXVI%29.pdf",
 "copies": [
 {
-"read": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol._Xvi_%28IA_TheIndianAntiquaryVolXVI%29.pdf",
-"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol._Xvi_%28IA_TheIndianAntiquaryVolXVI%29.pdf"
+"read": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_16.pdf",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_16.pdf"
 },
 {
 "read": "https://babel.hathitrust.org/cgi/pt?id=uva.x030162544",
@@ -124842,7 +124842,7 @@
 }
 ],
 "other_source_urls": [
-"https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol._Xvi_%28IA_TheIndianAntiquaryVolXVI%29.pdf",
+"https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_16.pdf",
 "https://catalog.hathitrust.org/Record/009790464",
 "https://catalog.hathitrust.org/Record/103438116",
 "https://archive.org/details/TheIndianAntiquaryVolXVI",
@@ -125583,7 +125583,7 @@
 "title_ta": "",
 "title_en": "Indian Antiquary, Vol. 24",
 "title_en_note": "",
-"alt_title": "The Indian Antiquary Vol 24",
+"alt_title": "The Indian Antiquary Vol Xxiv (IA TheIndianAntiquaryVolXXIV)",
 "authors": "Richard Carnac Temple",
 "authors_roman": "",
 "publisher": "Popular Prakashan [etc",
@@ -125599,14 +125599,14 @@
 "notes": "",
 "subjects": "-",
 "access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_24.pdf",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_24.pdf",
+"read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_Xxiv_%28IA_TheIndianAntiquaryVolXXIV%29.pdf",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_Xxiv_%28IA_TheIndianAntiquaryVolXXIV%29.pdf",
 "buy_url": "",
-"source_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_24.pdf",
+"source_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_Xxiv_%28IA_TheIndianAntiquaryVolXXIV%29.pdf",
 "copies": [
 {
-"read": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_Xxiv_%28IA_TheIndianAntiquaryVolXXIV%29.pdf",
-"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_Xxiv_%28IA_TheIndianAntiquaryVolXXIV%29.pdf"
+"read": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_24.pdf",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_24.pdf"
 },
 {
 "read": "https://babel.hathitrust.org/cgi/pt?id=hvd.32044077741817",
@@ -125638,7 +125638,7 @@
 }
 ],
 "other_source_urls": [
-"https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_Xxiv_%28IA_TheIndianAntiquaryVolXXIV%29.pdf",
+"https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_24.pdf",
 "https://catalog.hathitrust.org/Record/000501150",
 "https://catalog.hathitrust.org/Record/009790464",
 "https://archive.org/details/TheIndianAntiquaryVolXXIV",
