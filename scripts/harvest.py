@@ -312,8 +312,24 @@ def harvest_ia():
     for r in rows:
         r["access"] = "borrow" if BORROW.search(r.get("collection", "")) else "open"
         r["read_url"] = r["url"] if r["access"] == "open" else ""
-    log(f"[ia] enriching {len(rows)} items via metadata API")
-    for i, r in enumerate(rows[:9000]):
+    # reuse details already looked up in earlier runs; only new items hit the metadata API
+    prev = {}
+    try:
+        prev = {x["source_id"]: x for x in json.loads((OUT / "ia.json").read_text(encoding="utf-8")) if x.get("enriched")}
+    except Exception:
+        pass
+    todo = []
+    for r in rows:
+        p_ = prev.get(r["source_id"])
+        if p_:
+            for f in ("authors", "publisher", "year", "description", "isbn", "access", "read_url", "download_url", "enriched"):
+                if p_.get(f) not in (None, ""):
+                    r[f] = p_[f]
+        else:
+            todo.append(r)
+    log(f"[ia] {len(rows) - len(todo)} reused, enriching {len(todo)} new items via metadata API")
+    for i, r in enumerate(todo[:9000]):
+        r["enriched"] = True
         try:
             m = get(f"https://archive.org/metadata/{urllib.parse.quote(r['source_id'])}", tries=2, sleep=0.1)
             md = (m or {}).get("metadata", {}) if isinstance(m, dict) else {}

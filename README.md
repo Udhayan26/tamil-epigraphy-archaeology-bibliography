@@ -16,7 +16,7 @@ Each entry has:
 
 ## Automatic updates
 
-- **Every day at 02:47 IST** – quick search of catalogues, open-access collections and your listed sources.
+- **Every 4 hours** (01:47, 05:47, 09:47, 13:47, 17:47, 21:47 IST) – quick search of catalogues, open-access collections and your listed sources; only new finds are looked up in detail.
 - **Every Saturday at 01:17 IST** – full deep search (old/colonial catalogue, ~90 scholars by name, all catalogues).
 - Each book keeps a **permanent ID** (`TB-000123`) and the **date it was first added**; duplicates (same title in Tamil script / romanised, or same ISBN) are merged into one entry.
 - New finds of the last 30 days: the **Newly Added** sheet in the Excel file.
