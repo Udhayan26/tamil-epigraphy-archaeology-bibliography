@@ -37,139 +37,184 @@
 [loc] kacukal: total so far 0
 [loc] kasukal: total so far 0
 [loc] nanayangal: total so far 0
-[loc] Tamil inscriptions: total so far 1
-[loc] inscriptions Tamil Nadu: total so far 2
-[loc] Tamilnadu inscriptions: total so far 2
-[loc] Tamil epigraphy: total so far 2
-[loc] South Indian inscriptions: total so far 3
-[loc] South Indian epigraphy: total so far 3
-[loc] Epigraphia Indica: total so far 3
-[loc] annual report epigraphy: total so far 3
-[loc] topographical list inscriptions: total so far 3
-[loc] district inscriptions Tamil: total so far 4
-[loc] temple inscriptions Tamil: total so far 5
-[loc] Chola inscriptions: total so far 6
-[loc] Pandya inscriptions: total so far 7
-[loc] Pallava inscriptions: total so far 7
-[loc] Pallava copper plates: total so far 7
-[loc] Chola copper plates: total so far 7
-[loc] Pandya copper plates: total so far 7
-[loc] copper plates Tamil: total so far 7
-[loc] Tamil Brahmi: total so far 7
-[loc] Tamil-Brahmi inscriptions: total so far 7
-[loc] Vatteluttu: total so far 7
-[loc] South Indian palaeography: total so far 7
-[loc] hero stones Tamil: total so far 8
-[loc] hero stones Tamil Nadu: total so far 9
-[loc] memorial stones South India: total so far 9
-[loc] rock art Tamil Nadu: total so far 10
-[loc] rock paintings Tamil Nadu: total so far 11
-[loc] prehistoric rock art South India: total so far 11
-[loc] excavations Tamil Nadu: total so far 11
-[loc] archaeology Tamil Nadu: total so far 11
-[loc] archaeology Tamilnadu: total so far 11
-[loc] Tamil Nadu archaeology department: total so far 11
-[loc] megalithic Tamil Nadu: total so far 11
-[loc] megaliths South India: total so far 11
-[loc] urn burials Tamil Nadu: total so far 11
-[loc] Keeladi: total so far 11
-[loc] Keezhadi: total so far 11
-[loc] Adichanallur: total so far 11
-[loc] Arikamedu: total so far 11
-[loc] Kodumanal: total so far 11
-[loc] Porunthal: total so far 11
-[loc] Alagankulam: total so far 11
-[loc] Kaveripattinam excavation: total so far 11
-[loc] Poompuhar archaeology: total so far 11
-[loc] Sivagalai: total so far 11
-[loc] Tamil coins Sangam: total so far 11
-[loc] Pudukkottai inscriptions: total so far 11
-[loc] Travancore archaeological series: total so far 11
-[loc] Madras Presidency antiquities: total so far 12
-[loc] Kanyakumari inscriptions: total so far 12
-[loc] Jaina inscriptions Tamil Nadu: total so far 13
-[loc] Tamil graffiti potsherds: total so far 13
-[loc] Sri Lanka Tamil inscriptions: total so far 14
-[loc] Annual Report on Indian Epigraphy: total so far 14
-[loc] Annual Report on South Indian Epigraphy: total so far 14
-[loc] Annual report on epigraphy Madras: total so far 14
-[loc] Report on epigraphy: total so far 14
-[loc] Madras epigraphy: total so far 14
-[loc] Government Epigraphist Madras: total so far 14
-[loc] Epigraphia Indica: total so far 14
-[loc] Indian Antiquary: total so far 14
-[loc] Epigraphia Carnatica: total so far 15
-[loc] South Indian Inscriptions volume: total so far 15
-[loc] Pudukkottai State inscriptions: total so far 15
-[loc] Travancore Archaeological Series: total so far 15
-[loc] Archaeological Survey of Southern India: total so far 15
-[loc] antiquarian remains Madras: total so far 16
-[loc] Madras Government Museum bulletin: total so far 16
-[loc] Ancient India bulletin: total so far 16
-[loc] Indian Archaeology a review: total so far 17
-[loc] Annual report archaeological department southern circle: total so far 18
-[loc] Mackenzie collection: total so far 19
-[loc] Tamil Nadu State Department of Archaeology: total so far 19
-[loc] Madras district gazetteer antiquities: total so far 20
-[loc] Vijayanagara inscriptions Tamil: total so far 20
-[loc] Nayak inscriptions: total so far 21
-[loc] Sethupathi copper plates: total so far 21
-[loc] Maratha Tanjore inscriptions: total so far 22
-[loc] Kongu inscriptions: total so far 22
-[loc] Jain inscriptions Tamil: total so far 23
-[loc] Buddhist Tamil inscriptions: total so far 24
-[loc] Grantha script: total so far 24
-[loc] Tamil script evolution: total so far 25
-[loc] Thanjavur Brihadisvara inscriptions: total so far 25
-[loc] Chidambaram inscriptions: total so far 25
-[loc] Srirangam inscriptions: total so far 26
-[loc] Kanchipuram inscriptions: total so far 27
-[loc] Tirumalai Tirupati inscriptions: total so far 27
-[loc] Madurai inscriptions: total so far 28
-[loc] palm-leaf manuscripts Tamil: total so far 29
-[loc] palm leaf manuscripts South India: total so far 30
-[loc] Tamil manuscripts catalogue: total so far 31
-[loc] descriptive catalogue Tamil manuscripts: total so far 32
-[loc] manuscriptology Tamil: total so far 32
-[loc] Government Oriental Manuscripts Library: total so far 34
-[loc] Saraswathi Mahal Library manuscripts: total so far 34
-[loc] Mackenzie manuscripts: total so far 35
-[loc] Tamil manuscripts conservation: total so far 35
-[loc] cadjan manuscripts: total so far 35
-[loc] palm leaf records Tamil Nadu: total so far 36
-[loc] Chola coins: total so far 37
-[loc] Pandya coins: total so far 38
-[loc] Chera coins: total so far 39
-[loc] Pallava coins: total so far 39
-[loc] Sangam age coins: total so far 39
-[loc] Roman coins South India: total so far 40
-[loc] Roman coins Tamil Nadu: total so far 41
-[loc] punch-marked coins Tamil Nadu: total so far 41
-[loc] South Indian coins: total so far 41
-[loc] Studies in South Indian Coins: total so far 41
-[loc] coins Madras Government Museum: total so far 41
-[loc] Vijayanagara coins: total so far 41
-[loc] Nayak coins: total so far 42
-[loc] Sri Lanka Tamil coins: total so far 43
-[loc] numismatics Tamil Nadu: total so far 43
-[loc] copper plate grants South India: total so far 43
-[loc] copper-plate grant Chola: total so far 43
-[loc] Velvikudi grant: total so far 43
-[loc] Larger Leiden plates: total so far 43
-[loc] Anbil plates: total so far 43
-[loc] Tiruvalangadu plates: total so far 43
-[loc] Karandai plates: total so far 43
-[loc] Kasakudi plates: total so far 43
-[loc] Esalam copper plates: total so far 43
-[loc] Sinnamanur plates: total so far 43
-[loc] seals sealings Tamil Nadu: total so far 44
-[loc] rock-cut caves Tamil Nadu: total so far 45
-[loc] Jaina beds Tamil Nadu: total so far 46
-[loc] cave inscriptions Madurai: total so far 47
-[loc] inscriptional glossary Tamil: total so far 47
-[loc] Tamil inscriptions translation: total so far 48
-[loc] Grantha inscriptions: total so far 48
-[loc] bilingual inscriptions Tamil Sanskrit: total so far 48
-[loc] saved 4 records
-[loc] took 5165s
-total 5165s
+[loc] varalaru: total so far 0
+[loc] varalaaru: total so far 0
+[loc] cholar varalaru: total so far 0
+[loc] pandiyar varalaru: total so far 0
+[loc] pallavar varalaru: total so far 0
+[loc] tamilaka varalaru: total so far 0
+[loc] tamilnattu varalaru: total so far 0
+[loc] talavaralaru: total so far 0
+[loc] tala varalaru: total so far 0
+[loc] meykkirtti: total so far 0
+[loc] meikeerthi: total so far 0
+[loc] Tamil inscriptions: total so far 3
+[loc] inscriptions Tamil Nadu: total so far 4
+[loc] Tamilnadu inscriptions: total so far 4
+[loc] Tamil epigraphy: total so far 4
+[loc] South Indian inscriptions: total so far 5
+[loc] South Indian epigraphy: total so far 5
+[loc] Epigraphia Indica: total so far 5
+[loc] annual report epigraphy: total so far 5
+[loc] topographical list inscriptions: total so far 5
+[loc] district inscriptions Tamil: total so far 8
+[loc] temple inscriptions Tamil: total so far 11
+[loc] Chola inscriptions: total so far 12
+[loc] Pandya inscriptions: total so far 13
+[loc] Pallava inscriptions: total so far 13
+[loc] Pallava copper plates: total so far 13
+[loc] Chola copper plates: total so far 13
+[loc] Pandya copper plates: total so far 13
+[loc] copper plates Tamil: total so far 16
+[loc] Tamil Brahmi: total so far 16
+[loc] Tamil-Brahmi inscriptions: total so far 16
+[loc] Vatteluttu: total so far 16
+[loc] South Indian palaeography: total so far 16
+[loc] hero stones Tamil: total so far 19
+[loc] hero stones Tamil Nadu: total so far 20
+[loc] memorial stones South India: total so far 22
+[loc] rock art Tamil Nadu: total so far 23
+[loc] rock paintings Tamil Nadu: total so far 24
+[loc] prehistoric rock art South India: total so far 26
+[loc] excavations Tamil Nadu: total so far 27
+[loc] archaeology Tamil Nadu: total so far 27
+[loc] archaeology Tamilnadu: total so far 27
+[loc] Tamil Nadu archaeology department: total so far 27
+[loc] megalithic Tamil Nadu: total so far 27
+[loc] megaliths South India: total so far 27
+[loc] urn burials Tamil Nadu: total so far 27
+[loc] Keeladi: total so far 27
+[loc] Keezhadi: total so far 27
+[loc] Adichanallur: total so far 27
+[loc] Arikamedu: total so far 27
+[loc] Kodumanal: total so far 27
+[loc] Porunthal: total so far 27
+[loc] Alagankulam: total so far 27
+[loc] Kaveripattinam excavation: total so far 27
+[loc] Poompuhar archaeology: total so far 27
+[loc] Sivagalai: total so far 27
+[loc] Tamil coins Sangam: total so far 27
+[loc] Pudukkottai inscriptions: total so far 27
+[loc] Travancore archaeological series: total so far 27
+[loc] Madras Presidency antiquities: total so far 30
+[loc] Kanyakumari inscriptions: total so far 30
+[loc] Jaina inscriptions Tamil Nadu: total so far 31
+[loc] Tamil graffiti potsherds: total so far 31
+[loc] Sri Lanka Tamil inscriptions: total so far 32
+[loc] Annual Report on Indian Epigraphy: total so far 32
+[loc] Annual Report on South Indian Epigraphy: total so far 32
+[loc] Annual report on epigraphy Madras: total so far 32
+[loc] Report on epigraphy: total so far 32
+[loc] Madras epigraphy: total so far 32
+[loc] Government Epigraphist Madras: total so far 32
+[loc] Epigraphia Indica: total so far 32
+[loc] Indian Antiquary: total so far 32
+[loc] Epigraphia Carnatica: total so far 33
+[loc] South Indian Inscriptions volume: total so far 33
+[loc] Pudukkottai State inscriptions: total so far 33
+[loc] Travancore Archaeological Series: total so far 33
+[loc] Archaeological Survey of Southern India: total so far 34
+[loc] antiquarian remains Madras: total so far 35
+[loc] Madras Government Museum bulletin: total so far 37
+[loc] Ancient India bulletin: total so far 39
+[loc] Indian Archaeology a review: total so far 40
+[loc] Annual report archaeological department southern circle: total so far 42
+[loc] Mackenzie collection: total so far 44
+[loc] Tamil Nadu State Department of Archaeology: total so far 44
+[loc] Madras district gazetteer antiquities: total so far 45
+[loc] Vijayanagara inscriptions Tamil: total so far 45
+[loc] Nayak inscriptions: total so far 46
+[loc] Sethupathi copper plates: total so far 46
+[loc] Maratha Tanjore inscriptions: total so far 47
+[loc] Kongu inscriptions: total so far 47
+[loc] Jain inscriptions Tamil: total so far 50
+[loc] Buddhist Tamil inscriptions: total so far 51
+[loc] Grantha script: total so far 51
+[loc] Tamil script evolution: total so far 54
+[loc] Thanjavur Brihadisvara inscriptions: total so far 54
+[loc] Chidambaram inscriptions: total so far 54
+[loc] Srirangam inscriptions: total so far 55
+[loc] Kanchipuram inscriptions: total so far 56
+[loc] Tirumalai Tirupati inscriptions: total so far 56
+[loc] Madurai inscriptions: total so far 57
+[loc] palm-leaf manuscripts Tamil: total so far 58
+[loc] palm leaf manuscripts South India: total so far 59
+[loc] Tamil manuscripts catalogue: total so far 60
+[loc] descriptive catalogue Tamil manuscripts: total so far 61
+[loc] manuscriptology Tamil: total so far 61
+[loc] Government Oriental Manuscripts Library: total so far 63
+[loc] Saraswathi Mahal Library manuscripts: total so far 63
+[loc] Mackenzie manuscripts: total so far 65
+[loc] Tamil manuscripts conservation: total so far 65
+[loc] cadjan manuscripts: total so far 65
+[loc] palm leaf records Tamil Nadu: total so far 66
+[loc] Chola coins: total so far 67
+[loc] Pandya coins: total so far 68
+[loc] Chera coins: total so far 69
+[loc] Pallava coins: total so far 69
+[loc] Sangam age coins: total so far 69
+[loc] Roman coins South India: total so far 71
+[loc] Roman coins Tamil Nadu: total so far 72
+[loc] punch-marked coins Tamil Nadu: total so far 72
+[loc] South Indian coins: total so far 72
+[loc] Studies in South Indian Coins: total so far 72
+[loc] coins Madras Government Museum: total so far 74
+[loc] Vijayanagara coins: total so far 74
+[loc] Nayak coins: total so far 75
+[loc] Sri Lanka Tamil coins: total so far 76
+[loc] numismatics Tamil Nadu: total so far 76
+[loc] copper plate grants South India: total so far 79
+[loc] copper-plate grant Chola: total so far 79
+[loc] Velvikudi grant: total so far 79
+[loc] Larger Leiden plates: total so far 79
+[loc] Anbil plates: total so far 79
+[loc] Tiruvalangadu plates: total so far 79
+[loc] Karandai plates: total so far 79
+[loc] Kasakudi plates: total so far 79
+[loc] Esalam copper plates: total so far 79
+[loc] Sinnamanur plates: total so far 79
+[loc] seals sealings Tamil Nadu: total so far 80
+[loc] rock-cut caves Tamil Nadu: total so far 82
+[loc] Jaina beds Tamil Nadu: total so far 83
+[loc] cave inscriptions Madurai: total so far 84
+[loc] inscriptional glossary Tamil: total so far 84
+[loc] Tamil inscriptions translation: total so far 87
+[loc] Grantha inscriptions: total so far 87
+[loc] bilingual inscriptions Tamil Sanskrit: total so far 87
+[loc] history of Tamil Nadu: total so far 93
+[loc] history of the Tamils: total so far 108
+[loc] Tamil history: total so far 123
+[loc] Chola history: total so far 127
+[loc] the Cholas: total so far 134
+[loc] Pandyan kingdom: total so far 135
+[loc] the Pallavas: total so far 135
+[loc] the Cheras: total so far 136
+[loc] Kalabhras: total so far 136
+[loc] Sangam age history: total so far 136
+[loc] Madurai Nayaks: total so far 137
+[loc] Tanjore Nayaks: total so far 138
+[loc] Nayaks of Madura: total so far 139
+[loc] Maratha rulers Thanjavur: total so far 139
+[loc] Sethupathis of Ramnad: total so far 140
+[loc] Pudukkottai history: total so far 140
+[loc] Kongu country history: total so far 140
+[loc] Polygars Tamil Nadu: total so far 141
+[loc] South Indian history: total so far 142
+[loc] medieval South India: total so far 143
+[loc] Tamil country Vijayanagar: total so far 144
+[loc] temple history Tamil Nadu: total so far 145
+[loc] social history Tamil Nadu: total so far 148
+[loc] economic history Tamil Nadu: total so far 149
+[loc] agrarian history South India: total so far 149
+[loc] Tamil historiography: total so far 150
+[loc] history of Jaffna: total so far 152
+[loc] Sri Lankan Tamil history: total so far 156
+[loc] Tamil maritime trade history: total so far 159
+[loc] Indo-Roman trade South India: total so far 159
+[loc] Madras district manual: total so far 163
+[loc] Madras district gazetteer: total so far 164
+[loc] Tamils eighteen hundred years ago: total so far 167
+[loc] Tamilakam: total so far 167
+[loc] saved 30 records
+[loc] took 9858s
+total 9858s

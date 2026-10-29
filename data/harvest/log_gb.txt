@@ -76,6 +76,28 @@
 [gb] kasukal: total so far 0
 [gb] ERR nanayangal Google Books quota exhausted for this run
 [gb] nanayangal: total so far 0
+[gb] ERR varalaru Google Books quota exhausted for this run
+[gb] varalaru: total so far 0
+[gb] ERR varalaaru Google Books quota exhausted for this run
+[gb] varalaaru: total so far 0
+[gb] ERR cholar varalaru Google Books quota exhausted for this run
+[gb] cholar varalaru: total so far 0
+[gb] ERR pandiyar varalaru Google Books quota exhausted for this run
+[gb] pandiyar varalaru: total so far 0
+[gb] ERR pallavar varalaru Google Books quota exhausted for this run
+[gb] pallavar varalaru: total so far 0
+[gb] ERR tamilaka varalaru Google Books quota exhausted for this run
+[gb] tamilaka varalaru: total so far 0
+[gb] ERR tamilnattu varalaru Google Books quota exhausted for this run
+[gb] tamilnattu varalaru: total so far 0
+[gb] ERR talavaralaru Google Books quota exhausted for this run
+[gb] talavaralaru: total so far 0
+[gb] ERR tala varalaru Google Books quota exhausted for this run
+[gb] tala varalaru: total so far 0
+[gb] ERR meykkirtti Google Books quota exhausted for this run
+[gb] meykkirtti: total so far 0
+[gb] ERR meikeerthi Google Books quota exhausted for this run
+[gb] meikeerthi: total so far 0
 [gb] ERR Tamil inscriptions Google Books quota exhausted for this run
 [gb] Tamil inscriptions: total so far 0
 [gb] ERR inscriptions Tamil Nadu Google Books quota exhausted for this run
@@ -342,6 +364,74 @@
 [gb] Grantha inscriptions: total so far 0
 [gb] ERR bilingual inscriptions Tamil Sanskrit Google Books quota exhausted for this run
 [gb] bilingual inscriptions Tamil Sanskrit: total so far 0
+[gb] ERR history of Tamil Nadu Google Books quota exhausted for this run
+[gb] history of Tamil Nadu: total so far 0
+[gb] ERR history of the Tamils Google Books quota exhausted for this run
+[gb] history of the Tamils: total so far 0
+[gb] ERR Tamil history Google Books quota exhausted for this run
+[gb] Tamil history: total so far 0
+[gb] ERR Chola history Google Books quota exhausted for this run
+[gb] Chola history: total so far 0
+[gb] ERR the Cholas Google Books quota exhausted for this run
+[gb] the Cholas: total so far 0
+[gb] ERR Pandyan kingdom Google Books quota exhausted for this run
+[gb] Pandyan kingdom: total so far 0
+[gb] ERR the Pallavas Google Books quota exhausted for this run
+[gb] the Pallavas: total so far 0
+[gb] ERR the Cheras Google Books quota exhausted for this run
+[gb] the Cheras: total so far 0
+[gb] ERR Kalabhras Google Books quota exhausted for this run
+[gb] Kalabhras: total so far 0
+[gb] ERR Sangam age history Google Books quota exhausted for this run
+[gb] Sangam age history: total so far 0
+[gb] ERR Madurai Nayaks Google Books quota exhausted for this run
+[gb] Madurai Nayaks: total so far 0
+[gb] ERR Tanjore Nayaks Google Books quota exhausted for this run
+[gb] Tanjore Nayaks: total so far 0
+[gb] ERR Nayaks of Madura Google Books quota exhausted for this run
+[gb] Nayaks of Madura: total so far 0
+[gb] ERR Maratha rulers Thanjavur Google Books quota exhausted for this run
+[gb] Maratha rulers Thanjavur: total so far 0
+[gb] ERR Sethupathis of Ramnad Google Books quota exhausted for this run
+[gb] Sethupathis of Ramnad: total so far 0
+[gb] ERR Pudukkottai history Google Books quota exhausted for this run
+[gb] Pudukkottai history: total so far 0
+[gb] ERR Kongu country history Google Books quota exhausted for this run
+[gb] Kongu country history: total so far 0
+[gb] ERR Polygars Tamil Nadu Google Books quota exhausted for this run
+[gb] Polygars Tamil Nadu: total so far 0
+[gb] ERR South Indian history Google Books quota exhausted for this run
+[gb] South Indian history: total so far 0
+[gb] ERR medieval South India Google Books quota exhausted for this run
+[gb] medieval South India: total so far 0
+[gb] ERR Tamil country Vijayanagar Google Books quota exhausted for this run
+[gb] Tamil country Vijayanagar: total so far 0
+[gb] ERR temple history Tamil Nadu Google Books quota exhausted for this run
+[gb] temple history Tamil Nadu: total so far 0
+[gb] ERR social history Tamil Nadu Google Books quota exhausted for this run
+[gb] social history Tamil Nadu: total so far 0
+[gb] ERR economic history Tamil Nadu Google Books quota exhausted for this run
+[gb] economic history Tamil Nadu: total so far 0
+[gb] ERR agrarian history South India Google Books quota exhausted for this run
+[gb] agrarian history South India: total so far 0
+[gb] ERR Tamil historiography Google Books quota exhausted for this run
+[gb] Tamil historiography: total so far 0
+[gb] ERR history of Jaffna Google Books quota exhausted for this run
+[gb] history of Jaffna: total so far 0
+[gb] ERR Sri Lankan Tamil history Google Books quota exhausted for this run
+[gb] Sri Lankan Tamil history: total so far 0
+[gb] ERR Tamil maritime trade history Google Books quota exhausted for this run
+[gb] Tamil maritime trade history: total so far 0
+[gb] ERR Indo-Roman trade South India Google Books quota exhausted for this run
+[gb] Indo-Roman trade South India: total so far 0
+[gb] ERR Madras district manual Google Books quota exhausted for this run
+[gb] Madras district manual: total so far 0
+[gb] ERR Madras district gazetteer Google Books quota exhausted for this run
+[gb] Madras district gazetteer: total so far 0
+[gb] ERR Tamils eighteen hundred years ago Google Books quota exhausted for this run
+[gb] Tamils eighteen hundred years ago: total so far 0
+[gb] ERR Tamilakam Google Books quota exhausted for this run
+[gb] Tamilakam: total so far 0
 [gb] ERR கல்வெட்டு Google Books quota exhausted for this run
 [gb] கல்வெட்டு: total so far 0
 [gb] ERR கல்வெட்டுகள் Google Books quota exhausted for this run
@@ -462,6 +552,64 @@
 [gb] தமிழ்க் கல்வெட்டுகள்: total so far 0
 [gb] ERR கோயில் கல்வெட்டுகள் Google Books quota exhausted for this run
 [gb] கோயில் கல்வெட்டுகள்: total so far 0
+[gb] ERR தமிழக வரலாறு Google Books quota exhausted for this run
+[gb] தமிழக வரலாறு: total so far 0
+[gb] ERR தமிழ்நாட்டு வரலாறு Google Books quota exhausted for this run
+[gb] தமிழ்நாட்டு வரலாறு: total so far 0
+[gb] ERR தமிழர் வரலாறு Google Books quota exhausted for this run
+[gb] தமிழர் வரலாறு: total so far 0
+[gb] ERR சோழர் வரலாறு Google Books quota exhausted for this run
+[gb] சோழர் வரலாறு: total so far 0
+[gb] ERR பாண்டியர் வரலாறு Google Books quota exhausted for this run
+[gb] பாண்டியர் வரலாறு: total so far 0
+[gb] ERR பல்லவர் வரலாறு Google Books quota exhausted for this run
+[gb] பல்லவர் வரலாறு: total so far 0
+[gb] ERR சேரர் வரலாறு Google Books quota exhausted for this run
+[gb] சேரர் வரலாறு: total so far 0
+[gb] ERR களப்பிரர் Google Books quota exhausted for this run
+[gb] களப்பிரர்: total so far 0
+[gb] ERR நாயக்கர் வரலாறு Google Books quota exhausted for this run
+[gb] நாயக்கர் வரலாறு: total so far 0
+[gb] ERR சேதுபதி Google Books quota exhausted for this run
+[gb] சேதுபதி: total so far 0
+[gb] ERR தொண்டைமான் Google Books quota exhausted for this run
+[gb] தொண்டைமான்: total so far 0
+[gb] ERR மராட்டியர் வரலாறு Google Books quota exhausted for this run
+[gb] மராட்டியர் வரலாறு: total so far 0
+[gb] ERR விஜயநகர Google Books quota exhausted for this run
+[gb] விஜயநகர: total so far 0
+[gb] ERR சங்ககால வரலாறு Google Books quota exhausted for this run
+[gb] சங்ககால வரலாறு: total so far 0
+[gb] ERR சங்க காலத் தமிழகம் Google Books quota exhausted for this run
+[gb] சங்க காலத் தமிழகம்: total so far 0
+[gb] ERR கொங்கு நாட்டு வரலாறு Google Books quota exhausted for this run
+[gb] கொங்கு நாட்டு வரலாறு: total so far 0
+[gb] ERR பாளையக்காரர் Google Books quota exhausted for this run
+[gb] பாளையக்காரர்: total so far 0
+[gb] ERR ஊர் வரலாறு Google Books quota exhausted for this run
+[gb] ஊர் வரலாறு: total so far 0
+[gb] ERR மாவட்ட வரலாறு Google Books quota exhausted for this run
+[gb] மாவட்ட வரலாறு: total so far 0
+[gb] ERR தல வரலாறு Google Books quota exhausted for this run
+[gb] தல வரலாறு: total so far 0
+[gb] ERR தலவரலாறு Google Books quota exhausted for this run
+[gb] தலவரலாறு: total so far 0
+[gb] ERR கோயில் வரலாறு Google Books quota exhausted for this run
+[gb] கோயில் வரலாறு: total so far 0
+[gb] ERR ஈழத் தமிழர் வரலாறு Google Books quota exhausted for this run
+[gb] ஈழத் தமிழர் வரலாறு: total so far 0
+[gb] ERR யாழ்ப்பாண வரலாறு Google Books quota exhausted for this run
+[gb] யாழ்ப்பாண வரலாறு: total so far 0
+[gb] ERR மெய்க்கீர்த்தி Google Books quota exhausted for this run
+[gb] மெய்க்கீர்த்தி: total so far 0
+[gb] ERR வரலாற்று ஆய்வு Google Books quota exhausted for this run
+[gb] வரலாற்று ஆய்வு: total so far 0
+[gb] ERR தமிழக சமூக வரலாறு Google Books quota exhausted for this run
+[gb] தமிழக சமூக வரலாறு: total so far 0
+[gb] ERR தமிழகப் பொருளாதார வரலாறு Google Books quota exhausted for this run
+[gb] தமிழகப் பொருளாதார வரலாறு: total so far 0
+[gb] ERR கடல் வணிகம் Google Books quota exhausted for this run
+[gb] கடல் வணிகம்: total so far 0
 [gb] ERR subject:"Inscriptions, Tamil" Google Books quota exhausted for this run
 [gb] subject:"Inscriptions, Tamil": total so far 0
 [gb] ERR subject:"Tamil language" Google Books quota exhausted for this run
@@ -495,5 +643,5 @@
 [gb] ERR subject:"Paleography, Tamil" Google Books quota exhausted for this run
 [gb] subject:"Paleography, Tamil": total so far 0
 [gb] saved 0 records
-[gb] took 211s
-total 211s
+[gb] took 210s
+total 210s

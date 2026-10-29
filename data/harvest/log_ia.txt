@@ -58,6 +58,35 @@
 [ia]     0  (title:("சாசனத் தமிழ்") OR subject:("சாசனத் தமிழ்"))
 [ia]     2  (title:("தமிழ்க் கல்வெட்டுகள்") OR subject:("தமிழ்க் கல்வெட்டுகள்"))
 [ia]    67  (title:("கோயில் கல்வெட்டுகள்") OR subject:("கோயில் கல்வெட்டுகள்"))
+[ia]    53  (title:("தமிழக வரலாறு") OR subject:("தமிழக வரலாறு"))
+[ia]    14  (title:("தமிழ்நாட்டு வரலாறு") OR subject:("தமிழ்நாட்டு வரலாறு"))
+[ia]    23  (title:("தமிழர் வரலாறு") OR subject:("தமிழர் வரலாறு"))
+[ia]    21  (title:("சோழர் வரலாறு") OR subject:("சோழர் வரலாறு"))
+[ia]    19  (title:("பாண்டியர் வரலாறு") OR subject:("பாண்டியர் வரலாறு"))
+[ia]     5  (title:("பல்லவர் வரலாறு") OR subject:("பல்லவர் வரலாறு"))
+[ia]     2  (title:("சேரர் வரலாறு") OR subject:("சேரர் வரலாறு"))
+[ia]    23  (title:("களப்பிரர்") OR subject:("களப்பிரர்"))
+[ia]     5  (title:("நாயக்கர் வரலாறு") OR subject:("நாயக்கர் வரலாறு"))
+[ia]   208  (title:("சேதுபதி") OR subject:("சேதுபதி"))
+[ia]    57  (title:("தொண்டைமான்") OR subject:("தொண்டைமான்"))
+[ia]     0  (title:("மராட்டியர் வரலாறு") OR subject:("மராட்டியர் வரலாறு"))
+[ia]    20  (title:("விஜயநகர") OR subject:("விஜயநகர"))
+[ia]     1  (title:("சங்ககால வரலாறு") OR subject:("சங்ககால வரலாறு"))
+[ia]     2  (title:("சங்க காலத் தமிழகம்") OR subject:("சங்க காலத் தமிழகம்"))
+[ia]     9  (title:("கொங்கு நாட்டு வரலாறு") OR subject:("கொங்கு நாட்டு வரலாறு"))
+[ia]     6  (title:("பாளையக்காரர்") OR subject:("பாளையக்காரர்"))
+[ia]     2  (title:("ஊர் வரலாறு") OR subject:("ஊர் வரலாறு"))
+[ia]    13  (title:("மாவட்ட வரலாறு") OR subject:("மாவட்ட வரலாறு"))
+[ia]   153  (title:("தல வரலாறு") OR subject:("தல வரலாறு"))
+[ia]   124  (title:("தலவரலாறு") OR subject:("தலவரலாறு"))
+[ia]    87  (title:("கோயில் வரலாறு") OR subject:("கோயில் வரலாறு"))
+[ia]     0  (title:("ஈழத் தமிழர் வரலாறு") OR subject:("ஈழத் தமிழர் வரலாறு"))
+[ia]     0  (title:("யாழ்ப்பாண வரலாறு") OR subject:("யாழ்ப்பாண வரலாறு"))
+[ia]     7  (title:("மெய்க்கீர்த்தி") OR subject:("மெய்க்கீர்த்தி"))
+[ia]     9  (title:("வரலாற்று ஆய்வு") OR subject:("வரலாற்று ஆய்வு"))
+[ia]     0  (title:("தமிழக சமூக வரலாறு") OR subject:("தமிழக சமூக வரலாறு"))
+[ia]     0  (title:("தமிழகப் பொருளாதார வரலாறு") OR subject:("தமிழகப் பொருளாதார வரலாறு"))
+[ia]     4  (title:("கடல் வணிகம்") OR subject:("கடல் வணிகம்"))
 [ia]    50  title:(kalvettu*)
 [ia]    24  title:(kalvettukal*)
 [ia]    12  title:(kalvettukkal*)
@@ -97,6 +126,17 @@
 [ia]     0  title:(kacukal*)
 [ia]     0  title:(kasukal*)
 [ia]     1  title:(nanayangal*)
+[ia]   128  title:(varalaru*)
+[ia]    54  title:(varalaaru*)
+[ia]     1  title:("cholar varalaru")
+[ia]     0  title:("pandiyar varalaru")
+[ia]     1  title:("pallavar varalaru")
+[ia]     0  title:("tamilaka varalaru")
+[ia]     0  title:("tamilnattu varalaru")
+[ia]     0  title:(talavaralaru*)
+[ia]     1  title:("tala varalaru")
+[ia]     0  title:(meykkirtti*)
+[ia]     0  title:(meikeerthi*)
 [ia]    33  (title:("Tamil inscriptions") OR subject:("Tamil inscriptions"))
 [ia]    17  title:(inscriptions Tamil Nadu)
 [ia]     0  (title:("Tamilnadu inscriptions") OR subject:("Tamilnadu inscriptions"))
@@ -230,9 +270,43 @@
 [ia]     0  title:(Tamil inscriptions translation)
 [ia]     2  (title:("Grantha inscriptions") OR subject:("Grantha inscriptions"))
 [ia]     0  title:(bilingual inscriptions Tamil Sanskrit)
+[ia]    21  title:(history of Tamil Nadu)
+[ia]    12  title:(history of the Tamils)
+[ia]   109  (title:("Tamil history") OR subject:("Tamil history"))
+[ia]     2  (title:("Chola history") OR subject:("Chola history"))
+[ia]    19  (title:("the Cholas") OR subject:("the Cholas"))
+[ia]     8  (title:("Pandyan kingdom") OR subject:("Pandyan kingdom"))
+[ia]    34  (title:("the Pallavas") OR subject:("the Pallavas"))
+[ia]     3  (title:("the Cheras") OR subject:("the Cheras"))
+[ia]     4  (title:("Kalabhras") OR subject:("Kalabhras"))
+[ia]     0  title:(Sangam age history)
+[ia]     3  (title:("Madurai Nayaks") OR subject:("Madurai Nayaks"))
+[ia]     0  (title:("Tanjore Nayaks") OR subject:("Tanjore Nayaks"))
+[ia]    16  title:(Nayaks of Madura)
+[ia]     0  title:(Maratha rulers Thanjavur)
+[ia]     0  title:(Sethupathis of Ramnad)
+[ia]     0  (title:("Pudukkottai history") OR subject:("Pudukkottai history"))
+[ia]     1  title:(Kongu country history)
+[ia]     0  title:(Polygars Tamil Nadu)
+[ia]   100  title:(South Indian history)
+[ia]    14  title:(medieval South India)
+[ia]     3  title:(Tamil country Vijayanagar)
+[ia]     0  title:(temple history Tamil Nadu)
+[ia]     1  title:(social history Tamil Nadu)
+[ia]     0  title:(economic history Tamil Nadu)
+[ia]     0  title:(agrarian history South India)
+[ia]     1  (title:("Tamil historiography") OR subject:("Tamil historiography"))
+[ia]     7  title:(history of Jaffna)
+[ia]     0  title:(Sri Lankan Tamil history)
+[ia]     0  title:(Tamil maritime trade history)
+[ia]     0  title:(Indo-Roman trade South India)
+[ia]    52  title:(Madras district manual)
+[ia]     6  title:(Madras district gazetteer)
+[ia]     4  title:(Tamils eighteen hundred years ago)
+[ia]    11  (title:("Tamilakam") OR subject:("Tamilakam"))
 [ia]     3  subject:("Inscriptions, Tamil")
 [ia]   229  subject:("Tamil language")
-[ia]  4864  subject:("Inscriptions")
+[ia]  4866  subject:("Inscriptions")
 [ia]    75  subject:("Tamil Nadu (India)")
 [ia]  3611  subject:("Excavations (Archaeology)")
 [ia]     4  subject:("Hero stones")
@@ -244,7 +318,7 @@
 [ia]     0  subject:("Coins, Tamil")
 [ia]   262  subject:("Megalithic monuments")
 [ia]     0  subject:("Inscriptions, Dravidian")
-[ia]  4864  subject:("Inscriptions")
+[ia]  4866  subject:("Inscriptions")
 [ia]     0  subject:("Paleography, Tamil")
 [ia]     0  collection:(tamildigitallibrary) AND (title:(inscriptions OR epigraphy OR archaeology OR e
 [ia]  1279  collection:(digitallibraryindia) AND (title:(inscriptions OR epigraphy OR archaeology OR e
@@ -253,9 +327,9 @@
 [ia]     0  collection:(tamilheritagefoundation) AND (title:(inscriptions OR epigraphy OR archaeology 
 [ia]     0  collection:(noolaham) AND (title:(inscriptions OR epigraphy OR archaeology OR excavation O
 [ia]  1043  collection:(TamilVirtualAcademy) AND (title:(inscriptions OR epigraphy OR archaeology OR e
-[ia] raw unique hits: 17319
-[ia] relevant: 6687
-[ia] enriching 6687 items via metadata API
+[ia] raw unique hits: 18494
+[ia] relevant: 7586
+[ia] enriching 7586 items via metadata API
 [ia] enriched 500
 [ia] enriched 1000
 [ia] enriched 1500
@@ -269,6 +343,8 @@
 [ia] enriched 5500
 [ia] enriched 6000
 [ia] enriched 6500
-[ia] saved 6687 records
-[ia] took 7362s
-total 7362s
+[ia] enriched 7000
+[ia] enriched 7500
+[ia] saved 7586 records
+[ia] took 8927s
+total 8927s
