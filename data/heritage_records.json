@@ -308,7 +308,7 @@
 {
 "title_ta": "செல்லபாண்டியம்மன் கோயில்",
 "title_en": "Cellapāṇṭiyammaṉ Kōyil",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.1051-cellpaannttiymmnnn-kooyil"
 },
 {
@@ -344,7 +344,7 @@
 {
 "title_ta": "குலோத்துங்க சோழீசுவரர் கோயில்",
 "title_en": "Kulōttuṅka Cōḻīcuvarar Kōyil",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.1057-kuloottungk-coollliicuvrr-kooyil"
 },
 {
@@ -602,7 +602,7 @@
 {
 "title_ta": "சோழநாதீஸ்வரர் கோயில்",
 "title_en": "Cōḻanātīsvarar Kōyil",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.1094-coolllnaatiisvrr-kooyil"
 },
 {
@@ -1940,7 +1940,7 @@
 {
 "title_ta": "சோழபுரீசுவரர் கோயில்",
 "title_en": "Cōḻapurīcuvarar Kōyil",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.1317-coolllpuriicuvrr-kooyil"
 },
 {
@@ -3524,7 +3524,7 @@
 {
 "title_ta": "பொன்சோழீசுவரர் கோயில்",
 "title_en": "Poṉcōḻīcuvarar Kōyil",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.1557-ponnncoollliicuvrr-kooyil"
 },
 {
@@ -4766,7 +4766,7 @@
 {
 "title_ta": "காமநாயக்கன்பேட்டை",
 "title_en": "Kāmanāyakkaṉpēṭṭai",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.1764-kaamnaaykknnnpeettttai"
 },
 {
@@ -5720,7 +5720,7 @@
 {
 "title_ta": "தஞ்சாவூர் நாயக்கர் வரலாறு : [கி. பி. 1535-1675]",
 "title_en": "Tañcāvūr Nāyakkar Varalāṟu : [ki. Pi. 1535-1675]",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.41278-1535-1675"
 },
 {
@@ -5744,13 +5744,13 @@
 {
 "title_ta": "பிற்காலச் சோழர் சரித்திரம் - 2",
 "title_en": "Piṟkālac Cōḻar Carittiram - 2",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.47931-2"
 },
 {
 "title_ta": "ஆராய்ச்சிப் பேரறிஞர் தி. வை. சதாசிவப் பண்டாரத்தார் ஆய்வுகள் - 4 : பிற்காலச் சோழர் சரித்திரம் - 2 (கி. பி 1070 - கி. பி. 1279)",
 "title_en": "Ārāyccip Pēraṟiñar Ti. Vai. Catācivap Paṇṭārattār Āyvukaḷ - 4 : Piṟkālac Cōḻar Carittiram - 2 (Ki. Pi 1070 - Ki. Pi. 1279)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.47981-4-2-1070-1279"
 },
 {
@@ -5876,7 +5876,7 @@
 {
 "title_ta": "சோழீஸ்வரர் கோயில்",
 "title_en": "Cōḻīsvarar Kōyil",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_043701-coollliisvrr-kooyil"
 },
 {
@@ -5918,7 +5918,7 @@
 {
 "title_ta": "ஆனையூர் ஐராவதேசுவரர் திருக்கோயில்",
 "title_en": "Āṉaiyūr Airāvatēcuvarar Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_061edd-aannnaiyuur-airaavteecuvrr-tirukkooyil"
 },
 {
@@ -6104,7 +6104,7 @@
 {
 "title_ta": "ஆனையூர் ஐராவதேசுவரர் திருக்கோயில்",
 "title_en": "Āṉaiyūr Airāvatēcuvarar Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_0f326d-aannnaiyuur-airaavteecuvrr-tirukkooyil"
 },
 {
@@ -6134,7 +6134,7 @@
 {
 "title_ta": "ஆனையூர் ஐராவதேசுவரர் திருக்கோயில்",
 "title_en": "Āṉaiyūr Airāvatēcuvarar Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_0feb6b-aannnaiyuur-airaavteecuvrr-tirukkooyil"
 },
 {
@@ -6182,7 +6182,7 @@
 {
 "title_ta": "ஆனையூர் ஐராவதேசுவரர் திருக்கோயில்",
 "title_en": "Āṉaiyūr Airāvatēcuvarar Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_1186ae-aannnaiyuur-airaavteecuvrr-tirukkooyil"
 },
 {
@@ -6440,7 +6440,7 @@
 {
 "title_ta": "ஆனையூர் ஐராவதேசுவரர் திருக்கோயில்",
 "title_en": "Āṉaiyūr Airāvatēcuvarar Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_1d837e-aannnaiyuur-airaavteecuvrr-tirukkooyil"
 },
 {
@@ -6728,7 +6728,7 @@
 {
 "title_ta": "குருவிநாயக்கன் பள்ளி",
 "title_en": "Kuruvināyakkaṉ Paḷḷi",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_2b29f8-kuruvinaaykknnn-plllli"
 },
 {
@@ -6842,7 +6842,7 @@
 {
 "title_ta": "ஆனையூர் ஐராவதேசுவரர் திருக்கோயில்",
 "title_en": "Āṉaiyūr Airāvatēcuvarar Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_2f530d-aannnaiyuur-airaavteecuvrr-tirukkooyil"
 },
 {
@@ -6890,7 +6890,7 @@
 {
 "title_ta": "சோழசக்கரநல்லூர்",
 "title_en": "Cōḻacakkaranallūr",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_328250-coolllckkrnlluur"
 },
 {
@@ -6932,7 +6932,7 @@
 {
 "title_ta": "ஆனையூர் ஐராவதேசுவரர் திருக்கோயில்",
 "title_en": "Āṉaiyūr Airāvatēcuvarar Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_34b9b9-aannnaiyuur-airaavteecuvrr-tirukkooyil"
 },
 {
@@ -7040,7 +7040,7 @@
 {
 "title_ta": "ஆனையூர் ஐராவதேசுவரர் திருக்கோயில்",
 "title_en": "Āṉaiyūr Airāvatēcuvarar Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_3b086d-aannnaiyuur-airaavteecuvrr-tirukkooyil"
 },
 {
@@ -7142,13 +7142,13 @@
 {
 "title_ta": "ஆனையூர் ஐராவதேசுவரர் திருக்கோயில்",
 "title_en": "Āṉaiyūr Airāvatēcuvarar Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_41268c-aannnaiyuur-airaavteecuvrr-tirukkooyil"
 },
 {
 "title_ta": "அதிரணசண்டேசுவர பல்லவேஸ்வர க்ருஹம்",
 "title_en": "Atiraṇacaṇṭēcuvara Pallavēsvara Kruham",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_419dfc-atirnncnntteecuvr-pllveesvr-kruhm"
 },
 {
@@ -7352,7 +7352,7 @@
 {
 "title_ta": "ஆனையூர் ஐராவதேசுவரர் திருக்கோயில்",
 "title_en": "Āṉaiyūr Airāvatēcuvarar Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_4a44cc-aannnaiyuur-airaavteecuvrr-tirukkooyil"
 },
 {
@@ -7592,7 +7592,7 @@
 {
 "title_ta": "அழகிய பாண்டியபுரம்",
 "title_en": "Aḻakiya Pāṇṭiyapuram",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_574c8b-alllkiy-paannttiypurm"
 },
 {
@@ -7772,7 +7772,7 @@
 {
 "title_ta": "ஆனையூர் ஐராவதேசுவரர் திருக்கோயில்",
 "title_en": "Āṉaiyūr Airāvatēcuvarar Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_5ea841-aannnaiyuur-airaavteecuvrr-tirukkooyil"
 },
 {
@@ -8084,7 +8084,7 @@
 {
 "title_ta": "சோழீஸ்வரர் கோயில்",
 "title_en": "Cōḻīsvarar Kōyil",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_6ce33b-coollliisvrr-kooyil"
 },
 {
@@ -8102,7 +8102,7 @@
 {
 "title_ta": "ஆனையூர் ஐராவதேசுவரர் திருக்கோயில்",
 "title_en": "Āṉaiyūr Airāvatēcuvarar Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_6f0288-aannnaiyuur-airaavteecuvrr-tirukkooyil"
 },
 {
@@ -8294,7 +8294,7 @@
 {
 "title_ta": "ஆனையூர் ஐராவதேசுவரர் திருக்கோயில்",
 "title_en": "Āṉaiyūr Airāvatēcuvarar Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_786158-aannnaiyuur-airaavteecuvrr-tirukkooyil"
 },
 {
@@ -8312,7 +8312,7 @@
 {
 "title_ta": "ஆனையூர் ஐராவதேசுவரர் திருக்கோயில்",
 "title_en": "Āṉaiyūr Airāvatēcuvarar Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_7930b3-aannnaiyuur-airaavteecuvrr-tirukkooyil"
 },
 {
@@ -8606,7 +8606,7 @@
 {
 "title_ta": "முத்துலிங்காபுரம் பாண்டியன் தோப்பு",
 "title_en": "Muttuliṅkāpuram Pāṇṭiyaṉ Tōppu",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_8ae2c3-muttulingkaapurm-paannttiynnn-tooppu"
 },
 {
@@ -8690,7 +8690,7 @@
 {
 "title_ta": "ஆனையூர் ஐராவதேசுவரர் திருக்கோயில்",
 "title_en": "Āṉaiyūr Airāvatēcuvarar Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_8f0516-aannnaiyuur-airaavteecuvrr-tirukkooyil"
 },
 {
@@ -8798,13 +8798,13 @@
 {
 "title_ta": "ஆனையூர் ஐராவதேசுவரர் திருக்கோயில்",
 "title_en": "Āṉaiyūr Airāvatēcuvarar Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_93a11b-aannnaiyuur-airaavteecuvrr-tirukkooyil"
 },
 {
 "title_ta": "ஆனையூர் ஐராவதேசுவரர் திருக்கோயில்",
 "title_en": "Āṉaiyūr Airāvatēcuvarar Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_93f777-aannnaiyuur-airaavteecuvrr-tirukkooyil"
 },
 {
@@ -8984,7 +8984,7 @@
 {
 "title_ta": "ஆனையூர் ஐராவதேசுவரர் திருக்கோயில்",
 "title_en": "Āṉaiyūr Airāvatēcuvarar Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_9ec0db-aannnaiyuur-airaavteecuvrr-tirukkooyil"
 },
 {
@@ -9176,7 +9176,7 @@
 {
 "title_ta": "ஆனையூர் ஐராவதேசுவரர் திருக்கோயில்",
 "title_en": "Āṉaiyūr Airāvatēcuvarar Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_a93c9d-aannnaiyuur-airaavteecuvrr-tirukkooyil"
 },
 {
@@ -9248,7 +9248,7 @@
 {
 "title_ta": "ஆனையூர் ஐராவதேசுவரர் திருக்கோயில்",
 "title_en": "Āṉaiyūr Airāvatēcuvarar Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_ace718-aannnaiyuur-airaavteecuvrr-tirukkooyil"
 },
 {
@@ -9362,7 +9362,7 @@
 {
 "title_ta": "ஆனையூர் ஐராவதேசுவரர் திருக்கோயில்",
 "title_en": "Āṉaiyūr Airāvatēcuvarar Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_b3ace4-aannnaiyuur-airaavteecuvrr-tirukkooyil"
 },
 {
@@ -9524,7 +9524,7 @@
 {
 "title_ta": "ஆனையூர் ஐராவதேசுவரர் திருக்கோயில்",
 "title_en": "Āṉaiyūr Airāvatēcuvarar Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_bb2b91-aannnaiyuur-airaavteecuvrr-tirukkooyil"
 },
 {
@@ -9548,7 +9548,7 @@
 {
 "title_ta": "சோழீஸ்வரர் கோயில்",
 "title_en": "Cōḻīsvarar Kōyil",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_bc1c23-coollliisvrr-kooyil"
 },
 {
@@ -9566,7 +9566,7 @@
 {
 "title_ta": "சோழன் பாறை",
 "title_en": "Cōḻaṉ Pāṟai",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_bdddb3-coolllnnn-paarrai"
 },
 {
@@ -9626,7 +9626,7 @@
 {
 "title_ta": "ஆனையூர் ஐராவதேசுவரர் திருக்கோயில்",
 "title_en": "Āṉaiyūr Airāvatēcuvarar Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_c0f53e-aannnaiyuur-airaavteecuvrr-tirukkooyil"
 },
 {
@@ -9656,7 +9656,7 @@
 {
 "title_ta": "ஆனையூர் ஐராவதேசுவரர் திருக்கோயில்",
 "title_en": "Āṉaiyūr Airāvatēcuvarar Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_c1a866-aannnaiyuur-airaavteecuvrr-tirukkooyil"
 },
 {
@@ -9776,7 +9776,7 @@
 {
 "title_ta": "ஆனையூர் ஐராவதேசுவரர் திருக்கோயில்",
 "title_en": "Āṉaiyūr Airāvatēcuvarar Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_c80610-aannnaiyuur-airaavteecuvrr-tirukkooyil"
 },
 {
@@ -9842,7 +9842,7 @@
 {
 "title_ta": "காமநாயக்கன்பட்டி",
 "title_en": "Kāmanāyakkaṉpaṭṭi",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_ca90e9-kaamnaaykknnnptttti"
 },
 {
@@ -9854,7 +9854,7 @@
 {
 "title_ta": "ஆனையூர் ஐராவதேசுவரர் திருக்கோயில்",
 "title_en": "Āṉaiyūr Airāvatēcuvarar Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_cadcbd-aannnaiyuur-airaavteecuvrr-tirukkooyil"
 },
 {
@@ -10802,7 +10802,7 @@
 {
 "title_ta": "பல்லவநாதர் கோயில்",
 "title_en": "Pallavanātar Kōyil",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_f59097-pllvnaatr-kooyil"
 },
 {
@@ -11222,7 +11222,7 @@
 {
 "title_ta": "வரலாற்றுப் போக்கில் தென்னகச் சமூகம் : 1 சோழர் காலம் (850 - 1300)",
 "title_en": "Varalāṟṟup Pōkkil Teṉṉakac Camūkam : 1 Cōḻar Kālam (850 - 1300)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.6694-1-850-1300"
 },
 {
@@ -11282,7 +11282,7 @@
 {
 "title_ta": "அழகர்சாமி திருக்கோயில்",
 "title_en": "Aḻakarcāmi Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_0f49da-alllkrcaami-tirukkooyil"
 },
 {
@@ -11456,7 +11456,7 @@
 {
 "title_ta": "தும்மநாயக்கன்பட்டி கவுரிமலை சிவன்கோயில்",
 "title_en": "Tummanāyakkaṉpaṭṭi Kavurimalai Civaṉkōyil",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_433380-tummnaaykknnnptttti-kvurimlai-civnnnkooyil"
 },
 {
@@ -11576,7 +11576,7 @@
 {
 "title_ta": "அழகர்சாமி திருக்கோயில்",
 "title_en": "Aḻakarcāmi Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_6de3ee-alllkrcaami-tirukkooyil"
 },
 {
@@ -11810,7 +11810,7 @@
 {
 "title_ta": "அழகர்சாமி திருக்கோயில்",
 "title_en": "Aḻakarcāmi Tirukkōyil",
-"category": "",
+"category": "LOC",
 "url": "https://archive.org/details/tdl.tdl_a4ac54-alllkrcaami-tirukkooyil"
 },
 {
@@ -12956,7 +12956,7 @@
 {
 "title_ta": "திருமலை ரகுநாத சேதுபதி செப்பேட்டு வாசகம்",
 "title_en": "Tirumalai Rakunāta Cētupati Ceppēṭṭu Vācakam",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_ba4a47-tirumlai-rkunaat-ceetupti-ceppeettttu-vaackm"
 },
 {
@@ -13490,7 +13490,7 @@
 {
 "title_ta": "சோழர்கால மண்டபத் தூண்",
 "title_en": "Cōḻarkāla Maṇṭapat Tūṇ",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.1468-coolllrkaal-mnnttpt-tuunn"
 },
 {
@@ -14690,7 +14690,7 @@
 {
 "title_ta": "மஞ்சநாயக்கனஹள்ளி சிற்றோடை",
 "title_en": "Mañcanāyakkaṉahaḷḷi Ciṟṟōṭai",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_ab19c7-mnycnaaykknnnhlllli-cirrrroottai"
 },
 {
@@ -17570,7 +17570,7 @@
 {
 "title_ta": "பூசநாயக்கன் குளம்",
 "title_en": "Pūcanāyakkaṉ Kuḷam",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_81b635-puucnaaykknnn-kullm"
 },
 {
@@ -17876,7 +17876,7 @@
 {
 "title_ta": "பல்லவமேடு",
 "title_en": "Pallavamēṭu",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_9bfa2b-pllvmeettu"
 },
 {
@@ -17972,7 +17972,7 @@
 {
 "title_ta": "மருதுபாண்டியர் கோட்டை",
 "title_en": "Marutupāṇṭiyar Kōṭṭai",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_a3f83e-mrutupaannttiyr-koottttai"
 },
 {
@@ -19028,7 +19028,7 @@
 {
 "title_ta": "திருமலை நாயக்கர் அரண்மனை",
 "title_en": "Tirumalai Nāyakkar Araṇmaṉai",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_f0e161-tirumlai-naaykkr-arnnmnnnai"
 },
 {
@@ -19304,7 +19304,7 @@
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_01fe56-cngkkaalc-ceerr"
 },
 {
@@ -19322,7 +19322,7 @@
 {
 "title_ta": "தஞ்சை மராட்டியர்",
 "title_en": "Tañcai Marāṭṭiyar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_06a503-tnycai-mraattttiyr"
 },
 {
@@ -19346,13 +19346,13 @@
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_0c2719-cngkkaalc-ceerr"
 },
 {
 "title_ta": "தஞ்சை மராட்டியர்",
 "title_en": "Tañcai Marāṭṭiyar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_0cea74-tnycai-mraattttiyr"
 },
 {
@@ -19370,7 +19370,7 @@
 {
 "title_ta": "இடைக்காலச் சோழர் (இராஜராஜன்)",
 "title_en": "Iṭaikkālac Cōḻar (Irājarājaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_1218e5-ittaikkaalc-coolllr-iraajraajnnn"
 },
 {
@@ -19382,7 +19382,7 @@
 {
 "title_ta": "சங்ககாலச் சோழர்",
 "title_en": "Caṅkakālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_12d29f-cngkkaalc-coolllr"
 },
 {
@@ -19400,25 +19400,25 @@
 {
 "title_ta": "தஞ்சை மராட்டியர்",
 "title_en": "Tañcai Marāṭṭiyar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_1aea93-tnycai-mraattttiyr"
 },
 {
 "title_ta": "இடைக்காலச் சோழர் (முதலாம் இராஜேந்திரசோழன்)",
 "title_en": "Iṭaikkālac Cōḻar (Mutalām Irājēntiracōḻaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_1fce4b-ittaikkaalc-coolllr-mutlaam-iraajeentircoolllnnn"
 },
 {
 "title_ta": "இடைக்காலச் சோழர் (முதலாம் இராஜேந்திரசோழன்)",
 "title_en": "Iṭaikkālac Cōḻar (Mutalām Irājēntiracōḻaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_22d90c-ittaikkaalc-coolllr-mutlaam-iraajeentircoolllnnn"
 },
 {
 "title_ta": "சேதுபதி (இராமநாதபுரம்)",
 "title_en": "Cētupati (Irāmanātapuram)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_24943e-ceetupti-iraamnaatpurm"
 },
 {
@@ -19430,7 +19430,7 @@
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_258634-pllvr"
 },
 {
@@ -19442,19 +19442,19 @@
 {
 "title_ta": "தஞ்சை மராட்டியர்",
 "title_en": "Tañcai Marāṭṭiyar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_268c33-tnycai-mraattttiyr"
 },
 {
 "title_ta": "இடைக்காலச் சோழர் (முதலாம் இராஜேந்திரசோழன்)",
 "title_en": "Iṭaikkālac Cōḻar (Mutalām Irājēntiracōḻaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_283cf2-ittaikkaalc-coolllr-mutlaam-iraajeentircoolllnnn"
 },
 {
 "title_ta": "இடைக்காலச் சோழர் (இராஜராஜன்)",
 "title_en": "Iṭaikkālac Cōḻar (Irājarājaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_2c3bec-ittaikkaalc-coolllr-iraajraajnnn"
 },
 {
@@ -19466,19 +19466,19 @@
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_3279bc-pllvr"
 },
 {
 "title_ta": "வேணாடு சேரர்",
 "title_en": "Vēṇāṭu Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_3585f7-veennaattu-ceerr"
 },
 {
 "title_ta": "தஞ்சை மராட்டியர்",
 "title_en": "Tañcai Marāṭṭiyar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_35b87a-tnycai-mraattttiyr"
 },
 {
@@ -19490,19 +19490,19 @@
 {
 "title_ta": "தஞ்சை மராட்டியர்",
 "title_en": "Tañcai Marāṭṭiyar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_379ea0-tnycai-mraattttiyr"
 },
 {
 "title_ta": "இடைக்காலச் சோழர் (முதலாம் இராஜேந்திரசோழன்)",
 "title_en": "Iṭaikkālac Cōḻar (Mutalām Irājēntiracōḻaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_388edc-ittaikkaalc-coolllr-mutlaam-iraajeentircoolllnnn"
 },
 {
 "title_ta": "இடைக்காலச் சோழர் (இராஜராஜன்)",
 "title_en": "Iṭaikkālac Cōḻar (Irājarājaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_38c2ab-ittaikkaalc-coolllr-iraajraajnnn"
 },
 {
@@ -19514,7 +19514,7 @@
 {
 "title_ta": "இடைக்காலச் சோழர் (முதலாம் இராஜேந்திரசோழன்)",
 "title_en": "Iṭaikkālac Cōḻar (Mutalām Irājēntiracōḻaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_3b75f4-ittaikkaalc-coolllr-mutlaam-iraajeentircoolllnnn"
 },
 {
@@ -19526,7 +19526,7 @@
 {
 "title_ta": "கொங்கு சேரர்",
 "title_en": "Koṅku Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_3d734a-kongku-ceerr"
 },
 {
@@ -19538,7 +19538,7 @@
 {
 "title_ta": "இடைக்காலச் சோழர் (இராஜராஜன்)",
 "title_en": "Iṭaikkālac Cōḻar (Irājarājaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_3e9d29-ittaikkaalc-coolllr-iraajraajnnn"
 },
 {
@@ -19550,13 +19550,13 @@
 {
 "title_ta": "பழனி நாயக்கர்",
 "title_en": "Paḻaṉi Nāyakkar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_42a9eb-plllnnni-naaykkr"
 },
 {
 "title_ta": "இடைக்காலச் சோழர் (இராஜராஜன்)",
 "title_en": "Iṭaikkālac Cōḻar (Irājarājaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_441188-ittaikkaalc-coolllr-iraajraajnnn"
 },
 {
@@ -19574,7 +19574,7 @@
 {
 "title_ta": "இடைக்காலச் சோழர் (இராஜராஜன்)",
 "title_en": "Iṭaikkālac Cōḻar (Irājarājaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_481a11-ittaikkaalc-coolllr-iraajraajnnn"
 },
 {
@@ -19598,7 +19598,7 @@
 {
 "title_ta": "தஞ்சை மராட்டியர்",
 "title_en": "Tañcai Marāṭṭiyar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_510888-tnycai-mraattttiyr"
 },
 {
@@ -19616,37 +19616,37 @@
 {
 "title_ta": "தஞ்சை மராட்டியர்",
 "title_en": "Tañcai Marāṭṭiyar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_577f64-tnycai-mraattttiyr"
 },
 {
 "title_ta": "இடைக்காலச் சோழர் (முதலாம் இராஜேந்திரசோழன்)",
 "title_en": "Iṭaikkālac Cōḻar (Mutalām Irājēntiracōḻaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_5810aa-ittaikkaalc-coolllr-mutlaam-iraajeentircoolllnnn"
 },
 {
 "title_ta": "தஞ்சை மராட்டியர்",
 "title_en": "Tañcai Marāṭṭiyar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_5b5954-tnycai-mraattttiyr"
 },
 {
 "title_ta": "இடைக்காலச் சோழர் (இராஜராஜன்)",
 "title_en": "Iṭaikkālac Cōḻar (Irājarājaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_5ca038-ittaikkaalc-coolllr-iraajraajnnn"
 },
 {
 "title_ta": "தஞ்சை மராட்டியர்",
 "title_en": "Tañcai Marāṭṭiyar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_5d3b2d-tnycai-mraattttiyr"
 },
 {
 "title_ta": "இடைக்காலச் சோழர் (முதலாம் இராஜேந்திரசோழன்)",
 "title_en": "Iṭaikkālac Cōḻar (Mutalām Irājēntiracōḻaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_5f70ec-ittaikkaalc-coolllr-mutlaam-iraajeentircoolllnnn"
 },
 {
@@ -19664,7 +19664,7 @@
 {
 "title_ta": "இடைக்காலச் சோழர் (முதலாம் இராஜேந்திரசோழன்)",
 "title_en": "Iṭaikkālac Cōḻar (Mutalām Irājēntiracōḻaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_622880-ittaikkaalc-coolllr-mutlaam-iraajeentircoolllnnn"
 },
 {
@@ -19676,25 +19676,25 @@
 {
 "title_ta": "சங்ககாலப் பாண்டியர்",
 "title_en": "Caṅkakālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_639971-cngkkaalp-paannttiyr"
 },
 {
 "title_ta": "இடைக்காலச் சோழர் (இராஜராஜன்)",
 "title_en": "Iṭaikkālac Cōḻar (Irājarājaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_6521d8-ittaikkaalc-coolllr-iraajraajnnn"
 },
 {
 "title_ta": "பழனி நாயக்கர்",
 "title_en": "Paḻaṉi Nāyakkar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_65cd75-plllnnni-naaykkr"
 },
 {
 "title_ta": "சேலம் (சென்னப்ப நாயக்கர்)",
 "title_en": "Cēlam (Ceṉṉappa Nāyakkar)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_6645ce-ceelm-cennnnnnpp-naaykkr"
 },
 {
@@ -19706,7 +19706,7 @@
 {
 "title_ta": "இடைக்காலச் சோழர் (இராஜராஜன்)",
 "title_en": "Iṭaikkālac Cōḻar (Irājarājaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_677287-ittaikkaalc-coolllr-iraajraajnnn"
 },
 {
@@ -19718,7 +19718,7 @@
 {
 "title_ta": "இடைக்காலச் சோழர் (இராஜராஜன்)",
 "title_en": "Iṭaikkālac Cōḻar (Irājarājaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_695b1a-ittaikkaalc-coolllr-iraajraajnnn"
 },
 {
@@ -19742,13 +19742,13 @@
 {
 "title_ta": "தஞ்சை மராட்டியர் (முதலாம் துளஜா)",
 "title_en": "Tañcai Marāṭṭiyar (Mutalām Tuḷajā)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_6e5217-tnycai-mraattttiyr-mutlaam-tulljaa"
 },
 {
 "title_ta": "சங்ககாலச் சோழர்",
 "title_en": "Caṅkakālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_70baa9-cngkkaalc-coolllr"
 },
 {
@@ -19766,7 +19766,7 @@
 {
 "title_ta": "கொங்கு சேரர்",
 "title_en": "Koṅku Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_72f827-kongku-ceerr"
 },
 {
@@ -19778,61 +19778,61 @@
 {
 "title_ta": "தஞ்சை மராட்டியர்",
 "title_en": "Tañcai Marāṭṭiyar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_7ae4ea-tnycai-mraattttiyr"
 },
 {
 "title_ta": "சங்ககாலப் பாண்டியர்",
 "title_en": "Caṅkakālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_7aee42-cngkkaalp-paannttiyr"
 },
 {
 "title_ta": "தஞ்சை மராட்டியர்",
 "title_en": "Tañcai Marāṭṭiyar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_7c0a3d-tnycai-mraattttiyr"
 },
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_7d6cdb-cngkkaalc-ceerr"
 },
 {
 "title_ta": "இடைக்காலச் சோழர் (இராஜராஜன்)",
 "title_en": "Iṭaikkālac Cōḻar (Irājarājaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_7f2c02-ittaikkaalc-coolllr-iraajraajnnn"
 },
 {
 "title_ta": "இடைக்காலச் சோழர் (முதலாம் இராஜேந்திரசோழன்)",
 "title_en": "Iṭaikkālac Cōḻar (Mutalām Irājēntiracōḻaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_7f8560-ittaikkaalc-coolllr-mutlaam-iraajeentircoolllnnn"
 },
 {
 "title_ta": "சேதுபதி (இராமநாதபுரம்)",
 "title_en": "Cētupati (Irāmanātapuram)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_86d951-ceetupti-iraamnaatpurm"
 },
 {
 "title_ta": "தஞ்சை மராட்டியர்",
 "title_en": "Tañcai Marāṭṭiyar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_87758d-tnycai-mraattttiyr"
 },
 {
 "title_ta": "தஞ்சை மராட்டியர்",
 "title_en": "Tañcai Marāṭṭiyar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_8e6310-tnycai-mraattttiyr"
 },
 {
 "title_ta": "இடைக்காலச் சோழர் (இராஜராஜன்)",
 "title_en": "Iṭaikkālac Cōḻar (Irājarājaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_9044e9-ittaikkaalc-coolllr-iraajraajnnn"
 },
 {
@@ -19844,7 +19844,7 @@
 {
 "title_ta": "சங்ககாலப் பாண்டியர்",
 "title_en": "Caṅkakālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_93e069-cngkkaalp-paannttiyr"
 },
 {
@@ -19856,7 +19856,7 @@
 {
 "title_ta": "தஞ்சை மராட்டியர் (முதலாம் துளஜா)",
 "title_en": "Tañcai Marāṭṭiyar (Mutalām Tuḷajā)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_968693-tnycai-mraattttiyr-mutlaam-tulljaa"
 },
 {
@@ -19868,7 +19868,7 @@
 {
 "title_ta": "இடைக்காலச் சோழர் (முதலாம் இராஜேந்திரசோழன்)",
 "title_en": "Iṭaikkālac Cōḻar (Mutalām Irājēntiracōḻaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_9a2f63-ittaikkaalc-coolllr-mutlaam-iraajeentircoolllnnn"
 },
 {
@@ -19880,43 +19880,43 @@
 {
 "title_ta": "சங்ககாலப் பாண்டியர்",
 "title_en": "Caṅkakālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_9e0b1f-cngkkaalp-paannttiyr"
 },
 {
 "title_ta": "கொங்கு சேரர்",
 "title_en": "Koṅku Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_a28b51-kongku-ceerr"
 },
 {
 "title_ta": "இடைக்காலச் சோழர் (இராஜராஜன்)",
 "title_en": "Iṭaikkālac Cōḻar (Irājarājaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_a2c058-ittaikkaalc-coolllr-iraajraajnnn"
 },
 {
 "title_ta": "இடைக்காலச் சோழர் (இராஜராஜன்)",
 "title_en": "Iṭaikkālac Cōḻar (Irājarājaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_a34abd-ittaikkaalc-coolllr-iraajraajnnn"
 },
 {
 "title_ta": "தஞ்சை மராட்டியர்",
 "title_en": "Tañcai Marāṭṭiyar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_a602c5-tnycai-mraattttiyr"
 },
 {
 "title_ta": "தஞ்சை மராட்டியர்",
 "title_en": "Tañcai Marāṭṭiyar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_a64f71-tnycai-mraattttiyr"
 },
 {
 "title_ta": "இடைக்காலச் சோழர் (ராஜராஜன்)",
 "title_en": "Iṭaikkālac Cōḻar (Rājarājaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_a860c8-ittaikkaalc-coolllr-raajraajnnn"
 },
 {
@@ -19928,7 +19928,7 @@
 {
 "title_ta": "தஞ்சை மராட்டியர்",
 "title_en": "Tañcai Marāṭṭiyar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_ac7680-tnycai-mraattttiyr"
 },
 {
@@ -19952,37 +19952,37 @@
 {
 "title_ta": "இடைக்காலச் சோழர் (இராஜராஜன்)",
 "title_en": "Iṭaikkālac Cōḻar (Irājarājaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_af963d-ittaikkaalc-coolllr-iraajraajnnn"
 },
 {
 "title_ta": "வேணாடு சேரர்",
 "title_en": "Vēṇāṭu Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_b0c0af-veennaattu-ceerr"
 },
 {
 "title_ta": "இடைக்காலச் சோழர்",
 "title_en": "Iṭaikkālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_b1b712-ittaikkaalc-coolllr"
 },
 {
 "title_ta": "இடைக்காலச் சோழர் (இராஜராஜன்)",
 "title_en": "Iṭaikkālac Cōḻar (Irājarājaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_b62540-ittaikkaalc-coolllr-iraajraajnnn"
 },
 {
 "title_ta": "தஞ்சை மராட்டியர்",
 "title_en": "Tañcai Marāṭṭiyar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_b7d300-tnycai-mraattttiyr"
 },
 {
 "title_ta": "இடைக்காலச் சோழர் (முதலாம் இராஜேந்திரசோழன்)",
 "title_en": "Iṭaikkālac Cōḻar (Mutalām Irājēntiracōḻaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_b7e225-ittaikkaalc-coolllr-mutlaam-iraajeentircoolllnnn"
 },
 {
@@ -19994,43 +19994,43 @@
 {
 "title_ta": "இடைக்காலச் சோழர் (முதலாம் இராஜேந்திரசோழன்)",
 "title_en": "Iṭaikkālac Cōḻar (Mutalām Irājēntiracōḻaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_be27a5-ittaikkaalc-coolllr-mutlaam-iraajeentircoolllnnn"
 },
 {
 "title_ta": "இடைக்காலச் சோழர் (இராஜராஜன்)",
 "title_en": "Iṭaikkālac Cōḻar (Irājarājaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_be4405-ittaikkaalc-coolllr-iraajraajnnn"
 },
 {
 "title_ta": "சேதுபதி (இராமநாதபுரம்)",
 "title_en": "Cētupati (Irāmanātapuram)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_be786f-ceetupti-iraamnaatpurm"
 },
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_c31d28-cngkkaalc-ceerr"
 },
 {
 "title_ta": "வேணாடு சேரர்",
 "title_en": "Vēṇāṭu Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_c72a04-veennaattu-ceerr"
 },
 {
 "title_ta": "தஞ்சை மராட்டியர்",
 "title_en": "Tañcai Marāṭṭiyar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_c7537a-tnycai-mraattttiyr"
 },
 {
 "title_ta": "இடைக்காலச் சோழர் (இராஜராஜன்)",
 "title_en": "Iṭaikkālac Cōḻar (Irājarājaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_c766bb-ittaikkaalc-coolllr-iraajraajnnn"
 },
 {
@@ -20042,7 +20042,7 @@
 {
 "title_ta": "இடைக்காலச் சோழர் (இராஜராஜன்)",
 "title_en": "Iṭaikkālac Cōḻar (Irājarājaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_c91094-ittaikkaalc-coolllr-iraajraajnnn"
 },
 {
@@ -20060,7 +20060,7 @@
 {
 "title_ta": "சேதுபதி (இராமநாதபுரம்)",
 "title_en": "Cētupati (Irāmanātapuram)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_cdd373-ceetupti-iraamnaatpurm"
 },
 {
@@ -20072,7 +20072,7 @@
 {
 "title_ta": "பிற்காலச் சோழர்",
 "title_en": "Piṟkālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_cfe700-pirrkaalc-coolllr"
 },
 {
@@ -20084,13 +20084,13 @@
 {
 "title_ta": "இடைக்காலச் சோழர் (இராஜராஜன்)",
 "title_en": "Iṭaikkālac Cōḻar (Irājarājaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_d2e6d9-ittaikkaalc-coolllr-iraajraajnnn"
 },
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_d54821-cngkkaalc-ceerr"
 },
 {
@@ -20108,25 +20108,25 @@
 {
 "title_ta": "இடைக்காலச் சோழர் (முதலாம் இராஜேந்திரசோழன்)",
 "title_en": "Iṭaikkālac Cōḻar (Mutalām Irājēntiracōḻaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_da77be-ittaikkaalc-coolllr-mutlaam-iraajeentircoolllnnn"
 },
 {
 "title_ta": "தஞ்சை மராட்டியர்",
 "title_en": "Tañcai Marāṭṭiyar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_dc4133-tnycai-mraattttiyr"
 },
 {
 "title_ta": "சங்ககாலப் பாண்டியர்",
 "title_en": "Caṅkakālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_dda382-cngkkaalp-paannttiyr"
 },
 {
 "title_ta": "சேதுபதி (இராமநாதபுரம்)",
 "title_en": "Cētupati (Irāmanātapuram)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_dfbdad-ceetupti-iraamnaatpurm"
 },
 {
@@ -20138,13 +20138,13 @@
 {
 "title_ta": "சேதுபதி",
 "title_en": "Cētupati",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_e4db37-ceetupti"
 },
 {
 "title_ta": "இடைக்காலச் சோழர் (முதலாம் இராஜேந்திரசோழன்)",
 "title_en": "Iṭaikkālac Cōḻar (Mutalām Irājēntiracōḻaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_e8fb33-ittaikkaalc-coolllr-mutlaam-iraajeentircoolllnnn"
 },
 {
@@ -20156,7 +20156,7 @@
 {
 "title_ta": "தஞ்சை மராட்டியர்",
 "title_en": "Tañcai Marāṭṭiyar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_eb49bc-tnycai-mraattttiyr"
 },
 {
@@ -20168,7 +20168,7 @@
 {
 "title_ta": "இடைக்காலச் சோழர் (இராஜராஜன்)",
 "title_en": "Iṭaikkālac Cōḻar (Irājarājaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_eca06d-ittaikkaalc-coolllr-iraajraajnnn"
 },
 {
@@ -20204,13 +20204,13 @@
 {
 "title_ta": "தஞ்சை மராட்டியர்",
 "title_en": "Tañcai Marāṭṭiyar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_f3efe5-tnycai-mraattttiyr"
 },
 {
 "title_ta": "மதுரை நாயக்கர்",
 "title_en": "Maturai Nāyakkar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_f4645d-mturai-naaykkr"
 },
 {
@@ -20222,7 +20222,7 @@
 {
 "title_ta": "இடைக்காலச் சோழர் (இராஜராஜன்)",
 "title_en": "Iṭaikkālac Cōḻar (Irājarājaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_f50741-ittaikkaalc-coolllr-iraajraajnnn"
 },
 {
@@ -20234,7 +20234,7 @@
 {
 "title_ta": "இடைக்காலச் சோழர் (முதலாம் இராஜேந்திரசோழன்)",
 "title_en": "Iṭaikkālac Cōḻar (Mutalām Irājēntiracōḻaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_f80392-ittaikkaalc-coolllr-mutlaam-iraajeentircoolllnnn"
 },
 {
@@ -20246,7 +20246,7 @@
 {
 "title_ta": "இடைக்காலச் சோழர்",
 "title_en": "Iṭaikkālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_f8d59d-ittaikkaalc-coolllr"
 },
 {
@@ -20432,43 +20432,43 @@
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_014a1a-cngkkaalc-ceerr"
 },
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_03bd6b-cngkkaalc-ceerr"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_03c210-pllvr"
 },
 {
 "title_ta": "பிற்காலச் சேரர் (வேணாடு)",
 "title_en": "Piṟkālac Cērar (Vēṇāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_048a01-pirrkaalc-ceerr-veennaattu"
 },
 {
 "title_ta": "சங்ககாலப் பாண்டியர்",
 "title_en": "Caṅkakālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_0528b4-cngkkaalp-paannttiyr"
 },
 {
 "title_ta": "சங்ககாலப் பாண்டியர்",
 "title_en": "Caṅkakālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_05a2b3-cngkkaalp-paannttiyr"
 },
 {
 "title_ta": "முற்காலச் சோழர்",
 "title_en": "Muṟkālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_07ed1f-murrkaalc-coolllr"
 },
 {
@@ -20480,85 +20480,85 @@
 {
 "title_ta": "சங்ககாலச் சோழர்",
 "title_en": "Caṅkakālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_096d80-cngkkaalc-coolllr"
 },
 {
 "title_ta": "பிற்காலச் சேரர் (கொங்கு நாடு)",
 "title_en": "Piṟkālac Cērar (Koṅku Nāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_0aad4e-pirrkaalc-ceerr-kongku-naattu"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_0b2531-pllvr"
 },
 {
 "title_ta": "சங்ககாலப் பாண்டியர்",
 "title_en": "Caṅkakālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_0b2ce7-cngkkaalp-paannttiyr"
 },
 {
 "title_ta": "சங்ககாலச் சோழர்",
 "title_en": "Caṅkakālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_0bb69a-cngkkaalc-coolllr"
 },
 {
 "title_ta": "செஞ்சி நாயக்கர்",
 "title_en": "Ceñci Nāyakkar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_0d1c0f-cenyci-naaykkr"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_0dc50c-pllvr"
 },
 {
 "title_ta": "சங்ககாலப் பாண்டியர்",
 "title_en": "Caṅkakālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_0ed7b2-cngkkaalp-paannttiyr"
 },
 {
 "title_ta": "சங்ககாலப் பாண்டியர்",
 "title_en": "Caṅkakālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_0f1111-cngkkaalp-paannttiyr"
 },
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_0f3a5e-cngkkaalc-ceerr"
 },
 {
 "title_ta": "சங்ககாலச் சோழர்",
 "title_en": "Caṅkakālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_10128d-cngkkaalc-coolllr"
 },
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_102347-cngkkaalc-ceerr"
 },
 {
 "title_ta": "பிற்காலச் சேரர் (கொங்கு நாடு)",
 "title_en": "Piṟkālac Cērar (Koṅku Nāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_112086-pirrkaalc-ceerr-kongku-naattu"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_119491-pllvr"
 },
 {
@@ -20570,7 +20570,7 @@
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_147818-cngkkaalc-ceerr"
 },
 {
@@ -20582,7 +20582,7 @@
 {
 "title_ta": "சேதுபதி (இராமநாதபுரம்)",
 "title_en": "Cētupati (Irāmanātapuram)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_183f10-ceetupti-iraamnaatpurm"
 },
 {
@@ -20594,25 +20594,25 @@
 {
 "title_ta": "சங்ககாலப் பாண்டியர்",
 "title_en": "Caṅkakālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_1cd562-cngkkaalp-paannttiyr"
 },
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_1de38e-cngkkaalc-ceerr"
 },
 {
 "title_ta": "சங்ககாலச் சோழர்",
 "title_en": "Caṅkakālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_1e8003-cngkkaalc-coolllr"
 },
 {
 "title_ta": "சேதுபதி (இராமநாதபுரம்)",
 "title_en": "Cētupati (Irāmanātapuram)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_1e9a7a-ceetupti-iraamnaatpurm"
 },
 {
@@ -20624,13 +20624,13 @@
 {
 "title_ta": "பிற்காலச் சேரர் (வேணாடு)",
 "title_en": "Piṟkālac Cērar (Vēṇāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_201fae-pirrkaalc-ceerr-veennaattu"
 },
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_219ad3-cngkkaalc-ceerr"
 },
 {
@@ -20642,7 +20642,7 @@
 {
 "title_ta": "பிற்காலச் சேரர் (கொங்கு நாடு)",
 "title_en": "Piṟkālac Cērar (Koṅku Nāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_240f74-pirrkaalc-ceerr-kongku-naattu"
 },
 {
@@ -20660,61 +20660,61 @@
 {
 "title_ta": "பிற்காலப் பாண்டியர்",
 "title_en": "Piṟkālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_2ada11-pirrkaalp-paannttiyr"
 },
 {
 "title_ta": "பிற்காலச் சேரர் (வேணாடு)",
 "title_en": "Piṟkālac Cērar (Vēṇāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_2b6d17-pirrkaalc-ceerr-veennaattu"
 },
 {
 "title_ta": "தஞ்சை நாயக்கர்",
 "title_en": "Tañcai Nāyakkar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_2bab77-tnycai-naaykkr"
 },
 {
 "title_ta": "சங்ககாலச் சோழர்",
 "title_en": "Caṅkakālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_2c5c59-cngkkaalc-coolllr"
 },
 {
 "title_ta": "பிற்காலச் சேரர் (கொங்கு நாடு)",
 "title_en": "Piṟkālac Cērar (Koṅku Nāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_2c6358-pirrkaalc-ceerr-kongku-naattu"
 },
 {
 "title_ta": "சேதுபதி (இராமநாதபுரம்)",
 "title_en": "Cētupati (Irāmanātapuram)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_2d2f51-ceetupti-iraamnaatpurm"
 },
 {
 "title_ta": "சங்ககாலப் பாண்டியர்",
 "title_en": "Caṅkakālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_309a01-cngkkaalp-paannttiyr"
 },
 {
 "title_ta": "சங்ககாலச் சோழர்",
 "title_en": "Caṅkakālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_327701-cngkkaalc-coolllr"
 },
 {
 "title_ta": "சங்ககாலச் சோழர்",
 "title_en": "Caṅkakālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_337191-cngkkaalc-coolllr"
 },
 {
 "title_ta": "தஞ்சை நாயக்கர்",
 "title_en": "Tañcai Nāyakkar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_374f2e-tnycai-naaykkr"
 },
 {
@@ -20732,31 +20732,31 @@
 {
 "title_ta": "பிற்காலச் சேரர் (கொங்கு நாடு)",
 "title_en": "Piṟkālac Cērar (Koṅku Nāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_38d6f1-pirrkaalc-ceerr-kongku-naattu"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_38ef1c-pllvr"
 },
 {
 "title_ta": "பிற்காலச் சேரர் (வேணாடு)",
 "title_en": "Piṟkālac Cērar (Vēṇāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_38f767-pirrkaalc-ceerr-veennaattu"
 },
 {
 "title_ta": "சங்ககாலச் சோழர்",
 "title_en": "Caṅkakālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_3b7728-cngkkaalc-coolllr"
 },
 {
 "title_ta": "சங்ககாலப் பாண்டியர்",
 "title_en": "Caṅkakālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_3ca561-cngkkaalp-paannttiyr"
 },
 {
@@ -20768,91 +20768,91 @@
 {
 "title_ta": "பிற்காலச் சேரர் (வேணாடு)",
 "title_en": "Piṟkālac Cērar (Vēṇāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_3f57af-pirrkaalc-ceerr-veennaattu"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_40cdd4-pllvr"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_40d000-pllvr"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_4583df-pllvr"
 },
 {
 "title_ta": "சங்ககாலப் பாண்டியர்",
 "title_en": "Caṅkakālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_4a092b-cngkkaalp-paannttiyr"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_4e4151-pllvr"
 },
 {
 "title_ta": "சங்ககாலப் பாண்டியர்",
 "title_en": "Caṅkakālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_4f8be6-cngkkaalp-paannttiyr"
 },
 {
 "title_ta": "செஞ்சி நாயக்கர்",
 "title_en": "Ceñci Nāyakkar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_50df77-cenyci-naaykkr"
 },
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_5185a0-cngkkaalc-ceerr"
 },
 {
 "title_ta": "மதுரை நாயக்கர்",
 "title_en": "Maturai Nāyakkar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_54f4ee-mturai-naaykkr"
 },
 {
 "title_ta": "பிற்காலச் சேரர் (வேணாடு)",
 "title_en": "Piṟkālac Cērar (Vēṇāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_5d6bb6-pirrkaalc-ceerr-veennaattu"
 },
 {
 "title_ta": "சங்ககாலச் சோழர்",
 "title_en": "Caṅkakālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_5f0ad8-cngkkaalc-coolllr"
 },
 {
 "title_ta": "தஞ்சை நாயக்கர்",
 "title_en": "Tañcai Nāyakkar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_5f68f8-tnycai-naaykkr"
 },
 {
 "title_ta": "பிற்காலப் பாண்டியர்",
 "title_en": "Piṟkālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_621778-pirrkaalp-paannttiyr"
 },
 {
 "title_ta": "சங்ககாலப் பாண்டியர்",
 "title_en": "Caṅkakālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_6366d0-cngkkaalp-paannttiyr"
 },
 {
@@ -20864,61 +20864,61 @@
 {
 "title_ta": "பிற்காலச் சேரர் (கொங்கு நாடு)",
 "title_en": "Piṟkālac Cērar (Koṅku Nāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_659990-pirrkaalc-ceerr-kongku-naattu"
 },
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_65a10b-cngkkaalc-ceerr"
 },
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_6b3459-cngkkaalc-ceerr"
 },
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_6b5272-cngkkaalc-ceerr"
 },
 {
 "title_ta": "சங்ககாலச் சோழர்",
 "title_en": "Caṅkakālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_6b952f-cngkkaalc-coolllr"
 },
 {
 "title_ta": "பிற்காலச் சேரர் (வேணாடு)",
 "title_en": "Piṟkālac Cērar (Vēṇāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_6ced17-pirrkaalc-ceerr-veennaattu"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_6d6d61-pllvr"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_6de916-pllvr"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_6f3c1b-pllvr"
 },
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_6f4f1c-cngkkaalc-ceerr"
 },
 {
@@ -20930,13 +20930,13 @@
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_70bb9f-cngkkaalc-ceerr"
 },
 {
 "title_ta": "சங்ககாலப் பாண்டியர்",
 "title_en": "Caṅkakālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_714f3c-cngkkaalp-paannttiyr"
 },
 {
@@ -20954,79 +20954,79 @@
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_751d96-pllvr"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_77267c-pllvr"
 },
 {
 "title_ta": "சங்ககாலச் சோழர்",
 "title_en": "Caṅkakālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_77e894-cngkkaalc-coolllr"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_7b5aa6-pllvr"
 },
 {
 "title_ta": "சங்ககாலச் சோழர்",
 "title_en": "Caṅkakālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_7ddeff-cngkkaalc-coolllr"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_8016a5-pllvr"
 },
 {
 "title_ta": "பிற்காலப் பாண்டியர்",
 "title_en": "Piṟkālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_8042c2-pirrkaalp-paannttiyr"
 },
 {
 "title_ta": "பிற்காலச் சேரர் (வேணாடு)",
 "title_en": "Piṟkālac Cērar (Vēṇāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_8141d4-pirrkaalc-ceerr-veennaattu"
 },
 {
 "title_ta": "சங்ககாலச் சோழர்",
 "title_en": "Caṅkakālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_87d7b3-cngkkaalc-coolllr"
 },
 {
 "title_ta": "பிற்காலச் சேரர் (கொங்கு நாடு)",
 "title_en": "Piṟkālac Cērar (Koṅku Nāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_8a0c71-pirrkaalc-ceerr-kongku-naattu"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_8c38b5-pllvr"
 },
 {
 "title_ta": "பிற்காலச் சேரர் (வேணாடு)",
 "title_en": "Piṟkālac Cērar (Vēṇāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_8c6948-pirrkaalc-ceerr-veennaattu"
 },
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_8d7748-cngkkaalc-ceerr"
 },
 {
@@ -21038,31 +21038,31 @@
 {
 "title_ta": "சங்ககாலச் சோழர்",
 "title_en": "Caṅkakālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_8f3ffd-cngkkaalc-coolllr"
 },
 {
 "title_ta": "தஞ்சை நாயக்கர்",
 "title_en": "Tañcai Nāyakkar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_932eff-tnycai-naaykkr"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_93e262-pllvr"
 },
 {
 "title_ta": "தஞ்சை நாயக்கர்",
 "title_en": "Tañcai Nāyakkar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_940f1c-tnycai-naaykkr"
 },
 {
 "title_ta": "சங்ககாலப் பாண்டியர்",
 "title_en": "Caṅkakālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_956277-cngkkaalp-paannttiyr"
 },
 {
@@ -21074,37 +21074,37 @@
 {
 "title_ta": "பிற்காலச் சேரர் (கொங்கு நாடு)",
 "title_en": "Piṟkālac Cērar (Koṅku Nāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_98eea5-pirrkaalc-ceerr-kongku-naattu"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_9d900a-pllvr"
 },
 {
 "title_ta": "சங்ககாலச் சோழர்",
 "title_en": "Caṅkakālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_9e9950-cngkkaalc-coolllr"
 },
 {
 "title_ta": "சங்ககாலப் பாண்டியர்",
 "title_en": "Caṅkakālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_a0ebd7-cngkkaalp-paannttiyr"
 },
 {
 "title_ta": "சங்ககாலச் சோழர்",
 "title_en": "Caṅkakālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_a1e1c0-cngkkaalc-coolllr"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_a2dd4b-pllvr"
 },
 {
@@ -21116,31 +21116,31 @@
 {
 "title_ta": "சேதுபதி (இராமநாதபுரம்)",
 "title_en": "Cētupati (Irāmanātapuram)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_a5d7cf-ceetupti-iraamnaatpurm"
 },
 {
 "title_ta": "சங்ககாலப் பாண்டியர்",
 "title_en": "Caṅkakālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_a7c32c-cngkkaalp-paannttiyr"
 },
 {
 "title_ta": "சேதுபதி (இராமநாதபுரம்)",
 "title_en": "Cētupati (Irāmanātapuram)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_aaf229-ceetupti-iraamnaatpurm"
 },
 {
 "title_ta": "பிற்காலச் சேரர் (வேணாடு)",
 "title_en": "Piṟkālac Cērar (Vēṇāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_abd829-pirrkaalc-ceerr-veennaattu"
 },
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_ad2c1d-cngkkaalc-ceerr"
 },
 {
@@ -21152,37 +21152,37 @@
 {
 "title_ta": "தெலுங்கு சோழர்",
 "title_en": "Teluṅku Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_af6f26-telungku-coolllr"
 },
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_afdcbd-cngkkaalc-ceerr"
 },
 {
 "title_ta": "பிற்காலப் பாண்டியர்",
 "title_en": "Piṟkālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_b41e8d-pirrkaalp-paannttiyr"
 },
 {
 "title_ta": "சங்ககாலச் சோழர்",
 "title_en": "Caṅkakālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_b586b1-cngkkaalc-coolllr"
 },
 {
 "title_ta": "பிற்காலச் சேரர் (கொங்கு நாடு)",
 "title_en": "Piṟkālac Cērar (Koṅku Nāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_b692db-pirrkaalc-ceerr-kongku-naattu"
 },
 {
 "title_ta": "தென்காசிப் பாண்டியர் (ஆகவராமன்)",
 "title_en": "Teṉkācip Pāṇṭiyar (Ākavarāmaṉ)",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_b756a5-tennnkaacip-paannttiyr-aakvraamnnn"
 },
 {
@@ -21194,25 +21194,25 @@
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_b8da4c-pllvr"
 },
 {
 "title_ta": "தஞ்சை நாயக்கர்",
 "title_en": "Tañcai Nāyakkar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_b97162-tnycai-naaykkr"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_b9e826-pllvr"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_ba338f-pllvr"
 },
 {
@@ -21224,61 +21224,61 @@
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_c0435a-cngkkaalc-ceerr"
 },
 {
 "title_ta": "சங்ககாலச் சோழர்",
 "title_en": "Caṅkakālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_c391a4-cngkkaalc-coolllr"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_c466c6-pllvr"
 },
 {
 "title_ta": "பிற்காலச் சேரர் (வேணாடு)",
 "title_en": "Piṟkālac Cērar (Vēṇāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_c4c7b6-pirrkaalc-ceerr-veennaattu"
 },
 {
 "title_ta": "பிற்காலச் சேரர் (கொங்கு நாடு)",
 "title_en": "Piṟkālac Cērar (Koṅku Nāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_c4cc42-pirrkaalc-ceerr-kongku-naattu"
 },
 {
 "title_ta": "பிற்காலச் சேரர் (கொங்கு நாடு)",
 "title_en": "Piṟkālac Cērar (Koṅku Nāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_c69e22-pirrkaalc-ceerr-kongku-naattu"
 },
 {
 "title_ta": "பிற்காலச் சேரர் (வேணாடு)",
 "title_en": "Piṟkālac Cērar (Vēṇāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_c6e1de-pirrkaalc-ceerr-veennaattu"
 },
 {
 "title_ta": "பிற்காலப் பாண்டியர்",
 "title_en": "Piṟkālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_c92a18-pirrkaalp-paannttiyr"
 },
 {
 "title_ta": "மதுரை நாயக்கர்",
 "title_en": "Maturai Nāyakkar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_c9988a-mturai-naaykkr"
 },
 {
 "title_ta": "சங்ககாலப் பாண்டியர்",
 "title_en": "Caṅkakālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_caad34-cngkkaalp-paannttiyr"
 },
 {
@@ -21290,7 +21290,7 @@
 {
 "title_ta": "சங்ககாலச் சோழர்",
 "title_en": "Caṅkakālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_ccccba-cngkkaalc-coolllr"
 },
 {
@@ -21302,7 +21302,7 @@
 {
 "title_ta": "பிற்காலப் பாண்டியர்",
 "title_en": "Piṟkālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_cdf4a8-pirrkaalp-paannttiyr"
 },
 {
@@ -21314,19 +21314,19 @@
 {
 "title_ta": "தஞ்சை நாயக்கர்",
 "title_en": "Tañcai Nāyakkar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_d1f44a-tnycai-naaykkr"
 },
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_d3d92f-cngkkaalc-ceerr"
 },
 {
 "title_ta": "பிற்காலச் சேரர் (வேணாடு)",
 "title_en": "Piṟkālac Cērar (Vēṇāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_d41e97-pirrkaalc-ceerr-veennaattu"
 },
 {
@@ -21338,61 +21338,61 @@
 {
 "title_ta": "தஞ்சை நாயக்கர்",
 "title_en": "Tañcai Nāyakkar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_d7759e-tnycai-naaykkr"
 },
 {
 "title_ta": "பிற்காலச் சேரர் (வேணாடு)",
 "title_en": "Piṟkālac Cērar (Vēṇāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_d7b6e2-pirrkaalc-ceerr-veennaattu"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_dab12b-pllvr"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_dbd6e9-pllvr"
 },
 {
 "title_ta": "தஞ்சை நாயக்கர்",
 "title_en": "Tañcai Nāyakkar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_dc1541-tnycai-naaykkr"
 },
 {
 "title_ta": "சேதுபதி (இராமநாதபுரம்)",
 "title_en": "Cētupati (Irāmanātapuram)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_df0428-ceetupti-iraamnaatpurm"
 },
 {
 "title_ta": "தஞ்சை நாயக்கர்",
 "title_en": "Tañcai Nāyakkar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_dfd43a-tnycai-naaykkr"
 },
 {
 "title_ta": "சங்ககாலப் பாண்டியர்",
 "title_en": "Caṅkakālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_e056f1-cngkkaalp-paannttiyr"
 },
 {
 "title_ta": "சங்ககாலச் சோழர்",
 "title_en": "Caṅkakālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_e19288-cngkkaalc-coolllr"
 },
 {
 "title_ta": "சங்ககாலச் சோழர்",
 "title_en": "Caṅkakālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_e2f75b-cngkkaalc-coolllr"
 },
 {
@@ -21404,37 +21404,37 @@
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_e6fc34-cngkkaalc-ceerr"
 },
 {
 "title_ta": "முற்காலச் சோழர்",
 "title_en": "Muṟkālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_e72671-murrkaalc-coolllr"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_e8ba33-pllvr"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_e8e0d9-pllvr"
 },
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_ea171d-cngkkaalc-ceerr"
 },
 {
 "title_ta": "முற்காலச் சோழர்",
 "title_en": "Muṟkālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_ec4a7c-murrkaalc-coolllr"
 },
 {
@@ -21446,13 +21446,13 @@
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_eea8e1-cngkkaalc-ceerr"
 },
 {
 "title_ta": "பிற்காலச் சேரர் (வேணாடு)",
 "title_en": "Piṟkālac Cērar (Vēṇāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_efef61-pirrkaalc-ceerr-veennaattu"
 },
 {
@@ -21464,37 +21464,37 @@
 {
 "title_ta": "சங்ககாலச் சோழர்",
 "title_en": "Caṅkakālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_f0c8db-cngkkaalc-coolllr"
 },
 {
 "title_ta": "சங்ககாலப் பாண்டியர்",
 "title_en": "Caṅkakālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_f1969c-cngkkaalp-paannttiyr"
 },
 {
 "title_ta": "சங்ககாலச் சோழர்",
 "title_en": "Caṅkakālac Cōḻar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_f255c0-cngkkaalc-coolllr"
 },
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_f68caa-cngkkaalc-ceerr"
 },
 {
 "title_ta": "சேதுபதி (சிவகங்கை)",
 "title_en": "Cētupati (Civakaṅkai)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_f897df-ceetupti-civkngkai"
 },
 {
 "title_ta": "பல்லவர்",
 "title_en": "Pallavar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_f8a54f-pllvr"
 },
 {
@@ -21506,7 +21506,7 @@
 {
 "title_ta": "சங்ககாலப் பாண்டியர்",
 "title_en": "Caṅkakālap Pāṇṭiyar",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_f9de73-cngkkaalp-paannttiyr"
 },
 {
@@ -21518,25 +21518,25 @@
 {
 "title_ta": "பிற்காலச் சேரர் (கொங்கு நாடு)",
 "title_en": "Piṟkālac Cērar (Koṅku Nāṭu)",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_fdb79a-pirrkaalc-ceerr-kongku-naattu"
 },
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_fe986f-cngkkaalc-ceerr"
 },
 {
 "title_ta": "சங்ககாலச் சேரர்",
 "title_en": "Caṅkakālac Cērar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_ff8475-cngkkaalc-ceerr"
 },
 {
 "title_ta": "தஞ்சை நாயக்கர்",
 "title_en": "Tañcai Nāyakkar",
-"category": "",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.tdl_ff90a0-tnycai-naaykkr"
 },
 {
@@ -24080,7 +24080,7 @@
 {
 "title_ta": "Mackenzie manuscripts : summaries of the historical manuscripts in the Mackenzie collection - Vol. 1 (Tamil and Malayalam)",
 "title_en": "Mackenzie manuscripts : summaries of the historical manuscripts in the Mackenzie collection - Vol. 1 (Tamil and Malayalam)",
-"category": "",
+"category": "HIS",
 "url": "https://archive.org/details/tdl.37740-mackenzie-manuscripts-summaries-of-the-historical-manuscripts-in-the-m"
 },
 {
@@ -25076,7 +25076,7 @@
 {
 "title_ta": "An Exhibition on Chola bronzes : 1000th anniversary of Thanjavur big temple celebration sept 25th to oct 4th - 2010",
 "title_en": "An Exhibition on Chola bronzes : 1000th anniversary of Thanjavur big temple celebration sept 25th to oct 4th - 2010",
-"category": "HIS",
+"category": "DYN",
 "url": "https://archive.org/details/tdl.10637-an-exhibition-on-chola-bronzes-1000th-anniversary-of-thanjavur-big-tem"
 },
 {
@@ -25136,7 +25136,7 @@
 {
 "title_ta": "Religion In Art And Historical Archaeology of South India : Contacts And Correlation (1982-83)",
 "title_en": "Religion In Art And Historical Archaeology of South India : Contacts And Correlation (1982-83)",
-"category": "ARC",
+"category": "HIS",
 "url": "https://archive.org/details/tdl.11196-religion-in-art-and-historical-archaeology-of-south-india-contacts-and"
 },
 {
@@ -25264,5 +25264,11 @@
 "title_en": "II International conference-seminar of tamil studies : (january 3 to 10, 1968) Plenary sessions Archaeology and Tamil studies",
 "category": "ARC",
 "url": "https://archive.org/details/tdl.9547-ii-international-conference-seminar-of-tamil-studies-january-3-to-10-19"
+},
+{
+"title_ta": "Inscriptions of the Pallavas",
+"title_en": "Inscriptions of the Pallavas",
+"category": "TNS",
+"url": "https://archive.org/details/tdl.11156-inscriptions-of-the-pallavas"
 }
 ]

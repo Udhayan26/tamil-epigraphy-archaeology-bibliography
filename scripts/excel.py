@@ -23,7 +23,7 @@ THIN = Side(style="thin", color="D9CFC2")
 SHEET = {"EPG": "Epigraphy Studies", "ASI": "SII, EI & Colonial Series", "TNS": "Tamil Nadu Inscriptions",
          "CPP": "Copper Plates", "TBR": "Tamil-Brahmi & Scripts", "HER": "Hero Stones", "ROC": "Rock Art",
          "EXC": "Excavation Reports", "PRE": "Prehistory & Megaliths", "ARC": "Archaeology General",
-         "HIS": "History from Inscriptions", "NUM": "Coins", "PLM": "Palm-leaf Manuscripts", "SEA": "Seals & Rock-cut Caves",
+         "HIS": "Tamil History General", "DYN": "Dynasties & Political History", "LOC": "Local & Temple History", "NUM": "Coins", "PLM": "Palm-leaf Manuscripts", "SEA": "Seals & Rock-cut Caves",
          "REF": "Catalogues & Glossaries", "JOU": "Journals", "ONL": "Online Resources"}
 ACCESS = {"open": "Free to read", "open-us": "Free (USA only)", "preview": "Preview", "borrow": "Borrow",
           "catalogue": "Not online – buy / library", "": "Not online – buy / library"}

@@ -25,7 +25,9 @@ CATEGORIES = OrderedDict([
     ("EXC", ("Archaeology: Excavation Reports & Sites", "அகழாய்வு அறிக்கைகள்")),
     ("PRE", ("Archaeology: Prehistory & Megaliths", "தொல்பழங்காலம், பெருங்கற்காலம்")),
     ("ARC", ("Archaeology: General, Surveys & Museums", "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்")),
-    ("HIS", ("History from Inscriptions", "கல்வெட்டு வழி வரலாறு")),
+    ("DYN", ("Tamil Dynasties & Political History", "தமிழக அரச மரபுகள், அரசியல் வரலாறு")),
+    ("LOC", ("Local, District & Temple History", "ஊர், மாவட்ட, கோயில் வரலாறு")),
+    ("HIS", ("Tamil History: General, Society & Economy", "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்")),
     ("NUM", ("Numismatics (Coins)", "நாணயவியல்")),
     ("PLM", ("Palm-leaf Manuscripts & Manuscriptology", "ஓலைச்சுவடிகள், சுவடியியல்")),
     ("SEA", ("Seals, Rock-cut Caves & Jain Beds", "முத்திரைகள், குடைவரைகள், சமணப் படுகைகள்")),
@@ -51,7 +53,9 @@ RULES = [
     ("ASI", r"(south indian inscriptions|epigraphia|annual report.{0,25}epigraph|report on .{0,20}epigraph|travancore archaeological|pudukkottai state|tirumalai.tirupati|ttd inscriptions|archaeological survey of (india|southern india)|memoirs of the archaeological|hultzsch)"),
     ("TNS", r"(கல்வெட்டுகள்|கல்வெட்டுக்கள்|kalvettuk|kalvettug|kalveddukal|kalvetukal|district inscriptions|temple inscriptions|inscriptions of (the )?\w+ (district|temple|state)|select(ed)? (tamil )?inscriptions|inscriptions (texts )?of|inscriptions in|\binscriptions\b)"),
     ("EPG", r"(கல்வெட்டியல்|தொல்லெழுத்|எழுத்தியல்|epigraphy|palaeograph|paleograph|கல்வெட்டு|kalvettu|kalvettiyal|inscription|சாசன|sasan)"),
-    ("HIS", r"(history|வரலாறு|chola|cola|pandya|pallava|சோழ|பாண்டிய|பல்லவ|kingdom|administration|society|agrarian|temple)"),
+    ("LOC", r"(ஊர் வரலாறு|மாவட்ட வரலாறு|தல ?வரலாறு|கோயில் வரலாறு|கோவில் வரலாறு|திருக்கோயில்|தலபுராண|talavaral|tala varal|kōyil varal|koyil varal|district manual|gazetteer|temple histor|sthala|town histor|village histor|local histor|kongu nattu|kongu nadu|கொங்கு நாட்டு|யாழ்ப்பாண வரலாறு|history of jaffna)"),
+    ("DYN", r"(சோழ|பாண்டிய|பல்லவ|சேரர்|களப்பிர|நாயக்க|சேதுபதி|தொண்டைமான்|விஜயநகர|மராட்டிய|பாளையக்கார|\bcholas?\b|\bcolas?\b|cōḻa|pandya|pandyan|pāṇṭiya|pallava|\bcheras?\b|kalabhra|nayak|sethupat|setupat|tondaiman|vijayanagar|maratha|polygar|dynast|kingdom|kalappira|kalabhra|colar|cholar|pantiyar|pandiyar|pallavar|nayakkar|cetupati)"),
+    ("HIS", r"(history|histor|வரலாறு|வரலாற்று|varalar|administration|society|social|agrarian|economy|economic|trade|polity|tamilakam|sangam age)"),
     ("ARC", r"(தொல்லியல்|தொல்பொருள்|அகழ்வைப்பக|archaeolog|antiquit|antiquarian|museum|monument|tholliyal|tolliyal)"),
 ]
 RULES = [(c, re.compile(p, re.I)) for c, p in RULES]
