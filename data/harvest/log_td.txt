@@ -6,5 +6,5 @@
 [td] 500 fetched, 501 parsed
 [td] parsed 538 of 538
 [td] saved 2573 records
-[td] took 2344s
-total 2344s
+[td] took 1941s
+total 1941s

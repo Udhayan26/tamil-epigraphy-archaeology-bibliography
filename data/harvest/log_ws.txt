@@ -1,3 +1,3 @@
-[ws] saved 597 records
-[ws] took 176s
-total 176s
+[ws] saved 571 records
+[ws] took 198s
+total 198s
