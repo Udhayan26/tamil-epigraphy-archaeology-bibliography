@@ -355,5 +355,5 @@
 [oa] ERR meikeerthi HTTP Error 429: Too Many Requests
 [oa] meikeerthi: total so far 598
 [oa] saved 212 records
-[oa] took 18714s
-total 18714s
+[oa] took 18770s
+total 18770s
