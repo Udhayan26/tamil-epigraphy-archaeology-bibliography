@@ -346,5 +346,5 @@
 [ia] enriched 7000
 [ia] enriched 7500
 [ia] saved 7589 records
-[ia] took 8796s
-total 8796s
+[ia] took 6619s
+total 6619s

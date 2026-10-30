@@ -216,5 +216,5 @@
 [loc] Tamils eighteen hundred years ago: total so far 167
 [loc] Tamilakam: total so far 167
 [loc] saved 30 records
-[loc] took 6480s
-total 6480s
+[loc] took 9858s
+total 9858s

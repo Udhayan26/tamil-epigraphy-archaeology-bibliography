@@ -2467,6 +2467,10 @@
 "added": "2026-10-29",
 "id": "TB-007802"
 },
+"clncntptclntpclctrclntpkrpcl2clnvlm2": {
+"added": "2026-10-30",
+"id": "TB-010908"
+},
 "clncntptclntpclctrclntpkrpclvtntcptcntrlctrntktcntprtctnclncntp01tn": {
 "added": "2026-10-20",
 "id": "TB-004145"
@@ -3318,6 +3322,10 @@
 "clrklrcltlvrklkrnkrtntmn": {
 "added": "2026-10-29",
 "id": "TB-008452"
+},
+"clrklrcltlvrklmnvlktn": {
+"added": "2026-10-30",
+"id": "TB-010907"
 },
 "clrklrcltlvrklmnvlprml": {
 "added": "2026-10-29",
@@ -9898,6 +9906,10 @@
 "klclctlprnmvtcmntr": {
 "added": "2026-10-28",
 "id": "TB-005648"
+},
+"klclkrtvrlrkl": {
+"added": "2026-10-30",
+"id": "TB-010909"
 },
 "klclmktkl": {
 "added": "2026-10-20",
@@ -31470,6 +31482,10 @@
 "tcrnlkptntc": {
 "added": "2026-10-20",
 "id": "TB-003148"
+},
+"tcrnlkptrltmlc": {
+"added": "2026-10-30",
+"id": "TB-010906"
 },
 "tcrnrmptncnrpcmcrprmkctncpkrpc": {
 "added": "2026-10-20",

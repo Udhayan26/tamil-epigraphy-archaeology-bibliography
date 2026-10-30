@@ -1,19 +1,17 @@
-[td] 2331 mirrored books need details (0 done before)
-[td] 100 fetched, 7 parsed
-[td] 200 fetched, 19 parsed
-[td] 300 fetched, 20 parsed
-[td] 400 fetched, 21 parsed
-[td] 500 fetched, 21 parsed
-[td] 600 fetched, 22 parsed
-[td] 700 fetched, 22 parsed
-[td] 800 fetched, 22 parsed
-[td] 900 fetched, 22 parsed
-[td] 1000 fetched, 25 parsed
-[td] 1100 fetched, 37 parsed
-[td] 1200 fetched, 63 parsed
-[td] 1300 fetched, 113 parsed
-[td] 1400 fetched, 138 parsed
-[td] parsed 145 of 1500
-[td] saved 1500 records
-[td] took 7150s
-total 7150s
+[td] 1218 mirrored books need details (1355 done before)
+[td] 100 fetched, 101 parsed
+[td] 200 fetched, 152 parsed
+[td] 300 fetched, 156 parsed
+[td] 400 fetched, 190 parsed
+[td] 500 fetched, 223 parsed
+[td] 600 fetched, 299 parsed
+[td] 700 fetched, 355 parsed
+[td] 800 fetched, 373 parsed
+[td] 900 fetched, 450 parsed
+[td] 1000 fetched, 469 parsed
+[td] 1100 fetched, 484 parsed
+[td] 1200 fetched, 530 parsed
+[td] parsed 538 of 1218
+[td] saved 2573 records
+[td] took 5451s
+total 5451s

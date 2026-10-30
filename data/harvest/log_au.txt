@@ -307,5 +307,5 @@
 [au/gb] ERR inpublisher:"École française d'Extrême-Orient" Google Books quota exhausted for this run
 [au] publisher École française d'Extrême-Orient: 7
 [au] saved 2068 records
-[au] took 643s
-total 643s
+[au] took 595s
+total 595s
