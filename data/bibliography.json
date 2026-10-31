@@ -1,22 +1,22 @@
 {
 "generated": "2026-10-31",
-"count": 8135,
-"with_author": 5761,
+"count": 8136,
+"with_author": 5762,
 "with_publisher": 5778,
 "with_year": 6221,
-"open_access": 3763,
-"with_download": 2533,
+"open_access": 3764,
+"with_download": 2534,
 "heritage_records": 4271,
 "with_buy": 0,
 "access": {
-"open": 3763,
+"open": 3764,
 "catalogue": 3973,
 "": 48,
 "open-us": 276,
 "borrow": 75
 },
 "sources": {
-"Internet Archive": 2444,
+"Internet Archive": 2445,
 "Noolaham": 290,
 "Open Library": 2289,
 "Curated": 204,
@@ -52,7 +52,7 @@
 "TBR": {
 "en": "Tamil-Brahmi, Vatteluttu & Early Writing",
 "ta": "தமிழ்-பிராமி, வட்டெழுத்து",
-"count": 97
+"count": 98
 },
 "HER": {
 "en": "Hero Stones & Memorial Stones",
@@ -21246,12 +21246,12 @@
 "pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_39_No._4_October_1971.pdf"
 },
 {
-"read": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._6_April_1972.pdf",
-"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_39_No._6_April_1972.pdf"
-},
-{
 "read": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._7_January_1973.pdf",
 "pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_39_No._7_January_1973.pdf"
+},
+{
+"read": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._6_April_1972.pdf",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_39_No._6_April_1972.pdf"
 },
 {
 "read": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._5_January_1972.pdf",
@@ -21268,8 +21268,8 @@
 ],
 "other_source_urls": [
 "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._4_October_1971.pdf",
-"https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._6_April_1972.pdf",
 "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._7_January_1973.pdf",
+"https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._6_April_1972.pdf",
 "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._5_January_1972.pdf",
 "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._1_January_1971.pdf"
 ],
@@ -52939,6 +52939,45 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-28"
+},
+{
+"id": "TB-010913",
+"category": "TBR",
+"category_name": "Tamil-Brahmi, Vatteluttu & Early Writing",
+"category_name_ta": "தமிழ்-பிராமி, வட்டெழுத்து",
+"title": "Tamil Brahmi Vatteluttu Grantham Tamil Epigraphy Paper Manuscript Pondicherry 2003 - G Vijayavenugopal",
+"title_ta": "",
+"title_en": "Tamil Brahmi Vatteluttu Grantham Tamil Epigraphy Paper Manuscript Pondicherry 2003 - G Vijayavenugopal",
+"title_en_note": "",
+"alt_title": "",
+"authors": "G Vijayavenugopal",
+"authors_roman": "",
+"publisher": "",
+"publisher_roman": "",
+"place": "",
+"year": "",
+"period": "Undated",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "'Tamil Brahmi Vatteluttu Grantham Tamil Epigraphy Paper Manuscript Pondicherry 2003 - G Vijayavenugopal', HHFA(USA)",
+"subjects": "HHFA(USA); HHFA(USA)-Pondi; Hindu Heritage Foundation of America-USA",
+"access": "open",
+"read_url": "https://archive.org/details/erjq-tamil-brahmi-vatteluttu-grantham-tamil-epigraphy-p",
+"download_url": "https://archive.org/download/erjq-tamil-brahmi-vatteluttu-grantham-tamil-epigraphy-p/Tamil%20Brahmi%20Vatteluttu%20Grantham%20Tamil%20Epigraphy%20Paper%20Manuscript%20Pondicherry%202003%20-%20G%20Vijayavenugopal.pdf",
+"buy_url": "",
+"source_url": "https://archive.org/details/erjq-tamil-brahmi-vatteluttu-grantham-tamil-epigraphy-p",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"Internet Archive"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-31"
 },
 {
 "id": "TB-006156",
@@ -233577,6 +233616,57 @@
 "added": "2026-10-29"
 },
 {
+"id": "TB-010828",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "வரலாறு தரம் 11",
+"title_ta": "வரலாறு தரம் 11",
+"title_en": "Varalāṟu Taram 11",
+"title_en_note": "romanised from Tamil",
+"alt_title": "",
+"authors": "[[:பகுப்பு:-",
+"authors_roman": "[[:Pakuppu:-",
+"publisher": "[[:பகுப்பு:கல்வி வெளியீட்டுத் திணைக்களம்",
+"publisher_roman": "[[:Pakuppu:Kalvi Veḷiyīṭṭut Tiṇaikkaḷam",
+"place": "",
+"year": "1999",
+"period": "1991–2010",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "158",
+"notes": "",
+"subjects": "பாட நூல்",
+"access": "open",
+"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_11",
+"download_url": "http://noolaham.net/project/797/79651/79651.pdf",
+"buy_url": "",
+"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_11",
+"copies": [
+{
+"read": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_11",
+"pdf": "http://noolaham.net/project/152/15119/15119.pdf"
+},
+{
+"read": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D11",
+"pdf": ""
+}
+],
+"other_source_urls": [
+"https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_11",
+"https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D11"
+],
+"sources": [
+"Noolaham"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-30"
+},
+{
 "id": "TB-009680",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -238038,6 +238128,52 @@
 "added": "2026-10-29"
 },
 {
+"id": "TB-009870",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "இலங்கை வரலாறு - பாகம் II",
+"title_ta": "இலங்கை வரலாறு - பாகம் II",
+"title_en": "Ilaṅkai Varalāṟu - Pākam II",
+"title_en_note": "romanised from Tamil",
+"alt_title": "",
+"authors": "[[:பகுப்பு:கிருஷ்ணராசா, செ.",
+"authors_roman": "[[:Pakuppu:Kiruṣṇarācā, Ce.",
+"publisher": "[[:பகுப்பு:பிறைநிலா வெளியீடு",
+"publisher_roman": "[[:Pakuppu:Piṟainilā Veḷiyīṭu",
+"place": "",
+"year": "2002",
+"period": "1991–2010",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "324",
+"notes": "",
+"subjects": "இலங்கை வரலாறு",
+"access": "open",
+"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_-_%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AE%AE%E0%AF%8D_II",
+"download_url": "http://noolaham.net/project/1124/112319/112319.pdf",
+"buy_url": "",
+"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_-_%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AE%AE%E0%AF%8D_II",
+"copies": [
+{
+"read": "https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_-_%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AE%AE%E0%AF%8D_2",
+"pdf": "http://noolaham.net/project/45/4420/4420.pdf"
+}
+],
+"other_source_urls": [
+"https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_-_%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AE%AE%E0%AF%8D_2"
+],
+"sources": [
+"Noolaham"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-29"
+},
+{
 "id": "TB-009777",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -242303,52 +242439,6 @@
 "source_url": "https://noolaham.org/wiki/index.php/%E0%AE%AE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_%E0%AE%92%E0%AE%B0%E0%AF%81_%E0%AE%85%E0%AE%B1%E0%AE%BF%E0%AE%AE%E0%AF%81%E0%AE%95%E0%AE%AE%E0%AF%8D",
 "copies": [],
 "other_source_urls": [],
-"sources": [
-"Noolaham"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
-"id": "TB-009870",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "'''இலங்கை வரலாறு - பாகம் 2'''",
-"title_ta": "'''இலங்கை வரலாறு - பாகம் 2'''",
-"title_en": "'''ilaṅkai Varalāṟu - Pākam 2'''",
-"title_en_note": "romanised from Tamil",
-"alt_title": "",
-"authors": "[[:பகுப்பு:கிருஷ்ணராசா, செ.",
-"authors_roman": "[[:Pakuppu:Kiruṣṇarācā, Ce.",
-"publisher": "[[:பகுப்பு:பிறைநிலா வெளியீடு",
-"publisher_roman": "[[:Pakuppu:Piṟainilā Veḷiyīṭu",
-"place": "",
-"year": "2005",
-"period": "1991–2010",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "299",
-"notes": "",
-"subjects": "இலங்கை வரலாறு",
-"access": "open",
-"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_-_%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AE%AE%E0%AF%8D_2",
-"download_url": "http://noolaham.net/project/45/4420/4420.pdf",
-"buy_url": "",
-"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_-_%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AE%AE%E0%AF%8D_2",
-"copies": [
-{
-"read": "https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_-_%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AE%AE%E0%AF%8D_II",
-"pdf": "http://noolaham.net/project/1124/112319/112319.pdf"
-}
-],
-"other_source_urls": [
-"https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_-_%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AE%AE%E0%AF%8D_II"
-],
 "sources": [
 "Noolaham"
 ],
@@ -250117,52 +250207,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-010178",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "வரலாறு: தரம் 7",
-"title_ta": "வரலாறு: தரம் 7",
-"title_en": "Varalāṟu: Taram 7",
-"title_en_note": "romanised from Tamil",
-"alt_title": "",
-"authors": "[[:பகுப்பு:கமலா குணராசா",
-"authors_roman": "[[:Pakuppu:Kamalā Kuṇarācā",
-"publisher": "[[:பகுப்பு:-",
-"publisher_roman": "[[:Pakuppu:-",
-"place": "",
-"year": "2008",
-"period": "1991–2010",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "116",
-"notes": "",
-"subjects": "பாட நூல்",
-"access": "open",
-"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_7",
-"download_url": "http://noolaham.net/project/980/97968/97968.pdf",
-"buy_url": "",
-"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_7",
-"copies": [
-{
-"read": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_7",
-"pdf": "http://noolaham.net/project/794/79342/79342.pdf"
-}
-],
-"other_source_urls": [
-"https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_7"
-],
-"sources": [
-"Noolaham"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
 "id": "TB-010048",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -252735,61 +252779,6 @@
 "source_url": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_10_%282009%29",
 "copies": [],
 "other_source_urls": [],
-"sources": [
-"Noolaham"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-30"
-},
-{
-"id": "TB-010828",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "வரலாறு: தரம்11",
-"title_ta": "வரலாறு: தரம்11",
-"title_en": "Varalāṟu: Taram11",
-"title_en_note": "romanised from Tamil",
-"alt_title": "",
-"authors": "[[:பகுப்பு:நித்தியானந்தன், க.",
-"authors_roman": "[[:Pakuppu:Nittiyāṉantaṉ, Ka.",
-"publisher": "-",
-"publisher_roman": "",
-"place": "",
-"year": "2009",
-"period": "1991–2010",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "44",
-"notes": "",
-"subjects": "பாட நூல்",
-"access": "open",
-"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D11",
-"download_url": "http://noolaham.net/project/152/15119/15119.pdf",
-"buy_url": "",
-"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D11",
-"copies": [
-{
-"read": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D11",
-"pdf": ""
-},
-{
-"read": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_11",
-"pdf": "http://noolaham.net/project/152/15119/15119.pdf"
-},
-{
-"read": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_11",
-"pdf": "http://noolaham.net/project/797/79651/79651.pdf"
-}
-],
-"other_source_urls": [
-"https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_11",
-"https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_11"
-],
 "sources": [
 "Noolaham"
 ],
@@ -256234,6 +256223,52 @@
 "source_url": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_2%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_11",
 "copies": [],
 "other_source_urls": [],
+"sources": [
+"Noolaham"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-29"
+},
+{
+"id": "TB-010178",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "வரலாறு தரம் 7",
+"title_ta": "வரலாறு தரம் 7",
+"title_en": "Varalāṟu Taram 7",
+"title_en_note": "romanised from Tamil",
+"alt_title": "",
+"authors": "[[:பகுப்பு:-",
+"authors_roman": "[[:Pakuppu:-",
+"publisher": "[[:பகுப்பு:கல்வி வெளியீட்டுத் திணைக்களம்",
+"publisher_roman": "[[:Pakuppu:Kalvi Veḷiyīṭṭut Tiṇaikkaḷam",
+"place": "",
+"year": "2011",
+"period": "2011–2026 (Recent)",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "152",
+"notes": "",
+"subjects": "பாட நூல்",
+"access": "open",
+"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_7",
+"download_url": "http://noolaham.net/project/794/79342/79342.pdf",
+"buy_url": "",
+"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_7",
+"copies": [
+{
+"read": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_7",
+"pdf": "http://noolaham.net/project/980/97968/97968.pdf"
+}
+],
+"other_source_urls": [
+"https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_7"
+],
 "sources": [
 "Noolaham"
 ],
@@ -261338,15 +261373,15 @@
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
 "category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "வரலாறு: தரம் - 10 (2015)",
-"title_ta": "வரலாறு: தரம் - 10 (2015)",
-"title_en": "Varalāṟu: Taram - 10 (2015)",
+"title": "வரலாறு: தரம் 10 (2015)",
+"title_ta": "வரலாறு: தரம் 10 (2015)",
+"title_en": "Varalāṟu: Taram 10 (2015)",
 "title_en_note": "romanised from Tamil",
 "alt_title": "",
-"authors": "[[:பகுப்பு:இக்பால், கே. எம். எம்.",
-"authors_roman": "[[:Pakuppu:Ikpāl, Kē. Em. Em.",
-"publisher": "[[:பகுப்பு:லங்கா புத்தகசாலை",
-"publisher_roman": "[[:Pakuppu:Laṅkā Puttakacālai",
+"authors": "[[:பகுப்பு:ரமேஷ், இரா.",
+"authors_roman": "[[:Pakuppu:Ramēṣ, Irā.",
+"publisher": "[[:பகுப்பு:லோயல் பப்ளிகேஷன்",
+"publisher_roman": "[[:Pakuppu:Lōyal Papḷikēṣaṉ",
 "place": "",
 "year": "2015",
 "period": "2011–2026 (Recent)",
@@ -261354,22 +261389,22 @@
 "type": "Book",
 "series": "",
 "isbn": "",
-"pages": "248",
+"pages": "300",
 "notes": "",
 "subjects": "பாட நூல்",
 "access": "open",
-"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_-_10_%282015%29",
+"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_10_%282015%29",
 "download_url": "",
 "buy_url": "",
-"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_-_10_%282015%29",
+"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_10_%282015%29",
 "copies": [
 {
-"read": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_10_%282015%29",
+"read": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_-_10_%282015%29",
 "pdf": ""
 }
 ],
 "other_source_urls": [
-"https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_10_%282015%29"
+"https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_-_10_%282015%29"
 ],
 "sources": [
 "Noolaham"
@@ -264985,17 +265020,17 @@
 "source_url": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_10%2C11",
 "copies": [
 {
-"read": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_10-11",
+"read": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_10_-_11",
 "pdf": ""
 },
 {
-"read": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_10_-_11",
+"read": "https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_10-11",
 "pdf": ""
 }
 ],
 "other_source_urls": [
-"https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_10-11",
-"https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_10_-_11"
+"https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_10_-_11",
+"https://noolaham.org/wiki/index.php/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AF%8D_10-11"
 ],
 "sources": [
 "Noolaham"
@@ -303723,12 +303758,12 @@
 "source_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary%2C_Vol._4-1875.djvu",
 "copies": [
 {
-"read": "https://commons.wikimedia.org/wiki/File%3ATHE_INDIAN_ANTIQUARY_A_JOURNAL_OF_ORIENTAL_RESEARCH_VOL_4_%28IA_indianantiquarya014355mbp%29.pdf",
-"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/THE_INDIAN_ANTIQUARY_A_JOURNAL_OF_ORIENTAL_RESEARCH_VOL_4_%28IA_indianantiquarya014355mbp%29.pdf"
-},
-{
 "read": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_4_%28IGNCA%29.pdf",
 "pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_4_%28IGNCA%29.pdf"
+},
+{
+"read": "https://commons.wikimedia.org/wiki/File%3ATHE_INDIAN_ANTIQUARY_A_JOURNAL_OF_ORIENTAL_RESEARCH_VOL_4_%28IA_indianantiquarya014355mbp%29.pdf",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/THE_INDIAN_ANTIQUARY_A_JOURNAL_OF_ORIENTAL_RESEARCH_VOL_4_%28IA_indianantiquarya014355mbp%29.pdf"
 },
 {
 "read": "https://babel.hathitrust.org/cgi/pt?id=hvd.32044020400578",
@@ -303756,8 +303791,8 @@
 }
 ],
 "other_source_urls": [
-"https://commons.wikimedia.org/wiki/File%3ATHE_INDIAN_ANTIQUARY_A_JOURNAL_OF_ORIENTAL_RESEARCH_VOL_4_%28IA_indianantiquarya014355mbp%29.pdf",
 "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_4_%28IGNCA%29.pdf",
+"https://commons.wikimedia.org/wiki/File%3ATHE_INDIAN_ANTIQUARY_A_JOURNAL_OF_ORIENTAL_RESEARCH_VOL_4_%28IA_indianantiquarya014355mbp%29.pdf",
 "https://catalog.hathitrust.org/Record/000501150",
 "https://catalog.hathitrust.org/Record/000501154",
 "https://catalog.hathitrust.org/Record/000547964"
@@ -304343,7 +304378,7 @@
 "title_ta": "",
 "title_en": "Indian Antiquary, Vol. 9",
 "title_en_note": "",
-"alt_title": "The Indian Antiquary Vol 9",
+"alt_title": "Indian Antiquary, vol 9, 1880",
 "authors": "Burgess, Jas, Ed.",
 "authors_roman": "",
 "publisher": "Popular Prakashan [etc",
@@ -304359,14 +304394,14 @@
 "notes": "",
 "subjects": "C-DAK",
 "access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_9.pdf",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_9.pdf",
+"read_url": "https://commons.wikimedia.org/wiki/File%3AIndian_Antiquary%2C_vol_9%2C_1880.djvu",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian_Antiquary%2C_vol_9%2C_1880.djvu",
 "buy_url": "",
-"source_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_9.pdf",
+"source_url": "https://commons.wikimedia.org/wiki/File%3AIndian_Antiquary%2C_vol_9%2C_1880.djvu",
 "copies": [
 {
-"read": "https://commons.wikimedia.org/wiki/File%3AIndian_Antiquary%2C_vol_9%2C_1880.djvu",
-"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian_Antiquary%2C_vol_9%2C_1880.djvu"
+"read": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_9.pdf",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_9.pdf"
 },
 {
 "read": "https://babel.hathitrust.org/cgi/pt?id=ufl.31262053227590",
@@ -304398,7 +304433,7 @@
 }
 ],
 "other_source_urls": [
-"https://commons.wikimedia.org/wiki/File%3AIndian_Antiquary%2C_vol_9%2C_1880.djvu",
+"https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_9.pdf",
 "https://catalog.hathitrust.org/Record/000501150",
 "https://catalog.hathitrust.org/Record/000547964",
 "https://catalog.hathitrust.org/Record/009790464",

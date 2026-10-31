@@ -1,54 +1,45 @@
 {
- "alternate_locations": {
-  "servers": [
-   {
-    "server": "dn710906.ca.archive.org",
-    "dir": "/0/items/ofda-the-story-of-hir-and-ranjha-waris-shah-r-c-temple-"
-   }
-  ],
-  "workable": [
-   {
-    "server": "dn710906.ca.archive.org",
-    "dir": "/0/items/ofda-the-story-of-hir-and-ranjha-waris-shah-r-c-temple-"
-   }
-  ]
- },
- "created": 1793405871,
- "d1": "ia600106.us.archive.org",
- "d2": "ia800106.us.archive.org",
- "dir": "/1/items/ofda-the-story-of-hir-and-ranjha-waris-shah-r-c-temple-",
- "files_count": 16,
- "item_last_updated": 1793393199,
- "item_size": 98668535,
+ "created": 1793425421,
+ "d1": "ia600503.us.archive.org",
+ "d2": "ia800503.us.archive.org",
+ "dir": "/35/items/erjq-tamil-brahmi-vatteluttu-grantham-tamil-epigraphy-p",
+ "files_count": 5,
+ "item_last_updated": 1793420108,
+ "item_size": 2769725,
  "metadata": {
-  "identifier": "ofda-the-story-of-hir-and-ranjha-waris-shah-r-c-temple-",
+  "identifier": "erjq-tamil-brahmi-vatteluttu-grantham-tamil-epigraphy-p",
   "mediatype": "texts",
   "collection": "opensource",
-  "creator": "The Indian Antiquary",
-  "description": "'The Story of Hir and Ranjha Waris Shah R C Temple C F Usborne English Poetry Journal 1921 - The Indian Antiquary', Agamnigam Digital Preservation Foundation, Agamnigam-Chandigarh, LCK-M",
+  "creator": "G Vijayavenugopal",
+  "description": "'Tamil Brahmi Vatteluttu Grantham Tamil Epigraphy Paper Manuscript Pondicherry 2003 - G Vijayavenugopal', HHFA(USA)",
   "licenseurl": "https://creativecommons.org/publicdomain/zero/1.0/",
   "scanner": "Internet Archive HTML5 Uploader 1.7.0",
   "subject": [
-   "Agamnigam Digital Preservation Foundation",
-   "Agamnigam-Chandigarh",
-   "LCK-M"
+   "HHFA(USA)",
+   "HHFA(USA)-Pondi",
+   "Hindu Heritage Foundation of America-USA"
   ],
-  "title": "The Story of Hir and Ranjha Waris Shah R C Temple C F Usborne English Poetry Journal 1921 - The Indian Antiquary",
-  "uploader": "agamnigamup@outlook.com",
-  "publicdate": "2026-10-30 20:33:18",
-  "addeddate": "2026-10-30 20:33:18",
-  "curation": "[curator]validator@archive.org[/curator][date]20261030203603[/date][comment]checked for malware[/comment]",
-  "identifier-access": "http://archive.org/details/ofda-the-story-of-hir-and-ranjha-waris-shah-r-c-temple-",
-  "identifier-ark": "ark:/13960/s2tq4dcxvsv",
-  "ocr_module_version": "0.0.21",
-  "ocr_converted": "pdf-to-hocr 1.1.37",
-  "page_number_confidence": "0",
-  "page_number_module_version": "1.0.5"
+  "title": "Tamil Brahmi Vatteluttu Grantham Tamil Epigraphy Paper Manuscript Pondicherry 2003 - G Vijayavenugopal",
+  "uploader": "hhfa.india.office@gmail.com",
+  "publicdate": "2026-10-31 04:08:04",
+  "addeddate": "2026-10-31 04:08:04",
+  "curation": "[curator]validator@archive.org[/curator][date]20261031041506[/date][comment]checked for malware[/comment]"
  },
- "server": "ia800106.us.archive.org",
- "uniq": 1390221272,
+ "pending_tasks": true,
+ "server": "ia600503.us.archive.org",
+ "servers_unavailable": true,
+ "tasks": [
+  {
+   "task_id": 5738763891,
+   "cmd": "derive.php",
+   "priority": -4,
+   "wait_admin": 0,
+   "color": "green",
+   "status": "queued"
+  }
+ ],
+ "uniq": 2031830714,
  "workable_servers": [
-  "ia800106.us.archive.org",
-  "ia600106.us.archive.org"
+  "ia600503.us.archive.org"
  ]
 }
