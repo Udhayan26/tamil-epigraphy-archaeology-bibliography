@@ -1,220 +1,420 @@
 [loc] kalvettu: total so far 0
+[loc] ERR kalvettukal HTTP Error 429: Too Many Requests
 [loc] kalvettukal: total so far 0
+[loc] ERR kalvettukkal HTTP Error 429: Too Many Requests
 [loc] kalvettukkal: total so far 0
+[loc] ERR kalvettugal HTTP Error 429: Too Many Requests
 [loc] kalvettugal: total so far 0
+[loc] ERR kalvetukal HTTP Error 429: Too Many Requests
 [loc] kalvetukal: total so far 0
+[loc] ERR kalvettiyal HTTP Error 429: Too Many Requests
 [loc] kalvettiyal: total so far 0
+[loc] ERR kalveddukal HTTP Error 429: Too Many Requests
 [loc] kalveddukal: total so far 0
+[loc] ERR seppedu HTTP Error 429: Too Many Requests
 [loc] seppedu: total so far 0
+[loc] ERR seppedugal HTTP Error 429: Too Many Requests
 [loc] seppedugal: total so far 0
 [loc] seppedukal: total so far 0
+[loc] ERR ceppetu HTTP Error 429: Too Many Requests
 [loc] ceppetu: total so far 0
+[loc] ERR ceppetukal HTTP Error 429: Too Many Requests
 [loc] ceppetukal: total so far 0
+[loc] ERR nadukal HTTP Error 429: Too Many Requests
 [loc] nadukal: total so far 0
+[loc] ERR nadukarkal HTTP Error 429: Too Many Requests
 [loc] nadukarkal: total so far 0
+[loc] ERR natukal HTTP Error 429: Too Many Requests
 [loc] natukal: total so far 0
+[loc] ERR natukarkal HTTP Error 429: Too Many Requests
 [loc] natukarkal: total so far 0
+[loc] ERR tholliyal HTTP Error 429: Too Many Requests
 [loc] tholliyal: total so far 0
+[loc] ERR tolliyal HTTP Error 429: Too Many Requests
 [loc] tolliyal: total so far 0
 [loc] tholporul: total so far 0
+[loc] ERR agazhaivu HTTP Error 429: Too Many Requests
 [loc] agazhaivu: total so far 0
+[loc] ERR akalayvu HTTP Error 429: Too Many Requests
 [loc] akalayvu: total so far 0
+[loc] ERR akazhaivu HTTP Error 429: Too Many Requests
 [loc] akazhaivu: total so far 0
+[loc] ERR akalvaippakam HTTP Error 429: Too Many Requests
 [loc] akalvaippakam: total so far 0
+[loc] ERR paarai oviyangal HTTP Error 429: Too Many Requests
 [loc] paarai oviyangal: total so far 0
+[loc] ERR tamil pirami HTTP Error 429: Too Many Requests
 [loc] tamil pirami: total so far 0
+[loc] ERR tamili HTTP Error 429: Too Many Requests
 [loc] tamili: total so far 0
+[loc] ERR vatteluttu HTTP Error 429: Too Many Requests
 [loc] vatteluttu: total so far 0
 [loc] vattezhuthu: total so far 0
+[loc] ERR sasanam HTTP Error 429: Too Many Requests
 [loc] sasanam: total so far 0
+[loc] ERR pattayam HTTP Error 429: Too Many Requests
 [loc] pattayam: total so far 0
+[loc] ERR olaichuvadi HTTP Error 429: Too Many Requests
 [loc] olaichuvadi: total so far 0
+[loc] ERR olai chuvadi HTTP Error 429: Too Many Requests
 [loc] olai chuvadi: total so far 0
+[loc] ERR olaiccuvati HTTP Error 429: Too Many Requests
 [loc] olaiccuvati: total so far 0
+[loc] ERR cuvatiyiyal HTTP Error 429: Too Many Requests
 [loc] cuvatiyiyal: total so far 0
+[loc] ERR suvadiyiyal HTTP Error 429: Too Many Requests
 [loc] suvadiyiyal: total so far 0
+[loc] ERR suvadi HTTP Error 429: Too Many Requests
 [loc] suvadi: total so far 0
 [loc] kacukal: total so far 0
 [loc] kasukal: total so far 0
+[loc] ERR nanayangal HTTP Error 429: Too Many Requests
 [loc] nanayangal: total so far 0
+[loc] ERR varalaru HTTP Error 429: Too Many Requests
 [loc] varalaru: total so far 0
+[loc] ERR varalaaru HTTP Error 429: Too Many Requests
 [loc] varalaaru: total so far 0
+[loc] ERR cholar varalaru HTTP Error 429: Too Many Requests
 [loc] cholar varalaru: total so far 0
+[loc] ERR pandiyar varalaru HTTP Error 429: Too Many Requests
 [loc] pandiyar varalaru: total so far 0
+[loc] ERR pallavar varalaru HTTP Error 429: Too Many Requests
 [loc] pallavar varalaru: total so far 0
+[loc] ERR tamilaka varalaru HTTP Error 429: Too Many Requests
 [loc] tamilaka varalaru: total so far 0
+[loc] ERR tamilnattu varalaru HTTP Error 429: Too Many Requests
 [loc] tamilnattu varalaru: total so far 0
 [loc] talavaralaru: total so far 0
+[loc] ERR tala varalaru HTTP Error 429: Too Many Requests
 [loc] tala varalaru: total so far 0
+[loc] ERR meykkirtti HTTP Error 429: Too Many Requests
 [loc] meykkirtti: total so far 0
+[loc] ERR meikeerthi HTTP Error 429: Too Many Requests
 [loc] meikeerthi: total so far 0
-[loc] Tamil inscriptions: total so far 3
-[loc] inscriptions Tamil Nadu: total so far 4
-[loc] Tamilnadu inscriptions: total so far 4
-[loc] Tamil epigraphy: total so far 4
-[loc] South Indian inscriptions: total so far 5
-[loc] South Indian epigraphy: total so far 5
-[loc] Epigraphia Indica: total so far 5
-[loc] annual report epigraphy: total so far 5
-[loc] topographical list inscriptions: total so far 5
-[loc] district inscriptions Tamil: total so far 8
-[loc] temple inscriptions Tamil: total so far 11
-[loc] Chola inscriptions: total so far 12
-[loc] Pandya inscriptions: total so far 13
-[loc] Pallava inscriptions: total so far 13
-[loc] Pallava copper plates: total so far 13
-[loc] Chola copper plates: total so far 13
-[loc] Pandya copper plates: total so far 13
-[loc] copper plates Tamil: total so far 16
-[loc] Tamil Brahmi: total so far 16
-[loc] Tamil-Brahmi inscriptions: total so far 16
-[loc] Vatteluttu: total so far 16
-[loc] South Indian palaeography: total so far 16
-[loc] hero stones Tamil: total so far 19
-[loc] hero stones Tamil Nadu: total so far 20
-[loc] memorial stones South India: total so far 22
-[loc] rock art Tamil Nadu: total so far 23
-[loc] rock paintings Tamil Nadu: total so far 24
-[loc] prehistoric rock art South India: total so far 26
-[loc] excavations Tamil Nadu: total so far 27
-[loc] archaeology Tamil Nadu: total so far 27
-[loc] archaeology Tamilnadu: total so far 27
-[loc] Tamil Nadu archaeology department: total so far 27
-[loc] megalithic Tamil Nadu: total so far 27
-[loc] megaliths South India: total so far 27
-[loc] urn burials Tamil Nadu: total so far 27
-[loc] Keeladi: total so far 27
-[loc] Keezhadi: total so far 27
-[loc] Adichanallur: total so far 27
-[loc] Arikamedu: total so far 27
-[loc] Kodumanal: total so far 27
-[loc] Porunthal: total so far 27
-[loc] Alagankulam: total so far 27
-[loc] Kaveripattinam excavation: total so far 27
-[loc] Poompuhar archaeology: total so far 27
-[loc] Sivagalai: total so far 27
-[loc] Tamil coins Sangam: total so far 27
-[loc] Pudukkottai inscriptions: total so far 27
-[loc] Travancore archaeological series: total so far 27
-[loc] Madras Presidency antiquities: total so far 30
-[loc] Kanyakumari inscriptions: total so far 30
-[loc] Jaina inscriptions Tamil Nadu: total so far 31
-[loc] Tamil graffiti potsherds: total so far 31
-[loc] Sri Lanka Tamil inscriptions: total so far 32
-[loc] Annual Report on Indian Epigraphy: total so far 32
-[loc] Annual Report on South Indian Epigraphy: total so far 32
-[loc] Annual report on epigraphy Madras: total so far 32
-[loc] Report on epigraphy: total so far 32
-[loc] Madras epigraphy: total so far 32
-[loc] Government Epigraphist Madras: total so far 32
-[loc] Epigraphia Indica: total so far 32
-[loc] Indian Antiquary: total so far 32
-[loc] Epigraphia Carnatica: total so far 33
-[loc] South Indian Inscriptions volume: total so far 33
-[loc] Pudukkottai State inscriptions: total so far 33
-[loc] Travancore Archaeological Series: total so far 33
-[loc] Archaeological Survey of Southern India: total so far 34
-[loc] antiquarian remains Madras: total so far 35
-[loc] Madras Government Museum bulletin: total so far 37
-[loc] Ancient India bulletin: total so far 39
-[loc] Indian Archaeology a review: total so far 40
-[loc] Annual report archaeological department southern circle: total so far 42
-[loc] Mackenzie collection: total so far 44
-[loc] Tamil Nadu State Department of Archaeology: total so far 44
-[loc] Madras district gazetteer antiquities: total so far 45
-[loc] Vijayanagara inscriptions Tamil: total so far 45
-[loc] Nayak inscriptions: total so far 46
-[loc] Sethupathi copper plates: total so far 46
-[loc] Maratha Tanjore inscriptions: total so far 47
-[loc] Kongu inscriptions: total so far 47
-[loc] Jain inscriptions Tamil: total so far 50
-[loc] Buddhist Tamil inscriptions: total so far 51
-[loc] Grantha script: total so far 51
-[loc] Tamil script evolution: total so far 54
-[loc] Thanjavur Brihadisvara inscriptions: total so far 54
-[loc] Chidambaram inscriptions: total so far 54
-[loc] Srirangam inscriptions: total so far 55
-[loc] Kanchipuram inscriptions: total so far 56
-[loc] Tirumalai Tirupati inscriptions: total so far 56
-[loc] Madurai inscriptions: total so far 57
-[loc] palm-leaf manuscripts Tamil: total so far 58
-[loc] palm leaf manuscripts South India: total so far 59
-[loc] Tamil manuscripts catalogue: total so far 60
-[loc] descriptive catalogue Tamil manuscripts: total so far 61
-[loc] manuscriptology Tamil: total so far 61
-[loc] Government Oriental Manuscripts Library: total so far 63
-[loc] Saraswathi Mahal Library manuscripts: total so far 63
-[loc] Mackenzie manuscripts: total so far 65
-[loc] Tamil manuscripts conservation: total so far 65
-[loc] cadjan manuscripts: total so far 65
-[loc] palm leaf records Tamil Nadu: total so far 66
-[loc] Chola coins: total so far 67
-[loc] Pandya coins: total so far 68
-[loc] Chera coins: total so far 69
-[loc] Pallava coins: total so far 69
-[loc] Sangam age coins: total so far 69
-[loc] Roman coins South India: total so far 71
-[loc] Roman coins Tamil Nadu: total so far 72
-[loc] punch-marked coins Tamil Nadu: total so far 72
-[loc] South Indian coins: total so far 72
-[loc] Studies in South Indian Coins: total so far 72
-[loc] coins Madras Government Museum: total so far 74
-[loc] Vijayanagara coins: total so far 74
-[loc] Nayak coins: total so far 75
-[loc] Sri Lanka Tamil coins: total so far 76
-[loc] numismatics Tamil Nadu: total so far 76
-[loc] copper plate grants South India: total so far 79
-[loc] copper-plate grant Chola: total so far 79
-[loc] Velvikudi grant: total so far 79
-[loc] Larger Leiden plates: total so far 79
-[loc] Anbil plates: total so far 79
-[loc] Tiruvalangadu plates: total so far 79
-[loc] Karandai plates: total so far 79
-[loc] Kasakudi plates: total so far 79
-[loc] Esalam copper plates: total so far 79
-[loc] Sinnamanur plates: total so far 79
-[loc] seals sealings Tamil Nadu: total so far 80
-[loc] rock-cut caves Tamil Nadu: total so far 82
-[loc] Jaina beds Tamil Nadu: total so far 83
-[loc] cave inscriptions Madurai: total so far 84
-[loc] inscriptional glossary Tamil: total so far 84
-[loc] Tamil inscriptions translation: total so far 87
-[loc] Grantha inscriptions: total so far 87
-[loc] bilingual inscriptions Tamil Sanskrit: total so far 87
-[loc] history of Tamil Nadu: total so far 93
-[loc] history of the Tamils: total so far 108
-[loc] Tamil history: total so far 123
-[loc] Chola history: total so far 127
-[loc] the Cholas: total so far 134
-[loc] Pandyan kingdom: total so far 135
-[loc] the Pallavas: total so far 135
-[loc] the Cheras: total so far 136
-[loc] Kalabhras: total so far 136
-[loc] Sangam age history: total so far 136
-[loc] Madurai Nayaks: total so far 137
-[loc] Tanjore Nayaks: total so far 138
-[loc] Nayaks of Madura: total so far 139
-[loc] Maratha rulers Thanjavur: total so far 139
-[loc] Sethupathis of Ramnad: total so far 140
-[loc] Pudukkottai history: total so far 140
-[loc] Kongu country history: total so far 140
-[loc] Polygars Tamil Nadu: total so far 141
-[loc] South Indian history: total so far 142
-[loc] medieval South India: total so far 143
-[loc] Tamil country Vijayanagar: total so far 144
-[loc] temple history Tamil Nadu: total so far 145
-[loc] social history Tamil Nadu: total so far 148
-[loc] economic history Tamil Nadu: total so far 149
-[loc] agrarian history South India: total so far 149
-[loc] Tamil historiography: total so far 150
-[loc] history of Jaffna: total so far 152
-[loc] Sri Lankan Tamil history: total so far 156
-[loc] Tamil maritime trade history: total so far 159
-[loc] Indo-Roman trade South India: total so far 159
-[loc] Madras district manual: total so far 163
-[loc] Madras district gazetteer: total so far 164
-[loc] Tamils eighteen hundred years ago: total so far 167
-[loc] Tamilakam: total so far 167
-[loc] saved 30 records
-[loc] took 9858s
-total 9858s
+[loc] ERR Tamil inscriptions HTTP Error 429: Too Many Requests
+[loc] Tamil inscriptions: total so far 0
+[loc] ERR inscriptions Tamil Nadu HTTP Error 429: Too Many Requests
+[loc] inscriptions Tamil Nadu: total so far 0
+[loc] ERR Tamilnadu inscriptions HTTP Error 429: Too Many Requests
+[loc] Tamilnadu inscriptions: total so far 0
+[loc] ERR Tamil epigraphy HTTP Error 429: Too Many Requests
+[loc] Tamil epigraphy: total so far 0
+[loc] ERR South Indian inscriptions HTTP Error 429: Too Many Requests
+[loc] South Indian inscriptions: total so far 0
+[loc] ERR South Indian epigraphy HTTP Error 429: Too Many Requests
+[loc] South Indian epigraphy: total so far 0
+[loc] ERR Epigraphia Indica HTTP Error 429: Too Many Requests
+[loc] Epigraphia Indica: total so far 0
+[loc] ERR annual report epigraphy HTTP Error 429: Too Many Requests
+[loc] annual report epigraphy: total so far 0
+[loc] ERR topographical list inscriptions HTTP Error 429: Too Many Requests
+[loc] topographical list inscriptions: total so far 0
+[loc] ERR district inscriptions Tamil HTTP Error 429: Too Many Requests
+[loc] district inscriptions Tamil: total so far 0
+[loc] ERR temple inscriptions Tamil HTTP Error 429: Too Many Requests
+[loc] temple inscriptions Tamil: total so far 0
+[loc] ERR Chola inscriptions HTTP Error 429: Too Many Requests
+[loc] Chola inscriptions: total so far 0
+[loc] ERR Pandya inscriptions HTTP Error 429: Too Many Requests
+[loc] Pandya inscriptions: total so far 0
+[loc] Pallava inscriptions: total so far 0
+[loc] ERR Pallava copper plates HTTP Error 429: Too Many Requests
+[loc] Pallava copper plates: total so far 0
+[loc] ERR Chola copper plates HTTP Error 429: Too Many Requests
+[loc] Chola copper plates: total so far 0
+[loc] ERR Pandya copper plates HTTP Error 429: Too Many Requests
+[loc] Pandya copper plates: total so far 0
+[loc] ERR copper plates Tamil HTTP Error 429: Too Many Requests
+[loc] copper plates Tamil: total so far 0
+[loc] ERR Tamil Brahmi HTTP Error 429: Too Many Requests
+[loc] Tamil Brahmi: total so far 0
+[loc] ERR Tamil-Brahmi inscriptions HTTP Error 429: Too Many Requests
+[loc] Tamil-Brahmi inscriptions: total so far 0
+[loc] ERR Vatteluttu HTTP Error 429: Too Many Requests
+[loc] Vatteluttu: total so far 0
+[loc] ERR South Indian palaeography HTTP Error 429: Too Many Requests
+[loc] South Indian palaeography: total so far 0
+[loc] ERR hero stones Tamil HTTP Error 429: Too Many Requests
+[loc] hero stones Tamil: total so far 1
+[loc] ERR hero stones Tamil Nadu HTTP Error 429: Too Many Requests
+[loc] hero stones Tamil Nadu: total so far 1
+[loc] ERR memorial stones South India HTTP Error 429: Too Many Requests
+[loc] memorial stones South India: total so far 1
+[loc] ERR rock art Tamil Nadu HTTP Error 429: Too Many Requests
+[loc] rock art Tamil Nadu: total so far 1
+[loc] ERR rock paintings Tamil Nadu HTTP Error 429: Too Many Requests
+[loc] rock paintings Tamil Nadu: total so far 1
+[loc] ERR prehistoric rock art South India HTTP Error 429: Too Many Requests
+[loc] prehistoric rock art South India: total so far 1
+[loc] ERR excavations Tamil Nadu HTTP Error 429: Too Many Requests
+[loc] excavations Tamil Nadu: total so far 1
+[loc] ERR archaeology Tamil Nadu HTTP Error 429: Too Many Requests
+[loc] archaeology Tamil Nadu: total so far 1
+[loc] archaeology Tamilnadu: total so far 1
+[loc] ERR Tamil Nadu archaeology department HTTP Error 429: Too Many Requests
+[loc] Tamil Nadu archaeology department: total so far 1
+[loc] ERR megalithic Tamil Nadu HTTP Error 429: Too Many Requests
+[loc] megalithic Tamil Nadu: total so far 1
+[loc] ERR megaliths South India HTTP Error 429: Too Many Requests
+[loc] megaliths South India: total so far 1
+[loc] ERR urn burials Tamil Nadu HTTP Error 429: Too Many Requests
+[loc] urn burials Tamil Nadu: total so far 1
+[loc] ERR Keeladi HTTP Error 429: Too Many Requests
+[loc] Keeladi: total so far 1
+[loc] ERR Keezhadi HTTP Error 429: Too Many Requests
+[loc] Keezhadi: total so far 1
+[loc] ERR Adichanallur HTTP Error 429: Too Many Requests
+[loc] Adichanallur: total so far 1
+[loc] ERR Arikamedu HTTP Error 429: Too Many Requests
+[loc] Arikamedu: total so far 1
+[loc] Kodumanal: total so far 1
+[loc] ERR Porunthal HTTP Error 429: Too Many Requests
+[loc] Porunthal: total so far 1
+[loc] ERR Alagankulam HTTP Error 429: Too Many Requests
+[loc] Alagankulam: total so far 1
+[loc] ERR Kaveripattinam excavation HTTP Error 429: Too Many Requests
+[loc] Kaveripattinam excavation: total so far 1
+[loc] ERR Poompuhar archaeology HTTP Error 429: Too Many Requests
+[loc] Poompuhar archaeology: total so far 1
+[loc] ERR Sivagalai HTTP Error 429: Too Many Requests
+[loc] Sivagalai: total so far 1
+[loc] ERR Tamil coins Sangam HTTP Error 429: Too Many Requests
+[loc] Tamil coins Sangam: total so far 1
+[loc] ERR Pudukkottai inscriptions HTTP Error 429: Too Many Requests
+[loc] Pudukkottai inscriptions: total so far 1
+[loc] ERR Travancore archaeological series HTTP Error 429: Too Many Requests
+[loc] Travancore archaeological series: total so far 1
+[loc] ERR Madras Presidency antiquities HTTP Error 429: Too Many Requests
+[loc] Madras Presidency antiquities: total so far 3
+[loc] ERR Kanyakumari inscriptions HTTP Error 429: Too Many Requests
+[loc] Kanyakumari inscriptions: total so far 3
+[loc] ERR Jaina inscriptions Tamil Nadu HTTP Error 429: Too Many Requests
+[loc] Jaina inscriptions Tamil Nadu: total so far 3
+[loc] ERR Tamil graffiti potsherds HTTP Error 429: Too Many Requests
+[loc] Tamil graffiti potsherds: total so far 3
+[loc] ERR Sri Lanka Tamil inscriptions HTTP Error 429: Too Many Requests
+[loc] Sri Lanka Tamil inscriptions: total so far 3
+[loc] ERR Annual Report on Indian Epigraphy HTTP Error 429: Too Many Requests
+[loc] Annual Report on Indian Epigraphy: total so far 3
+[loc] ERR Annual Report on South Indian Epigraphy HTTP Error 429: Too Many Requests
+[loc] Annual Report on South Indian Epigraphy: total so far 3
+[loc] ERR Annual report on epigraphy Madras HTTP Error 429: Too Many Requests
+[loc] Annual report on epigraphy Madras: total so far 3
+[loc] ERR Report on epigraphy HTTP Error 429: Too Many Requests
+[loc] Report on epigraphy: total so far 3
+[loc] ERR Madras epigraphy HTTP Error 429: Too Many Requests
+[loc] Madras epigraphy: total so far 3
+[loc] ERR Government Epigraphist Madras HTTP Error 429: Too Many Requests
+[loc] Government Epigraphist Madras: total so far 3
+[loc] ERR Epigraphia Indica HTTP Error 429: Too Many Requests
+[loc] Epigraphia Indica: total so far 3
+[loc] ERR Indian Antiquary HTTP Error 429: Too Many Requests
+[loc] Indian Antiquary: total so far 3
+[loc] ERR Epigraphia Carnatica HTTP Error 429: Too Many Requests
+[loc] Epigraphia Carnatica: total so far 3
+[loc] ERR South Indian Inscriptions volume HTTP Error 429: Too Many Requests
+[loc] South Indian Inscriptions volume: total so far 3
+[loc] ERR Pudukkottai State inscriptions HTTP Error 429: Too Many Requests
+[loc] Pudukkottai State inscriptions: total so far 3
+[loc] Travancore Archaeological Series: total so far 3
+[loc] ERR Archaeological Survey of Southern India HTTP Error 429: Too Many Requests
+[loc] Archaeological Survey of Southern India: total so far 3
+[loc] ERR antiquarian remains Madras HTTP Error 429: Too Many Requests
+[loc] antiquarian remains Madras: total so far 3
+[loc] ERR Madras Government Museum bulletin HTTP Error 429: Too Many Requests
+[loc] Madras Government Museum bulletin: total so far 3
+[loc] ERR Ancient India bulletin HTTP Error 429: Too Many Requests
+[loc] Ancient India bulletin: total so far 3
+[loc] ERR Indian Archaeology a review HTTP Error 429: Too Many Requests
+[loc] Indian Archaeology a review: total so far 3
+[loc] ERR Annual report archaeological department southern circle HTTP Error 429: Too Many Requests
+[loc] Annual report archaeological department southern circle: total so far 3
+[loc] ERR Mackenzie collection HTTP Error 429: Too Many Requests
+[loc] Mackenzie collection: total so far 3
+[loc] ERR Tamil Nadu State Department of Archaeology HTTP Error 429: Too Many Requests
+[loc] Tamil Nadu State Department of Archaeology: total so far 3
+[loc] ERR Madras district gazetteer antiquities HTTP Error 429: Too Many Requests
+[loc] Madras district gazetteer antiquities: total so far 4
+[loc] ERR Vijayanagara inscriptions Tamil HTTP Error 429: Too Many Requests
+[loc] Vijayanagara inscriptions Tamil: total so far 4
+[loc] ERR Nayak inscriptions HTTP Error 429: Too Many Requests
+[loc] Nayak inscriptions: total so far 4
+[loc] ERR Sethupathi copper plates HTTP Error 429: Too Many Requests
+[loc] Sethupathi copper plates: total so far 4
+[loc] ERR Maratha Tanjore inscriptions HTTP Error 429: Too Many Requests
+[loc] Maratha Tanjore inscriptions: total so far 4
+[loc] ERR Kongu inscriptions HTTP Error 429: Too Many Requests
+[loc] Kongu inscriptions: total so far 4
+[loc] ERR Jain inscriptions Tamil HTTP Error 429: Too Many Requests
+[loc] Jain inscriptions Tamil: total so far 4
+[loc] ERR Buddhist Tamil inscriptions HTTP Error 429: Too Many Requests
+[loc] Buddhist Tamil inscriptions: total so far 4
+[loc] Grantha script: total so far 4
+[loc] ERR Tamil script evolution HTTP Error 429: Too Many Requests
+[loc] Tamil script evolution: total so far 4
+[loc] ERR Thanjavur Brihadisvara inscriptions HTTP Error 429: Too Many Requests
+[loc] Thanjavur Brihadisvara inscriptions: total so far 4
+[loc] ERR Chidambaram inscriptions HTTP Error 429: Too Many Requests
+[loc] Chidambaram inscriptions: total so far 4
+[loc] ERR Srirangam inscriptions HTTP Error 429: Too Many Requests
+[loc] Srirangam inscriptions: total so far 4
+[loc] ERR Kanchipuram inscriptions HTTP Error 429: Too Many Requests
+[loc] Kanchipuram inscriptions: total so far 4
+[loc] ERR Tirumalai Tirupati inscriptions HTTP Error 429: Too Many Requests
+[loc] Tirumalai Tirupati inscriptions: total so far 4
+[loc] ERR Madurai inscriptions HTTP Error 429: Too Many Requests
+[loc] Madurai inscriptions: total so far 4
+[loc] ERR palm-leaf manuscripts Tamil HTTP Error 429: Too Many Requests
+[loc] palm-leaf manuscripts Tamil: total so far 4
+[loc] ERR palm leaf manuscripts South India HTTP Error 429: Too Many Requests
+[loc] palm leaf manuscripts South India: total so far 5
+[loc] ERR Tamil manuscripts catalogue HTTP Error 429: Too Many Requests
+[loc] Tamil manuscripts catalogue: total so far 5
+[loc] ERR descriptive catalogue Tamil manuscripts HTTP Error 429: Too Many Requests
+[loc] descriptive catalogue Tamil manuscripts: total so far 5
+[loc] ERR manuscriptology Tamil HTTP Error 429: Too Many Requests
+[loc] manuscriptology Tamil: total so far 5
+[loc] ERR Government Oriental Manuscripts Library HTTP Error 429: Too Many Requests
+[loc] Government Oriental Manuscripts Library: total so far 5
+[loc] ERR Saraswathi Mahal Library manuscripts HTTP Error 429: Too Many Requests
+[loc] Saraswathi Mahal Library manuscripts: total so far 5
+[loc] ERR Mackenzie manuscripts HTTP Error 429: Too Many Requests
+[loc] Mackenzie manuscripts: total so far 5
+[loc] ERR Tamil manuscripts conservation HTTP Error 429: Too Many Requests
+[loc] Tamil manuscripts conservation: total so far 5
+[loc] cadjan manuscripts: total so far 5
+[loc] ERR palm leaf records Tamil Nadu HTTP Error 429: Too Many Requests
+[loc] palm leaf records Tamil Nadu: total so far 5
+[loc] ERR Chola coins HTTP Error 429: Too Many Requests
+[loc] Chola coins: total so far 5
+[loc] ERR Pandya coins HTTP Error 429: Too Many Requests
+[loc] Pandya coins: total so far 5
+[loc] ERR Chera coins HTTP Error 429: Too Many Requests
+[loc] Chera coins: total so far 5
+[loc] ERR Pallava coins HTTP Error 429: Too Many Requests
+[loc] Pallava coins: total so far 5
+[loc] ERR Sangam age coins HTTP Error 429: Too Many Requests
+[loc] Sangam age coins: total so far 5
+[loc] ERR Roman coins South India HTTP Error 429: Too Many Requests
+[loc] Roman coins South India: total so far 5
+[loc] ERR Roman coins Tamil Nadu HTTP Error 429: Too Many Requests
+[loc] Roman coins Tamil Nadu: total so far 5
+[loc] punch-marked coins Tamil Nadu: total so far 5
+[loc] ERR South Indian coins HTTP Error 429: Too Many Requests
+[loc] South Indian coins: total so far 5
+[loc] ERR Studies in South Indian Coins HTTP Error 429: Too Many Requests
+[loc] Studies in South Indian Coins: total so far 5
+[loc] ERR coins Madras Government Museum HTTP Error 429: Too Many Requests
+[loc] coins Madras Government Museum: total so far 5
+[loc] ERR Vijayanagara coins HTTP Error 429: Too Many Requests
+[loc] Vijayanagara coins: total so far 5
+[loc] ERR Nayak coins HTTP Error 429: Too Many Requests
+[loc] Nayak coins: total so far 5
+[loc] ERR Sri Lanka Tamil coins HTTP Error 429: Too Many Requests
+[loc] Sri Lanka Tamil coins: total so far 5
+[loc] ERR numismatics Tamil Nadu HTTP Error 429: Too Many Requests
+[loc] numismatics Tamil Nadu: total so far 5
+[loc] ERR copper plate grants South India HTTP Error 429: Too Many Requests
+[loc] copper plate grants South India: total so far 5
+[loc] ERR copper-plate grant Chola HTTP Error 429: Too Many Requests
+[loc] copper-plate grant Chola: total so far 5
+[loc] ERR Velvikudi grant HTTP Error 429: Too Many Requests
+[loc] Velvikudi grant: total so far 5
+[loc] ERR Larger Leiden plates HTTP Error 429: Too Many Requests
+[loc] Larger Leiden plates: total so far 5
+[loc] ERR Anbil plates HTTP Error 429: Too Many Requests
+[loc] Anbil plates: total so far 5
+[loc] ERR Tiruvalangadu plates HTTP Error 429: Too Many Requests
+[loc] Tiruvalangadu plates: total so far 5
+[loc] ERR Karandai plates HTTP Error 429: Too Many Requests
+[loc] Karandai plates: total so far 5
+[loc] ERR Kasakudi plates HTTP Error 429: Too Many Requests
+[loc] Kasakudi plates: total so far 5
+[loc] ERR Esalam copper plates HTTP Error 429: Too Many Requests
+[loc] Esalam copper plates: total so far 5
+[loc] Sinnamanur plates: total so far 5
+[loc] ERR seals sealings Tamil Nadu HTTP Error 429: Too Many Requests
+[loc] seals sealings Tamil Nadu: total so far 5
+[loc] ERR rock-cut caves Tamil Nadu HTTP Error 429: Too Many Requests
+[loc] rock-cut caves Tamil Nadu: total so far 5
+[loc] ERR Jaina beds Tamil Nadu HTTP Error 429: Too Many Requests
+[loc] Jaina beds Tamil Nadu: total so far 5
+[loc] ERR cave inscriptions Madurai HTTP Error 429: Too Many Requests
+[loc] cave inscriptions Madurai: total so far 5
+[loc] ERR inscriptional glossary Tamil HTTP Error 429: Too Many Requests
+[loc] inscriptional glossary Tamil: total so far 5
+[loc] ERR Tamil inscriptions translation HTTP Error 429: Too Many Requests
+[loc] Tamil inscriptions translation: total so far 5
+[loc] ERR Grantha inscriptions HTTP Error 429: Too Many Requests
+[loc] Grantha inscriptions: total so far 5
+[loc] ERR bilingual inscriptions Tamil Sanskrit HTTP Error 429: Too Many Requests
+[loc] bilingual inscriptions Tamil Sanskrit: total so far 5
+[loc] ERR history of Tamil Nadu HTTP Error 429: Too Many Requests
+[loc] history of Tamil Nadu: total so far 11
+[loc] ERR history of the Tamils HTTP Error 429: Too Many Requests
+[loc] history of the Tamils: total so far 11
+[loc] ERR Tamil history HTTP Error 429: Too Many Requests
+[loc] Tamil history: total so far 11
+[loc] ERR Chola history HTTP Error 429: Too Many Requests
+[loc] Chola history: total so far 11
+[loc] ERR the Cholas HTTP Error 429: Too Many Requests
+[loc] the Cholas: total so far 11
+[loc] ERR Pandyan kingdom HTTP Error 429: Too Many Requests
+[loc] Pandyan kingdom: total so far 11
+[loc] ERR the Pallavas HTTP Error 429: Too Many Requests
+[loc] the Pallavas: total so far 11
+[loc] ERR the Cheras HTTP Error 429: Too Many Requests
+[loc] the Cheras: total so far 11
+[loc] Kalabhras: total so far 11
+[loc] ERR Sangam age history HTTP Error 429: Too Many Requests
+[loc] Sangam age history: total so far 11
+[loc] ERR Madurai Nayaks HTTP Error 429: Too Many Requests
+[loc] Madurai Nayaks: total so far 11
+[loc] ERR Tanjore Nayaks HTTP Error 429: Too Many Requests
+[loc] Tanjore Nayaks: total so far 11
+[loc] ERR Nayaks of Madura HTTP Error 429: Too Many Requests
+[loc] Nayaks of Madura: total so far 11
+[loc] ERR Maratha rulers Thanjavur HTTP Error 429: Too Many Requests
+[loc] Maratha rulers Thanjavur: total so far 11
+[loc] ERR Sethupathis of Ramnad HTTP Error 429: Too Many Requests
+[loc] Sethupathis of Ramnad: total so far 11
+[loc] ERR Pudukkottai history HTTP Error 429: Too Many Requests
+[loc] Pudukkottai history: total so far 11
+[loc] ERR Kongu country history HTTP Error 429: Too Many Requests
+[loc] Kongu country history: total so far 11
+[loc] Polygars Tamil Nadu: total so far 12
+[loc] ERR South Indian history HTTP Error 429: Too Many Requests
+[loc] South Indian history: total so far 12
+[loc] ERR medieval South India HTTP Error 429: Too Many Requests
+[loc] medieval South India: total so far 12
+[loc] ERR Tamil country Vijayanagar HTTP Error 429: Too Many Requests
+[loc] Tamil country Vijayanagar: total so far 12
+[loc] ERR temple history Tamil Nadu HTTP Error 429: Too Many Requests
+[loc] temple history Tamil Nadu: total so far 12
+[loc] ERR social history Tamil Nadu HTTP Error 429: Too Many Requests
+[loc] social history Tamil Nadu: total so far 12
+[loc] ERR economic history Tamil Nadu HTTP Error 429: Too Many Requests
+[loc] economic history Tamil Nadu: total so far 12
+[loc] ERR agrarian history South India HTTP Error 429: Too Many Requests
+[loc] agrarian history South India: total so far 12
+[loc] ERR Tamil historiography HTTP Error 429: Too Many Requests
+[loc] Tamil historiography: total so far 12
+[loc] ERR history of Jaffna HTTP Error 429: Too Many Requests
+[loc] history of Jaffna: total so far 14
+[loc] ERR Sri Lankan Tamil history HTTP Error 429: Too Many Requests
+[loc] Sri Lankan Tamil history: total so far 14
+[loc] ERR Tamil maritime trade history HTTP Error 429: Too Many Requests
+[loc] Tamil maritime trade history: total so far 14
+[loc] ERR Indo-Roman trade South India HTTP Error 429: Too Many Requests
+[loc] Indo-Roman trade South India: total so far 14
+[loc] ERR Madras district manual HTTP Error 429: Too Many Requests
+[loc] Madras district manual: total so far 14
+[loc] ERR Madras district gazetteer HTTP Error 429: Too Many Requests
+[loc] Madras district gazetteer: total so far 14
+[loc] ERR Tamils eighteen hundred years ago HTTP Error 429: Too Many Requests
+[loc] Tamils eighteen hundred years ago: total so far 14
+[loc] ERR Tamilakam HTTP Error 429: Too Many Requests
+[loc] Tamilakam: total so far 14
+[loc] saved 8 records
+[loc] took 15187s
+total 15187s
