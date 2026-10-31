@@ -197,7 +197,7 @@
 [ia]     0  (title:("Madras epigraphy") OR subject:("Madras epigraphy"))
 [ia]     0  title:(Government Epigraphist Madras)
 [ia]   342  (title:("Epigraphia Indica") OR subject:("Epigraphia Indica"))
-[ia]   357  (title:("Indian Antiquary") OR subject:("Indian Antiquary"))
+[ia]   358  (title:("Indian Antiquary") OR subject:("Indian Antiquary"))
 [ia]   149  (title:("Epigraphia Carnatica") OR subject:("Epigraphia Carnatica"))
 [ia]    12  title:(South Indian Inscriptions volume)
 [ia]     9  title:(Pudukkottai State inscriptions)
@@ -272,7 +272,7 @@
 [ia]     0  title:(bilingual inscriptions Tamil Sanskrit)
 [ia]    21  title:(history of Tamil Nadu)
 [ia]    12  title:(history of the Tamils)
-[ia]   115  (title:("Tamil history") OR subject:("Tamil history"))
+[ia]   116  (title:("Tamil history") OR subject:("Tamil history"))
 [ia]     2  (title:("Chola history") OR subject:("Chola history"))
 [ia]    19  (title:("the Cholas") OR subject:("the Cholas"))
 [ia]     8  (title:("Pandyan kingdom") OR subject:("Pandyan kingdom"))
@@ -306,7 +306,7 @@
 [ia]    11  (title:("Tamilakam") OR subject:("Tamilakam"))
 [ia]     3  subject:("Inscriptions, Tamil")
 [ia]   229  subject:("Tamil language")
-[ia]  4870  subject:("Inscriptions")
+[ia]  4872  subject:("Inscriptions")
 [ia]    75  subject:("Tamil Nadu (India)")
 [ia]  3611  subject:("Excavations (Archaeology)")
 [ia]     4  subject:("Hero stones")
@@ -318,7 +318,7 @@
 [ia]     0  subject:("Coins, Tamil")
 [ia]   262  subject:("Megalithic monuments")
 [ia]     0  subject:("Inscriptions, Dravidian")
-[ia]  4870  subject:("Inscriptions")
+[ia]  4872  subject:("Inscriptions")
 [ia]     0  subject:("Paleography, Tamil")
 [ia]     0  collection:(tamildigitallibrary) AND (title:(inscriptions OR epigraphy OR archaeology OR e
 [ia]  1279  collection:(digitallibraryindia) AND (title:(inscriptions OR epigraphy OR archaeology OR e
@@ -327,9 +327,9 @@
 [ia]     0  collection:(tamilheritagefoundation) AND (title:(inscriptions OR epigraphy OR archaeology 
 [ia]     0  collection:(noolaham) AND (title:(inscriptions OR epigraphy OR archaeology OR excavation O
 [ia]  1043  collection:(TamilVirtualAcademy) AND (title:(inscriptions OR epigraphy OR archaeology OR e
-[ia] raw unique hits: 18505
-[ia] relevant: 7591
-[ia] 7589 reused, enriching 2 new items via metadata API
-[ia] saved 7591 records
-[ia] took 490s
-total 490s
+[ia] raw unique hits: 18509
+[ia] relevant: 7592
+[ia] 7591 reused, enriching 1 new items via metadata API
+[ia] saved 7592 records
+[ia] took 479s
+total 479s

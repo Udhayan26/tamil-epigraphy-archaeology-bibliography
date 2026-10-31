@@ -1,18 +1,31 @@
 {
- "conflict": 1793372490,
- "created": 1793372490,
- "d1": "ia601405.us.archive.org",
- "d2": "ia801405.us.archive.org",
- "dir": "/13/items/gxxv-the-bower-manuscript-a-f-rudolf-hoernle-english-ar",
- "files_count": 7,
- "item_last_updated": 1793372485,
- "item_size": 123214557,
+ "alternate_locations": {
+  "servers": [
+   {
+    "server": "dn710906.ca.archive.org",
+    "dir": "/0/items/ofda-the-story-of-hir-and-ranjha-waris-shah-r-c-temple-"
+   }
+  ],
+  "workable": [
+   {
+    "server": "dn710906.ca.archive.org",
+    "dir": "/0/items/ofda-the-story-of-hir-and-ranjha-waris-shah-r-c-temple-"
+   }
+  ]
+ },
+ "created": 1793393481,
+ "d1": "ia600106.us.archive.org",
+ "d2": "ia800106.us.archive.org",
+ "dir": "/1/items/ofda-the-story-of-hir-and-ranjha-waris-shah-r-c-temple-",
+ "files_count": 16,
+ "item_last_updated": 1793393199,
+ "item_size": 98668535,
  "metadata": {
-  "identifier": "gxxv-the-bower-manuscript-a-f-rudolf-hoernle-english-ar",
+  "identifier": "ofda-the-story-of-hir-and-ranjha-waris-shah-r-c-temple-",
   "mediatype": "texts",
   "collection": "opensource",
   "creator": "The Indian Antiquary",
-  "description": "'The Bower Manuscript A F Rudolf Hoernle English Archaeology Journal Illustrated - The Indian Antiquary', Agamnigam Digital Preservation Foundation, Agamnigam-Chandigarh, LCK-M",
+  "description": "'The Story of Hir and Ranjha Waris Shah R C Temple C F Usborne English Poetry Journal 1921 - The Indian Antiquary', Agamnigam Digital Preservation Foundation, Agamnigam-Chandigarh, LCK-M",
   "licenseurl": "https://creativecommons.org/publicdomain/zero/1.0/",
   "scanner": "Internet Archive HTML5 Uploader 1.7.0",
   "subject": [
@@ -20,29 +33,22 @@
    "Agamnigam-Chandigarh",
    "LCK-M"
   ],
-  "title": "The Bower Manuscript A F Rudolf Hoernle English Archaeology Journal Illustrated - The Indian Antiquary",
+  "title": "The Story of Hir and Ranjha Waris Shah R C Temple C F Usborne English Poetry Journal 1921 - The Indian Antiquary",
   "uploader": "agamnigamup@outlook.com",
-  "publicdate": "2026-10-30 14:14:51",
-  "addeddate": "2026-10-30 14:14:51",
-  "curation": "[curator]validator@archive.org[/curator][date]20261030141658[/date][comment]checked for malware[/comment]",
-  "identifier-access": "http://archive.org/details/gxxv-the-bower-manuscript-a-f-rudolf-hoernle-english-ar",
-  "identifier-ark": "ark:/13960/s2nw4mgwsb5"
+  "publicdate": "2026-10-30 20:33:18",
+  "addeddate": "2026-10-30 20:33:18",
+  "curation": "[curator]validator@archive.org[/curator][date]20261030203603[/date][comment]checked for malware[/comment]",
+  "identifier-access": "http://archive.org/details/ofda-the-story-of-hir-and-ranjha-waris-shah-r-c-temple-",
+  "identifier-ark": "ark:/13960/s2tq4dcxvsv",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "pdf-to-hocr 1.1.37",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5"
  },
- "pending_tasks": true,
- "server": "ia601405.us.archive.org",
- "servers_unavailable": true,
- "tasks": [
-  {
-   "task_id": 5737847620,
-   "cmd": "derive.php",
-   "priority": -4,
-   "wait_admin": 1,
-   "color": "blue",
-   "status": "running"
-  }
- ],
- "uniq": 84959270,
+ "server": "ia800106.us.archive.org",
+ "uniq": 1079891706,
  "workable_servers": [
-  "ia601405.us.archive.org"
+  "ia800106.us.archive.org",
+  "ia600106.us.archive.org"
  ]
 }
