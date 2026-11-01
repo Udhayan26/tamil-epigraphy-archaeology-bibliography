@@ -218,7 +218,7 @@
 [ia]     0  (title:("Kongu inscriptions") OR subject:("Kongu inscriptions"))
 [ia]     0  title:(Jain inscriptions Tamil)
 [ia]     0  title:(Buddhist Tamil inscriptions)
-[ia]   116  (title:("Grantha script") OR subject:("Grantha script"))
+[ia]   117  (title:("Grantha script") OR subject:("Grantha script"))
 [ia]     1  title:(Tamil script evolution)
 [ia]     0  title:(Thanjavur Brihadisvara inscriptions)
 [ia]     4  (title:("Chidambaram inscriptions") OR subject:("Chidambaram inscriptions"))
@@ -327,9 +327,9 @@
 [ia]     0  collection:(tamilheritagefoundation) AND (title:(inscriptions OR epigraphy OR archaeology 
 [ia]     0  collection:(noolaham) AND (title:(inscriptions OR epigraphy OR archaeology OR excavation O
 [ia]  1043  collection:(TamilVirtualAcademy) AND (title:(inscriptions OR epigraphy OR archaeology OR e
-[ia] raw unique hits: 18510
+[ia] raw unique hits: 18511
 [ia] relevant: 7593
 [ia] 7593 reused, enriching 0 new items via metadata API
 [ia] saved 7593 records
-[ia] took 907s
-total 907s
+[ia] took 747s
+total 747s

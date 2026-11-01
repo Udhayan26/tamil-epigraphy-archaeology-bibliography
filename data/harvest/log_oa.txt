@@ -298,62 +298,34 @@
 [oa] akalayvu: total so far 598
 [oa] ERR akazhaivu HTTP Error 429: Too Many Requests
 [oa] akazhaivu: total so far 598
-[oa] ERR akalvaippakam HTTP Error 429: Too Many Requests
 [oa] akalvaippakam: total so far 598
-[oa] ERR paarai oviyangal HTTP Error 429: Too Many Requests
 [oa] paarai oviyangal: total so far 598
-[oa] ERR tamil pirami HTTP Error 429: Too Many Requests
 [oa] tamil pirami: total so far 598
-[oa] ERR tamili HTTP Error 429: Too Many Requests
 [oa] tamili: total so far 598
-[oa] ERR vatteluttu HTTP Error 429: Too Many Requests
 [oa] vatteluttu: total so far 598
-[oa] ERR vattezhuthu HTTP Error 429: Too Many Requests
 [oa] vattezhuthu: total so far 598
-[oa] ERR sasanam HTTP Error 429: Too Many Requests
 [oa] sasanam: total so far 598
-[oa] ERR pattayam HTTP Error 429: Too Many Requests
 [oa] pattayam: total so far 598
-[oa] ERR olaichuvadi HTTP Error 429: Too Many Requests
 [oa] olaichuvadi: total so far 598
-[oa] ERR olai chuvadi HTTP Error 429: Too Many Requests
 [oa] olai chuvadi: total so far 598
-[oa] ERR olaiccuvati HTTP Error 429: Too Many Requests
 [oa] olaiccuvati: total so far 598
-[oa] ERR cuvatiyiyal HTTP Error 429: Too Many Requests
 [oa] cuvatiyiyal: total so far 598
-[oa] ERR suvadiyiyal HTTP Error 429: Too Many Requests
 [oa] suvadiyiyal: total so far 598
-[oa] ERR suvadi HTTP Error 429: Too Many Requests
-[oa] suvadi: total so far 598
-[oa] ERR kacukal HTTP Error 429: Too Many Requests
-[oa] kacukal: total so far 598
-[oa] ERR kasukal HTTP Error 429: Too Many Requests
-[oa] kasukal: total so far 598
-[oa] ERR nanayangal HTTP Error 429: Too Many Requests
-[oa] nanayangal: total so far 598
-[oa] ERR varalaru HTTP Error 429: Too Many Requests
-[oa] varalaru: total so far 598
-[oa] ERR varalaaru HTTP Error 429: Too Many Requests
-[oa] varalaaru: total so far 598
-[oa] ERR cholar varalaru HTTP Error 429: Too Many Requests
-[oa] cholar varalaru: total so far 598
-[oa] ERR pandiyar varalaru HTTP Error 429: Too Many Requests
-[oa] pandiyar varalaru: total so far 598
-[oa] ERR pallavar varalaru HTTP Error 429: Too Many Requests
-[oa] pallavar varalaru: total so far 598
-[oa] ERR tamilaka varalaru HTTP Error 429: Too Many Requests
-[oa] tamilaka varalaru: total so far 598
-[oa] ERR tamilnattu varalaru HTTP Error 429: Too Many Requests
-[oa] tamilnattu varalaru: total so far 598
-[oa] ERR talavaralaru HTTP Error 429: Too Many Requests
-[oa] talavaralaru: total so far 598
-[oa] ERR tala varalaru HTTP Error 429: Too Many Requests
-[oa] tala varalaru: total so far 598
-[oa] ERR meykkirtti HTTP Error 429: Too Many Requests
-[oa] meykkirtti: total so far 598
-[oa] ERR meikeerthi HTTP Error 429: Too Many Requests
-[oa] meikeerthi: total so far 598
-[oa] saved 212 records
-[oa] took 18799s
-total 18799s
+[oa] suvadi: total so far 599
+[oa] kacukal: total so far 599
+[oa] kasukal: total so far 599
+[oa] nanayangal: total so far 599
+[oa] varalaru: total so far 601
+[oa] varalaaru: total so far 601
+[oa] cholar varalaru: total so far 601
+[oa] pandiyar varalaru: total so far 601
+[oa] pallavar varalaru: total so far 601
+[oa] tamilaka varalaru: total so far 601
+[oa] tamilnattu varalaru: total so far 601
+[oa] talavaralaru: total so far 601
+[oa] tala varalaru: total so far 601
+[oa] meykkirtti: total so far 601
+[oa] meikeerthi: total so far 601
+[oa] saved 214 records
+[oa] took 14796s
+total 14796s
