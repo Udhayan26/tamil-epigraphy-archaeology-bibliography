@@ -87320,7 +87320,7 @@
 "access": "open",
 "read_url": "https://archive.org/details/ChozharVaralaru",
 "download_url": "https://archive.org/download/ChozharVaralaru/Chozhar%20Varalaru.pdf",
-"collection": "openreadingroom; booksbylanguage_tamil; booksbylanguage; fav-sivaskr; fav-kaasi_venkatesan; fav-arrbuy; fav-sabarinathan_sundaramoorthy; fav-jithu5; fav-advocate_sathishkumar; fav-nirmal_pitchai; fav-",
+"collection": "openreadingroom; booksbylanguage_tamil; booksbylanguage; fav-alagan; fav-sivaskr; fav-kaasi_venkatesan; fav-arrbuy; fav-sabarinathan_sundaramoorthy; fav-jithu5; fav-advocate_sathishkumar; fav-nirmal_p",
 "description": "A public domain work by Ma Rasamanikkanar.",
 "enriched": true
 },
@@ -135449,7 +135449,7 @@
 "access": "open",
 "read_url": "https://archive.org/details/in.ernet.dli.2015.382559",
 "download_url": "https://archive.org/download/in.ernet.dli.2015.382559/2015.382559.MackenzieManuscriptsVol21976.pdf",
-"collection": "digitallibraryindia; JaiGyan; fav-balakrishna_chadalawada; fav-gjlraj; fav-pandiyanadu_trust; fav-prasanna_aduvalli; fav-rakku; fav-sugam_pokharel; fav-tirumala_reddy",
+"collection": "digitallibraryindia; JaiGyan; fav-tirumala_reddy; fav-balakrishna_chadalawada; fav-gjlraj; fav-sugam_pokharel; fav-prasanna_aduvalli; fav-rakku; fav-dinesh_navada; fav-pandiyanadu_trust",
 "description": "Book Source: Digital Library of India Item 2015.382559 dc.contributor.author: V.mahalingam dc.date.accessioned: 2015-09-09T14:22:11Z dc.date.available: 2015-09-09T14:22:11Z dc.date.digitalpublicationdate: 02.08.04 dc.date.citation: 1976 dc.identifier.other: ORI dc.identifier.barcode: 02040130048949 dc.identifier.origpath: /data/upload/0048/954 dc.identifier.copyno: 1 dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/382559 dc.description.scanningcentre: S.V. Digital Library, Tirupati dc.description.main: 1 dc.description.tagged: 0 dc.description.totalpages: 534 dc.format.mimetype: app",
 "enriched": true
 },
