@@ -1,105 +1,105 @@
 [cm] South Indian Inscriptions: files so far 496
-[cm] Epigraphia Indica: files so far 669
-[cm] Annual report epigraphy: files so far 773
-[cm] Indian Antiquary: files so far 1198
-[cm] Tamil inscriptions: files so far 1616
-[cm] Travancore Archaeological Series: files so far 1667
-[cm] Pudukkottai inscriptions: files so far 1669
-[cm] Madras archaeology: files so far 2040
-[cm] copper plates Tamil: files so far 2180
-[cm] Tamil Brahmi: files so far 2251
-[cm] hero stone Tamil: files so far 2439
-[cm] Tamil Nadu archaeology: files so far 2458
-[cm] Archaeological Survey of Southern India: files so far 2810
-[cm] கல்வெட்டு: files so far 3260
-[cm] கல்வெட்டுகள்: files so far 3280
-[cm] கல்வெட்டுக்கள்: files so far 3296
-[cm] கல்வெட்டியல்: files so far 3603
-[cm] செப்பேடு: files so far 3608
-[cm] செப்பேடுகள்: files so far 3624
-[cm] நடுகல்: files so far 3642
-[cm] நடுகற்கள்: files so far 3642
-[cm] வீரக்கல்: files so far 3643
-[cm] தொல்லியல்: files so far 4103
-[cm] தொல்பொருள்: files so far 4477
-[cm] அகழாய்வு: files so far 4481
-[cm] அகழ்வாய்வு: files so far 4945
-[cm] அகழ்வைப்பகம்: files so far 4945
-[cm] பாறை ஓவியம்: files so far 4945
-[cm] பாறை ஓவியங்கள்: files so far 4945
-[cm] குகை ஓவியங்கள்: files so far 4947
-[cm] தமிழ்-பிராமி: files so far 4949
-[cm] தமிழ் பிராமி: files so far 4949
-[cm] தமிழி: files so far 5128
-[cm] வட்டெழுத்து: files so far 5132
+[cm] Epigraphia Indica: files so far 668
+[cm] Annual report epigraphy: files so far 772
+[cm] Indian Antiquary: files so far 1199
+[cm] Tamil inscriptions: files so far 1618
+[cm] Travancore Archaeological Series: files so far 1670
+[cm] Pudukkottai inscriptions: files so far 1672
+[cm] Madras archaeology: files so far 2053
+[cm] copper plates Tamil: files so far 2191
+[cm] Tamil Brahmi: files so far 2263
+[cm] hero stone Tamil: files so far 2449
+[cm] Tamil Nadu archaeology: files so far 2468
+[cm] Archaeological Survey of Southern India: files so far 2817
+[cm] கல்வெட்டு: files so far 3270
+[cm] கல்வெட்டுகள்: files so far 3290
+[cm] கல்வெட்டுக்கள்: files so far 3306
+[cm] கல்வெட்டியல்: files so far 3610
+[cm] செப்பேடு: files so far 3610
+[cm] செப்பேடுகள்: files so far 3628
+[cm] நடுகல்: files so far 3647
+[cm] நடுகற்கள்: files so far 3647
+[cm] வீரக்கல்: files so far 3648
+[cm] தொல்லியல்: files so far 4117
+[cm] தொல்பொருள்: files so far 4521
+[cm] அகழாய்வு: files so far 4525
+[cm] அகழ்வாய்வு: files so far 4990
+[cm] அகழ்வைப்பகம்: files so far 4990
+[cm] பாறை ஓவியம்: files so far 4990
+[cm] பாறை ஓவியங்கள்: files so far 4990
+[cm] குகை ஓவியங்கள்: files so far 4992
+[cm] தமிழ்-பிராமி: files so far 4993
+[cm] தமிழ் பிராமி: files so far 4993
+[cm] தமிழி: files so far 5175
+[cm] வட்டெழுத்து: files so far 5179
 [cm] பட்டயம்: files so far 5608
-[cm] சாசனம்: files so far 5844
-[cm] சாசனங்கள்: files so far 5846
-[cm] நாணயவியல்: files so far 6072
-[cm] பழங்காசுகள்: files so far 6072
-[cm] பெருங்கற்காலம்: files so far 6530
-[cm] முதுமக்கள் தாழி: files so far 6547
-[cm] கீழடி: files so far 6547
-[cm] ஆதிச்சநல்லூர்: files so far 6548
-[cm] கொடுமணல்: files so far 6548
-[cm] சிவகளை: files so far 6548
-[cm] பொருந்தல்: files so far 6551
-[cm] அழகன்குளம்: files so far 6551
-[cm] பூம்புகார் அகழாய்வு: files so far 6551
-[cm] தொல்லெழுத்தியல்: files so far 6552
-[cm] ஓலைச்சுவடி: files so far 6968
-[cm] ஓலைச்சுவடிகள்: files so far 6970
-[cm] சுவடியியல்: files so far 6971
-[cm] ஏட்டுச்சுவடி: files so far 7080
-[cm] சுவடிகள்: files so far 7094
-[cm] பனையோலை: files so far 7094
-[cm] ஓலை ஆவணங்கள்: files so far 7094
-[cm] நாணயங்கள்: files so far 7550
-[cm] காசுகள்: files so far 7557
-[cm] பழங்காசு: files so far 7557
-[cm] காசியல்: files so far 7557
-[cm] சோழர் காசுகள்: files so far 7557
-[cm] பாண்டியர் காசுகள்: files so far 7557
-[cm] சங்ககாலக் காசுகள்: files so far 7557
-[cm] செப்புப் பட்டயம்: files so far 7557
-[cm] செப்புப்பட்டயங்கள்: files so far 7557
-[cm] பட்டயங்கள்: files so far 7559
-[cm] முத்திரைகள்: files so far 7560
-[cm] குடைவரை: files so far 7560
-[cm] சமணப் படுகை: files so far 7560
-[cm] கல்வெட்டுச் சொல்: files so far 7561
-[cm] சாசனத் தமிழ்: files so far 7561
-[cm] தமிழ்க் கல்வெட்டுகள்: files so far 7562
-[cm] கோயில் கல்வெட்டுகள்: files so far 7562
-[cm] தமிழக வரலாறு: files so far 7631
-[cm] தமிழ்நாட்டு வரலாறு: files so far 7637
-[cm] தமிழர் வரலாறு: files so far 7660
-[cm] சோழர் வரலாறு: files so far 7663
-[cm] பாண்டியர் வரலாறு: files so far 7668
-[cm] பல்லவர் வரலாறு: files so far 7670
-[cm] சேரர் வரலாறு: files so far 7671
-[cm] களப்பிரர்: files so far 7673
-[cm] நாயக்கர் வரலாறு: files so far 7673
-[cm] சேதுபதி: files so far 7693
-[cm] தொண்டைமான்: files so far 7718
-[cm] மராட்டியர் வரலாறு: files so far 7718
-[cm] விஜயநகர: files so far 7720
-[cm] சங்ககால வரலாறு: files so far 7724
-[cm] சங்க காலத் தமிழகம்: files so far 7725
-[cm] கொங்கு நாட்டு வரலாறு: files so far 7727
-[cm] பாளையக்காரர்: files so far 7727
-[cm] ஊர் வரலாறு: files so far 7735
-[cm] மாவட்ட வரலாறு: files so far 7737
-[cm] தல வரலாறு: files so far 7767
-[cm] தலவரலாறு: files so far 7769
-[cm] கோயில் வரலாறு: files so far 7776
-[cm] ஈழத் தமிழர் வரலாறு: files so far 7776
-[cm] யாழ்ப்பாண வரலாறு: files so far 7776
-[cm] மெய்க்கீர்த்தி: files so far 7777
-[cm] வரலாற்று ஆய்வு: files so far 7877
-[cm] தமிழக சமூக வரலாறு: files so far 7877
-[cm] தமிழகப் பொருளாதார வரலாறு: files so far 7877
-[cm] கடல் வணிகம்: files so far 7878
-[cm] saved 264 records
-[cm] took 285s
-total 285s
+[cm] சாசனம்: files so far 5846
+[cm] சாசனங்கள்: files so far 5848
+[cm] நாணயவியல்: files so far 6314
+[cm] பழங்காசுகள்: files so far 6314
+[cm] பெருங்கற்காலம்: files so far 6776
+[cm] முதுமக்கள் தாழி: files so far 6793
+[cm] கீழடி: files so far 6793
+[cm] ஆதிச்சநல்லூர்: files so far 6794
+[cm] கொடுமணல்: files so far 6794
+[cm] சிவகளை: files so far 6794
+[cm] பொருந்தல்: files so far 6797
+[cm] அழகன்குளம்: files so far 6797
+[cm] பூம்புகார் அகழாய்வு: files so far 6797
+[cm] தொல்லெழுத்தியல்: files so far 6798
+[cm] ஓலைச்சுவடி: files so far 7192
+[cm] ஓலைச்சுவடிகள்: files so far 7194
+[cm] சுவடியியல்: files so far 7195
+[cm] ஏட்டுச்சுவடி: files so far 7312
+[cm] சுவடிகள்: files so far 7326
+[cm] பனையோலை: files so far 7326
+[cm] ஓலை ஆவணங்கள்: files so far 7326
+[cm] நாணயங்கள்: files so far 7775
+[cm] காசுகள்: files so far 7782
+[cm] பழங்காசு: files so far 7782
+[cm] காசியல்: files so far 7782
+[cm] சோழர் காசுகள்: files so far 7782
+[cm] பாண்டியர் காசுகள்: files so far 7782
+[cm] சங்ககாலக் காசுகள்: files so far 7782
+[cm] செப்புப் பட்டயம்: files so far 7782
+[cm] செப்புப்பட்டயங்கள்: files so far 7782
+[cm] பட்டயங்கள்: files so far 7784
+[cm] முத்திரைகள்: files so far 7785
+[cm] குடைவரை: files so far 7785
+[cm] சமணப் படுகை: files so far 7785
+[cm] கல்வெட்டுச் சொல்: files so far 7786
+[cm] சாசனத் தமிழ்: files so far 7786
+[cm] தமிழ்க் கல்வெட்டுகள்: files so far 7787
+[cm] கோயில் கல்வெட்டுகள்: files so far 7787
+[cm] தமிழக வரலாறு: files so far 7858
+[cm] தமிழ்நாட்டு வரலாறு: files so far 7864
+[cm] தமிழர் வரலாறு: files so far 7887
+[cm] சோழர் வரலாறு: files so far 7890
+[cm] பாண்டியர் வரலாறு: files so far 7895
+[cm] பல்லவர் வரலாறு: files so far 7897
+[cm] சேரர் வரலாறு: files so far 7898
+[cm] களப்பிரர்: files so far 7900
+[cm] நாயக்கர் வரலாறு: files so far 7903
+[cm] சேதுபதி: files so far 7923
+[cm] தொண்டைமான்: files so far 7948
+[cm] மராட்டியர் வரலாறு: files so far 7948
+[cm] விஜயநகர: files so far 7950
+[cm] சங்ககால வரலாறு: files so far 7954
+[cm] சங்க காலத் தமிழகம்: files so far 7955
+[cm] கொங்கு நாட்டு வரலாறு: files so far 7956
+[cm] பாளையக்காரர்: files so far 7956
+[cm] ஊர் வரலாறு: files so far 7963
+[cm] மாவட்ட வரலாறு: files so far 7964
+[cm] தல வரலாறு: files so far 7994
+[cm] தலவரலாறு: files so far 7996
+[cm] கோயில் வரலாறு: files so far 8003
+[cm] ஈழத் தமிழர் வரலாறு: files so far 8003
+[cm] யாழ்ப்பாண வரலாறு: files so far 8003
+[cm] மெய்க்கீர்த்தி: files so far 8004
+[cm] வரலாற்று ஆய்வு: files so far 8105
+[cm] தமிழக சமூக வரலாறு: files so far 8105
+[cm] தமிழகப் பொருளாதார வரலாறு: files so far 8105
+[cm] கடல் வணிகம்: files so far 8106
+[cm] saved 266 records
+[cm] took 298s
+total 298s
