@@ -329,10 +329,10 @@
 [ol] subject=Hero stones: page 1 docs 8
 [ol] subject=Memorial stones: page 1 docs 42
 [ol] subject=Rock paintings: page 1 docs 1000
-[ol] subject=Rock paintings: page 2 docs 720
+[ol] subject=Rock paintings: page 2 docs 719
 [ol] subject=Petroglyphs: page 1 docs 1000
 [ol] subject=Petroglyphs: page 2 docs 1000
-[ol] subject=Petroglyphs: page 3 docs 424
+[ol] subject=Petroglyphs: page 3 docs 423
 [ol] subject=Copper plates: page 1 docs 31
 [ol] subject=Brahmi inscriptions: page 1 docs 24
 [ol] subject=Coins, Tamil: page 1 docs 4
@@ -346,5 +346,5 @@
 [ol] subject=Inscriptions: page 5 docs 1000
 [ol] subject=Paleography, Tamil: page 1 docs 0
 [ol] saved 2202 records
-[ol] took 602s
-total 602s
+[ol] took 1696s
+total 1696s
