@@ -1,10 +1,10 @@
-[td] 534 mirrored books need details (2039 done before)
+[td] 533 mirrored books need details (2040 done before)
 [td] 100 fetched, 101 parsed
 [td] 200 fetched, 201 parsed
-[td] 300 fetched, 300 parsed
-[td] 400 fetched, 400 parsed
-[td] 500 fetched, 500 parsed
-[td] parsed 533 of 534
+[td] 300 fetched, 301 parsed
+[td] 400 fetched, 401 parsed
+[td] 500 fetched, 501 parsed
+[td] parsed 533 of 533
 [td] saved 2573 records
-[td] took 1672s
-total 1672s
+[td] took 1663s
+total 1663s

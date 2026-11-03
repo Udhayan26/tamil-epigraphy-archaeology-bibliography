@@ -2545,19 +2545,6 @@
 },
 {
 "source": "TDL-details",
-"source_id": "tdl.5913-nuul-tmilllk-vrlaarru-mkkllum-pnnpaattum",
-"title": "நூல் - தமிழக வரலாறு மக்களும் பண்பாடும்",
-"url": "",
-"authors": "",
-"publisher": "",
-"place": "",
-"year": "",
-"pages": "",
-"isbn": "",
-"tried": "2026-11-02"
-},
-{
-"source": "TDL-details",
 "source_id": "tdl.1899-nuul-tmilllr-vrlaarru",
 "title": "நூல் - தமிழர் வரலாறு",
 "url": "https://tamildigitallibrary.in/Marc-Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-1899-%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D%20%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
@@ -6407,6 +6394,19 @@
 "year": "",
 "pages": "",
 "isbn": ""
+},
+{
+"source": "TDL-details",
+"source_id": "tdl.5913-nuul-tmilllk-vrlaarru-mkkllum-pnnpaattum",
+"title": "நூல் - தமிழக வரலாறு மக்களும் பண்பாடும்",
+"url": "",
+"authors": "",
+"publisher": "",
+"place": "",
+"year": "",
+"pages": "",
+"isbn": "",
+"tried": "2026-11-02"
 },
 {
 "source": "TDL-details",
