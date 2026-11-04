@@ -5311,6 +5311,10 @@
 "added": "2026-10-29",
 "id": "TB-006914"
 },
+"cpltrnlvc": {
+"added": "2026-11-04",
+"id": "TB-010915"
+},
 "cpmlmtrmltlnpcrvtncptmcvctrprmnrknrc180891732": {
 "added": "2026-10-20",
 "id": "TB-003855"
@@ -26774,6 +26778,10 @@
 "prctrcrclkpkrlr": {
 "added": "2026-10-20",
 "id": "TB-001131"
+},
+"prctrcrlnkltplctcnrckcltrcntnpnrct": {
+"added": "2026-11-04",
+"id": "TB-010914"
 },
 "prctrctlctmclrvnlnrmncntrlmtcnknc": {
 "added": "2026-10-29",
