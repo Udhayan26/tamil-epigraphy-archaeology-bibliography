@@ -187,7 +187,7 @@
 [ol] q=Tamil history: page 2 docs 1000
 [ol] q=Tamil history: page 3 docs 1000
 [ol] q=Tamil history: page 4 docs 1000
-[ol] q=Tamil history: page 5 docs 545
+[ol] q=Tamil history: page 5 docs 544
 [ol] q=Chola history: page 1 docs 98
 [ol] q=the Cholas: page 1 docs 113
 [ol] q=Pandyan kingdom: page 1 docs 5
@@ -332,7 +332,7 @@
 [ol] subject=Rock paintings: page 2 docs 719
 [ol] subject=Petroglyphs: page 1 docs 1000
 [ol] subject=Petroglyphs: page 2 docs 1000
-[ol] subject=Petroglyphs: page 3 docs 423
+[ol] subject=Petroglyphs: page 3 docs 422
 [ol] subject=Copper plates: page 1 docs 31
 [ol] subject=Brahmi inscriptions: page 1 docs 24
 [ol] subject=Coins, Tamil: page 1 docs 4
@@ -346,5 +346,5 @@
 [ol] subject=Inscriptions: page 5 docs 1000
 [ol] subject=Paleography, Tamil: page 1 docs 0
 [ol] saved 2202 records
-[ol] took 561s
-total 561s
+[ol] took 597s
+total 597s
