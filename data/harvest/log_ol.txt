@@ -346,5 +346,5 @@
 [ol] subject=Inscriptions: page 5 docs 1000
 [ol] subject=Paleography, Tamil: page 1 docs 0
 [ol] saved 2202 records
-[ol] took 553s
-total 553s
+[ol] took 504s
+total 504s
