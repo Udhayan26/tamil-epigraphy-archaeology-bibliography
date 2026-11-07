@@ -57,43 +57,43 @@
 [nl] கல்வெட்டுச் சொல்: titles so far 60
 [nl] சாசனத் தமிழ்: titles so far 60
 [nl] தமிழ்க் கல்வெட்டுகள்: titles so far 110
-[nl] கோயில் கல்வெட்டுகள்: titles so far 161
-[nl] தமிழக வரலாறு: titles so far 162
-[nl] தமிழ்நாட்டு வரலாறு: titles so far 370
-[nl] தமிழர் வரலாறு: titles so far 373
-[nl] சோழர் வரலாறு: titles so far 373
-[nl] பாண்டியர் வரலாறு: titles so far 373
-[nl] பல்லவர் வரலாறு: titles so far 373
-[nl] சேரர் வரலாறு: titles so far 373
-[nl] களப்பிரர்: titles so far 373
-[nl] நாயக்கர் வரலாறு: titles so far 373
-[nl] சேதுபதி: titles so far 376
-[nl] தொண்டைமான்: titles so far 376
-[nl] மராட்டியர் வரலாறு: titles so far 376
-[nl] விஜயநகர: titles so far 376
-[nl] சங்ககால வரலாறு: titles so far 376
-[nl] சங்க காலத் தமிழகம்: titles so far 376
-[nl] கொங்கு நாட்டு வரலாறு: titles so far 376
-[nl] பாளையக்காரர்: titles so far 376
-[nl] ஊர் வரலாறு: titles so far 376
-[nl] மாவட்ட வரலாறு: titles so far 376
-[nl] தல வரலாறு: titles so far 377
-[nl] தலவரலாறு: titles so far 378
-[nl] கோயில் வரலாறு: titles so far 378
-[nl] ஈழத் தமிழர் வரலாறு: titles so far 378
-[nl] யாழ்ப்பாண வரலாறு: titles so far 379
-[nl] மெய்க்கீர்த்தி: titles so far 379
-[nl] வரலாற்று ஆய்வு: titles so far 380
-[nl] தமிழக சமூக வரலாறு: titles so far 380
-[nl] தமிழகப் பொருளாதார வரலாறு: titles so far 380
-[nl] கடல் வணிகம்: titles so far 380
-[nl] epigraphy: titles so far 381
-[nl] inscriptions: titles so far 392
-[nl] archaeology: titles so far 397
-[nl] excavation: titles so far 397
-[nl] hero stone: titles so far 397
-[nl] Brahmi: titles so far 397
-[nl] fetching content of 397 pages
-[nl] saved 223 records
-[nl] took 204s
-total 204s
+[nl] கோயில் கல்வெட்டுகள்: titles so far 160
+[nl] தமிழக வரலாறு: titles so far 161
+[nl] தமிழ்நாட்டு வரலாறு: titles so far 395
+[nl] தமிழர் வரலாறு: titles so far 398
+[nl] சோழர் வரலாறு: titles so far 398
+[nl] பாண்டியர் வரலாறு: titles so far 398
+[nl] பல்லவர் வரலாறு: titles so far 398
+[nl] சேரர் வரலாறு: titles so far 398
+[nl] களப்பிரர்: titles so far 398
+[nl] நாயக்கர் வரலாறு: titles so far 398
+[nl] சேதுபதி: titles so far 401
+[nl] தொண்டைமான்: titles so far 401
+[nl] மராட்டியர் வரலாறு: titles so far 401
+[nl] விஜயநகர: titles so far 401
+[nl] சங்ககால வரலாறு: titles so far 401
+[nl] சங்க காலத் தமிழகம்: titles so far 401
+[nl] கொங்கு நாட்டு வரலாறு: titles so far 401
+[nl] பாளையக்காரர்: titles so far 401
+[nl] ஊர் வரலாறு: titles so far 401
+[nl] மாவட்ட வரலாறு: titles so far 401
+[nl] தல வரலாறு: titles so far 402
+[nl] தலவரலாறு: titles so far 403
+[nl] கோயில் வரலாறு: titles so far 403
+[nl] ஈழத் தமிழர் வரலாறு: titles so far 403
+[nl] யாழ்ப்பாண வரலாறு: titles so far 404
+[nl] மெய்க்கீர்த்தி: titles so far 404
+[nl] வரலாற்று ஆய்வு: titles so far 405
+[nl] தமிழக சமூக வரலாறு: titles so far 405
+[nl] தமிழகப் பொருளாதார வரலாறு: titles so far 405
+[nl] கடல் வணிகம்: titles so far 405
+[nl] epigraphy: titles so far 406
+[nl] inscriptions: titles so far 417
+[nl] archaeology: titles so far 422
+[nl] excavation: titles so far 422
+[nl] hero stone: titles so far 422
+[nl] Brahmi: titles so far 422
+[nl] fetching content of 422 pages
+[nl] saved 247 records
+[nl] took 236s
+total 236s

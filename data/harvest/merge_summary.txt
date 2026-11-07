@@ -3,9 +3,9 @@ cm.json: previous 272, this run 266, kept from before 6, total 272
 doab.json: previous 0, this run 0, kept from before 0, total 0
 gb.json: previous 0, this run 0, kept from before 0, total 0
 ht.json: previous 5180, this run 5180, kept from before 0, total 5180
-ia.json: previous 7869, this run 7593, kept from before 276, total 7869
+ia.json: previous 7869, this run 7594, kept from before 276, total 7870
 loc.json: previous 42, this run 42, kept from before 0, total 42
-nl.json: previous 309, this run 223, kept from before 86, total 309
+nl.json: previous 309, this run 247, kept from before 62, total 309
 oa.json: previous 445, this run 445, kept from before 0, total 445
 ol.json: previous 2356, this run 2202, kept from before 154, total 2356
 td.json: previous 2573, this run 2573, kept from before 0, total 2573

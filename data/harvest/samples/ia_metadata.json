@@ -1,45 +1,54 @@
 {
- "created": 1793425421,
- "d1": "ia600503.us.archive.org",
- "d2": "ia800503.us.archive.org",
- "dir": "/35/items/erjq-tamil-brahmi-vatteluttu-grantham-tamil-epigraphy-p",
- "files_count": 5,
- "item_last_updated": 1793420108,
- "item_size": 2769725,
+ "alternate_locations": {
+  "servers": [
+   {
+    "server": "dn711003.ca.archive.org",
+    "dir": "/0/items/absj-nrtta-ratnavali-jaya-senapati-v-raghavan-sanskrit-"
+   }
+  ],
+  "workable": [
+   {
+    "server": "dn711003.ca.archive.org",
+    "dir": "/0/items/absj-nrtta-ratnavali-jaya-senapati-v-raghavan-sanskrit-"
+   }
+  ]
+ },
+ "created": 1794062665,
+ "d1": "ia600703.us.archive.org",
+ "d2": "ia800703.us.archive.org",
+ "dir": "/31/items/absj-nrtta-ratnavali-jaya-senapati-v-raghavan-sanskrit-",
+ "files_count": 16,
+ "item_last_updated": 1794061240,
+ "item_size": 553444533,
  "metadata": {
-  "identifier": "erjq-tamil-brahmi-vatteluttu-grantham-tamil-epigraphy-p",
+  "identifier": "absj-nrtta-ratnavali-jaya-senapati-v-raghavan-sanskrit-",
   "mediatype": "texts",
   "collection": "opensource",
-  "creator": "G Vijayavenugopal",
-  "description": "'Tamil Brahmi Vatteluttu Grantham Tamil Epigraphy Paper Manuscript Pondicherry 2003 - G Vijayavenugopal', HHFA(USA)",
+  "creator": "Government Oriental Manuscripts Library",
+  "description": "'Nrtta Ratnavali Jaya Senapati V Raghavan Sanskrit and English Dance Madras 1965 - Government Oriental Manuscripts Library', Urmila Sharma Collection Varanasi",
   "licenseurl": "https://creativecommons.org/publicdomain/zero/1.0/",
   "scanner": "Internet Archive HTML5 Uploader 1.7.0",
   "subject": [
-   "HHFA(USA)",
-   "HHFA(USA)-Pondi",
-   "Hindu Heritage Foundation of America-USA"
+   "Urmila Sharma Collection Varanasi",
+   "IKS-MoE-2026-Grant-3rd",
+   "Urmila-eGangotri"
   ],
-  "title": "Tamil Brahmi Vatteluttu Grantham Tamil Epigraphy Paper Manuscript Pondicherry 2003 - G Vijayavenugopal",
-  "uploader": "hhfa.india.office@gmail.com",
-  "publicdate": "2026-10-31 04:08:04",
-  "addeddate": "2026-10-31 04:08:04",
-  "curation": "[curator]validator@archive.org[/curator][date]20261031041506[/date][comment]checked for malware[/comment]"
+  "title": "Nrtta Ratnavali Jaya Senapati V Raghavan Sanskrit and English Dance Madras 1965 - Government Oriental Manuscripts Library",
+  "uploader": "urmila.sharma.vns@outlook.com",
+  "publicdate": "2026-11-07 13:06:33",
+  "addeddate": "2026-11-07 13:06:33",
+  "curation": "[curator]validator@archive.org[/curator][date]20261107130755[/date][comment]checked for malware[/comment]",
+  "identifier-access": "http://archive.org/details/absj-nrtta-ratnavali-jaya-senapati-v-raghavan-sanskrit-",
+  "identifier-ark": "ark:/13960/s2g1619bzvm",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "pdf-to-hocr 1.1.37",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5"
  },
- "pending_tasks": true,
- "server": "ia600503.us.archive.org",
- "servers_unavailable": true,
- "tasks": [
-  {
-   "task_id": 5738763891,
-   "cmd": "derive.php",
-   "priority": -4,
-   "wait_admin": 0,
-   "color": "green",
-   "status": "queued"
-  }
- ],
- "uniq": 2031830714,
+ "server": "ia600703.us.archive.org",
+ "uniq": 1333426418,
  "workable_servers": [
-  "ia600503.us.archive.org"
+  "ia600703.us.archive.org",
+  "ia800703.us.archive.org"
  ]
 }

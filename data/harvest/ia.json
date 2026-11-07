@@ -98986,7 +98986,7 @@
 "access": "open",
 "read_url": "https://archive.org/details/dli.csl.7552",
 "download_url": "https://archive.org/download/dli.csl.7552/7552.pdf",
-"collection": "digitallibraryindia; JaiGyan; fav-minnthaik; fav-scoobydooby7728; fav-thenral22; fav-venkatraman_mahadevan",
+"collection": "digitallibraryindia; JaiGyan; fav-thenral22; fav-venkatraman_mahadevan; fav-scoobydooby7728; fav-minnthaik; fav-theperegrine",
 "description": "Central Secretariat Library, Government of India Source URL: http://cslrepository.nvli.in//handle/123456789/7552",
 "enriched": true
 },
@@ -131708,6 +131708,25 @@
 "download_url": "https://archive.org/download/XooQ_nyaya-chandrika-by-ananda-purna-munindra-with-nyaya-prakashika-commentary-of-swa/Nyaya%20Chandrika%20By%20Ananda%20Purna%20Munindra%20With%20Nyaya%20Prakashika%20Commentary%20Of%20Swarupananda%20Munindra%20Edited%20By%20T%20Chandra%20Shekharan%2C%201959%20-%20Government%20Oriental%20Manuscripts%20Library%2C%20Madras.pdf",
 "collection": "opensource; community; fav-avijitghoshrkm_gmail_com; fav-lyczka",
 "description": "'Nyaya Chandrika By Ananda Purna Munindra With Nyaya Prakashika Commentary Of Swarupananda Munindra Edited By T Chandra Shekharan, 1959 - Government Oriental Manuscripts Library, Madras'",
+"enriched": true
+},
+{
+"source": "Internet Archive",
+"source_id": "absj-nrtta-ratnavali-jaya-senapati-v-raghavan-sanskrit-",
+"title": "Nrtta Ratnavali Jaya Senapati V Raghavan Sanskrit and English Dance Madras 1965 - Government Oriental Manuscripts Library",
+"alt_title": "",
+"authors": "Government Oriental Manuscripts Library",
+"publisher": "",
+"place": "",
+"year": "",
+"language": "",
+"subjects": "Urmila Sharma Collection Varanasi; IKS-MoE-2026-Grant-3rd; Urmila-eGangotri",
+"url": "https://archive.org/details/absj-nrtta-ratnavali-jaya-senapati-v-raghavan-sanskrit-",
+"access": "open",
+"read_url": "https://archive.org/details/absj-nrtta-ratnavali-jaya-senapati-v-raghavan-sanskrit-",
+"download_url": "https://archive.org/download/absj-nrtta-ratnavali-jaya-senapati-v-raghavan-sanskrit-/Nrtta%20Ratnavali%20Jaya%20Senapati%20V%20Raghavan%20Sanskrit%20and%20English%20Dance%20Madras%201965%20-%20Government%20Oriental%20Manuscripts%20Library.pdf",
+"collection": "opensource",
+"description": "'Nrtta Ratnavali Jaya Senapati V Raghavan Sanskrit and English Dance Madras 1965 - Government Oriental Manuscripts Library', Urmila Sharma Collection Varanasi",
 "enriched": true
 },
 {
