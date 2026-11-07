@@ -306,7 +306,7 @@
 [ia]    11  (title:("Tamilakam") OR subject:("Tamilakam"))
 [ia]     3  subject:("Inscriptions, Tamil")
 [ia]   229  subject:("Tamil language")
-[ia]  4875  subject:("Inscriptions")
+[ia]  4873  subject:("Inscriptions")
 [ia]    75  subject:("Tamil Nadu (India)")
 [ia]  3610  subject:("Excavations (Archaeology)")
 [ia]     4  subject:("Hero stones")
@@ -318,7 +318,7 @@
 [ia]     0  subject:("Coins, Tamil")
 [ia]   262  subject:("Megalithic monuments")
 [ia]     0  subject:("Inscriptions, Dravidian")
-[ia]  4875  subject:("Inscriptions")
+[ia]  4873  subject:("Inscriptions")
 [ia]     0  subject:("Paleography, Tamil")
 [ia]     0  collection:(tamildigitallibrary) AND (title:(inscriptions OR epigraphy OR archaeology OR e
 [ia]  1279  collection:(digitallibraryindia) AND (title:(inscriptions OR epigraphy OR archaeology OR e
@@ -327,9 +327,9 @@
 [ia]     0  collection:(tamilheritagefoundation) AND (title:(inscriptions OR epigraphy OR archaeology 
 [ia]     0  collection:(noolaham) AND (title:(inscriptions OR epigraphy OR archaeology OR excavation O
 [ia]  1043  collection:(TamilVirtualAcademy) AND (title:(inscriptions OR epigraphy OR archaeology OR e
-[ia] raw unique hits: 18515
+[ia] raw unique hits: 18513
 [ia] relevant: 7593
 [ia] 7593 reused, enriching 0 new items via metadata API
 [ia] saved 7593 records
-[ia] took 460s
-total 460s
+[ia] took 580s
+total 580s
