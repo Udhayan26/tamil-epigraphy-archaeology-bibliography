@@ -329,7 +329,7 @@
 [oa] kasukal: total so far 548
 [oa] ERR nanayangal HTTP Error 429: Too Many Requests
 [oa] nanayangal: total so far 548
-[oa] ERR varalaru 
+[oa] ERR varalaru HTTP Error 429: Too Many Requests
 [oa] varalaru: total so far 548
 [oa] ERR varalaaru HTTP Error 429: Too Many Requests
 [oa] varalaaru: total so far 548
@@ -352,5 +352,5 @@
 [oa] ERR meikeerthi HTTP Error 429: Too Many Requests
 [oa] meikeerthi: total so far 548
 [oa] saved 194 records
-[oa] took 21006s
-total 21006s
+[oa] took 20930s
+total 20930s
