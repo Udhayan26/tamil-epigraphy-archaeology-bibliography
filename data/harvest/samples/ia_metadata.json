@@ -13,7 +13,7 @@
    }
   ]
  },
- "created": 1794084916,
+ "created": 1794062665,
  "d1": "ia600703.us.archive.org",
  "d2": "ia800703.us.archive.org",
  "dir": "/31/items/absj-nrtta-ratnavali-jaya-senapati-v-raghavan-sanskrit-",
@@ -45,10 +45,10 @@
   "page_number_confidence": "0",
   "page_number_module_version": "1.0.5"
  },
- "server": "ia800703.us.archive.org",
- "uniq": 809626847,
+ "server": "ia600703.us.archive.org",
+ "uniq": 1333426418,
  "workable_servers": [
-  "ia800703.us.archive.org",
-  "ia600703.us.archive.org"
+  "ia600703.us.archive.org",
+  "ia800703.us.archive.org"
  ]
 }
