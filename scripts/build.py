@@ -54,7 +54,7 @@ RULES = [
     ("TNS", r"(கல்வெட்டுகள்|கல்வெட்டுக்கள்|kalvettuk|kalvettug|kalveddukal|kalvetukal|district inscriptions|temple inscriptions|inscriptions of (the )?\w+ (district|temple|state)|select(ed)? (tamil )?inscriptions|inscriptions (texts )?of|inscriptions in|\binscriptions\b)"),
     ("EPG", r"(கல்வெட்டியல்|தொல்லெழுத்|எழுத்தியல்|epigraphy|palaeograph|paleograph|கல்வெட்டு|kalvettu|kalvettiyal|inscription|சாசன|sasan)"),
     ("LOC", r"(ஊர் வரலாறு|மாவட்ட வரலாறு|தல ?வரலாறு|கோயில் வரலாறு|கோவில் வரலாறு|திருக்கோயில்|தலபுராண|talavaral|tala varal|kōyil varal|koyil varal|district manual|gazetteer|temple histor|sthala|town histor|village histor|local histor|kongu nattu|kongu nadu|கொங்கு நாட்டு|யாழ்ப்பாண வரலாறு|history of jaffna)"),
-    ("DYN", r"(சோழ|பாண்டிய|பல்லவ|சேரர்|களப்பிர|நாயக்க|சேதுபதி|தொண்டைமான்|விஜயநகர|மராட்டிய|பாளையக்கார|\bcholas?\b|\bcolas?\b|cōḻa|pandya|pandyan|pāṇṭiya|pallava|\bcheras?\b|kalabhra|nayak|sethupat|setupat|tondaiman|vijayanagar|maratha|polygar|dynast|kingdom|kalappira|kalabhra|colar|cholar|pantiyar|pandiyar|pallavar|nayakkar|cetupati)"),
+    ("DYN", r"(சோழ|பாண்டிய|பல்லவ|சேரர்|களப்பிர|நாயக்க|சேதுபதி|தொண்டைமான்|விஜயநகர|மராட்டிய|பாளையக்கார|\bcholas?\b|cōḻa|cōl̲a|cōla|pandya|pandyan|pāṇṭiya|pallava|\bcheras?\b|kalabhra|nayak|sethupat|setupat|tondaiman|vijayanagar|maratha|polygar|dynast|kingdom|kalappira|kalabhra|colar|cholar|pantiyar|pandiyar|pallavar|nayakkar|cetupati)"),
     ("HIS", r"(history|histor|வரலாறு|வரலாற்று|varalar|administration|society|social|agrarian|economy|economic|trade|polity|tamilakam|sangam age)"),
     ("ARC", r"(தொல்லியல்|தொல்பொருள்|அகழ்வைப்பக|archaeolog|antiquit|antiquarian|museum|monument|tholliyal|tolliyal)"),
 ]
@@ -63,7 +63,11 @@ TAMIL = re.compile(r"[஀-௿]")
 
 
 def classify(title, subjects=""):
-    t = f"{title}"
+    try:
+        from harvest import fold
+        t = f"{title} {fold(title)}"
+    except Exception:
+        t = f"{title}"
     for code, rx in RULES:
         if rx.search(t):
             return code
@@ -407,7 +411,13 @@ def main():
     from harvest import relevant, relevant_author
     dropped = 0
     for r in harvested:
+        for f_ in ("authors", "publisher"):
+            if r.get(f_) and "[[" in r[f_]:
+                r[f_] = re.sub(r"\[\[(?::?[^:\]|]*:)?([^\]|]*)(?:\|[^\]]*)?\]\]", r"\1", r[f_]).strip(" '")
         fb = r.get("found_by", "")
+        if r["source"] in ("Tamil Wikisource", "English Wikisource") and "/" in r.get("title", ""):
+            dropped += 1
+            continue
         if r["source"] in ("Shared drive", "Listed site") or fb.startswith("list:"):
             ok = True
         elif fb:

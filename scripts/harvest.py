@@ -155,7 +155,7 @@ SUBJECTS = [
 TA_KW = re.compile(r"(கல்வெட்டு|கல்வெட்டி|செப்பேடு|நடுக(ல்|ற்)|வீரக்கல்|தொல்லியல்|தொல்பொருள்|அகழாய்வு|அகழ்வாய்வு|அகழ்வைப்பக|பாறை ஓவிய|குகை ஓவிய|பிராமி|தமிழி(?![\u0B80-\u0BFF])|வட்டெழுத்து|பட்டய|சாசன|நாணய|பழங்காசு|காசுகள்|பெருங்கற்|முதுமக்கள்|தாழி|கீழடி|ஆதிச்சநல்லூர்|கொடுமணல்|சிவகளை|பொருந்தல்|அழகன்குளம்|தொல்லெழுத்|தொல்பழங்கால|ஓலைச்சுவடி|ஓலைச்சுவடிகள்|சுவடியியல்|ஏட்டுச்சுவடி|பனையோலை|நாணயங்கள்|காசியல்|முத்திரைகள்|குடைவரை|சமணப் படுகை)")
 RO_KW = re.compile(r"(kal[vw]e[td]+[ui]|kalved+u|kalvettiyal|[sc]h?ep+[ae][dt]u|natukal|nadukal|natukar|nadukar|t?hol+iyal|tolliyal|tholporul|agazh|akazh|akal[aā]yvu|akalvaip|vat+e[lz]h?ut+u|\bpira+mi[kcy]?\b|kalvet+e|ola[i]?\s?c+h?u[vw]a[dt]i|cuvatiyiyal|suvadiyiyal)", re.I)
 EN_KW = re.compile(r"(coinage|palm[- ]?leaf|cadjan|manuscript|manuscriptology|seals?\b|sealings|rock[- ]cut cave|jaina? beds|inscri|epigraph|palaeograph|paleograph|copper[- ]?plate|hero[- ]?stone|memorial stone|rock art|rock[- ]paint|petroglyph|cave paint|excavat|archaeolog|antiquit|antiquarian|megalith|prehistor|neolithic|palaeolith|urn[- ]burial|dolmen|cairn|brahmi|graffiti|numismat|\bcoins?\b|keeladi|keezhadi|adichanallur|arikamedu|kodumanal|porunthal|alagankulam|kaveripattinam|poompuhar|sivagalai|mangulam|epigraphia|copper plates)", re.I)
-CTX = re.compile(r"(?<![a-z])(tamils|cholas|colas|pandyas|pandyan|pallavas|cheras|nayaks|madura|tanjore nayaks|tamil|tamizh|madras|south india|southern india|dravid|chola|cola|pandya|pandiya|pallava|chera|pudukkottai|tanjore|thanjavur|madurai|kanchi|tirunelveli|coimbatore|kongu|salem|trichy|tiruchirappalli|vellore|arcot|chingleput|chengalpattu|kanyakumari|travancore|nilgiri|dharmapuri|krishnagiri|ramanathapuram|sivaganga|thoothukudi|tuticorin|pondicherry|puducherry|vijayanagar|nayak|sri lanka|ceylon|jaffna|keeladi|keezhadi|adichanallur|arikamedu|kodumanal|porunthal|alagankulam|kaveripattinam|poompuhar|sivagalai|south indian|uraiyur|korkai|kanchipuram|kanchi|mamallapuram|mahabalipuram|chidambaram|kumbakonam|karur|erode|tiruvannamalai|villupuram|cuddalore|nagapattinam|tiruvarur|virudhunagar|theni|dindigul|namakkal|perambalur|ariyalur|karaikal|gingee|senji|uttaramerur|uttiramerur|tirumalai|tirupati|sittannavasal|kalugumalai|kazhugumalai|vellalur|paiyampalli|attirampakkam|pallavaram|tirukkoyilur|tiruchendur|rameswaram|nilgiris|kerala|malabar|vatteluttu|grantha|kongu|nanjil|chingleput|tamilaham|tamilakam|sangam)(?![a-z])", re.I)
+CTX = re.compile(r"(?<![a-z])(tamils|cholas|pandyas|pandyan|pallavas|cheras|nayaks|madura|tanjore nayaks|tamil|tamizh|madras|south india|southern india|dravid|chola|pandya|pandiya|pallava|chera|pudukkottai|tanjore|thanjavur|madurai|kanchi|tirunelveli|coimbatore|kongu|salem|trichy|tiruchirappalli|vellore|arcot|chingleput|chengalpattu|kanyakumari|travancore|nilgiri|dharmapuri|krishnagiri|ramanathapuram|sivaganga|thoothukudi|tuticorin|pondicherry|puducherry|vijayanagar|nayak|sri lanka|ceylon|jaffna|keeladi|keezhadi|adichanallur|arikamedu|kodumanal|porunthal|alagankulam|kaveripattinam|poompuhar|sivagalai|south indian|uraiyur|korkai|kanchipuram|kanchi|mamallapuram|mahabalipuram|chidambaram|kumbakonam|karur|erode|tiruvannamalai|villupuram|cuddalore|nagapattinam|tiruvarur|virudhunagar|theni|dindigul|namakkal|perambalur|ariyalur|karaikal|gingee|senji|uttaramerur|uttiramerur|tirumalai|tirupati|sittannavasal|kalugumalai|kazhugumalai|vellalur|paiyampalli|attirampakkam|pallavaram|tirukkoyilur|tiruchendur|rameswaram|nilgiris|kerala|malabar|vatteluttu|grantha|kongu|nanjil|chingleput|tamilaham|tamilakam|sangam)(?![a-z])", re.I)
 NOISE = re.compile(r"(spain|spanish|guadalajara|espa|portug|athen|attic|jerusalem|yerushal|pompei|ercolan|herculan|graec|inscriptionum|inscriptiones|sylloge|lapidarium|wyandotte|indiana|bible|testament|gospel|epistle|hebrew|latin|italic|anatolia|asia minor|cyprus|troy|sinai|kiev|russia|slav|canarese|kannada|telugu|andhra|sravana|belgola|amaravati|pahlav|kashmir|bengal|assam|orissa|odisha|nepal|tibet|burma|myanmar|persian|arabic|egypt|greek|rome\b|roman empire|babylon|maya|mesopotam|china|chinese|japan|korea|europe|britain|england|scotland|ireland|america|mexico|africa|cambodia|java|indonesia|bihar|bundelkhand|kalinga|maharashtra|gujarat|rajasthan|punjab|sindh|harappa|mohenjo|mathura|gandhara|afghan|iran|israel|palestine|bible|biblical|assyria|hittite|aegean|etrusc|viking|anglo|celtic|norse|canaan|phoenic|crete|turkey|syria)", re.I)
 TAMIL_SCRIPT = re.compile(r"[஀-௿]")
 
@@ -165,6 +165,7 @@ SERIES = re.compile(r"(studies in south indian coins|descriptive catalogue of (t
 
 def fold(t):
     """Strip Latin diacritics (ṭ->t, ḷ->l, ā->a) but keep Tamil vowel signs."""
+    t = re.sub(r"([Cc])ō(ḻ|l\u0332|l)", lambda m: ("C" if m.group(1) == "C" else "c") + "hol", unicodedata.normalize("NFC", t or ""))
     out = []
     for ch in unicodedata.normalize("NFKD", t or ""):
         if unicodedata.combining(ch) and out and out[-1].isascii():
@@ -174,13 +175,18 @@ def fold(t):
 
 
 HIST_TA = re.compile(r"(வரலாறு|வரலாற்று|சோழர்|பாண்டியர்|பல்லவர்|சேரர்|களப்பிரர்|நாயக்கர்|சேதுபதி|தொண்டைமான்|பாளையக்கார|மெய்க்கீர்த்தி|சங்ககால|சங்க காலத்)")
-HIST_RO = re.compile(r"(varalar|varalaar|varalaru|meykkirtti|meikeerthi|colar |cholar |pantiyar|pandiyar|pallavar |cerar |kalappirar|nayakkar|cetupati|sethupathi|tontaiman|thondaiman)", re.I)
-HIST_EN = re.compile(r"(\btamils\b|histor|dynast|kingdom|\bcholas?\b|\bcolas?\b|pandyas?|pandyan|pallavas?|cheras?\b|kalabhra|nayaks?\b|nayakas|sethupati|setupati|tondaiman|polygar|palayakkar|marathas? of tanjore|tamilakam|sangam age|gazetteer|district manual)", re.I)
-HIST_NOT = re.compile(r"(தன்வரலாறு|நாட்குறிப்பு|holocaust|diary|diaries|வாழ்க்கை வரலாறு|வாழ்க்கை|சுயசரிதை|இலக்கிய வரலாறு|இலக்கணம்|திரைப்பட|சினிமா|கட்சி|தேர்தல்|நாவல்|சிறுகதை|கவிதை|valkkai|vazhkai|cuyacaritai|ilakkiya varalaru|literature|literary|grammar|novel|poems?|poetry|cinema|film|party|election|movement|biography|autobiography|memoir|cricket|football|sports|music|dance|cookery|medicine|physics|chemistry|botany|zoology)", re.I)
+HIST_RO = re.compile(r"(?<![a-z])(varalar|varalaar|varalaru|meykkirtti|meikeerthi|colar |cholar |pantiyar|pandiyar|pallavar |cerar |kalappirar|nayakkar|cetupati|sethupathi|tontaiman|thondaiman)", re.I)
+HIST_EN = re.compile(r"(\btamils\b|histor|dynast|kingdom|\bcholas?\b|pandyas?|pandyan|pallavas?|cheras?\b|kalabhra|nayaks?\b|nayakas|sethupati|setupati|tondaiman|polygar|palayakkar|marathas? of tanjore|tamilakam|sangam age|gazetteer|district manual)", re.I)
+HIST_NOT = re.compile(r"(இதழியல்|italiyal|journalism|தொழிற்சங்க|trade union|fiction|criticism|textbook|text book|grade \d|தரம் \d|வினாவிடை|பாடநூல்|பாட நூல்|question|தன்வரலாறு|நாட்குறிப்பு|holocaust|diary|diaries|வாழ்க்கை வரலாறு|வாழ்க்கை|சுயசரிதை|இலக்கிய வரலாறு|இலக்கணம்|திரைப்பட|சினிமா|கட்சி|தேர்தல்|நாவல்|சிறுகதை|கவிதை|valkkai|vazhkai|cuyacaritai|ilakkiya varalaru|literature|literary|grammar|novel|poems?|poetry|cinema|film|party|election|movement|biography|autobiography|memoir|cricket|football|sports|music|dance|cookery|medicine|physics|chemistry|botany|zoology)", re.I)
 OTHER_SCRIPT = re.compile(r"[\u0C00-\u0D7F]")   # Telugu, Kannada, Malayalam
 
 
+DYN_NAME = re.compile(r"(\bcholas?\b|\bpandyas?\b|\bpandyan\b|\bpallavas?\b|\bcheras?\b|\bnayaks?\b|nayakas|kalabhra|sethupat|setupati|tondaiman|polygar)", re.I)
+HIST_WORD = re.compile(r"(histor|dynast|kingdom|empire|temple|inscri|epigraph|\bart\b|architect|sculpt|society|\brule|\bkings?\b|polity|\bage\b|period|country|capital|administration|coins?|bronze|township|history|varalar|vamsa)", re.I)
+
+
 def relevant(title, subjects="", extra=""):
+    title = re.split(r"\s/\s", s(title))[0]
     t = fold(s(title))
     blob = fold(f"{t} {s(subjects)} {s(extra)}")
     if SERIES.search(t):
@@ -195,8 +201,10 @@ def relevant(title, subjects="", extra=""):
         hist_blocked = False
     if not hist_blocked and (HIST_TA.search(t) or HIST_RO.search(t)):
         return True
-    if not hist_blocked and HIST_EN.search(blob) and CTX.search(blob) and not NOISE.search(blob):
-        return True
+    if not hist_blocked and HIST_EN.search(t) and CTX.search(blob) and not NOISE.search(blob):
+        m_ = HIST_EN.search(t)
+        if not DYN_NAME.fullmatch(m_.group(0)) or HIST_WORD.search(t) or len(t.split()) <= 4 or TAMIL_SCRIPT.search(t):
+            return True
     if TA_KW.search(blob) or RO_KW.search(t):
         return True
     if EN_KW.search(blob) and CTX.search(blob) and not NOISE.search(blob):
@@ -205,6 +213,7 @@ def relevant(title, subjects="", extra=""):
 
 
 HIST_CTX = re.compile(r"(histor|varalar|varalaar|வரலா|temple|koyil|kovil|கோயில்|கோவில்|architect|sculpt|bronze|iconograph|\bart\b|\barts\b|painting|monument|museum|inscri|epigraph|archaeolog|antiquit|coins?\b|numismat|manuscript|dynast|kingdom|polity|society|social|agrarian|trade|\bcholas?\b|pandya|pallava|\bcheras?\b|nayak|vijayanagar|sangam|tamilakam|கல்வெட்டு|தொல்லியல்|சோழ|பாண்டிய|பல்லவ)", re.I)
+HIST_CORE = re.compile(r"(histor|varalar|varalaar|வரலா|temple|koyil|kovil|கோயில்|கோவில்|architect|sculpt|bronze|iconograph|\bart\b|painting|monument|museum|inscri|epigraph|archaeolog|antiquit|\bcoins?\b|numismat|manuscript|dynast|kingdom|\bcholas?\b|pandya|pallava|\bcheras?\b|nayak|vijayanagar|sangam|tamilakam|கல்வெட்டு|தொல்லியல்|சோழ|பாண்டிய|பல்லவ|செப்பேடு|நடுகல்)", re.I)
 SCI_NOISE = re.compile(r"(quantum|gauge|hubbard|spectroscop|electron|phonon|lattice|semiconductor|algorithm|machine learning|neural|network|adhoc|wireless|fibromyalgia|clinical|medical|disease|cancer|diabet|hydro|agricultur|farm|chemistry|polymer|nano|biolog|genetic|zoolog|birds?\b|mammal|insect|botan|plants?\b|fisher|cardio|surgery|nursing|pharma|engineering|robot|finance|marketing|management|accounting|economics of|physics|mathemat|statistic|software|computer|data mining|cloud)", re.I)
 
 
@@ -217,7 +226,9 @@ def relevant_author(title, subjects=""):
         return False
     if re.search(r"[\u0900-\u097F]", t) and not re.search(r"[A-Za-z\u0B80-\u0BFF]", t):
         return False
-    return bool(HIST_CTX.search(blob))
+    if HIST_CORE.search(t):
+        return True
+    return bool(CTX.search(t) and re.search(r"(society|social|econom|trade|polity|administration|bodies|medieval|ancient|early|culture)", t, re.I))
 
 
 def rec(source, sid, title, url, authors="", publisher="", year="", language="", place="",
@@ -734,7 +745,7 @@ HT_COLS = ["htid", "access", "rights", "ht_bib_key", "description", "source", "s
            "lccn", "title", "imprint", "rights_reason_code", "rights_timestamp", "us_gov_doc_flag", "rights_date_used",
            "pub_place", "lang", "bib_fmt", "collection_code", "content_provider_code", "responsible_entity_code",
            "digitization_agent_code", "access_profile_code", "author"]
-HT_PRE = re.compile(r"(inscri|epigraph|kalvet|kalvett|natukal|nadukal|ceppet|seppe|tolliyal|tholliyal|tolporul|akalayvu|archaeolog|antiquit|antiquar|excavat|copper.?plate|hero.?stone|memorial stone|rock (art|paint)|petroglyph|megalith|prehistor|brahmi|vatteluttu|palaeograph|paleograph|numismat|coins|indian antiquary|tamil|madras|chola|cola|pandya|pallava|pudukkottai|travancore)", re.I)
+HT_PRE = re.compile(r"(inscri|epigraph|kalvet|kalvett|natukal|nadukal|ceppet|seppe|tolliyal|tholliyal|tolporul|akalayvu|archaeolog|antiquit|antiquar|excavat|copper.?plate|hero.?stone|memorial stone|rock (art|paint)|petroglyph|megalith|prehistor|brahmi|vatteluttu|palaeograph|paleograph|numismat|coins|indian antiquary|tamil|madras|chola|pandya|pallava|pudukkottai|travancore)", re.I)
 HT_PUB = re.compile(r"(dept\.? of archaeology|department of archaeology|tolliyal|tholliyal|tolporul|archaeological survey|government epigraphist|superintendent,? government press|govt\.? press)", re.I)
 
 
