@@ -7,7 +7,6 @@
 [oa] South Indian inscriptions: total so far 116
 [oa] South Indian epigraphy: total so far 125
 [oa] Epigraphia Indica: total so far 141
-[oa] ERR annual report epigraphy HTTP Error 401: Unauthorized
 [oa] annual report epigraphy: total so far 156
 [oa] ERR topographical list inscriptions HTTP Error 401: Unauthorized
 [oa] topographical list inscriptions: total so far 162
@@ -330,9 +329,9 @@
 [oa] kasukal: total so far 548
 [oa] ERR nanayangal HTTP Error 429: Too Many Requests
 [oa] nanayangal: total so far 548
-[oa] ERR varalaru HTTP Error 429: Too Many Requests
+[oa] ERR varalaru 
 [oa] varalaru: total so far 548
-[oa] ERR varalaaru 
+[oa] ERR varalaaru HTTP Error 429: Too Many Requests
 [oa] varalaaru: total so far 548
 [oa] ERR cholar varalaru HTTP Error 429: Too Many Requests
 [oa] cholar varalaru: total so far 548
@@ -353,5 +352,5 @@
 [oa] ERR meikeerthi HTTP Error 429: Too Many Requests
 [oa] meikeerthi: total so far 548
 [oa] saved 194 records
-[oa] took 20853s
-total 20853s
+[oa] took 21006s
+total 21006s
