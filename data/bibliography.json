@@ -21197,12 +21197,12 @@
 "pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_39_No._4_October_1971.pdf"
 },
 {
-"read": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._6_April_1972.pdf",
-"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_39_No._6_April_1972.pdf"
-},
-{
 "read": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._7_January_1973.pdf",
 "pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_39_No._7_January_1973.pdf"
+},
+{
+"read": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._6_April_1972.pdf",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_39_No._6_April_1972.pdf"
 },
 {
 "read": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._1_January_1971.pdf",
@@ -21219,8 +21219,8 @@
 ],
 "other_source_urls": [
 "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._4_October_1971.pdf",
-"https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._6_April_1972.pdf",
 "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._7_January_1973.pdf",
+"https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._6_April_1972.pdf",
 "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._1_January_1971.pdf",
 "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._5_January_1972.pdf"
 ],
@@ -22437,24 +22437,24 @@
 "pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_40_No._1_April_1973.pdf"
 },
 {
-"read": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_40_No._3_October_1973.pdf",
-"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_40_No._3_October_1973.pdf"
+"read": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_40_No._4_January_1974.pdf",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_40_No._4_January_1974.pdf"
 },
 {
 "read": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_40_No._5_April_1974.pdf",
 "pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_40_No._5_April_1974.pdf"
 },
 {
-"read": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_40_No._4_January_1974.pdf",
-"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_40_No._4_January_1974.pdf"
+"read": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_40_No._3_October_1973.pdf",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_40_No._3_October_1973.pdf"
 }
 ],
 "other_source_urls": [
 "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_40_No._6_July_1974.pdf",
 "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_40_No._1_April_1973.pdf",
-"https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_40_No._3_October_1973.pdf",
+"https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_40_No._4_January_1974.pdf",
 "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_40_No._5_April_1974.pdf",
-"https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_40_No._4_January_1974.pdf"
+"https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_40_No._3_October_1973.pdf"
 ],
 "sources": [
 "Wikimedia Commons",
@@ -31953,8 +31953,8 @@
 "alt_title": "",
 "authors": "Muller,edward",
 "authors_roman": "",
-"publisher": "[[:பகுப்பு:Trubner & Co.",
-"publisher_roman": "[[:Pakuppu:Trubner & Co.",
+"publisher": "[[:பகுப்பு:Asian Educational Services",
+"publisher_roman": "[[:Pakuppu:Asian Educational Services",
 "place": "London; New Delhi",
 "year": "1838",
 "period": "1800–1899 (Colonial, early)",
@@ -31962,7 +31962,7 @@
 "type": "Book",
 "series": "",
 "isbn": "",
-"pages": "218",
+"pages": "219",
 "notes": "",
 "subjects": "Banasthali",
 "access": "open",
@@ -31976,18 +31976,18 @@
 "pdf": "https://archive.org/download/in.ernet.dli.2015.142654/2015.142654.Ancient-Inscriptions-In-Ceylon.pdf"
 },
 {
-"read": "https://noolaham.org/wiki/index.php/Ancient_inscriptions_in_Ceylon",
-"pdf": "http://noolaham.net/project/810/80975/80975.pdf"
-},
-{
 "read": "https://noolaham.org/wiki/index.php/Ancient_Inscriptions_in_Ceylon",
 "pdf": "http://noolaham.net/project/49/4812/4812.pdf"
+},
+{
+"read": "https://noolaham.org/wiki/index.php/Ancient_inscriptions_in_Ceylon",
+"pdf": "http://noolaham.net/project/810/80975/80975.pdf"
 }
 ],
 "other_source_urls": [
 "https://archive.org/details/in.ernet.dli.2015.142654",
-"https://noolaham.org/wiki/index.php/Ancient_inscriptions_in_Ceylon",
 "https://noolaham.org/wiki/index.php/Ancient_Inscriptions_in_Ceylon",
+"https://noolaham.org/wiki/index.php/Ancient_inscriptions_in_Ceylon",
 "https://openlibrary.org/works/OL63236W"
 ],
 "sources": [
@@ -169018,7 +169018,7 @@
 "title_ta": "",
 "title_en": "Indian Antiquary, Vol. 9",
 "title_en_note": "",
-"alt_title": "Indian Antiquary, vol 9, 1880",
+"alt_title": "The Indian Antiquary Vol 9",
 "authors": "Burgess, Jas, Ed.",
 "authors_roman": "",
 "publisher": "Popular Prakashan [etc",
@@ -169034,14 +169034,14 @@
 "notes": "",
 "subjects": "C-DAK",
 "access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3AIndian_Antiquary%2C_vol_9%2C_1880.djvu",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian_Antiquary%2C_vol_9%2C_1880.djvu",
+"read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_9.pdf",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_9.pdf",
 "buy_url": "",
-"source_url": "https://commons.wikimedia.org/wiki/File%3AIndian_Antiquary%2C_vol_9%2C_1880.djvu",
+"source_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_9.pdf",
 "copies": [
 {
-"read": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_9.pdf",
-"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_9.pdf"
+"read": "https://commons.wikimedia.org/wiki/File%3AIndian_Antiquary%2C_vol_9%2C_1880.djvu",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian_Antiquary%2C_vol_9%2C_1880.djvu"
 },
 {
 "read": "https://babel.hathitrust.org/cgi/pt?id=ufl.31262053227590",
@@ -169073,7 +169073,7 @@
 }
 ],
 "other_source_urls": [
-"https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_9.pdf",
+"https://commons.wikimedia.org/wiki/File%3AIndian_Antiquary%2C_vol_9%2C_1880.djvu",
 "https://catalog.hathitrust.org/Record/000501150",
 "https://catalog.hathitrust.org/Record/000547964",
 "https://catalog.hathitrust.org/Record/009790464",
