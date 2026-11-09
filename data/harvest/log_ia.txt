@@ -328,8 +328,8 @@
 [ia]     0  collection:(noolaham) AND (title:(inscriptions OR epigraphy OR archaeology OR excavation O
 [ia]  1043  collection:(TamilVirtualAcademy) AND (title:(inscriptions OR epigraphy OR archaeology OR e
 [ia] raw unique hits: 18516
-[ia] relevant: 7594
-[ia] 7594 reused, enriching 0 new items via metadata API
-[ia] saved 7594 records
-[ia] took 488s
-total 488s
+[ia] relevant: 7475
+[ia] 7472 reused, enriching 3 new items via metadata API
+[ia] saved 7475 records
+[ia] took 519s
+total 519s

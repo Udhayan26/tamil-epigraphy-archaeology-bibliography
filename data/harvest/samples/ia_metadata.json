@@ -2,53 +2,82 @@
  "alternate_locations": {
   "servers": [
    {
-    "server": "dn711003.ca.archive.org",
-    "dir": "/0/items/absj-nrtta-ratnavali-jaya-senapati-v-raghavan-sanskrit-"
+    "server": "dn721903.ca.archive.org",
+    "dir": "/0/items/keralalegislativeassembly.proceedings.1000040"
    }
   ],
   "workable": [
    {
-    "server": "dn711003.ca.archive.org",
-    "dir": "/0/items/absj-nrtta-ratnavali-jaya-senapati-v-raghavan-sanskrit-"
+    "server": "dn721903.ca.archive.org",
+    "dir": "/0/items/keralalegislativeassembly.proceedings.1000040"
    }
   ]
  },
- "created": 1794084916,
- "d1": "ia600703.us.archive.org",
- "d2": "ia800703.us.archive.org",
- "dir": "/31/items/absj-nrtta-ratnavali-jaya-senapati-v-raghavan-sanskrit-",
- "files_count": 16,
- "item_last_updated": 1794061240,
- "item_size": 553444533,
+ "created": 1794172144,
+ "d1": "ia600109.us.archive.org",
+ "d2": "ia800109.us.archive.org",
+ "dir": "/5/items/keralalegislativeassembly.proceedings.1000040",
+ "files_count": 15,
+ "item_last_updated": 1765947683,
+ "item_size": 1678927,
  "metadata": {
-  "identifier": "absj-nrtta-ratnavali-jaya-senapati-v-raghavan-sanskrit-",
-  "mediatype": "texts",
-  "collection": "opensource",
-  "creator": "Government Oriental Manuscripts Library",
-  "description": "'Nrtta Ratnavali Jaya Senapati V Raghavan Sanskrit and English Dance Madras 1965 - Government Oriental Manuscripts Library', Urmila Sharma Collection Varanasi",
-  "licenseurl": "https://creativecommons.org/publicdomain/zero/1.0/",
-  "scanner": "Internet Archive HTML5 Uploader 1.7.0",
-  "subject": [
-   "Urmila Sharma Collection Varanasi",
-   "IKS-MoE-2026-Grant-3rd",
-   "Urmila-eGangotri"
+  "identifier": "keralalegislativeassembly.proceedings.1000040",
+  "creator": "Kerala Legislative Assembly",
+  "date": "1933-08-04",
+  "description": "Kerala Legislative Assembly Proceedings\nDate: 04-08-1933\nAssembly: TSMA - 1 (1933-1937)\nSession: 1\nEvent: Question Hour\nSubject: Non - Brahmin Hindu Tamilian Judges",
+  "kla_assembly": "TSMA - 1 (1933-1937)",
+  "kla_date": "04-08-1933",
+  "kla_document_pdf_url": "http://klaproceedings.niyamasabha.org/digital/docs_to_pdf.php?memberList=1000040",
+  "kla_event_eng": "Question Hour",
+  "kla_event_mal": "ചോദ്യോത്തര വേള",
+  "kla_member_list_url": "http://klaproceedings.niyamasabha.org/digital/ListSearchMembers.php?memberList=1000040",
+  "kla_members_eng": "George K, Sivathanu Pillai (Tovala) M",
+  "kla_members_mal": "ജോര്‍ജ്ജ് കെ, ശിവതാണ് പിള്ള (തോവാള) എം",
+  "kla_session": "1",
+  "kla_subject_eng": "Non - Brahmin Hindu Tamilian Judges",
+  "kla_subject_mal": "ബ്രാഹ്മണനാല്ലാത്ത ഹിന്ദു തമിഴ് ജഡ്ജ്",
+  "language": [
+   "English",
+   "Malayalam"
   ],
-  "title": "Nrtta Ratnavali Jaya Senapati V Raghavan Sanskrit and English Dance Madras 1965 - Government Oriental Manuscripts Library",
-  "uploader": "urmila.sharma.vns@outlook.com",
-  "publicdate": "2026-11-07 13:06:33",
-  "addeddate": "2026-11-07 13:06:33",
-  "curation": "[curator]validator@archive.org[/curator][date]20261107130755[/date][comment]checked for malware[/comment]",
-  "identifier-access": "http://archive.org/details/absj-nrtta-ratnavali-jaya-senapati-v-raghavan-sanskrit-",
-  "identifier-ark": "ark:/13960/s2g1619bzvm",
+  "licenseurl": "http://creativecommons.org/licenses/publicdomain/",
+  "mediatype": "texts",
+  "source": "http://klaproceedings.niyamasabha.org/digital",
+  "subject": [
+   "Kerala Legislative Assembly",
+   "Government Documents",
+   "Kerala"
+  ],
+  "title": "Non - Brahmin Hindu Tamilian Judges / ബ്രാഹ്മണനാല്ലാത്ത ഹിന്ദു തമിഴ് ജഡ്ജ്",
+  "uploader": "vonter@vonter.in",
+  "publicdate": "2025-10-30 10:53:58",
+  "addeddate": "2025-10-30 10:53:58",
+  "curation": "[curator]validator@archive.org[/curator][date]20251030110024[/date][comment]checked for malware[/comment]",
+  "identifier-access": "http://archive.org/details/keralalegislativeassembly.proceedings.1000040",
+  "identifier-ark": "ark:/13960/s2c660b8451",
+  "ppi": "300",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng+Malayalam",
   "ocr_module_version": "0.0.21",
-  "ocr_converted": "pdf-to-hocr 1.1.37",
-  "page_number_confidence": "0",
-  "page_number_module_version": "1.0.5"
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.5",
+  "collection_added": [
+   "government-documents",
+   "legislaturesofindia"
+  ],
+  "collection": [
+   "legislaturesofindia",
+   "government-documents"
+  ]
  },
- "server": "ia800703.us.archive.org",
- "uniq": 809626847,
+ "server": "ia800109.us.archive.org",
+ "uniq": 902815630,
  "workable_servers": [
-  "ia800703.us.archive.org",
-  "ia600703.us.archive.org"
+  "ia800109.us.archive.org",
+  "ia600109.us.archive.org"
  ]
 }
