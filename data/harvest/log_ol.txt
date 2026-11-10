@@ -320,7 +320,7 @@
 [ol] subject=Inscriptions: page 3 docs 1000
 [ol] subject=Inscriptions: page 4 docs 1000
 [ol] subject=Inscriptions: page 5 docs 1000
-[ol] subject=Tamil Nadu (India): page 1 docs 132
+[ol] subject=Tamil Nadu (India): page 1 docs 128
 [ol] subject=Excavations (Archaeology): page 1 docs 1000
 [ol] subject=Excavations (Archaeology): page 2 docs 1000
 [ol] subject=Excavations (Archaeology): page 3 docs 1000
@@ -346,5 +346,5 @@
 [ol] subject=Inscriptions: page 5 docs 1000
 [ol] subject=Paleography, Tamil: page 1 docs 0
 [ol] saved 1209 records
-[ol] took 521s
-total 521s
+[ol] took 483s
+total 483s
