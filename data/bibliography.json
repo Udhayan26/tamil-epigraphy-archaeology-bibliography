@@ -1,9 +1,9 @@
 {
 "generated": "2026-11-11",
 "count": 4691,
-"with_author": 3153,
+"with_author": 3156,
 "with_publisher": 2909,
-"with_year": 3264,
+"with_year": 3267,
 "open_access": 2845,
 "with_download": 2380,
 "heritage_records": 4263,
@@ -39208,7 +39208,7 @@
 "isbn": "",
 "pages": "",
 "notes": "Coimbatore Mavatta Kalvettugal Thogudi 1",
-"subjects": "Coimbatore; Kalvettugal",
+"subjects": "Tamil Inscriptions; Sources; History",
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10643-%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D%20%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%A4%E0%AF%8A%E0%AE%95%E0%AF%81%E0%AE%A4%E0%AE%BF%20-%201",
 "download_url": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_1.pdf",
@@ -39224,19 +39224,19 @@
 "pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_1.pdf"
 },
 {
-"read": "https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
-"pdf": "https://archive.org/download/coimbatore-mavatta-kalvettugal-thogudi-1/Coimbatore%20Mavatta%20Kalvettugal%20-%20Thogudi%201.pdf"
-},
-{
 "read": "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
 "pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D.pdf"
+},
+{
+"read": "https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
+"pdf": "https://archive.org/download/coimbatore-mavatta-kalvettugal-thogudi-1/Coimbatore%20Mavatta%20Kalvettugal%20-%20Thogudi%201.pdf"
 }
 ],
 "other_source_urls": [
 "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1",
-"https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
 "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
-"https://openlibrary.org/works/OL18734808W"
+"https://openlibrary.org/works/OL18734808W",
+"https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1"
 ],
 "sources": [
 "Curated",
@@ -93380,6 +93380,52 @@
 "added": "2026-10-29"
 },
 {
+"id": "TB-008825",
+"category": "LOC",
+"category_name": "Local, District & Temple History",
+"category_name_ta": "ஊர், மாவட்ட, கோயில் வரலாறு",
+"title": "திருத்தேங்கூர் தல வரலாறு",
+"title_ta": "திருத்தேங்கூர் தல வரலாறு",
+"title_en": "Tiruttēṅkūr Tala Varalāṟu",
+"title_en_note": "romanised from Tamil",
+"alt_title": "",
+"authors": "ப. இராமநாத பிள்ளை,",
+"authors_roman": "Pa. Irāmanāta Piḷḷai,",
+"publisher": "",
+"publisher_roman": "",
+"place": "",
+"year": "1951",
+"period": "1947–1990 (Post-independence)",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "திருத்தேங்கூர் தல வரலாறு , எழுதியவர்:- ப. இராமநாத பிள்ளை, தமிழசிரியன், மன்னார்குடி. வெளியிடுவோர்:- திருத்தேங்கூர் வெள்ளியங்கிரிநாத சுவாமி தேவஸ்தான இறையணியாளர் வடிவேற் பிள்ளை",
+"subjects": "திருத்தேங்கூர் தல வரலாறு; ப. இராமநாத பிள்ளை",
+"access": "open",
+"read_url": "https://archive.org/details/Thiruthengoor_Thala_Varalaru",
+"download_url": "https://archive.org/download/Thiruthengoor_Thala_Varalaru/%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%87%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%A4%E0%AE%B2_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_1951.pdf",
+"buy_url": "",
+"source_url": "https://archive.org/details/Thiruthengoor_Thala_Varalaru",
+"copies": [
+{
+"read": "https://archive.org/details/tdl.32211-nuul-tirutteengkuur-tl-vrlaarru",
+"pdf": "https://archive.org/download/tdl.32211-nuul-tirutteengkuur-tl-vrlaarru/ACL-TNAL_00174_%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%87%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%A4%E0%AE%B2_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_1951.pdf"
+}
+],
+"other_source_urls": [
+"https://archive.org/details/tdl.32211-nuul-tirutteengkuur-tl-vrlaarru"
+],
+"sources": [
+"Internet Archive"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-29"
+},
+{
 "id": "TB-008659",
 "category": "LOC",
 "category_name": "Local, District & Temple History",
@@ -93417,6 +93463,103 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-29"
+},
+{
+"id": "TB-001366",
+"category": "LOC",
+"category_name": "Local, District & Temple History",
+"category_name_ta": "ஊர், மாவட்ட, கோயில் வரலாறு",
+"title": "திருமக்கோட்டை ஸ்ரீ ஞானபுரீஸ்வரஸ்வாமி தல வரலாறு",
+"title_ta": "திருமக்கோட்டை ஸ்ரீ ஞானபுரீஸ்வரஸ்வாமி தல வரலாறு",
+"title_en": "Tirumakkōṭṭai Srī Ñāṉapurīsvarasvāmi Tala Varalāṟu",
+"title_en_note": "romanised from Tamil",
+"alt_title": "",
+"authors": "ப.இராமநாத பிள்ளை,",
+"authors_roman": "Pa.irāmanāta Piḷḷai,",
+"publisher": "",
+"publisher_roman": "",
+"place": "",
+"year": "1953",
+"period": "1947–1990 (Post-independence)",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "Keywords: திருமக்கோட்டைகோவில் வரலாறு, கோவில் கல்வெட்டுகள், ஞானபுரீஸ்வரர் வரலாறு",
+"subjects": "திருமக்கோட்டைகோவில் வரலாறு; கோவில் கல்வெட்டுகள்; ஞானபுரீஸ்வரர் வரலாறு; Book",
+"access": "open",
+"read_url": "https://archive.org/details/tdl.34666-nuul-tirumkkoottttai-srii-nyaannnpuriisvrsvaami-tl-vrlaarru",
+"download_url": "https://archive.org/download/tdl.34666-nuul-tirumkkoottttai-srii-nyaannnpuriisvrsvaami-tl-vrlaarru/ACL-CPL%2002128_%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%88_%E0%AE%9E%E0%AE%BE%E0%AE%A9%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AF%80%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%BE%E0%AE%AE%E0%AE%BF.pdf",
+"buy_url": "",
+"source_url": "https://archive.org/details/tdl.34666-nuul-tirumkkoottttai-srii-nyaannnpuriisvrsvaami-tl-vrlaarru",
+"copies": [
+{
+"read": "https://archive.org/details/Thirumakkottai_Gnanapureeswarar_Swamy",
+"pdf": "https://archive.org/download/Thirumakkottai_Gnanapureeswarar_Swamy/%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%88_%E0%AE%9E%E0%AE%BE%E0%AE%A9%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AF%80%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%BE%E0%AE%AE%E0%AE%BF-1953.pdf"
+}
+],
+"other_source_urls": [
+"https://archive.org/details/Thirumakkottai_Gnanapureeswarar_Swamy"
+],
+"sources": [
+"Internet Archive"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
+},
+{
+"id": "TB-001367",
+"category": "LOC",
+"category_name": "Local, District & Temple History",
+"category_name_ta": "ஊர், மாவட்ட, கோயில் வரலாறு",
+"title": "திருமக்கோட்டை ஸ்ரீ ரெங்கனாதப்பெருமாள் தல வரலாறு",
+"title_ta": "திருமக்கோட்டை ஸ்ரீ ரெங்கனாதப்பெருமாள் தல வரலாறு",
+"title_en": "Tirumakkōṭṭai Srī Reṅkaṉātapperumāḷ Tala Varalāṟu",
+"title_en_note": "romanised from Tamil",
+"alt_title": "",
+"authors": "ப. இராமநாத பிள்ளை,",
+"authors_roman": "Pa. Irāmanāta Piḷḷai,",
+"publisher": "",
+"publisher_roman": "",
+"place": "",
+"year": "1953",
+"period": "1947–1990 (Post-independence)",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "Keywords: வரலாறு, ரெங்கனாதப்பெருமாள் தல வரலாறு, திருமக்கோட்டை, ரெங்கனாதஸ்வாமி தேவாலய வரலாறு, திருவரங்கப்பெருமாள் கோயில் கல்வெட்டுக்கள் செய்தி",
+"subjects": "வரலாறு; ரெங்கனாதப்பெருமாள் தல வரலாறு; திருமக்கோட்டை; ரெங்கனாதஸ்வாமி தேவாலய வரலாறு; திருவரங்கப்பெருமாள் கோயில் கல்வெட்டுக்கள் செய்தி; Book",
+"access": "open",
+"read_url": "https://archive.org/details/tdl.10469-nuul-tirumkkoottttai-srii-rengknnnaatpperumaall-tl-vrlaarru",
+"download_url": "https://archive.org/download/tdl.10469-nuul-tirumkkoottttai-srii-rengknnnaatpperumaall-tl-vrlaarru/TVA_BOK_0010469_%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%88_%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%B0%E0%AF%86%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%A9%E0%AE%BE%E0%AE%A4%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%86%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AE%BE%E0%AE%B3%E0%AF%8D_%E0%AE%A4%E0%AE%B2_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81.pdf",
+"buy_url": "",
+"source_url": "https://archive.org/details/tdl.10469-nuul-tirumkkoottttai-srii-rengknnnaatpperumaall-tl-vrlaarru",
+"copies": [
+{
+"read": "https://archive.org/details/Thirumakkottai_Sri_Ranganatha_Perumal_Thala_Varalaru",
+"pdf": "https://archive.org/download/Thirumakkottai_Sri_Ranganatha_Perumal_Thala_Varalaru/%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%88_%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%B0%E0%AF%86%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%A9%E0%AE%BE%E0%AE%A4%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%86%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AE%BE%E0%AE%B3%E0%AF%8D_%E0%AE%A4%E0%AE%B2_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81-1953.pdf"
+},
+{
+"read": "https://archive.org/details/digital.assets.thirumakkooddai_srii_rengkanaathapperumaaL_thala_varalaaRu",
+"pdf": "https://archive.org/download/digital.assets.thirumakkooddai_srii_rengkanaathapperumaaL_thala_varalaaRu/%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%88_%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%B0%E0%AF%86%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%A9%E0%AE%BE%E0%AE%A4%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%86%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AE%BE%E0%AE%B3%E0%AF%8D_%E0%AE%A4%E0%AE%B2_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81.pdf"
+}
+],
+"other_source_urls": [
+"https://archive.org/details/Thirumakkottai_Sri_Ranganatha_Perumal_Thala_Varalaru",
+"https://archive.org/details/digital.assets.thirumakkooddai_srii_rengkanaathapperumaaL_thala_varalaaRu"
+],
+"sources": [
+"Internet Archive"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
 "id": "TB-001345",
@@ -101226,45 +101369,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-008825",
-"category": "LOC",
-"category_name": "Local, District & Temple History",
-"category_name_ta": "ஊர், மாவட்ட, கோயில் வரலாறு",
-"title": "திருத்தேங்கூர் தல வரலாறு",
-"title_ta": "திருத்தேங்கூர் தல வரலாறு",
-"title_en": "Tiruttēṅkūr Tala Varalāṟu",
-"title_en_note": "romanised from Tamil",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "",
-"period": "Undated",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "Keywords: வழிபட்ட வரலாறுகள், புராண வரலாறு",
-"subjects": "வழிபட்ட வரலாறுகள்; புராண வரலாறு; Book",
-"access": "open",
-"read_url": "https://archive.org/details/tdl.32211-nuul-tirutteengkuur-tl-vrlaarru",
-"download_url": "https://archive.org/download/tdl.32211-nuul-tirutteengkuur-tl-vrlaarru/ACL-TNAL_00174_%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%87%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%A4%E0%AE%B2_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_1951.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/tdl.32211-nuul-tirutteengkuur-tl-vrlaarru",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
 "id": "TB-008826",
 "category": "LOC",
 "category_name": "Local, District & Temple History",
@@ -101755,91 +101859,6 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-29"
-},
-{
-"id": "TB-001366",
-"category": "LOC",
-"category_name": "Local, District & Temple History",
-"category_name_ta": "ஊர், மாவட்ட, கோயில் வரலாறு",
-"title": "திருமக்கோட்டை ஸ்ரீ ஞானபுரீஸ்வரஸ்வாமி தல வரலாறு",
-"title_ta": "திருமக்கோட்டை ஸ்ரீ ஞானபுரீஸ்வரஸ்வாமி தல வரலாறு",
-"title_en": "Tirumakkōṭṭai Srī Ñāṉapurīsvarasvāmi Tala Varalāṟu",
-"title_en_note": "romanised from Tamil",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "",
-"period": "Undated",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "Keywords: திருமக்கோட்டைகோவில் வரலாறு, கோவில் கல்வெட்டுகள், ஞானபுரீஸ்வரர் வரலாறு",
-"subjects": "திருமக்கோட்டைகோவில் வரலாறு; கோவில் கல்வெட்டுகள்; ஞானபுரீஸ்வரர் வரலாறு; Book",
-"access": "open",
-"read_url": "https://archive.org/details/tdl.34666-nuul-tirumkkoottttai-srii-nyaannnpuriisvrsvaami-tl-vrlaarru",
-"download_url": "https://archive.org/download/tdl.34666-nuul-tirumkkoottttai-srii-nyaannnpuriisvrsvaami-tl-vrlaarru/ACL-CPL%2002128_%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%88_%E0%AE%9E%E0%AE%BE%E0%AE%A9%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AF%80%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%BE%E0%AE%AE%E0%AE%BF.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/tdl.34666-nuul-tirumkkoottttai-srii-nyaannnpuriisvrsvaami-tl-vrlaarru",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
-"id": "TB-001367",
-"category": "LOC",
-"category_name": "Local, District & Temple History",
-"category_name_ta": "ஊர், மாவட்ட, கோயில் வரலாறு",
-"title": "திருமக்கோட்டை ஸ்ரீ ரெங்கனாதப்பெருமாள் தல வரலாறு",
-"title_ta": "திருமக்கோட்டை ஸ்ரீ ரெங்கனாதப்பெருமாள் தல வரலாறு",
-"title_en": "Tirumakkōṭṭai Srī Reṅkaṉātapperumāḷ Tala Varalāṟu",
-"title_en_note": "romanised from Tamil",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "",
-"period": "Undated",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "Keywords: வரலாறு, ரெங்கனாதப்பெருமாள் தல வரலாறு, திருமக்கோட்டை, ரெங்கனாதஸ்வாமி தேவாலய வரலாறு, திருவரங்கப்பெருமாள் கோயில் கல்வெட்டுக்கள் செய்தி",
-"subjects": "வரலாறு; ரெங்கனாதப்பெருமாள் தல வரலாறு; திருமக்கோட்டை; ரெங்கனாதஸ்வாமி தேவாலய வரலாறு; திருவரங்கப்பெருமாள் கோயில் கல்வெட்டுக்கள் செய்தி; Book",
-"access": "open",
-"read_url": "https://archive.org/details/tdl.10469-nuul-tirumkkoottttai-srii-rengknnnaatpperumaall-tl-vrlaarru",
-"download_url": "https://archive.org/download/tdl.10469-nuul-tirumkkoottttai-srii-rengknnnaatpperumaall-tl-vrlaarru/TVA_BOK_0010469_%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%88_%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%B0%E0%AF%86%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%A9%E0%AE%BE%E0%AE%A4%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%86%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AE%BE%E0%AE%B3%E0%AF%8D_%E0%AE%A4%E0%AE%B2_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/tdl.10469-nuul-tirumkkoottttai-srii-rengknnnaatpperumaall-tl-vrlaarru",
-"copies": [
-{
-"read": "https://archive.org/details/digital.assets.thirumakkooddai_srii_rengkanaathapperumaaL_thala_varalaaRu",
-"pdf": "https://archive.org/download/digital.assets.thirumakkooddai_srii_rengkanaathapperumaaL_thala_varalaaRu/%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%88_%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%B0%E0%AF%86%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%A9%E0%AE%BE%E0%AE%A4%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%86%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AE%BE%E0%AE%B3%E0%AF%8D_%E0%AE%A4%E0%AE%B2_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81.pdf"
-}
-],
-"other_source_urls": [
-"https://archive.org/details/digital.assets.thirumakkooddai_srii_rengkanaathapperumaaL_thala_varalaaRu"
-],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
 },
 {
 "id": "TB-008836",
@@ -113524,6 +113543,54 @@
 ],
 "sources": [
 "Wikimedia Commons",
+"Open Library"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-29"
+},
+{
+"id": "TB-009093",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "'''ஸ்ரீ முன்னேஸ்வர வரலாறு'''",
+"title_ta": "'''ஸ்ரீ முன்னேஸ்வர வரலாறு'''",
+"title_en": "Śrī Munnēsvara varalāru",
+"title_en_note": "",
+"alt_title": "",
+"authors": "[[:பகுப்பு:சிவராமகிருஷ்ண சர்மா, பா.",
+"authors_roman": "[[:Pakuppu:Civarāmakiruṣṇa Carmā, Pā.",
+"publisher": "-",
+"publisher_roman": "",
+"place": "Colombo",
+"year": "1968",
+"period": "1947–1990 (Post-independence)",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "x + 74",
+"notes": "",
+"subjects": "இந்து சமயம்",
+"access": "open",
+"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"download_url": "http://noolaham.net/project/20/1998/1998.pdf",
+"buy_url": "",
+"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"copies": [
+{
+"read": "https://noolaham.org/wiki/index.php/%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"pdf": "http://noolaham.net/project/781/78073/78073.pdf"
+}
+],
+"other_source_urls": [
+"https://noolaham.org/wiki/index.php/%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"https://openlibrary.org/works/OL6548191W"
+],
+"sources": [
+"Noolaham",
 "Open Library"
 ],
 "curated": false,
@@ -139650,54 +139717,6 @@
 "other_source_urls": [],
 "sources": [
 "Noolaham"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
-"id": "TB-009093",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "ஶ்ரீ முன்னேஸ்வர வரலாறு",
-"title_ta": "ஶ்ரீ முன்னேஸ்வர வரலாறு",
-"title_en": "Śrī Munnēsvara varalāru",
-"title_en_note": "",
-"alt_title": "",
-"authors": "[[:பகுப்பு:பத்மநாபன், ச.",
-"authors_roman": "[[:Pakuppu:Patmanāpaṉ, Ca.",
-"publisher": "[[:பகுப்பு:ஶ்ரீ முன்னேஸ்வரம் தேவஸ்தானம்",
-"publisher_roman": "[[:Pakuppu:Śrī Muṉṉēsvaram Tēvastāṉam",
-"place": "Colombo",
-"year": "2017",
-"period": "2011–2026 (Recent)",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "118",
-"notes": "",
-"subjects": "கோயில் மலர்",
-"access": "open",
-"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"download_url": "http://noolaham.net/project/781/78073/78073.pdf",
-"buy_url": "",
-"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"copies": [
-{
-"read": "https://noolaham.org/wiki/index.php/%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"pdf": "http://noolaham.net/project/20/1998/1998.pdf"
-}
-],
-"other_source_urls": [
-"https://noolaham.org/wiki/index.php/%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"https://openlibrary.org/works/OL6548191W"
-],
-"sources": [
-"Noolaham",
-"Open Library"
 ],
 "curated": false,
 "scholar": "",

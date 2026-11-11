@@ -77,7 +77,7 @@
 [ia]     6  (title:("பாளையக்காரர்") OR subject:("பாளையக்காரர்"))
 [ia]     2  (title:("ஊர் வரலாறு") OR subject:("ஊர் வரலாறு"))
 [ia]    13  (title:("மாவட்ட வரலாறு") OR subject:("மாவட்ட வரலாறு"))
-[ia]   153  (title:("தல வரலாறு") OR subject:("தல வரலாறு"))
+[ia]   156  (title:("தல வரலாறு") OR subject:("தல வரலாறு"))
 [ia]   124  (title:("தலவரலாறு") OR subject:("தலவரலாறு"))
 [ia]    87  (title:("கோயில் வரலாறு") OR subject:("கோயில் வரலாறு"))
 [ia]     0  (title:("ஈழத் தமிழர் வரலாறு") OR subject:("ஈழத் தமிழர் வரலாறு"))
@@ -327,9 +327,9 @@
 [ia]     0  collection:(tamilheritagefoundation) AND (title:(inscriptions OR epigraphy OR archaeology 
 [ia]     0  collection:(noolaham) AND (title:(inscriptions OR epigraphy OR archaeology OR excavation O
 [ia]  1043  collection:(TamilVirtualAcademy) AND (title:(inscriptions OR epigraphy OR archaeology OR e
-[ia] raw unique hits: 18517
-[ia] relevant: 7475
-[ia] 7475 reused, enriching 0 new items via metadata API
-[ia] saved 7475 records
-[ia] took 460s
-total 460s
+[ia] raw unique hits: 18520
+[ia] relevant: 7478
+[ia] 7475 reused, enriching 3 new items via metadata API
+[ia] saved 7478 records
+[ia] took 620s
+total 620s
