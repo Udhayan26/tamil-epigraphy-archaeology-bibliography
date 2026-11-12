@@ -20,7 +20,7 @@
 "Noolaham": 192,
 "Open Library": 1238,
 "Curated": 204,
-"OpenAlex": 314,
+"OpenAlex": 315,
 "HathiTrust": 1236,
 "Wikimedia Commons": 226,
 "Tamil Wikisource": 106,
@@ -21203,12 +21203,12 @@
 "pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_39_No._1_January_1971.pdf"
 },
 {
-"read": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._7_January_1973.pdf",
-"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_39_No._7_January_1973.pdf"
-},
-{
 "read": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._6_April_1972.pdf",
 "pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_39_No._6_April_1972.pdf"
+},
+{
+"read": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._7_January_1973.pdf",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_39_No._7_January_1973.pdf"
 },
 {
 "read": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._5_January_1972.pdf",
@@ -21222,8 +21222,8 @@
 "other_source_urls": [
 "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._4_October_1971.pdf",
 "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._1_January_1971.pdf",
-"https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._7_January_1973.pdf",
 "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._6_April_1972.pdf",
+"https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._7_January_1973.pdf",
 "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._5_January_1972.pdf"
 ],
 "sources": [
@@ -78049,6 +78049,10 @@
 "source_url": "https://catalog.hathitrust.org/Record/001266845",
 "copies": [
 {
+"read": "http://hdl.handle.net/2027/mdp.39015042493935",
+"pdf": ""
+},
+{
 "read": "https://archive.org/details/pallavaantiquiti00jouv",
 "pdf": ""
 },
@@ -78063,11 +78067,13 @@
 ],
 "other_source_urls": [
 "https://archive.org/details/pallavaantiquiti00jouv",
+"http://hdl.handle.net/2027/mdp.39015042493935",
 "https://openlibrary.org/works/OL17350675W"
 ],
 "sources": [
 "HathiTrust",
 "Internet Archive",
+"OpenAlex",
 "Open Library"
 ],
 "curated": false,
