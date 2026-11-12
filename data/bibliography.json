@@ -1,18 +1,18 @@
 {
-"generated": "2026-11-11",
-"count": 4691,
-"with_author": 3156,
-"with_publisher": 2909,
+"generated": "2026-11-12",
+"count": 4690,
+"with_author": 3155,
+"with_publisher": 2908,
 "with_year": 3267,
-"open_access": 2845,
+"open_access": 2846,
 "with_download": 2380,
 "heritage_records": 4263,
 "with_buy": 0,
 "access": {
-"open": 2845,
-"catalogue": 1651,
+"open": 2846,
+"catalogue": 1650,
 "": 50,
-"open-us": 101,
+"open-us": 100,
 "borrow": 44
 },
 "sources": {
@@ -20,7 +20,7 @@
 "Noolaham": 192,
 "Open Library": 1238,
 "Curated": 204,
-"OpenAlex": 313,
+"OpenAlex": 314,
 "HathiTrust": 1236,
 "Wikimedia Commons": 226,
 "Tamil Wikisource": 106,
@@ -102,7 +102,7 @@
 "PLM": {
 "en": "Palm-leaf Manuscripts & Manuscriptology",
 "ta": "ஓலைச்சுவடிகள், சுவடியியல்",
-"count": 253
+"count": 252
 },
 "SEA": {
 "en": "Seals, Rock-cut Caves & Jain Beds",
@@ -39208,7 +39208,7 @@
 "isbn": "",
 "pages": "",
 "notes": "Coimbatore Mavatta Kalvettugal Thogudi 1",
-"subjects": "Tamil Inscriptions; Sources; History",
+"subjects": "Coimbatore; Kalvettugal",
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10643-%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D%20%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%A4%E0%AF%8A%E0%AE%95%E0%AF%81%E0%AE%A4%E0%AE%BF%20-%201",
 "download_url": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_1.pdf",
@@ -39224,19 +39224,19 @@
 "pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_1.pdf"
 },
 {
-"read": "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
-"pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D.pdf"
-},
-{
 "read": "https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
 "pdf": "https://archive.org/download/coimbatore-mavatta-kalvettugal-thogudi-1/Coimbatore%20Mavatta%20Kalvettugal%20-%20Thogudi%201.pdf"
+},
+{
+"read": "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
+"pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D.pdf"
 }
 ],
 "other_source_urls": [
 "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1",
+"https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
 "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
-"https://openlibrary.org/works/OL18734808W",
-"https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1"
+"https://openlibrary.org/works/OL18734808W"
 ],
 "sources": [
 "Curated",
@@ -154407,7 +154407,7 @@
 "title_en": "A descriptive catalogue of the Telugu manuscripts in the Government Oriental Manuscripts Library, Madras",
 "title_en_note": "",
 "alt_title": "",
-"authors": "M. Raṅgācārya; S. Kuppuswami Sastri; P. P. Subrahmanya Sastri; A. Sankaran; Syed Muhammad Fazlullah; T. Chandrasekharan",
+"authors": "India) Government Oriental Manuscripts Library (Tamil Nadu; P. P. Subrahmanya Sastri; S. Kuppuswami Sastri",
 "authors_roman": "",
 "publisher": "National Institute of Informatics",
 "publisher_roman": "",
@@ -154426,12 +154426,32 @@
 "download_url": "",
 "buy_url": "",
 "source_url": "https://tufs.repo.nii.ac.jp/records/28416",
-"copies": [],
+"copies": [
+{
+"read": "http://hdl.handle.net/2027/umn.31951d00194440i",
+"pdf": ""
+},
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=umn.31951d00194440i",
+"pdf": ""
+},
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=umn.31951002312283m",
+"pdf": ""
+},
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=umn.31951002312288c",
+"pdf": ""
+}
+],
 "other_source_urls": [
-"http://ci.nii.ac.jp/ncid/BA65717911"
+"http://hdl.handle.net/2027/umn.31951d00194440i",
+"http://ci.nii.ac.jp/ncid/BA65717911",
+"https://catalog.hathitrust.org/Record/101721535"
 ],
 "sources": [
-"OpenAlex"
+"OpenAlex",
+"HathiTrust"
 ],
 "curated": false,
 "scholar": "",
@@ -155661,13 +155681,15 @@
 "pages": "",
 "notes": "",
 "subjects": "Tamil; Government (linguistics); Library science; Geography; History; Ancient history; Art; Computer science; Literature; Linguistics",
-"access": "catalogue",
-"read_url": "",
+"access": "open",
+"read_url": "http://hdl.handle.net/2027/njp.32101073750372",
 "download_url": "",
 "buy_url": "",
 "source_url": "http://ci.nii.ac.jp/ncid/BB05839270",
 "copies": [],
-"other_source_urls": [],
+"other_source_urls": [
+"http://hdl.handle.net/2027/njp.32101073750372"
+],
 "sources": [
 "OpenAlex"
 ],
@@ -160356,54 +160378,6 @@
 "added": "2026-10-28"
 },
 {
-"id": "TB-006125",
-"category": "PLM",
-"category_name": "Palm-leaf Manuscripts & Manuscriptology",
-"category_name_ta": "ஓலைச்சுவடிகள், சுவடியியல்",
-"title": "A descriptive catalogue of the Telugu manuscripts in the Government Oriental manuscripts library, Madras / prepared under the orders of the government of Madras — v.3",
-"title_ta": "",
-"title_en": "A descriptive catalogue of the Telugu manuscripts in the Government Oriental manuscripts library, Madras / prepared under the orders of the government of Madras — v.3",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Government Oriental Manuscripts Library (Tamil Nadu, India)",
-"authors_roman": "",
-"publisher": "Printed by the superintendent, Government press",
-"publisher_roman": "",
-"place": "",
-"year": "",
-"period": "Undated",
-"language": "English",
-"type": "Book",
-"series": "v.3",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "open-us",
-"read_url": "https://babel.hathitrust.org/cgi/pt?id=umn.31951d00194440i",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/101721535",
-"copies": [
-{
-"read": "https://babel.hathitrust.org/cgi/pt?id=umn.31951002312283m",
-"pdf": ""
-},
-{
-"read": "https://babel.hathitrust.org/cgi/pt?id=umn.31951002312288c",
-"pdf": ""
-}
-],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-28"
-},
-{
 "id": "TB-005914",
 "category": "PLM",
 "category_name": "Palm-leaf Manuscripts & Manuscriptology",
@@ -165077,6 +165051,10 @@
 "pdf": ""
 },
 {
+"read": "http://hdl.handle.net/2027/uc2.ark:/13960/t41r6qt9v",
+"pdf": ""
+},
+{
 "read": "https://archive.org/details/in.ernet.dli.2015.351477",
 "pdf": ""
 },
@@ -165099,23 +165077,20 @@
 {
 "read": "https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t41r6qt9v",
 "pdf": ""
-},
-{
-"read": "https://babel.hathitrust.org/cgi/pt?id=wu.89041236480",
-"pdf": ""
 }
 ],
 "other_source_urls": [
 "https://openlibrary.org/works/OL1772000W",
+"http://hdl.handle.net/2027/uc2.ark:/13960/t41r6qt9v",
 "https://archive.org/details/in.ernet.dli.2015.351477",
 "https://archive.org/details/ATopographicalListOfTheInscriptionsOfTheMadrasPresidencyVolIII",
-"https://archive.org/details/dli.csl.8345",
-"https://archive.org/details/in.ernet.dli.2015.31862"
+"https://archive.org/details/dli.csl.8345"
 ],
 "sources": [
 "Curated",
 "Open Library",
 "Internet Archive",
+"OpenAlex",
 "HathiTrust"
 ],
 "curated": true,
