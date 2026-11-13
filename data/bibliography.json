@@ -1,26 +1,26 @@
 {
-"generated": "2026-11-12",
-"count": 4690,
-"with_author": 3155,
-"with_publisher": 2908,
-"with_year": 3267,
-"open_access": 2846,
-"with_download": 2380,
+"generated": "2026-11-13",
+"count": 4695,
+"with_author": 3159,
+"with_publisher": 2911,
+"with_year": 3272,
+"open_access": 2849,
+"with_download": 2383,
 "heritage_records": 4263,
 "with_buy": 0,
 "access": {
-"open": 2846,
-"catalogue": 1650,
-"": 50,
+"open": 2849,
+"catalogue": 1653,
+"": 49,
 "open-us": 100,
 "borrow": 44
 },
 "sources": {
-"Internet Archive": 2330,
+"Internet Archive": 2332,
 "Noolaham": 192,
 "Open Library": 1238,
 "Curated": 204,
-"OpenAlex": 315,
+"OpenAlex": 320,
 "HathiTrust": 1236,
 "Wikimedia Commons": 226,
 "Tamil Wikisource": 106,
@@ -37,7 +37,7 @@
 "ASI": {
 "en": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"count": 577
+"count": 578
 },
 "TNS": {
 "en": "Inscription Corpora: Tamil Nadu State, District & Temple",
@@ -87,12 +87,12 @@
 "LOC": {
 "en": "Local, District & Temple History",
 "ta": "ஊர், மாவட்ட, கோயில் வரலாறு",
-"count": 340
+"count": 341
 },
 "HIS": {
 "en": "Tamil History: General, Society & Economy",
 "ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"count": 1109
+"count": 1112
 },
 "NUM": {
 "en": "Numismatics (Coins)",
@@ -6276,7 +6276,8 @@
 ],
 "sources": [
 "Open Library",
-"Internet Archive"
+"Internet Archive",
+"OpenAlex"
 ],
 "curated": false,
 "scholar": "E. Hultzsch",
@@ -7860,8 +7861,8 @@
 "pdf": "https://archive.org/download/in.ernet.dli.2015.56653/2015.56653.Epigraphia-Indica-Vol6.pdf"
 },
 {
-"read": "https://whatisindia.com/inscriptions/epigraphica_indica/vol6_1900-01/index.html",
-"pdf": ""
+"read": "https://archive.org/details/mpl.411.754.epi.6.210",
+"pdf": "https://archive.org/download/mpl.411.754.epi.6.210/mpl.411.754.epi.6.210.pdf"
 }
 ],
 "other_source_urls": [
@@ -9171,6 +9172,45 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-20"
+},
+{
+"id": "TB-010990",
+"category": "ASI",
+"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
+"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
+"title": "Epigraphia Indica, Vol. 10, Part 1",
+"title_ta": "",
+"title_en": "Epigraphia Indica, Vol. 10, Part 1",
+"title_en_note": "",
+"alt_title": "Epigraphia Indica Vol X 1909-10 Part I To VIII",
+"authors": "",
+"authors_roman": "",
+"publisher": "The Authority Of The Government Of India",
+"publisher_roman": "",
+"place": "",
+"year": "1910",
+"period": "1900–1946 (Colonial, late)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "",
+"access": "open",
+"read_url": "https://archive.org/details/mpl.411.754.epi.10.214",
+"download_url": "https://archive.org/download/mpl.411.754.epi.10.214/mpl.411.754.epi.10.214.pdf",
+"buy_url": "",
+"source_url": "https://archive.org/details/mpl.411.754.epi.10.214",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"Internet Archive"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-13"
 },
 {
 "id": "TB-000017",
@@ -11217,8 +11257,8 @@
 "pdf": "https://archive.org/download/in.ernet.dli.2015.70170/2015.70170.Epigraphia-Indica-Vol-17.pdf"
 },
 {
-"read": "https://archive.org/details/tDdr_epigraphia-indica-vol.-17-ed.-by-krishna-shastri-1923-24-government-of-india-press",
-"pdf": "https://archive.org/download/tDdr_epigraphia-indica-vol.-17-ed.-by-krishna-shastri-1923-24-government-of-india-press/Epigraphia%20Indica%20Vol.%2017%20Ed.%20by%20Krishna%20Shastri%201923-24%20-%20Government%20of%20India%20Press.pdf"
+"read": "https://archive.org/details/mpl.411.754.epi.17.902",
+"pdf": "https://archive.org/download/mpl.411.754.epi.17.902/mpl.411.754.epi.17.902.pdf"
 }
 ],
 "other_source_urls": [
@@ -31955,8 +31995,8 @@
 "alt_title": "",
 "authors": "Muller,edward",
 "authors_roman": "",
-"publisher": "[[:பகுப்பு:Asian Educational Services",
-"publisher_roman": "[[:Pakuppu:Asian Educational Services",
+"publisher": "[[:பகுப்பு:Trubner & Co.",
+"publisher_roman": "[[:Pakuppu:Trubner & Co.",
 "place": "London; New Delhi",
 "year": "1838",
 "period": "1800–1899 (Colonial, early)",
@@ -31964,7 +32004,7 @@
 "type": "Book",
 "series": "",
 "isbn": "",
-"pages": "219",
+"pages": "218",
 "notes": "",
 "subjects": "Banasthali",
 "access": "open",
@@ -31978,18 +32018,18 @@
 "pdf": "https://archive.org/download/in.ernet.dli.2015.142654/2015.142654.Ancient-Inscriptions-In-Ceylon.pdf"
 },
 {
-"read": "https://noolaham.org/wiki/index.php/Ancient_Inscriptions_in_Ceylon",
-"pdf": "http://noolaham.net/project/49/4812/4812.pdf"
-},
-{
 "read": "https://noolaham.org/wiki/index.php/Ancient_inscriptions_in_Ceylon",
 "pdf": "http://noolaham.net/project/810/80975/80975.pdf"
+},
+{
+"read": "https://noolaham.org/wiki/index.php/Ancient_Inscriptions_in_Ceylon",
+"pdf": "http://noolaham.net/project/49/4812/4812.pdf"
 }
 ],
 "other_source_urls": [
 "https://archive.org/details/in.ernet.dli.2015.142654",
-"https://noolaham.org/wiki/index.php/Ancient_Inscriptions_in_Ceylon",
 "https://noolaham.org/wiki/index.php/Ancient_inscriptions_in_Ceylon",
+"https://noolaham.org/wiki/index.php/Ancient_Inscriptions_in_Ceylon",
 "https://openlibrary.org/works/OL63236W"
 ],
 "sources": [
@@ -32083,7 +32123,8 @@
 "other_source_urls": [
 "https://archive.org/details/elementssouthin05burngoog",
 "https://archive.org/details/elementssouthin06burngoog",
-"http://ci.nii.ac.jp/ncid/BA57095689"
+"http://ci.nii.ac.jp/ncid/BA57095689",
+"https://doi.org/10.1017/cbo9781139192187"
 ],
 "sources": [
 "Internet Archive",
@@ -39208,7 +39249,7 @@
 "isbn": "",
 "pages": "",
 "notes": "Coimbatore Mavatta Kalvettugal Thogudi 1",
-"subjects": "Coimbatore; Kalvettugal",
+"subjects": "Tamil Inscriptions; Sources; History",
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10643-%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D%20%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%A4%E0%AF%8A%E0%AE%95%E0%AF%81%E0%AE%A4%E0%AE%BF%20-%201",
 "download_url": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_1.pdf",
@@ -39224,19 +39265,19 @@
 "pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_1.pdf"
 },
 {
-"read": "https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
-"pdf": "https://archive.org/download/coimbatore-mavatta-kalvettugal-thogudi-1/Coimbatore%20Mavatta%20Kalvettugal%20-%20Thogudi%201.pdf"
-},
-{
 "read": "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
 "pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D.pdf"
+},
+{
+"read": "https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
+"pdf": "https://archive.org/download/coimbatore-mavatta-kalvettugal-thogudi-1/Coimbatore%20Mavatta%20Kalvettugal%20-%20Thogudi%201.pdf"
 }
 ],
 "other_source_urls": [
 "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1",
-"https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
 "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
-"https://openlibrary.org/works/OL18734808W"
+"https://openlibrary.org/works/OL18734808W",
+"https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1"
 ],
 "sources": [
 "Curated",
@@ -56502,16 +56543,17 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "",
-"access": "",
+"subjects": "Port (circuit theory); Excavation; Archaeology; Engineering; Mining engineering; Geology; History; Mechanical engineering",
+"access": "catalogue",
 "read_url": "",
 "download_url": "",
 "buy_url": "",
-"source_url": "",
+"source_url": "http://bvbr.bib-bvb.de:8991/F?func=service&amp;doc_library=BVB01&amp;local_base=BVB01&amp;doc_number=014594877&amp;sequence=000001&amp;line_number=0001&amp;func_code=DB_RECORDS&amp;service_type=MEDIA",
 "copies": [],
 "other_source_urls": [],
 "sources": [
-"Curated"
+"Curated",
+"OpenAlex"
 ],
 "curated": true,
 "scholar": "",
@@ -94355,6 +94397,45 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-29"
+},
+{
+"id": "TB-010991",
+"category": "LOC",
+"category_name": "Local, District & Temple History",
+"category_name_ta": "ஊர், மாவட்ட, கோயில் வரலாறு",
+"title": "பூவனூர்த் தல வரலாறு",
+"title_ta": "பூவனூர்த் தல வரலாறு",
+"title_en": "Pūvaṉūrt Tala Varalāṟu",
+"title_en_note": "romanised from Tamil",
+"alt_title": "",
+"authors": "ப. இராமநாத பிள்ளை,",
+"authors_roman": "Pa. Irāmanāta Piḷḷai,",
+"publisher": "",
+"publisher_roman": "",
+"place": "",
+"year": "1962",
+"period": "1947–1990 (Post-independence)",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "பூவனூர்த் தல வரலாறு , எழுதியுதவியவர்: ஶ்ரீமான் ப. இராமநாத பிள்ளை அவர்கள் தமிழாசிரியர், மன்னார்குடி. பூவனூர் ஶ்ரீ சதுரங்கவல்லபநாத சுவாமி தேவஸ்தான வெளியீடு",
+"subjects": "பூவனூர்த் தல வரலாறு; ப. இராமநாத பிள்ளை",
+"access": "open",
+"read_url": "https://archive.org/details/poovanoor_thalavaralaru",
+"download_url": "https://archive.org/download/poovanoor_thalavaralaru/%E0%AE%AA%E0%AF%82%E0%AE%B5%E0%AE%A9%E0%AF%82%E0%AE%B0%E0%AF%8D%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%B2_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81-1962.pdf",
+"buy_url": "",
+"source_url": "https://archive.org/details/poovanoor_thalavaralaru",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"Internet Archive"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-13"
 },
 {
 "id": "TB-008673",
@@ -136823,6 +136904,45 @@
 "added": "2026-11-05"
 },
 {
+"id": "TB-010992",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "Environmental History of Early India: A Reader",
+"title_ta": "",
+"title_en": "Environmental History of Early India: A Reader",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Nandini Sinha Kapur",
+"authors_roman": "",
+"publisher": "",
+"publisher_roman": "",
+"place": "",
+"year": "2011",
+"period": "2011–2026 (Recent)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Tamil; Geography; Pastoralism; Agrarian society; Human settlement; Ancient history; History; Agriculture; Archaeology; Livestock",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "http://bvbr.bib-bvb.de:8991/F?func=service&amp;doc_library=BVB01&amp;local_base=BVB01&amp;doc_number=024418332&amp;sequence=000001&amp;line_number=0001&amp;func_code=DB_RECORDS&amp;service_type=MEDIA",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-13"
+},
+{
 "id": "TB-010849",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -138046,7 +138166,7 @@
 }
 ],
 "other_source_urls": [
-"http://ci.nii.ac.jp/ncid/BB17858705",
+"https://bvbr.bib-bvb.de:443/F?func=service&doc_library=BVB01&local_base=BVB01&doc_number=027614751&sequence=000001&line_number=0001&func_code=DB_RECORDS&service_type=MEDIA",
 "https://openlibrary.org/works/OL21087579W"
 ],
 "sources": [
@@ -140120,6 +140240,45 @@
 "added": "2026-10-29"
 },
 {
+"id": "TB-010993",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "Constructing the Colonial Encounter: Right and Left Hand Castes in Early Colonial South India",
+"title_ta": "",
+"title_en": "Constructing the Colonial Encounter: Right and Left Hand Castes in Early Colonial South India",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Niels Brimnes",
+"authors_roman": "",
+"publisher": "Routledge",
+"publisher_roman": "",
+"place": "",
+"year": "2019",
+"period": "2011–2026 (Recent)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Colonialism; History; Archaeology",
+"access": "open",
+"read_url": "https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.4324/9781315027616&type=googlepdf",
+"download_url": "https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.4324/9781315027616&type=googlepdf",
+"buy_url": "",
+"source_url": "https://doi.org/10.4324/9781315027616",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-13"
+},
+{
 "id": "TB-010363",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -141737,6 +141896,45 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-29"
+},
+{
+"id": "TB-010994",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "Temples to the Buddha and the Gods: Transnational Drāviḍa Tradition of Architecture in Sri Lanka",
+"title_ta": "",
+"title_en": "Temples to the Buddha and the Gods: Transnational Drāviḍa Tradition of Architecture in Sri Lanka",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Sujatha Arundathi Meegama",
+"authors_roman": "",
+"publisher": "University of Hawaii Press",
+"publisher_roman": "",
+"place": "",
+"year": "2024",
+"period": "2011–2026 (Recent)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Gautama Buddha; Art; Ancient history; History; Buddhism; Archaeology",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://doi.org/10.1515/9780824894962",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-13"
 },
 {
 "id": "TB-010413",
@@ -154408,9 +154606,9 @@
 "category": "PLM",
 "category_name": "Palm-leaf Manuscripts & Manuscriptology",
 "category_name_ta": "ஓலைச்சுவடிகள், சுவடியியல்",
-"title": "A descriptive catalogue of the Telugu manuscripts in the Government Oriental Manuscripts Library, Madras",
+"title": "A descriptive catalogue of the Telugu manuscripts in the Government Oriental manuscripts library, Madras /",
 "title_ta": "",
-"title_en": "A descriptive catalogue of the Telugu manuscripts in the Government Oriental Manuscripts Library, Madras",
+"title_en": "A descriptive catalogue of the Telugu manuscripts in the Government Oriental manuscripts library, Madras /",
 "title_en_note": "",
 "alt_title": "",
 "authors": "India) Government Oriental Manuscripts Library (Tamil Nadu; P. P. Subrahmanya Sastri; S. Kuppuswami Sastri",
@@ -154426,15 +154624,15 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Telugu; Government (linguistics); History; Library science; Classics; Media studies; Ridiculous; Political science; Descriptive research; Ancient history",
+"subjects": "Telugu; Government (linguistics); History; Library science; Classics; Medicine; Ancient history; History of medicine; Media studies; Art",
 "access": "open",
-"read_url": "https://tufs.repo.nii.ac.jp/records/28420",
+"read_url": "http://hdl.handle.net/2027/umn.31951d00194440i",
 "download_url": "",
 "buy_url": "",
-"source_url": "https://tufs.repo.nii.ac.jp/records/28416",
+"source_url": "http://hdl.handle.net/2027/umn.31951d00194440i",
 "copies": [
 {
-"read": "http://hdl.handle.net/2027/umn.31951d00194440i",
+"read": "https://tufs.repo.nii.ac.jp/records/28420",
 "pdf": ""
 },
 {
@@ -154451,8 +154649,8 @@
 }
 ],
 "other_source_urls": [
-"http://hdl.handle.net/2027/umn.31951d00194440i",
 "http://ci.nii.ac.jp/ncid/BA65717911",
+"https://tufs.repo.nii.ac.jp/records/28416",
 "https://catalog.hathitrust.org/Record/101721535"
 ],
 "sources": [

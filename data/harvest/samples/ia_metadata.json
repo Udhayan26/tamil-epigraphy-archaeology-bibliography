@@ -1,37 +1,37 @@
 {
- "created": 1794413533,
- "d1": "ia601806.us.archive.org",
- "d2": "ia801806.us.archive.org",
- "dir": "/22/items/Thirumakkottai_Gnanapureeswarar_Swamy",
+ "created": 1794532293,
+ "d1": "ia600102.us.archive.org",
+ "d2": "ia800102.us.archive.org",
+ "dir": "/21/items/poovanoor_thalavaralaru",
  "files_count": 5,
- "item_last_updated": 1794397169,
- "item_size": 11635890,
+ "item_last_updated": 1794527611,
+ "item_size": 14043544,
  "metadata": {
-  "identifier": "Thirumakkottai_Gnanapureeswarar_Swamy",
+  "identifier": "poovanoor_thalavaralaru",
   "mediatype": "texts",
   "collection": "opensource",
-  "creator": "ப.இராமநாத பிள்ளை,",
-  "date": "1953",
-  "description": "<b>திருமக்கோட்டை</b><div><b>ஶ்ரீ ஞானபுரீஸ்வரஸ்வாமி தல வரலாறு</b>,</div><div><br /></div><div>இஃது</div><div>திருமக்கோட்டை ஶ்ரீ ஞானபுரீஸ்வரஸ்வாமி தேவஸ்தான வெளியீடு.</div><div><br /></div><div>எழுதியவர்:</div><div>ப.இராமநாத பிள்ளை,</div><div>தமிழ்ப் பண்டிதர், மன்னார்குடி.</div><div><br /></div><div>மன்னார்குடி 'பாரதி அச்சுக்கூடத்தில்' பதிப்பிக்கப்பெற்றது.<br /><div><br /></div><div><br /></div></div>",
+  "creator": "ப. இராமநாத பிள்ளை,",
+  "date": "1962",
+  "description": "<b>பூவனூர்த் தல வரலாறு</b>,<div><br /></div><div>எழுதியுதவியவர்:</div><div>ஶ்ரீமான் ப. இராமநாத பிள்ளை அவர்கள்</div><div>தமிழாசிரியர்,</div><div>மன்னார்குடி.</div><div><br /></div><div>பூவனூர்</div><div>ஶ்ரீ சதுரங்கவல்லபநாத சுவாமி </div><div>தேவஸ்தான வெளியீடு</div><div><br /></div>",
   "language": "tam",
   "licenseurl": "https://creativecommons.org/publicdomain/mark/1.0/",
   "scanner": "Internet Archive HTML5 Uploader 1.7.0",
   "subject": [
-   "திருமக்கோட்டை ஶ்ரீ ஞானபுரீஸ்வரஸ்வாமி தல வரலாறு",
-   "ப.இராமநாத பிள்ளை"
+   "பூவனூர்த் தல வரலாறு",
+   "ப. இராமநாத பிள்ளை"
   ],
-  "title": "திருமக்கோட்டை ஶ்ரீ ஞானபுரீஸ்வரஸ்வாமி தல வரலாறு",
+  "title": "பூவனூர்த் தல வரலாறு",
   "uploader": "sivason@outlook.com",
-  "publicdate": "2026-11-11 11:33:32",
-  "addeddate": "2026-11-11 11:33:32",
-  "curation": "[curator]validator@archive.org[/curator][date]20261111113926[/date][comment]checked for malware[/comment]"
+  "publicdate": "2026-11-12 23:46:53",
+  "addeddate": "2026-11-12 23:46:53",
+  "curation": "[curator]validator@archive.org[/curator][date]20261112235328[/date][comment]checked for malware[/comment]"
  },
  "pending_tasks": true,
- "server": "ia601806.us.archive.org",
+ "server": "ia600102.us.archive.org",
  "servers_unavailable": true,
  "tasks": [
   {
-   "task_id": 5756920367,
+   "task_id": 5759194853,
    "cmd": "derive.php",
    "priority": -7,
    "wait_admin": 0,
@@ -39,8 +39,8 @@
    "status": "queued"
   }
  ],
- "uniq": 1925235703,
+ "uniq": 987141343,
  "workable_servers": [
-  "ia601806.us.archive.org"
+  "ia600102.us.archive.org"
  ]
 }

@@ -77,7 +77,7 @@
 [ia]     6  (title:("பாளையக்காரர்") OR subject:("பாளையக்காரர்"))
 [ia]     2  (title:("ஊர் வரலாறு") OR subject:("ஊர் வரலாறு"))
 [ia]    13  (title:("மாவட்ட வரலாறு") OR subject:("மாவட்ட வரலாறு"))
-[ia]   156  (title:("தல வரலாறு") OR subject:("தல வரலாறு"))
+[ia]   157  (title:("தல வரலாறு") OR subject:("தல வரலாறு"))
 [ia]   124  (title:("தலவரலாறு") OR subject:("தலவரலாறு"))
 [ia]    87  (title:("கோயில் வரலாறு") OR subject:("கோயில் வரலாறு"))
 [ia]     0  (title:("ஈழத் தமிழர் வரலாறு") OR subject:("ஈழத் தமிழர் வரலாறு"))
@@ -143,7 +143,7 @@
 [ia]    10  (title:("Tamil epigraphy") OR subject:("Tamil epigraphy"))
 [ia]   217  title:(South Indian inscriptions)
 [ia]    37  title:(South Indian epigraphy)
-[ia]   342  (title:("Epigraphia Indica") OR subject:("Epigraphia Indica"))
+[ia]   347  (title:("Epigraphia Indica") OR subject:("Epigraphia Indica"))
 [ia]   196  title:(annual report epigraphy)
 [ia]    53  title:(topographical list inscriptions)
 [ia]     8  title:(district inscriptions Tamil)
@@ -196,7 +196,7 @@
 [ia]   194  title:(Report on epigraphy)
 [ia]     0  (title:("Madras epigraphy") OR subject:("Madras epigraphy"))
 [ia]     0  title:(Government Epigraphist Madras)
-[ia]   342  (title:("Epigraphia Indica") OR subject:("Epigraphia Indica"))
+[ia]   347  (title:("Epigraphia Indica") OR subject:("Epigraphia Indica"))
 [ia]   358  (title:("Indian Antiquary") OR subject:("Indian Antiquary"))
 [ia]   149  (title:("Epigraphia Carnatica") OR subject:("Epigraphia Carnatica"))
 [ia]    12  title:(South Indian Inscriptions volume)
@@ -327,9 +327,9 @@
 [ia]     0  collection:(tamilheritagefoundation) AND (title:(inscriptions OR epigraphy OR archaeology 
 [ia]     0  collection:(noolaham) AND (title:(inscriptions OR epigraphy OR archaeology OR excavation O
 [ia]  1043  collection:(TamilVirtualAcademy) AND (title:(inscriptions OR epigraphy OR archaeology OR e
-[ia] raw unique hits: 18522
-[ia] relevant: 7478
-[ia] 7478 reused, enriching 0 new items via metadata API
-[ia] saved 7478 records
-[ia] took 549s
-total 549s
+[ia] raw unique hits: 18528
+[ia] relevant: 7484
+[ia] 7478 reused, enriching 6 new items via metadata API
+[ia] saved 7484 records
+[ia] took 492s
+total 492s

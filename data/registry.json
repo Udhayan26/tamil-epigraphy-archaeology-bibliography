@@ -815,6 +815,10 @@
 "added": "2026-10-20",
 "id": "TB-001931"
 },
+"SERIES|Epigraphia Indica|v10|p1": {
+"added": "2026-11-13",
+"id": "TB-010990"
+},
 "SERIES|Epigraphia Indica|v11|p0": {
 "added": "2026-10-20",
 "id": "TB-001854"
@@ -4554,6 +4558,10 @@
 "cnctnvlcmntlctlplcnclrtlctcltctktnkprmrknlcltprvctrpcvrprtl": {
 "added": "2026-10-29",
 "id": "TB-006953"
+},
+"cnctrctntclnlncntrktntlptntctcnrlclnlctnt": {
+"added": "2026-11-13",
+"id": "TB-010993"
 },
 "cnctrntntlcntncntmprtrtpntntrncprtvtrprtclcrltncnclcnc": {
 "added": "2026-10-20",
@@ -22199,6 +22207,10 @@
 "added": "2026-10-29",
 "id": "TB-007489"
 },
+"nvrnmntlctrprlntrtr": {
+"added": "2026-11-13",
+"id": "TB-010992"
+},
 "nvrnmntntrpnctnrltmlkmtkvnktcprmn": {
 "added": "2026-10-29",
 "id": "TB-009371"
@@ -28350,6 +28362,10 @@
 "pvnrnlmtnmlklk": {
 "added": "2026-10-29",
 "id": "TB-009931"
+},
+"pvnrtlvrlr": {
+"added": "2026-11-13",
+"id": "TB-010991"
 },
 "pvnrtmtvnkl": {
 "added": "2026-10-29",
@@ -36154,6 +36170,10 @@
 "tmplcpkrcnctntctrtntrtncntmlnt": {
 "added": "2026-11-08",
 "id": "TB-010985"
+},
+"tmplctptntktctrncntnltrvtrtnprctctrncrlnk": {
+"added": "2026-11-13",
+"id": "TB-010994"
 },
 "tmplmnt1917201tcmntnrcrcntncpctnpntktc": {
 "added": "2026-10-20",
