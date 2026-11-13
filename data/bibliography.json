@@ -1,15 +1,15 @@
 {
 "generated": "2026-11-13",
-"count": 4695,
-"with_author": 3159,
-"with_publisher": 2911,
+"count": 4696,
+"with_author": 3160,
+"with_publisher": 2912,
 "with_year": 3272,
-"open_access": 2849,
-"with_download": 2383,
+"open_access": 2850,
+"with_download": 2384,
 "heritage_records": 4263,
 "with_buy": 0,
 "access": {
-"open": 2849,
+"open": 2850,
 "catalogue": 1653,
 "": 49,
 "open-us": 100,
@@ -17,7 +17,7 @@
 },
 "sources": {
 "Internet Archive": 2332,
-"Noolaham": 192,
+"Noolaham": 193,
 "Open Library": 1238,
 "Curated": 204,
 "OpenAlex": 320,
@@ -92,7 +92,7 @@
 "HIS": {
 "en": "Tamil History: General, Society & Economy",
 "ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"count": 1112
+"count": 1113
 },
 "NUM": {
 "en": "Numismatics (Coins)",
@@ -31995,8 +31995,8 @@
 "alt_title": "",
 "authors": "Muller,edward",
 "authors_roman": "",
-"publisher": "[[:பகுப்பு:Trubner & Co.",
-"publisher_roman": "[[:Pakuppu:Trubner & Co.",
+"publisher": "[[:பகுப்பு:Asian Educational Services",
+"publisher_roman": "[[:Pakuppu:Asian Educational Services",
 "place": "London; New Delhi",
 "year": "1838",
 "period": "1800–1899 (Colonial, early)",
@@ -32004,7 +32004,7 @@
 "type": "Book",
 "series": "",
 "isbn": "",
-"pages": "218",
+"pages": "219",
 "notes": "",
 "subjects": "Banasthali",
 "access": "open",
@@ -32018,18 +32018,18 @@
 "pdf": "https://archive.org/download/in.ernet.dli.2015.142654/2015.142654.Ancient-Inscriptions-In-Ceylon.pdf"
 },
 {
-"read": "https://noolaham.org/wiki/index.php/Ancient_inscriptions_in_Ceylon",
-"pdf": "http://noolaham.net/project/810/80975/80975.pdf"
-},
-{
 "read": "https://noolaham.org/wiki/index.php/Ancient_Inscriptions_in_Ceylon",
 "pdf": "http://noolaham.net/project/49/4812/4812.pdf"
+},
+{
+"read": "https://noolaham.org/wiki/index.php/Ancient_inscriptions_in_Ceylon",
+"pdf": "http://noolaham.net/project/810/80975/80975.pdf"
 }
 ],
 "other_source_urls": [
 "https://archive.org/details/in.ernet.dli.2015.142654",
-"https://noolaham.org/wiki/index.php/Ancient_inscriptions_in_Ceylon",
 "https://noolaham.org/wiki/index.php/Ancient_Inscriptions_in_Ceylon",
+"https://noolaham.org/wiki/index.php/Ancient_inscriptions_in_Ceylon",
 "https://openlibrary.org/works/OL63236W"
 ],
 "sources": [
@@ -39249,7 +39249,7 @@
 "isbn": "",
 "pages": "",
 "notes": "Coimbatore Mavatta Kalvettugal Thogudi 1",
-"subjects": "Tamil Inscriptions; Sources; History",
+"subjects": "Coimbatore; Kalvettugal",
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10643-%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D%20%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%A4%E0%AF%8A%E0%AE%95%E0%AF%81%E0%AE%A4%E0%AE%BF%20-%201",
 "download_url": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_1.pdf",
@@ -39265,19 +39265,19 @@
 "pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_1.pdf"
 },
 {
-"read": "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
-"pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D.pdf"
-},
-{
 "read": "https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
 "pdf": "https://archive.org/download/coimbatore-mavatta-kalvettugal-thogudi-1/Coimbatore%20Mavatta%20Kalvettugal%20-%20Thogudi%201.pdf"
+},
+{
+"read": "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
+"pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D.pdf"
 }
 ],
 "other_source_urls": [
 "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1",
+"https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
 "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
-"https://openlibrary.org/works/OL18734808W",
-"https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1"
+"https://openlibrary.org/works/OL18734808W"
 ],
 "sources": [
 "Curated",
@@ -113638,54 +113638,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-009093",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "'''ஸ்ரீ முன்னேஸ்வர வரலாறு'''",
-"title_ta": "'''ஸ்ரீ முன்னேஸ்வர வரலாறு'''",
-"title_en": "Śrī Munnēsvara varalāru",
-"title_en_note": "",
-"alt_title": "",
-"authors": "[[:பகுப்பு:சிவராமகிருஷ்ண சர்மா, பா.",
-"authors_roman": "[[:Pakuppu:Civarāmakiruṣṇa Carmā, Pā.",
-"publisher": "-",
-"publisher_roman": "",
-"place": "Colombo",
-"year": "1968",
-"period": "1947–1990 (Post-independence)",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "x + 74",
-"notes": "",
-"subjects": "இந்து சமயம்",
-"access": "open",
-"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"download_url": "http://noolaham.net/project/20/1998/1998.pdf",
-"buy_url": "",
-"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"copies": [
-{
-"read": "https://noolaham.org/wiki/index.php/%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"pdf": "http://noolaham.net/project/781/78073/78073.pdf"
-}
-],
-"other_source_urls": [
-"https://noolaham.org/wiki/index.php/%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"https://openlibrary.org/works/OL6548191W"
-],
-"sources": [
-"Noolaham",
-"Open Library"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
 "id": "TB-006206",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -129372,6 +129324,52 @@
 "added": "2026-10-29"
 },
 {
+"id": "TB-010419",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "ஈழத்தமிழர் வரலாறு",
+"title_ta": "ஈழத்தமிழர் வரலாறு",
+"title_en": "Īḻattamiḻar Varalāṟu",
+"title_en_note": "romanised from Tamil",
+"alt_title": "",
+"authors": "[[:பகுப்பு:வசந்தா நடராசன்",
+"authors_roman": "[[:Pakuppu:Vacantā Naṭarācaṉ",
+"publisher": "[[:பகுப்பு:வசந்தம் பதிப்பகம்",
+"publisher_roman": "[[:Pakuppu:Vacantam Patippakam",
+"place": "",
+"year": "1999",
+"period": "1991–2010",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "326",
+"notes": "",
+"subjects": "இலங்கை வரலாறு",
+"access": "open",
+"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"download_url": "http://noolaham.net/project/925/92433/92433.pdf",
+"buy_url": "",
+"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"copies": [
+{
+"read": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"pdf": ""
+}
+],
+"other_source_urls": [
+"https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81"
+],
+"sources": [
+"Noolaham"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-29"
+},
+{
 "id": "TB-001201",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -139850,6 +139848,54 @@
 "added": "2026-10-29"
 },
 {
+"id": "TB-009093",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "ஶ்ரீ முன்னேஸ்வர வரலாறு",
+"title_ta": "ஶ்ரீ முன்னேஸ்வர வரலாறு",
+"title_en": "Śrī Munnēsvara varalāru",
+"title_en_note": "",
+"alt_title": "",
+"authors": "[[:பகுப்பு:பத்மநாபன், ச.",
+"authors_roman": "[[:Pakuppu:Patmanāpaṉ, Ca.",
+"publisher": "[[:பகுப்பு:ஶ்ரீ முன்னேஸ்வரம் தேவஸ்தானம்",
+"publisher_roman": "[[:Pakuppu:Śrī Muṉṉēsvaram Tēvastāṉam",
+"place": "Colombo",
+"year": "2017",
+"period": "2011–2026 (Recent)",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "118",
+"notes": "",
+"subjects": "கோயில் மலர்",
+"access": "open",
+"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"download_url": "http://noolaham.net/project/781/78073/78073.pdf",
+"buy_url": "",
+"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"copies": [
+{
+"read": "https://noolaham.org/wiki/index.php/%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"pdf": "http://noolaham.net/project/20/1998/1998.pdf"
+}
+],
+"other_source_urls": [
+"https://noolaham.org/wiki/index.php/%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"https://openlibrary.org/works/OL6548191W"
+],
+"sources": [
+"Noolaham",
+"Open Library"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-29"
+},
+{
 "id": "TB-010989",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -142162,56 +142208,6 @@
 "source_url": "https://noolaham.org/wiki/index.php/%E0%AE%85%E0%AE%B2%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%B0%E0%AF%8D_%E0%AE%AA%E0%AF%80%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AF%81%E0%AE%95%E0%AE%AE%E0%AE%A4%E0%AF%81_%E0%AE%B5%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
 "copies": [],
 "other_source_urls": [],
-"sources": [
-"Noolaham"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
-"id": "TB-010419",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "ஈழத் தமிழர் வரலாறு",
-"title_ta": "ஈழத் தமிழர் வரலாறு",
-"title_en": "Īḻat Tamiḻar Varalāṟu",
-"title_en_note": "romanised from Tamil",
-"alt_title": "",
-"authors": "[[:பகுப்பு:வன்னியூர் செந்தூரன்",
-"authors_roman": "[[:Pakuppu:Vaṉṉiyūr Centūraṉ",
-"publisher": "[[:பகுப்பு:ஈழத்துக் கலை இலக்கியப் பேரவை",
-"publisher_roman": "[[:Pakuppu:Īḻattuk Kalai Ilakkiyap Pēravai",
-"place": "",
-"year": "2025",
-"period": "2011–2026 (Recent)",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "188",
-"notes": "",
-"subjects": "வரலாறு",
-"access": "open",
-"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"download_url": "http://noolaham.net/project/925/92433/92433.pdf",
-"buy_url": "",
-"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"copies": [
-{
-"read": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"pdf": ""
-},
-{
-"read": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"pdf": "http://noolaham.net/project/925/92433/92433.pdf"
-}
-],
-"other_source_urls": [
-"https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81"
-],
 "sources": [
 "Noolaham"
 ],
@@ -146097,6 +146093,45 @@
 "added": "2026-10-20"
 },
 {
+"id": "TB-010995",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "அரசியல் சிந்தனை நூல் வரிசை 33: ஈழத்தமிழர் அரசியல் வரலாறு 1968-1976 வரையிலான காலகட்டம்",
+"title_ta": "அரசியல் சிந்தனை நூல் வரிசை 33: ஈழத்தமிழர் அரசியல் வரலாறு 1968-1976 வரையிலான காலகட்டம்",
+"title_en": "Araciyal Cintaṉai Nūl Varicai 33: Īḻattamiḻar Araciyal Varalāṟu 1968-1976 Varaiyilāṉa Kālakaṭṭam",
+"title_en_note": "romanised from Tamil",
+"alt_title": "",
+"authors": "[[:பகுப்பு:யோதிலிங்கம், சி. அ.",
+"authors_roman": "[[:Pakuppu:Yōtiliṅkam, Ci. A.",
+"publisher": "[[:பகுப்பு:சமூகவிஞ்ஞான ஆய்வு மன்றம்",
+"publisher_roman": "[[:Pakuppu:Camūkaviññāṉa Āyvu Maṉṟam",
+"place": "",
+"year": "",
+"period": "Undated",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "44",
+"notes": "",
+"subjects": "அரசியல்",
+"access": "open",
+"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%85%E0%AE%B0%E0%AE%9A%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D_%E0%AE%9A%E0%AE%BF%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%A9%E0%AF%88_%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%BF%E0%AE%9A%E0%AF%88_33%3A_%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%85%E0%AE%B0%E0%AE%9A%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_1968-1976_%E0%AE%B5%E0%AE%B0%E0%AF%88%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AE%BE%E0%AE%A9_%E0%AE%95%E0%AE%BE%E0%AE%B2%E0%AE%95%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AF%8D",
+"download_url": "http://noolaham.net/project/1382/138164/138164.pdf",
+"buy_url": "",
+"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%85%E0%AE%B0%E0%AE%9A%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D_%E0%AE%9A%E0%AE%BF%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%A9%E0%AF%88_%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%BF%E0%AE%9A%E0%AF%88_33%3A_%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%85%E0%AE%B0%E0%AE%9A%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_1968-1976_%E0%AE%B5%E0%AE%B0%E0%AF%88%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AE%BE%E0%AE%A9_%E0%AE%95%E0%AE%BE%E0%AE%B2%E0%AE%95%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AF%8D",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"Noolaham"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-13"
+},
+{
 "id": "TB-010916",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -149286,19 +149321,19 @@
 "notes": "",
 "subjects": "Indic Coins; Numismatics",
 "access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3ACoins_Of_Southern_India.djvu",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coins_Of_Southern_India.djvu",
+"read_url": "https://commons.wikimedia.org/wiki/File%3ACoins_of_Southern_India.djvu",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coins_of_Southern_India.djvu",
 "buy_url": "",
 "source_url": "https://openlibrary.org/works/OL6314691W",
 "copies": [
 {
-"read": "https://commons.wikimedia.org/wiki/File%3ACoins_of_Southern_India.djvu",
-"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Coins_of_Southern_India.djvu"
+"read": "https://commons.wikimedia.org/wiki/File%3ACoins_Of_Southern_India.djvu",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Coins_Of_Southern_India.djvu"
 }
 ],
 "other_source_urls": [
-"https://commons.wikimedia.org/wiki/File%3ACoins_Of_Southern_India.djvu",
 "https://commons.wikimedia.org/wiki/File%3ACoins_of_Southern_India.djvu",
+"https://commons.wikimedia.org/wiki/File%3ACoins_Of_Southern_India.djvu",
 "https://catalog.hathitrust.org/Record/001597199"
 ],
 "sources": [
