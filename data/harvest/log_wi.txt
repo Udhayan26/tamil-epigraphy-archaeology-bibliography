@@ -1,3 +1,6 @@
-[wi] saved 64 records
-[wi] took 2s
-total 2s
+[wi] ERR https://www.whatisindia.com/inscriptions/ <urlopen error [Errno 101] Network is unreachable>
+[wi] ERR http://www.whatisindia.com/inscriptions/ <urlopen error [Errno 101] Network is unreachable>
+[wi] ERR https://whatisindia.com/inscriptions/ <urlopen error [Errno 101] Network is unreachable>
+[wi] saved 0 records
+[wi] took 508s
+total 508s

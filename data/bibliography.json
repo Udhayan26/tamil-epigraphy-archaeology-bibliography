@@ -1,22 +1,22 @@
 {
-"generated": "2026-11-13",
-"count": 4696,
+"generated": "2026-11-14",
+"count": 4698,
 "with_author": 3160,
-"with_publisher": 2912,
-"with_year": 3272,
-"open_access": 2850,
-"with_download": 2384,
+"with_publisher": 2914,
+"with_year": 3274,
+"open_access": 2852,
+"with_download": 2386,
 "heritage_records": 4263,
 "with_buy": 0,
 "access": {
-"open": 2850,
+"open": 2852,
 "catalogue": 1653,
 "": 49,
 "open-us": 100,
 "borrow": 44
 },
 "sources": {
-"Internet Archive": 2332,
+"Internet Archive": 2334,
 "Noolaham": 193,
 "Open Library": 1238,
 "Curated": 204,
@@ -37,7 +37,7 @@
 "ASI": {
 "en": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"count": 578
+"count": 580
 },
 "TNS": {
 "en": "Inscription Corpora: Tamil Nadu State, District & Temple",
@@ -8075,6 +8075,64 @@
 "added": "2026-10-20"
 },
 {
+"id": "TB-001895",
+"category": "ASI",
+"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
+"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
+"title": "Epigraphia Carnatica, Vol. 11",
+"title_ta": "",
+"title_en": "Epigraphia Carnatica, Vol. 11",
+"title_en_note": "",
+"alt_title": "Epigrāphiya Karnāṭika = Epigraphia Carnatica — v.11",
+"authors": "Mysore (India : State). Archaeological Department",
+"authors_roman": "",
+"publisher": "Kannaḍa Adhyayana Saṃsthe, Maisūru Viśvavidyānilaya",
+"publisher_roman": "",
+"place": "",
+"year": "1903",
+"period": "1900–1946 (Colonial, late)",
+"language": "Kan",
+"type": "Book",
+"series": "v.11",
+"isbn": "",
+"pages": "",
+"notes": "Epigraphia Carnatica",
+"subjects": "Epigraphia Carnatica",
+"access": "open",
+"read_url": "https://archive.org/details/ec-11-1903",
+"download_url": "https://archive.org/download/ec-11-1903/EC_11_1903.pdf",
+"buy_url": "",
+"source_url": "https://catalog.hathitrust.org/Record/000124059",
+"copies": [
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=hvd.32044098906548",
+"pdf": ""
+},
+{
+"read": "https://archive.org/details/epigraphia-carnatica-vol-11-chitaldroog-1903",
+"pdf": "https://archive.org/download/epigraphia-carnatica-vol-11-chitaldroog-1903/Epigraphia_Carnatica_Vol_11_Chitaldroog_1903.pdf"
+},
+{
+"read": "https://archive.org/details/india.history.resource.93134",
+"pdf": "https://archive.org/download/india.history.resource.93134/93134.pdf"
+}
+],
+"other_source_urls": [
+"https://catalog.hathitrust.org/Record/003151605",
+"https://archive.org/details/ec-11-1903",
+"https://archive.org/details/epigraphia-carnatica-vol-11-chitaldroog-1903",
+"https://archive.org/details/india.history.resource.93134"
+],
+"sources": [
+"HathiTrust",
+"Internet Archive"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
+},
+{
 "id": "TB-001894",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
@@ -8089,7 +8147,7 @@
 "publisher": "The director general archaeological survey of india",
 "publisher_roman": "",
 "place": "",
-"year": "1902",
+"year": "1903",
 "period": "1900–1946 (Colonial, late)",
 "language": "English",
 "type": "Book",
@@ -8152,64 +8210,6 @@
 "Open Library",
 "Online text",
 "English Wikisource"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
-"id": "TB-001895",
-"category": "ASI",
-"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
-"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Carnatica, Vol. 11",
-"title_ta": "",
-"title_en": "Epigraphia Carnatica, Vol. 11",
-"title_en_note": "",
-"alt_title": "Epigrāphiya Karnāṭika = Epigraphia Carnatica — v.11",
-"authors": "Mysore (India : State). Archaeological Department",
-"authors_roman": "",
-"publisher": "Kannaḍa Adhyayana Saṃsthe, Maisūru Viśvavidyānilaya",
-"publisher_roman": "",
-"place": "",
-"year": "1903",
-"period": "1900–1946 (Colonial, late)",
-"language": "Kan",
-"type": "Book",
-"series": "v.11",
-"isbn": "",
-"pages": "",
-"notes": "Epigraphia Carnatica",
-"subjects": "Epigraphia Carnatica",
-"access": "open",
-"read_url": "https://archive.org/details/ec-11-1903",
-"download_url": "https://archive.org/download/ec-11-1903/EC_11_1903.pdf",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/000124059",
-"copies": [
-{
-"read": "https://babel.hathitrust.org/cgi/pt?id=hvd.32044098906548",
-"pdf": ""
-},
-{
-"read": "https://archive.org/details/epigraphia-carnatica-vol-11-chitaldroog-1903",
-"pdf": "https://archive.org/download/epigraphia-carnatica-vol-11-chitaldroog-1903/Epigraphia_Carnatica_Vol_11_Chitaldroog_1903.pdf"
-},
-{
-"read": "https://archive.org/details/india.history.resource.93134",
-"pdf": "https://archive.org/download/india.history.resource.93134/93134.pdf"
-}
-],
-"other_source_urls": [
-"https://catalog.hathitrust.org/Record/003151605",
-"https://archive.org/details/ec-11-1903",
-"https://archive.org/details/epigraphia-carnatica-vol-11-chitaldroog-1903",
-"https://archive.org/details/india.history.resource.93134"
-],
-"sources": [
-"HathiTrust",
-"Internet Archive"
 ],
 "curated": false,
 "scholar": "",
@@ -10490,6 +10490,45 @@
 "added": "2026-10-20"
 },
 {
+"id": "TB-010996",
+"category": "ASI",
+"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
+"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
+"title": "Epigraphia Indica, Vol. 14, Part 1",
+"title_ta": "",
+"title_en": "Epigraphia Indica, Vol. 14, Part 1",
+"title_en_note": "",
+"alt_title": "Epigraphia Indica Vol XIV Jan Part I",
+"authors": "",
+"authors_roman": "",
+"publisher": "The Authority Of The Government Of India",
+"publisher_roman": "",
+"place": "",
+"year": "1917",
+"period": "1900–1946 (Colonial, late)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "",
+"access": "open",
+"read_url": "https://archive.org/details/mpl.411.75a.epi.14.218",
+"download_url": "https://archive.org/download/mpl.411.75a.epi.14.218/mpl.411.75a.epi.14.218.pdf",
+"buy_url": "",
+"source_url": "https://archive.org/details/mpl.411.75a.epi.14.218",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"Internet Archive"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-14"
+},
+{
 "id": "TB-001962",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
@@ -10729,6 +10768,45 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-20"
+},
+{
+"id": "TB-010997",
+"category": "ASI",
+"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
+"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
+"title": "Epigraphia Indica, Vol. 15, Part 1",
+"title_ta": "",
+"title_en": "Epigraphia Indica, Vol. 15, Part 1",
+"title_en_note": "",
+"alt_title": "Epigraphia Indica Vol XV 1919 Part I",
+"authors": "",
+"authors_roman": "",
+"publisher": "The Authority Of The Government Of India",
+"publisher_roman": "",
+"place": "",
+"year": "1919",
+"period": "1900–1946 (Colonial, late)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "",
+"access": "open",
+"read_url": "https://archive.org/details/mpl.411.754.epi.15.2929",
+"download_url": "https://archive.org/download/mpl.411.754.epi.15.2929/mpl.411.754.epi.15.2929.pdf",
+"buy_url": "",
+"source_url": "https://archive.org/details/mpl.411.754.epi.15.2929",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"Internet Archive"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-14"
 },
 {
 "id": "TB-001971",
@@ -17569,8 +17647,8 @@
 "pdf": "https://archive.org/download/in.ernet.dli.2015.70015/2015.70015.Epigraphia-Indica-Vol---Iii194----95.pdf"
 },
 {
-"read": "https://archive.org/details/mpl.411.754.epi.33.8926",
-"pdf": "https://archive.org/download/mpl.411.754.epi.33.8926/mpl.411.754.epi.33.8926.pdf"
+"read": "https://archive.org/details/mpl.411.754.epi.3.220",
+"pdf": "https://archive.org/download/mpl.411.754.epi.3.220/mpl.411.754.epi.3.220.pdf"
 }
 ],
 "other_source_urls": [
@@ -129324,52 +129402,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-010419",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "ஈழத்தமிழர் வரலாறு",
-"title_ta": "ஈழத்தமிழர் வரலாறு",
-"title_en": "Īḻattamiḻar Varalāṟu",
-"title_en_note": "romanised from Tamil",
-"alt_title": "",
-"authors": "[[:பகுப்பு:வசந்தா நடராசன்",
-"authors_roman": "[[:Pakuppu:Vacantā Naṭarācaṉ",
-"publisher": "[[:பகுப்பு:வசந்தம் பதிப்பகம்",
-"publisher_roman": "[[:Pakuppu:Vacantam Patippakam",
-"place": "",
-"year": "1999",
-"period": "1991–2010",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "326",
-"notes": "",
-"subjects": "இலங்கை வரலாறு",
-"access": "open",
-"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"download_url": "http://noolaham.net/project/925/92433/92433.pdf",
-"buy_url": "",
-"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"copies": [
-{
-"read": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"pdf": ""
-}
-],
-"other_source_urls": [
-"https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81"
-],
-"sources": [
-"Noolaham"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
 "id": "TB-001201",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -142217,6 +142249,56 @@
 "added": "2026-10-29"
 },
 {
+"id": "TB-010419",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "ஈழத் தமிழர் வரலாறு",
+"title_ta": "ஈழத் தமிழர் வரலாறு",
+"title_en": "Īḻat Tamiḻar Varalāṟu",
+"title_en_note": "romanised from Tamil",
+"alt_title": "",
+"authors": "[[:பகுப்பு:வன்னியூர் செந்தூரன்",
+"authors_roman": "[[:Pakuppu:Vaṉṉiyūr Centūraṉ",
+"publisher": "[[:பகுப்பு:ஈழத்துக் கலை இலக்கியப் பேரவை",
+"publisher_roman": "[[:Pakuppu:Īḻattuk Kalai Ilakkiyap Pēravai",
+"place": "",
+"year": "2025",
+"period": "2011–2026 (Recent)",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "188",
+"notes": "",
+"subjects": "வரலாறு",
+"access": "open",
+"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"download_url": "http://noolaham.net/project/925/92433/92433.pdf",
+"buy_url": "",
+"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"copies": [
+{
+"read": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"pdf": ""
+},
+{
+"read": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"pdf": "http://noolaham.net/project/925/92433/92433.pdf"
+}
+],
+"other_source_urls": [
+"https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81"
+],
+"sources": [
+"Noolaham"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-29"
+},
+{
 "id": "TB-010421",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -149321,19 +149403,19 @@
 "notes": "",
 "subjects": "Indic Coins; Numismatics",
 "access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3ACoins_of_Southern_India.djvu",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coins_of_Southern_India.djvu",
+"read_url": "https://commons.wikimedia.org/wiki/File%3ACoins_Of_Southern_India.djvu",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coins_Of_Southern_India.djvu",
 "buy_url": "",
 "source_url": "https://openlibrary.org/works/OL6314691W",
 "copies": [
 {
-"read": "https://commons.wikimedia.org/wiki/File%3ACoins_Of_Southern_India.djvu",
-"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Coins_Of_Southern_India.djvu"
+"read": "https://commons.wikimedia.org/wiki/File%3ACoins_of_Southern_India.djvu",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Coins_of_Southern_India.djvu"
 }
 ],
 "other_source_urls": [
-"https://commons.wikimedia.org/wiki/File%3ACoins_of_Southern_India.djvu",
 "https://commons.wikimedia.org/wiki/File%3ACoins_Of_Southern_India.djvu",
+"https://commons.wikimedia.org/wiki/File%3ACoins_of_Southern_India.djvu",
 "https://catalog.hathitrust.org/Record/001597199"
 ],
 "sources": [
