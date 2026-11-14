@@ -1,22 +1,22 @@
 {
 "generated": "2026-11-14",
-"count": 4698,
-"with_author": 3160,
-"with_publisher": 2914,
-"with_year": 3274,
-"open_access": 2852,
-"with_download": 2386,
+"count": 4702,
+"with_author": 3163,
+"with_publisher": 2918,
+"with_year": 3278,
+"open_access": 2856,
+"with_download": 2390,
 "heritage_records": 4263,
 "with_buy": 0,
 "access": {
-"open": 2852,
+"open": 2856,
 "catalogue": 1653,
 "": 49,
 "open-us": 100,
 "borrow": 44
 },
 "sources": {
-"Internet Archive": 2334,
+"Internet Archive": 2338,
 "Noolaham": 193,
 "Open Library": 1238,
 "Curated": 204,
@@ -37,7 +37,7 @@
 "ASI": {
 "en": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"count": 580
+"count": 584
 },
 "TNS": {
 "en": "Inscription Corpora: Tamil Nadu State, District & Temple",
@@ -11770,6 +11770,45 @@
 "added": "2026-10-20"
 },
 {
+"id": "TB-010998",
+"category": "ASI",
+"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
+"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
+"title": "Epigraphia Indica, Vol. 18, Part 1",
+"title_ta": "",
+"title_en": "Epigraphia Indica, Vol. 18, Part 1",
+"title_en_note": "",
+"alt_title": "Epigraphia Indica Vol XVIII Part I Jan 1925",
+"authors": "Rao Bahadur H. Krishna Sastri",
+"authors_roman": "",
+"publisher": "The Government Of India",
+"publisher_roman": "",
+"place": "",
+"year": "1925",
+"period": "1900–1946 (Colonial, late)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "",
+"access": "open",
+"read_url": "https://archive.org/details/mpl.411.754.epi.18.944",
+"download_url": "https://archive.org/download/mpl.411.754.epi.18.944/mpl.411.754.epi.18.944.pdf",
+"buy_url": "",
+"source_url": "https://archive.org/details/mpl.411.754.epi.18.944",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"Internet Archive"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-14"
+},
+{
 "id": "TB-001989",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
@@ -12203,6 +12242,45 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-20"
+},
+{
+"id": "TB-010999",
+"category": "ASI",
+"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
+"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
+"title": "Epigraphia Indica, Vol. 19, Part 1",
+"title_ta": "",
+"title_en": "Epigraphia Indica, Vol. 19, Part 1",
+"title_en_note": "",
+"alt_title": "Epigraphia Indica Vol XIX Part I Apr 1927",
+"authors": "Hirananda Sastri",
+"authors_roman": "",
+"publisher": "The Government Of India",
+"publisher_roman": "",
+"place": "",
+"year": "1928",
+"period": "1900–1946 (Colonial, late)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "",
+"access": "open",
+"read_url": "https://archive.org/details/mpl.411.754.epi.19.1049",
+"download_url": "https://archive.org/download/mpl.411.754.epi.19.1049/mpl.411.754.epi.19.1049.pdf",
+"buy_url": "",
+"source_url": "https://archive.org/details/mpl.411.754.epi.19.1049",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"Internet Archive"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-14"
 },
 {
 "id": "TB-002019",
@@ -12660,6 +12738,45 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-20"
+},
+{
+"id": "TB-011000",
+"category": "ASI",
+"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
+"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
+"title": "Epigraphia Indica, Vol. 20, Part 1",
+"title_ta": "",
+"title_en": "Epigraphia Indica, Vol. 20, Part 1",
+"title_en_note": "",
+"alt_title": "Epigraphia Indica Vol XX Part I Jan 1929",
+"authors": "Hirananda Sastri",
+"authors_roman": "",
+"publisher": "The Government Of India",
+"publisher_roman": "",
+"place": "",
+"year": "1931",
+"period": "1900–1946 (Colonial, late)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "",
+"access": "open",
+"read_url": "https://archive.org/details/mpl.411.754.epi.20.1321",
+"download_url": "https://archive.org/download/mpl.411.754.epi.20.1321/mpl.411.754.epi.20.1321.pdf",
+"buy_url": "",
+"source_url": "https://archive.org/details/mpl.411.754.epi.20.1321",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"Internet Archive"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-14"
 },
 {
 "id": "TB-002010",
@@ -13137,6 +13254,45 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-20"
+},
+{
+"id": "TB-011001",
+"category": "ASI",
+"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
+"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
+"title": "Epigraphia Indica, Vol. 22, Part 3",
+"title_ta": "",
+"title_en": "Epigraphia Indica, Vol. 22, Part 3",
+"title_en_note": "",
+"alt_title": "Epigraphia Indica Vol XXII Part III Jul 1933",
+"authors": "",
+"authors_roman": "",
+"publisher": "The Government Of India",
+"publisher_roman": "",
+"place": "",
+"year": "1933",
+"period": "1900–1946 (Colonial, late)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "",
+"access": "open",
+"read_url": "https://archive.org/details/mpl.411.754.epi.22.1457",
+"download_url": "https://archive.org/download/mpl.411.754.epi.22.1457/mpl.411.754.epi.22.1457.pdf",
+"buy_url": "",
+"source_url": "https://archive.org/details/mpl.411.754.epi.22.1457",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"Internet Archive"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-14"
 },
 {
 "id": "TB-002018",
@@ -149403,19 +149559,19 @@
 "notes": "",
 "subjects": "Indic Coins; Numismatics",
 "access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3ACoins_Of_Southern_India.djvu",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coins_Of_Southern_India.djvu",
+"read_url": "https://commons.wikimedia.org/wiki/File%3ACoins_of_Southern_India.djvu",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coins_of_Southern_India.djvu",
 "buy_url": "",
 "source_url": "https://openlibrary.org/works/OL6314691W",
 "copies": [
 {
-"read": "https://commons.wikimedia.org/wiki/File%3ACoins_of_Southern_India.djvu",
-"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Coins_of_Southern_India.djvu"
+"read": "https://commons.wikimedia.org/wiki/File%3ACoins_Of_Southern_India.djvu",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Coins_Of_Southern_India.djvu"
 }
 ],
 "other_source_urls": [
-"https://commons.wikimedia.org/wiki/File%3ACoins_Of_Southern_India.djvu",
 "https://commons.wikimedia.org/wiki/File%3ACoins_of_Southern_India.djvu",
+"https://commons.wikimedia.org/wiki/File%3ACoins_Of_Southern_India.djvu",
 "https://catalog.hathitrust.org/Record/001597199"
 ],
 "sources": [
@@ -154766,8 +154922,8 @@
 }
 ],
 "other_source_urls": [
-"http://ci.nii.ac.jp/ncid/BA65717911",
 "https://tufs.repo.nii.ac.jp/records/28416",
+"http://ci.nii.ac.jp/ncid/BA65717911",
 "https://catalog.hathitrust.org/Record/101721535"
 ],
 "sources": [

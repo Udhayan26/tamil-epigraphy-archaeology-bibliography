@@ -13,7 +13,7 @@
    }
   ]
  },
- "created": 1794597809,
+ "created": 1794616148,
  "d1": "ia601906.us.archive.org",
  "d2": "ia801906.us.archive.org",
  "dir": "/19/items/mpl.411.754.epi.15.2929",
@@ -3112,10 +3112,10 @@
    }
   ]
  },
- "server": "ia801906.us.archive.org",
- "uniq": 2104601245,
+ "server": "ia601906.us.archive.org",
+ "uniq": 2133478869,
  "workable_servers": [
-  "ia801906.us.archive.org",
-  "ia601906.us.archive.org"
+  "ia601906.us.archive.org",
+  "ia801906.us.archive.org"
  ]
 }

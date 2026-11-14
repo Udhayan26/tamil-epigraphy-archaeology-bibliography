@@ -1393,22 +1393,6 @@
 },
 {
 "source": "Wikimedia Commons",
-"source_id": "File:The Indian Antiquary Vol 40.pdf",
-"title": "The Indian Antiquary Vol 40",
-"alt_title": "",
-"authors": "",
-"publisher": "",
-"place": "",
-"year": "",
-"language": "",
-"subjects": "",
-"url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_40.pdf",
-"access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_40.pdf",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_40.pdf"
-},
-{
-"source": "Wikimedia Commons",
 "source_id": "File:The Indian Antiquary Vol 36.pdf",
 "title": "The Indian Antiquary Vol 36",
 "alt_title": "",
@@ -1422,6 +1406,22 @@
 "access": "open",
 "read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_36.pdf",
 "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_36.pdf"
+},
+{
+"source": "Wikimedia Commons",
+"source_id": "File:The Indian Antiquary Vol 40.pdf",
+"title": "The Indian Antiquary Vol 40",
+"alt_title": "",
+"authors": "",
+"publisher": "",
+"place": "",
+"year": "",
+"language": "",
+"subjects": "",
+"url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_40.pdf",
+"access": "open",
+"read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_40.pdf",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_40.pdf"
 },
 {
 "source": "Wikimedia Commons",
@@ -2945,22 +2945,6 @@
 },
 {
 "source": "Wikimedia Commons",
-"source_id": "File:Coins Of Southern India.djvu",
-"title": "Coins Of Southern India",
-"alt_title": "",
-"authors": "",
-"publisher": "",
-"place": "",
-"year": "",
-"language": "",
-"subjects": "",
-"url": "https://commons.wikimedia.org/wiki/File%3ACoins_Of_Southern_India.djvu",
-"access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3ACoins_Of_Southern_India.djvu",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coins_Of_Southern_India.djvu"
-},
-{
-"source": "Wikimedia Commons",
 "source_id": "File:Ceylon and the Cingalese - their History, Government, and Religion, the Antiquities, Institutions, Produce, Revenue, and Capabilities of the Island in 2 Vols.Vol-1 (IA dli.granth.40803).pdf",
 "title": "Ceylon and the Cingalese - their History, Government, and Religion, the Antiquities, Institutions, Produce, Revenue, and Capabilities of the Island in 2 Vols.Vol-1 (IA dli.granth.40803)",
 "alt_title": "",
@@ -2990,6 +2974,22 @@
 "access": "open",
 "read_url": "https://commons.wikimedia.org/wiki/File%3ACoins_of_Southern_India.djvu",
 "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coins_of_Southern_India.djvu"
+},
+{
+"source": "Wikimedia Commons",
+"source_id": "File:Historical sketch of the Salem Lyceum, with a list of the officers and lecturers since its formation in 1830, and an extract from the address of Gen. Henry K. Oliver, delive (IA historicalsketch00oliv).pdf",
+"title": "Historical sketch of the Salem Lyceum, with a list of the officers and lecturers since its formation in 1830, and an extract from the address of Gen. Henry K. Oliver, delive (IA historicalsketch00oliv)",
+"alt_title": "",
+"authors": "",
+"publisher": "",
+"place": "",
+"year": "1830",
+"language": "",
+"subjects": "",
+"url": "https://commons.wikimedia.org/wiki/File%3AHistorical_sketch_of_the_Salem_Lyceum%2C_with_a_list_of_the_officers_and_lecturers_since_its_formation_in_1830%2C_and_an_extract_from_the_address_of_Gen._Henry_K._Oliver%2C_delive_%28IA_historicalsketch00oliv%29.pdf",
+"access": "open",
+"read_url": "https://commons.wikimedia.org/wiki/File%3AHistorical_sketch_of_the_Salem_Lyceum%2C_with_a_list_of_the_officers_and_lecturers_since_its_formation_in_1830%2C_and_an_extract_from_the_address_of_Gen._Henry_K._Oliver%2C_delive_%28IA_historicalsketch00oliv%29.pdf",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Historical_sketch_of_the_Salem_Lyceum%2C_with_a_list_of_the_officers_and_lecturers_since_its_formation_in_1830%2C_and_an_extract_from_the_address_of_Gen._Henry_K._Oliver%2C_delive_%28IA_historicalsketch00oliv%29.pdf"
 },
 {
 "source": "Wikimedia Commons",
@@ -4225,19 +4225,19 @@
 },
 {
 "source": "Wikimedia Commons",
-"source_id": "File:Historical sketch of the Salem Lyceum, with a list of the officers and lecturers since its formation in 1830, and an extract from the address of Gen. Henry K. Oliver, delive (IA historicalsketch00oliv).pdf",
-"title": "Historical sketch of the Salem Lyceum, with a list of the officers and lecturers since its formation in 1830, and an extract from the address of Gen. Henry K. Oliver, delive (IA historicalsketch00oliv)",
+"source_id": "File:Coins Of Southern India.djvu",
+"title": "Coins Of Southern India",
 "alt_title": "",
 "authors": "",
 "publisher": "",
 "place": "",
-"year": "1830",
+"year": "",
 "language": "",
 "subjects": "",
-"url": "https://commons.wikimedia.org/wiki/File%3AHistorical_sketch_of_the_Salem_Lyceum%2C_with_a_list_of_the_officers_and_lecturers_since_its_formation_in_1830%2C_and_an_extract_from_the_address_of_Gen._Henry_K._Oliver%2C_delive_%28IA_historicalsketch00oliv%29.pdf",
+"url": "https://commons.wikimedia.org/wiki/File%3ACoins_Of_Southern_India.djvu",
 "access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3AHistorical_sketch_of_the_Salem_Lyceum%2C_with_a_list_of_the_officers_and_lecturers_since_its_formation_in_1830%2C_and_an_extract_from_the_address_of_Gen._Henry_K._Oliver%2C_delive_%28IA_historicalsketch00oliv%29.pdf",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Historical_sketch_of_the_Salem_Lyceum%2C_with_a_list_of_the_officers_and_lecturers_since_its_formation_in_1830%2C_and_an_extract_from_the_address_of_Gen._Henry_K._Oliver%2C_delive_%28IA_historicalsketch00oliv%29.pdf"
+"read_url": "https://commons.wikimedia.org/wiki/File%3ACoins_Of_Southern_India.djvu",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coins_Of_Southern_India.djvu"
 },
 {
 "source": "Wikimedia Commons",
