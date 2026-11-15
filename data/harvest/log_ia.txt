@@ -329,7 +329,7 @@
 [ia]  1043  collection:(TamilVirtualAcademy) AND (title:(inscriptions OR epigraphy OR archaeology OR e
 [ia] raw unique hits: 18547
 [ia] relevant: 7501
-[ia] 7500 reused, enriching 1 new items via metadata API
+[ia] 7501 reused, enriching 0 new items via metadata API
 [ia] saved 7501 records
-[ia] took 491s
-total 491s
+[ia] took 584s
+total 584s
