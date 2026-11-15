@@ -1,11 +1,11 @@
 {
-"generated": "2026-11-14",
+"generated": "2026-11-15",
 "count": 4703,
 "with_author": 3163,
 "with_publisher": 2919,
 "with_year": 3279,
 "open_access": 2857,
-"with_download": 2391,
+"with_download": 2390,
 "heritage_records": 4263,
 "with_buy": 0,
 "access": {
@@ -32268,8 +32268,8 @@
 "alt_title": "",
 "authors": "Muller,edward",
 "authors_roman": "",
-"publisher": "[[:பகுப்பு:Trubner & Co.",
-"publisher_roman": "[[:Pakuppu:Trubner & Co.",
+"publisher": "[[:பகுப்பு:Asian Educational Services",
+"publisher_roman": "[[:Pakuppu:Asian Educational Services",
 "place": "London; New Delhi",
 "year": "1838",
 "period": "1800–1899 (Colonial, early)",
@@ -32277,7 +32277,7 @@
 "type": "Book",
 "series": "",
 "isbn": "",
-"pages": "218",
+"pages": "219",
 "notes": "",
 "subjects": "Banasthali",
 "access": "open",
@@ -32291,18 +32291,18 @@
 "pdf": "https://archive.org/download/in.ernet.dli.2015.142654/2015.142654.Ancient-Inscriptions-In-Ceylon.pdf"
 },
 {
-"read": "https://noolaham.org/wiki/index.php/Ancient_inscriptions_in_Ceylon",
-"pdf": "http://noolaham.net/project/810/80975/80975.pdf"
-},
-{
 "read": "https://noolaham.org/wiki/index.php/Ancient_Inscriptions_in_Ceylon",
 "pdf": "http://noolaham.net/project/49/4812/4812.pdf"
+},
+{
+"read": "https://noolaham.org/wiki/index.php/Ancient_inscriptions_in_Ceylon",
+"pdf": "http://noolaham.net/project/810/80975/80975.pdf"
 }
 ],
 "other_source_urls": [
 "https://archive.org/details/in.ernet.dli.2015.142654",
-"https://noolaham.org/wiki/index.php/Ancient_inscriptions_in_Ceylon",
 "https://noolaham.org/wiki/index.php/Ancient_Inscriptions_in_Ceylon",
+"https://noolaham.org/wiki/index.php/Ancient_inscriptions_in_Ceylon",
 "https://openlibrary.org/works/OL63236W"
 ],
 "sources": [
@@ -105477,7 +105477,7 @@
 "subjects": "Ancient history; Geography; Current (fluid); History; Archaeology; Geology; Oceanography",
 "access": "open",
 "read_url": "http://hdl.handle.net/10524/18250",
-"download_url": "http://hdl.handle.net/10524/18250",
+"download_url": "",
 "buy_url": "",
 "source_url": "http://hdl.handle.net/10524/18250",
 "copies": [],
@@ -154914,9 +154914,9 @@
 "category": "PLM",
 "category_name": "Palm-leaf Manuscripts & Manuscriptology",
 "category_name_ta": "ஓலைச்சுவடிகள், சுவடியியல்",
-"title": "A descriptive catalogue of the Telugu manuscripts in the Government Oriental manuscripts library, Madras /",
+"title": "A descriptive catalogue of the Telugu manuscripts in the Government Oriental Manuscripts Library, Madras",
 "title_ta": "",
-"title_en": "A descriptive catalogue of the Telugu manuscripts in the Government Oriental manuscripts library, Madras /",
+"title_en": "A descriptive catalogue of the Telugu manuscripts in the Government Oriental Manuscripts Library, Madras",
 "title_en_note": "",
 "alt_title": "",
 "authors": "India) Government Oriental Manuscripts Library (Tamil Nadu; P. P. Subrahmanya Sastri; S. Kuppuswami Sastri",
@@ -154932,15 +154932,15 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Telugu; Government (linguistics); History; Library science; Classics; Medicine; Ancient history; History of medicine; Media studies; Art",
+"subjects": "Telugu; Government (linguistics); History; Library science; Classics; Media studies; Ridiculous; Political science; Descriptive research; Ancient history",
 "access": "open",
-"read_url": "http://hdl.handle.net/2027/umn.31951d00194440i",
+"read_url": "https://tufs.repo.nii.ac.jp/records/28420",
 "download_url": "",
 "buy_url": "",
-"source_url": "http://hdl.handle.net/2027/umn.31951d00194440i",
+"source_url": "https://tufs.repo.nii.ac.jp/records/28416",
 "copies": [
 {
-"read": "https://tufs.repo.nii.ac.jp/records/28420",
+"read": "http://hdl.handle.net/2027/umn.31951d00194440i",
 "pdf": ""
 },
 {
@@ -154957,7 +154957,7 @@
 }
 ],
 "other_source_urls": [
-"https://tufs.repo.nii.ac.jp/records/28416",
+"http://hdl.handle.net/2027/umn.31951d00194440i",
 "http://ci.nii.ac.jp/ncid/BA65717911",
 "https://catalog.hathitrust.org/Record/101721535"
 ],

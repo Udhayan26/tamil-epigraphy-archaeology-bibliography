@@ -23,7 +23,7 @@
 [ol] q=akalvaippakam: page 1 docs 7
 [ol] q=paarai oviyangal: page 1 docs 0
 [ol] q=tamil pirami: page 1 docs 1
-[ol] q=tamili: page 1 docs 11
+[ol] q=tamili: page 1 docs 12
 [ol] q=vatteluttu: page 1 docs 3
 [ol] q=vattezhuthu: page 1 docs 0
 [ol] q=sasanam: page 1 docs 10
@@ -346,5 +346,5 @@
 [ol] subject=Inscriptions: page 5 docs 1000
 [ol] subject=Paleography, Tamil: page 1 docs 0
 [ol] saved 1209 records
-[ol] took 469s
-total 469s
+[ol] took 576s
+total 576s
