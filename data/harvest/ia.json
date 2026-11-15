@@ -108316,7 +108316,7 @@
 "access": "open",
 "read_url": "https://archive.org/details/in.gov.ignca.17117",
 "download_url": "https://archive.org/download/in.gov.ignca.17117/17117.pdf",
-"collection": "digitallibraryindia; JaiGyan; fav-lucke133",
+"collection": "digitallibraryindia; JaiGyan; fav-subhasusc; fav-lucke133",
 "description": "From the collection of the esteemed Archaeological Survey of India as maintained at the Indira Gandhi National Centre for the Arts. Place of publication of this book: Calcutta",
 "enriched": true
 },
@@ -109573,6 +109573,26 @@
 "collection": "KarnatakaArchaeology; ServantsOfKnowledge; JaiGyan",
 "description": "",
 "enriched": true
+},
+{
+"source": "Internet Archive",
+"source_id": "mpl.411.754.epi.35.8907-p4",
+"title": "Epigraphia Indica-Vol,XXXV-Apr,1964-Part,VI",
+"alt_title": "",
+"authors": "Dr. D. C. Sircar",
+"publisher": "The Manager Of Publications, Delhi",
+"place": "",
+"year": "1963",
+"language": "Eng",
+"subjects": "",
+"url": "https://archive.org/details/mpl.411.754.epi.35.8907-p4",
+"access": "open",
+"read_url": "https://archive.org/details/mpl.411.754.epi.35.8907-p4",
+"download_url": "https://archive.org/download/mpl.411.754.epi.35.8907-p4/mpl.411.754.epi.35.8907-p4.pdf",
+"collection": "KarnatakaArchaeology; ServantsOfKnowledge; JaiGyan",
+"description": "",
+"enriched": true,
+"imagecount": "58"
 },
 {
 "source": "Internet Archive",

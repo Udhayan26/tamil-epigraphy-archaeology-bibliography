@@ -8769,22 +8769,6 @@
 },
 {
 "source": "English Wikisource",
-"source_id": "Index:The Indian Antiquary Vol 40.pdf",
-"title": "The Indian Antiquary Vol 40",
-"alt_title": "",
-"authors": "",
-"publisher": "",
-"place": "",
-"year": "",
-"language": "",
-"subjects": "",
-"url": "https://en.wikisource.org/wiki/Index%3AThe_Indian_Antiquary_Vol_40.pdf",
-"access": "open",
-"read_url": "https://en.wikisource.org/wiki/Index%3AThe_Indian_Antiquary_Vol_40.pdf",
-"download_url": ""
-},
-{
-"source": "English Wikisource",
 "source_id": "Index:The Indian Antiquary Vol 23.pdf",
 "title": "The Indian Antiquary Vol 23",
 "alt_title": "",
@@ -8797,6 +8781,22 @@
 "url": "https://en.wikisource.org/wiki/Index%3AThe_Indian_Antiquary_Vol_23.pdf",
 "access": "open",
 "read_url": "https://en.wikisource.org/wiki/Index%3AThe_Indian_Antiquary_Vol_23.pdf",
+"download_url": ""
+},
+{
+"source": "English Wikisource",
+"source_id": "Index:The Indian Antiquary Vol 40.pdf",
+"title": "The Indian Antiquary Vol 40",
+"alt_title": "",
+"authors": "",
+"publisher": "",
+"place": "",
+"year": "",
+"language": "",
+"subjects": "",
+"url": "https://en.wikisource.org/wiki/Index%3AThe_Indian_Antiquary_Vol_40.pdf",
+"access": "open",
+"read_url": "https://en.wikisource.org/wiki/Index%3AThe_Indian_Antiquary_Vol_40.pdf",
 "download_url": ""
 },
 {
