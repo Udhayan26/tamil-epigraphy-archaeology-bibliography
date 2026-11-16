@@ -1,42 +1,42 @@
 [cm] South Indian Inscriptions: files so far 500
-[cm] Epigraphia Indica: files so far 673
-[cm] Annual report epigraphy: files so far 782
-[cm] Indian Antiquary: files so far 1210
-[cm] Tamil inscriptions: files so far 1641
-[cm] Travancore Archaeological Series: files so far 1694
-[cm] Pudukkottai inscriptions: files so far 1696
-[cm] Madras archaeology: files so far 2081
-[cm] copper plates Tamil: files so far 2226
-[cm] Tamil Brahmi: files so far 2300
-[cm] hero stone Tamil: files so far 2495
-[cm] Tamil Nadu archaeology: files so far 2513
-[cm] Archaeological Survey of Southern India: files so far 2871
-[cm] கல்வெட்டு: files so far 3369
-[cm] கல்வெட்டுகள்: files so far 3389
-[cm] கல்வெட்டுக்கள்: files so far 3405
-[cm] கல்வெட்டியல்: files so far 3729
-[cm] செப்பேடு: files so far 3734
-[cm] செப்பேடுகள்: files so far 3750
-[cm] நடுகல்: files so far 3768
-[cm] நடுகற்கள்: files so far 3768
-[cm] வீரக்கல்: files so far 3769
-[cm] தொல்லியல்: files so far 4241
-[cm] தொல்பொருள்: files so far 4685
-[cm] அகழாய்வு: files so far 4689
-[cm] அகழ்வாய்வு: files so far 5160
-[cm] அகழ்வைப்பகம்: files so far 5160
-[cm] பாறை ஓவியம்: files so far 5567
-[cm] பாறை ஓவியங்கள்: files so far 5567
-[cm] குகை ஓவியங்கள்: files so far 5569
-[cm] தமிழ்-பிராமி: files so far 5570
-[cm] தமிழ் பிராமி: files so far 5570
-[cm] தமிழி: files so far 5582
-[cm] வட்டெழுத்து: files so far 5586
-[cm] பட்டயம்: files so far 6083
-[cm] சாசனம்: files so far 6324
-[cm] சாசனங்கள்: files so far 6326
-[cm] நாணயவியல்: files so far 6806
-[cm] பழங்காசுகள்: files so far 6806
+[cm] Epigraphia Indica: files so far 672
+[cm] Annual report epigraphy: files so far 781
+[cm] Indian Antiquary: files so far 1208
+[cm] Tamil inscriptions: files so far 1639
+[cm] Travancore Archaeological Series: files so far 1692
+[cm] Pudukkottai inscriptions: files so far 1694
+[cm] Madras archaeology: files so far 2076
+[cm] copper plates Tamil: files so far 2223
+[cm] Tamil Brahmi: files so far 2297
+[cm] hero stone Tamil: files so far 2492
+[cm] Tamil Nadu archaeology: files so far 2510
+[cm] Archaeological Survey of Southern India: files so far 2869
+[cm] கல்வெட்டு: files so far 3366
+[cm] கல்வெட்டுகள்: files so far 3386
+[cm] கல்வெட்டுக்கள்: files so far 3402
+[cm] கல்வெட்டியல்: files so far 3725
+[cm] செப்பேடு: files so far 3730
+[cm] செப்பேடுகள்: files so far 3746
+[cm] நடுகல்: files so far 3764
+[cm] நடுகற்கள்: files so far 3764
+[cm] வீரக்கல்: files so far 3765
+[cm] தொல்லியல்: files so far 4238
+[cm] தொல்பொருள்: files so far 4680
+[cm] அகழாய்வு: files so far 4684
+[cm] அகழ்வாய்வு: files so far 5156
+[cm] அகழ்வைப்பகம்: files so far 5156
+[cm] பாறை ஓவியம்: files so far 5560
+[cm] பாறை ஓவியங்கள்: files so far 5560
+[cm] குகை ஓவியங்கள்: files so far 5562
+[cm] தமிழ்-பிராமி: files so far 5563
+[cm] தமிழ் பிராமி: files so far 5563
+[cm] தமிழி: files so far 5575
+[cm] வட்டெழுத்து: files so far 5579
+[cm] பட்டயம்: files so far 6074
+[cm] சாசனம்: files so far 6317
+[cm] சாசனங்கள்: files so far 6319
+[cm] நாணயவியல்: files so far 6802
+[cm] பழங்காசுகள்: files so far 6802
 [cm] பெருங்கற்காலம்: files so far 7272
 [cm] முதுமக்கள் தாழி: files so far 7288
 [cm] கீழடி: files so far 7288
@@ -47,9 +47,9 @@
 [cm] அழகன்குளம்: files so far 7293
 [cm] பூம்புகார் அகழாய்வு: files so far 7293
 [cm] தொல்லெழுத்தியல்: files so far 7294
-[cm] ஓலைச்சுவடி: files so far 7763
-[cm] ஓலைச்சுவடிகள்: files so far 7765
-[cm] சுவடியியல்: files so far 7766
+[cm] ஓலைச்சுவடி: files so far 7774
+[cm] ஓலைச்சுவடிகள்: files so far 7776
+[cm] சுவடியியல்: files so far 7777
 [cm] ஏட்டுச்சுவடி: files so far 7798
 [cm] சுவடிகள்: files so far 7812
 [cm] பனையோலை: files so far 7812
@@ -96,10 +96,10 @@
 [cm] ஈழத் தமிழர் வரலாறு: files so far 8494
 [cm] யாழ்ப்பாண வரலாறு: files so far 8494
 [cm] மெய்க்கீர்த்தி: files so far 8495
-[cm] வரலாற்று ஆய்வு: files so far 8601
-[cm] தமிழக சமூக வரலாறு: files so far 8601
-[cm] தமிழகப் பொருளாதார வரலாறு: files so far 8601
-[cm] கடல் வணிகம்: files so far 8602
+[cm] வரலாற்று ஆய்வு: files so far 8602
+[cm] தமிழக சமூக வரலாறு: files so far 8602
+[cm] தமிழகப் பொருளாதார வரலாறு: files so far 8602
+[cm] கடல் வணிகம்: files so far 8603
 [cm] saved 265 records
-[cm] took 286s
-total 286s
+[cm] took 284s
+total 284s
