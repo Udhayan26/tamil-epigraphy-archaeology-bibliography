@@ -1,5 +1,5 @@
-merged near-duplicates: 424
-Excel written: Tamil_Epigraphy_Books.xlsx (4703 books, 23 sheets)
-{"generated": "2026-11-16", "count": 4703, "with_author": 3163, "with_publisher": 2919, "with_year": 3279, "open_access": 2857, "with_download": 2390, "heritage_records": 4263, "with_buy": 0, "access": {"open": 2857, "catalogue": 1653, "": 49, "open-us": 100, "borrow": 44}, "sources": {"Internet Archive": 2339, "Noolaham": 193, "Open Library": 1238, "Curated": 204, "OpenAlex": 320, "HathiTrust": 1236, "Wikimedia Commons": 226, "Tamil Wikisource": 106, "Online text": 43, "English Wikisource": 77, "Library of Congress": 8}}
+merged near-duplicates: 423
+Excel written: Tamil_Epigraphy_Books.xlsx (4704 books, 23 sheets)
+{"generated": "2026-11-16", "count": 4704, "with_author": 3164, "with_publisher": 2920, "with_year": 3279, "open_access": 2857, "with_download": 2390, "heritage_records": 4263, "with_buy": 0, "access": {"open": 2857, "catalogue": 1653, "": 49, "open-us": 101, "borrow": 44}, "sources": {"Internet Archive": 2339, "Noolaham": 193, "Open Library": 1238, "Curated": 204, "OpenAlex": 320, "HathiTrust": 1236, "Wikimedia Commons": 226, "Tamil Wikisource": 106, "Online text": 43, "English Wikisource": 77, "Library of Congress": 8}}
 dropped by relevance re-check: 6820
-{'EPG': 138, 'ASI': 585, 'TNS': 319, 'CPP': 84, 'TBR': 98, 'HER': 35, 'ROC': 33, 'EXC': 94, 'PRE': 53, 'ARC': 402, 'DYN': 292, 'LOC': 341, 'HIS': 1113, 'NUM': 104, 'PLM': 252, 'SEA': 15, 'REF': 92, 'JOU': 643, 'ONL': 10}
+{'EPG': 138, 'ASI': 585, 'TNS': 319, 'CPP': 84, 'TBR': 98, 'HER': 35, 'ROC': 33, 'EXC': 94, 'PRE': 53, 'ARC': 402, 'DYN': 292, 'LOC': 341, 'HIS': 1113, 'NUM': 104, 'PLM': 253, 'SEA': 15, 'REF': 92, 'JOU': 643, 'ONL': 10}

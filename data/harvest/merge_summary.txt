@@ -5,10 +5,10 @@ gb.json: previous 0, this run 0, kept from before 0, total 0
 ht.json: previous 5180, this run 5180, kept from before 0, total 5180
 ia.json: previous 7896, this run 7501, kept from before 395, total 7896
 loc.json: previous 42, this run 42, kept from before 0, total 42
-nl.json: previous 310, this run 139, kept from before 171, total 310
-oa.json: previous 455, this run 455, kept from before 0, total 455
+nl.json: previous 310, this run 163, kept from before 147, total 310
+oa.json: previous 455, this run 184, kept from before 271, total 455
 ol.json: previous 2357, this run 1209, kept from before 1148, total 2357
 td.json: previous 2573, this run 2573, kept from before 0, total 2573
 wi.json: previous 64, this run 64, kept from before 0, total 64
-ws.json: previous 604, this run 596, kept from before 8, total 604
+ws.json: previous 604, this run 597, kept from before 7, total 604
 xs.json: previous 0, this run 0, kept from before 0, total 0
