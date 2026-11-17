@@ -210,11 +210,11 @@
 [oa] Tanjore Nayaks: total so far 412
 [oa] ERR Nayaks of Madura HTTP Error 429: Too Many Requests
 [oa] Nayaks of Madura: total so far 412
-[oa] ERR Maratha rulers Thanjavur HTTP Error 503: Service Unavailable
+[oa] ERR Maratha rulers Thanjavur HTTP Error 429: Too Many Requests
 [oa] Maratha rulers Thanjavur: total so far 412
-[oa] ERR Sethupathis of Ramnad HTTP Error 503: Service Unavailable
+[oa] ERR Sethupathis of Ramnad HTTP Error 429: Too Many Requests
 [oa] Sethupathis of Ramnad: total so far 412
-[oa] ERR Pudukkottai history HTTP Error 503: Service Unavailable
+[oa] ERR Pudukkottai history HTTP Error 429: Too Many Requests
 [oa] Pudukkottai history: total so far 412
 [oa] ERR Kongu country history HTTP Error 429: Too Many Requests
 [oa] Kongu country history: total so far 412
@@ -228,19 +228,19 @@
 [oa] Tamil country Vijayanagar: total so far 412
 [oa] ERR temple history Tamil Nadu HTTP Error 429: Too Many Requests
 [oa] temple history Tamil Nadu: total so far 412
-[oa] ERR social history Tamil Nadu HTTP Error 503: Service Unavailable
+[oa] ERR social history Tamil Nadu HTTP Error 429: Too Many Requests
 [oa] social history Tamil Nadu: total so far 412
-[oa] ERR economic history Tamil Nadu HTTP Error 503: Service Unavailable
+[oa] ERR economic history Tamil Nadu HTTP Error 429: Too Many Requests
 [oa] economic history Tamil Nadu: total so far 412
 [oa] ERR agrarian history South India HTTP Error 429: Too Many Requests
 [oa] agrarian history South India: total so far 412
 [oa] ERR Tamil historiography HTTP Error 429: Too Many Requests
 [oa] Tamil historiography: total so far 412
-[oa] ERR history of Jaffna HTTP Error 503: Service Unavailable
+[oa] ERR history of Jaffna HTTP Error 429: Too Many Requests
 [oa] history of Jaffna: total so far 412
-[oa] ERR Sri Lankan Tamil history HTTP Error 503: Service Unavailable
+[oa] ERR Sri Lankan Tamil history HTTP Error 429: Too Many Requests
 [oa] Sri Lankan Tamil history: total so far 412
-[oa] ERR Tamil maritime trade history HTTP Error 503: Service Unavailable
+[oa] ERR Tamil maritime trade history HTTP Error 429: Too Many Requests
 [oa] Tamil maritime trade history: total so far 412
 [oa] ERR Indo-Roman trade South India HTTP Error 429: Too Many Requests
 [oa] Indo-Roman trade South India: total so far 412
@@ -294,13 +294,13 @@
 [oa] agazhaivu: total so far 412
 [oa] ERR akalayvu HTTP Error 429: Too Many Requests
 [oa] akalayvu: total so far 412
-[oa] ERR akazhaivu HTTP Error 503: Service Unavailable
+[oa] ERR akazhaivu HTTP Error 429: Too Many Requests
 [oa] akazhaivu: total so far 412
-[oa] ERR akalvaippakam HTTP Error 503: Service Unavailable
+[oa] ERR akalvaippakam HTTP Error 429: Too Many Requests
 [oa] akalvaippakam: total so far 412
 [oa] ERR paarai oviyangal HTTP Error 429: Too Many Requests
 [oa] paarai oviyangal: total so far 412
-[oa] ERR tamil pirami HTTP Error 503: Service Unavailable
+[oa] ERR tamil pirami HTTP Error 429: Too Many Requests
 [oa] tamil pirami: total so far 412
 [oa] ERR tamili HTTP Error 429: Too Many Requests
 [oa] tamili: total so far 412
@@ -328,19 +328,19 @@
 [oa] kacukal: total so far 412
 [oa] ERR kasukal HTTP Error 429: Too Many Requests
 [oa] kasukal: total so far 412
-[oa] ERR nanayangal HTTP Error 503: Service Unavailable
+[oa] ERR nanayangal HTTP Error 429: Too Many Requests
 [oa] nanayangal: total so far 412
-[oa] ERR varalaru HTTP Error 429: Too Many Requests
+[oa] ERR varalaru 
 [oa] varalaru: total so far 412
-[oa] ERR varalaaru HTTP Error 503: Service Unavailable
+[oa] ERR varalaaru HTTP Error 429: Too Many Requests
 [oa] varalaaru: total so far 412
-[oa] ERR cholar varalaru HTTP Error 503: Service Unavailable
+[oa] ERR cholar varalaru HTTP Error 429: Too Many Requests
 [oa] cholar varalaru: total so far 412
-[oa] ERR pandiyar varalaru HTTP Error 503: Service Unavailable
+[oa] ERR pandiyar varalaru HTTP Error 429: Too Many Requests
 [oa] pandiyar varalaru: total so far 412
-[oa] ERR pallavar varalaru HTTP Error 503: Service Unavailable
+[oa] ERR pallavar varalaru HTTP Error 429: Too Many Requests
 [oa] pallavar varalaru: total so far 412
-[oa] ERR tamilaka varalaru HTTP Error 503: Service Unavailable
+[oa] ERR tamilaka varalaru HTTP Error 429: Too Many Requests
 [oa] tamilaka varalaru: total so far 412
 [oa] ERR tamilnattu varalaru HTTP Error 429: Too Many Requests
 [oa] tamilnattu varalaru: total so far 412
@@ -353,5 +353,5 @@
 [oa] ERR meikeerthi HTTP Error 429: Too Many Requests
 [oa] meikeerthi: total so far 412
 [oa] saved 184 records
-[oa] took 19726s
-total 19726s
+[oa] took 21006s
+total 21006s

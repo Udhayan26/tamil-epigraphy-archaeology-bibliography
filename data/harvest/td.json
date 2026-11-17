@@ -157,19 +157,6 @@
 },
 {
 "source": "TDL-details",
-"source_id": "tdl.10903-nuul-ceelm-naamkkl-maavttttk-klvettttukll",
-"title": "நூல் - சேலம் நாமக்கல் மாவட்டக் கல்வெட்டுகள்",
-"url": "",
-"authors": "",
-"publisher": "",
-"place": "",
-"year": "",
-"pages": "",
-"isbn": "",
-"tried": "2026-11-16"
-},
-{
-"source": "TDL-details",
 "source_id": "tdl.11194-nuul-tirumlai-aannnnt-nilaiy-klvettttukkll",
 "title": "நூல் - திருமலை ஆனந்த நிலைய கல்வெட்டுக்கள்",
 "url": "https://tamildigitallibrary.in/Marc-Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-11194-%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AE%B2%E0%AF%88%20%E0%AE%86%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%20%E0%AE%A8%E0%AE%BF%E0%AE%B2%E0%AF%88%E0%AE%AF%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D",
@@ -6395,6 +6382,19 @@
 "year": "",
 "pages": "",
 "isbn": ""
+},
+{
+"source": "TDL-details",
+"source_id": "tdl.10903-nuul-ceelm-naamkkl-maavttttk-klvettttukll",
+"title": "நூல் - சேலம் நாமக்கல் மாவட்டக் கல்வெட்டுகள்",
+"url": "",
+"authors": "",
+"publisher": "",
+"place": "",
+"year": "",
+"pages": "",
+"isbn": "",
+"tried": "2026-11-16"
 },
 {
 "source": "TDL-details",

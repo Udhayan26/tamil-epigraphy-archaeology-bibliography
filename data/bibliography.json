@@ -1,8 +1,8 @@
 {
 "generated": "2026-11-17",
-"count": 4704,
-"with_author": 3164,
-"with_publisher": 2920,
+"count": 4703,
+"with_author": 3163,
+"with_publisher": 2919,
 "with_year": 3279,
 "open_access": 2857,
 "with_download": 2390,
@@ -12,7 +12,7 @@
 "open": 2857,
 "catalogue": 1653,
 "": 49,
-"open-us": 101,
+"open-us": 100,
 "borrow": 44
 },
 "sources": {
@@ -102,7 +102,7 @@
 "PLM": {
 "en": "Palm-leaf Manuscripts & Manuscriptology",
 "ta": "ஓலைச்சுவடிகள், சுவடியியல்",
-"count": 253
+"count": 252
 },
 "SEA": {
 "en": "Seals, Rock-cut Caves & Jain Beds",
@@ -10859,6 +10859,10 @@
 "pdf": "https://archive.org/download/in.ernet.dli.2015.108417/2015.108417.Epigraphia-Indica-Vol15.pdf"
 },
 {
+"read": "https://archive.org/details/mpl.411.754.epi.15.2928",
+"pdf": "https://archive.org/download/mpl.411.754.epi.15.2928/mpl.411.754.epi.15.2928.pdf"
+},
+{
 "read": "https://zenodo.org/record/3362298",
 "pdf": ""
 },
@@ -10872,7 +10876,7 @@
 "https://catalog.hathitrust.org/Record/006782992",
 "https://archive.org/details/epigraphiaindicavol15_175_I",
 "https://archive.org/details/in.ernet.dli.2015.108417",
-"https://doi.org/10.5281/zenodo.3362297"
+"https://archive.org/details/mpl.411.754.epi.15.2928"
 ],
 "sources": [
 "Wikimedia Commons",
@@ -129597,6 +129601,52 @@
 "added": "2026-10-29"
 },
 {
+"id": "TB-010419",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "ஈழத்தமிழர் வரலாறு",
+"title_ta": "ஈழத்தமிழர் வரலாறு",
+"title_en": "Īḻattamiḻar Varalāṟu",
+"title_en_note": "romanised from Tamil",
+"alt_title": "",
+"authors": "[[:பகுப்பு:வசந்தா நடராசன்",
+"authors_roman": "[[:Pakuppu:Vacantā Naṭarācaṉ",
+"publisher": "[[:பகுப்பு:வசந்தம் பதிப்பகம்",
+"publisher_roman": "[[:Pakuppu:Vacantam Patippakam",
+"place": "",
+"year": "1999",
+"period": "1991–2010",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "326",
+"notes": "",
+"subjects": "இலங்கை வரலாறு",
+"access": "open",
+"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"download_url": "http://noolaham.net/project/925/92433/92433.pdf",
+"buy_url": "",
+"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"copies": [
+{
+"read": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"pdf": ""
+}
+],
+"other_source_urls": [
+"https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81"
+],
+"sources": [
+"Noolaham"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-29"
+},
+{
 "id": "TB-001201",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -142444,56 +142494,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-010419",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "ஈழத் தமிழர் வரலாறு",
-"title_ta": "ஈழத் தமிழர் வரலாறு",
-"title_en": "Īḻat Tamiḻar Varalāṟu",
-"title_en_note": "romanised from Tamil",
-"alt_title": "",
-"authors": "[[:பகுப்பு:வன்னியூர் செந்தூரன்",
-"authors_roman": "[[:Pakuppu:Vaṉṉiyūr Centūraṉ",
-"publisher": "[[:பகுப்பு:ஈழத்துக் கலை இலக்கியப் பேரவை",
-"publisher_roman": "[[:Pakuppu:Īḻattuk Kalai Ilakkiyap Pēravai",
-"place": "",
-"year": "2025",
-"period": "2011–2026 (Recent)",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "188",
-"notes": "",
-"subjects": "வரலாறு",
-"access": "open",
-"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"download_url": "http://noolaham.net/project/925/92433/92433.pdf",
-"buy_url": "",
-"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"copies": [
-{
-"read": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"pdf": ""
-},
-{
-"read": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"pdf": "http://noolaham.net/project/925/92433/92433.pdf"
-}
-],
-"other_source_urls": [
-"https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81"
-],
-"sources": [
-"Noolaham"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
 "id": "TB-010421",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -154923,7 +154923,7 @@
 "title_en": "A descriptive catalogue of the Telugu manuscripts in the Government Oriental Manuscripts Library, Madras",
 "title_en_note": "",
 "alt_title": "",
-"authors": "M. Raṅgācārya; S. Kuppuswami Sastri; P. P. Subrahmanya Sastri; A. Sankaran; Syed Muhammad Fazlullah; T. Chandrasekharan",
+"authors": "India) Government Oriental Manuscripts Library (Tamil Nadu; P. P. Subrahmanya Sastri; S. Kuppuswami Sastri",
 "authors_roman": "",
 "publisher": "National Institute of Informatics",
 "publisher_roman": "",
@@ -154946,14 +154946,28 @@
 {
 "read": "http://hdl.handle.net/2027/umn.31951d00194440i",
 "pdf": ""
+},
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=umn.31951d00194440i",
+"pdf": ""
+},
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=umn.31951002312283m",
+"pdf": ""
+},
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=umn.31951002312288c",
+"pdf": ""
 }
 ],
 "other_source_urls": [
+"http://hdl.handle.net/2027/umn.31951d00194440i",
 "http://ci.nii.ac.jp/ncid/BA65717911",
-"http://hdl.handle.net/2027/umn.31951d00194440i"
+"https://catalog.hathitrust.org/Record/101721535"
 ],
 "sources": [
-"OpenAlex"
+"OpenAlex",
+"HathiTrust"
 ],
 "curated": false,
 "scholar": "",
@@ -160870,54 +160884,6 @@
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/001173551",
 "copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-28"
-},
-{
-"id": "TB-006125",
-"category": "PLM",
-"category_name": "Palm-leaf Manuscripts & Manuscriptology",
-"category_name_ta": "ஓலைச்சுவடிகள், சுவடியியல்",
-"title": "A descriptive catalogue of the Telugu manuscripts in the Government Oriental manuscripts library, Madras / prepared under the orders of the government of Madras — v.3",
-"title_ta": "",
-"title_en": "A descriptive catalogue of the Telugu manuscripts in the Government Oriental manuscripts library, Madras / prepared under the orders of the government of Madras — v.3",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Government Oriental Manuscripts Library (Tamil Nadu, India)",
-"authors_roman": "",
-"publisher": "Printed by the superintendent, Government press",
-"publisher_roman": "",
-"place": "",
-"year": "",
-"period": "Undated",
-"language": "English",
-"type": "Book",
-"series": "v.3",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "open-us",
-"read_url": "https://babel.hathitrust.org/cgi/pt?id=umn.31951d00194440i",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/101721535",
-"copies": [
-{
-"read": "https://babel.hathitrust.org/cgi/pt?id=umn.31951002312283m",
-"pdf": ""
-},
-{
-"read": "https://babel.hathitrust.org/cgi/pt?id=umn.31951002312288c",
-"pdf": ""
-}
-],
 "other_source_urls": [],
 "sources": [
 "HathiTrust"

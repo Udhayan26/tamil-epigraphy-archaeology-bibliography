@@ -143,7 +143,7 @@
 [ia]    10  (title:("Tamil epigraphy") OR subject:("Tamil epigraphy"))
 [ia]   217  title:(South Indian inscriptions)
 [ia]    37  title:(South Indian epigraphy)
-[ia]   365  (title:("Epigraphia Indica") OR subject:("Epigraphia Indica"))
+[ia]   366  (title:("Epigraphia Indica") OR subject:("Epigraphia Indica"))
 [ia]   196  title:(annual report epigraphy)
 [ia]    53  title:(topographical list inscriptions)
 [ia]     8  title:(district inscriptions Tamil)
@@ -196,7 +196,7 @@
 [ia]   194  title:(Report on epigraphy)
 [ia]     0  (title:("Madras epigraphy") OR subject:("Madras epigraphy"))
 [ia]     0  title:(Government Epigraphist Madras)
-[ia]   365  (title:("Epigraphia Indica") OR subject:("Epigraphia Indica"))
+[ia]   366  (title:("Epigraphia Indica") OR subject:("Epigraphia Indica"))
 [ia]   359  (title:("Indian Antiquary") OR subject:("Indian Antiquary"))
 [ia]   149  (title:("Epigraphia Carnatica") OR subject:("Epigraphia Carnatica"))
 [ia]    12  title:(South Indian Inscriptions volume)
@@ -327,9 +327,9 @@
 [ia]     0  collection:(tamilheritagefoundation) AND (title:(inscriptions OR epigraphy OR archaeology 
 [ia]     0  collection:(noolaham) AND (title:(inscriptions OR epigraphy OR archaeology OR excavation O
 [ia]  1043  collection:(TamilVirtualAcademy) AND (title:(inscriptions OR epigraphy OR archaeology OR e
-[ia] raw unique hits: 18549
-[ia] relevant: 7503
-[ia] 7501 reused, enriching 2 new items via metadata API
-[ia] saved 7503 records
-[ia] took 760s
-total 760s
+[ia] raw unique hits: 18550
+[ia] relevant: 7504
+[ia] 7503 reused, enriching 1 new items via metadata API
+[ia] saved 7504 records
+[ia] took 471s
+total 471s

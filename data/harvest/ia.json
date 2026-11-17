@@ -109116,8 +109116,7 @@
 "download_url": "https://archive.org/download/mpl.411.754.epi.13.228/mpl.411.754.epi.13.228.pdf",
 "collection": "KarnatakaArchaeology; ServantsOfKnowledge; JaiGyan",
 "description": "",
-"enriched": true,
-"imagecount": "430"
+"enriched": true
 },
 {
 "source": "Internet Archive",
@@ -109213,6 +109212,26 @@
 "collection": "KarnatakaArchaeology; ServantsOfKnowledge; JaiGyan",
 "description": "",
 "enriched": true
+},
+{
+"source": "Internet Archive",
+"source_id": "mpl.411.754.epi.15.2928",
+"title": "Epigraphia Indica Vol XV 1919-20",
+"alt_title": "",
+"authors": "F. W. Thomas",
+"publisher": "The Government Of India",
+"place": "",
+"year": "1925",
+"language": "Eng",
+"subjects": "",
+"url": "https://archive.org/details/mpl.411.754.epi.15.2928",
+"access": "open",
+"read_url": "https://archive.org/details/mpl.411.754.epi.15.2928",
+"download_url": "https://archive.org/download/mpl.411.754.epi.15.2928/mpl.411.754.epi.15.2928.pdf",
+"collection": "KarnatakaArchaeology; ServantsOfKnowledge; JaiGyan",
+"description": "",
+"enriched": true,
+"imagecount": "512"
 },
 {
 "source": "Internet Archive",
@@ -110200,8 +110219,7 @@
 "download_url": "https://archive.org/download/mpl.411.754.epi.8.212/mpl.411.754.epi.8.212.pdf",
 "collection": "KarnatakaArchaeology; ServantsOfKnowledge; JaiGyan",
 "description": "",
-"enriched": true,
-"imagecount": "486"
+"enriched": true
 },
 {
 "source": "Internet Archive",
