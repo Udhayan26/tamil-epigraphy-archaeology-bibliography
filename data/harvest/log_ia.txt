@@ -9,7 +9,7 @@
 [ia]   520  (title:("வீரக்கல்") OR subject:("வீரக்கல்"))
 [ia]  2084  (title:("தொல்லியல்") OR subject:("தொல்லியல்"))
 [ia]   106  (title:("தொல்பொருள்") OR subject:("தொல்பொருள்"))
-[ia]   143  (title:("அகழாய்வு") OR subject:("அகழாய்வு"))
+[ia]   144  (title:("அகழாய்வு") OR subject:("அகழாய்வு"))
 [ia]     1  (title:("அகழ்வாய்வு") OR subject:("அகழ்வாய்வு"))
 [ia]    12  (title:("அகழ்வைப்பகம்") OR subject:("அகழ்வைப்பகம்"))
 [ia]     0  (title:("பாறை ஓவியம்") OR subject:("பாறை ஓவியம்"))
@@ -26,7 +26,7 @@
 [ia]     0  (title:("பழங்காசுகள்") OR subject:("பழங்காசுகள்"))
 [ia]   313  (title:("பெருங்கற்காலம்") OR subject:("பெருங்கற்காலம்"))
 [ia]    42  (title:("முதுமக்கள் தாழி") OR subject:("முதுமக்கள் தாழி"))
-[ia]    13  (title:("கீழடி") OR subject:("கீழடி"))
+[ia]    14  (title:("கீழடி") OR subject:("கீழடி"))
 [ia]     9  (title:("ஆதிச்சநல்லூர்") OR subject:("ஆதிச்சநல்லூர்"))
 [ia]    15  (title:("கொடுமணல்") OR subject:("கொடுமணல்"))
 [ia]     7  (title:("சிவகளை") OR subject:("சிவகளை"))
@@ -172,7 +172,7 @@
 [ia]     1  title:(megalithic Tamil Nadu)
 [ia]     0  title:(megaliths South India)
 [ia]     0  title:(urn burials Tamil Nadu)
-[ia]    20  (title:("Keeladi") OR subject:("Keeladi"))
+[ia]    21  (title:("Keeladi") OR subject:("Keeladi"))
 [ia]    11  (title:("Keezhadi") OR subject:("Keezhadi"))
 [ia]    25  (title:("Adichanallur") OR subject:("Adichanallur"))
 [ia]     6  (title:("Arikamedu") OR subject:("Arikamedu"))
@@ -327,9 +327,9 @@
 [ia]     0  collection:(tamilheritagefoundation) AND (title:(inscriptions OR epigraphy OR archaeology 
 [ia]     0  collection:(noolaham) AND (title:(inscriptions OR epigraphy OR archaeology OR excavation O
 [ia]  1043  collection:(TamilVirtualAcademy) AND (title:(inscriptions OR epigraphy OR archaeology OR e
-[ia] raw unique hits: 18550
-[ia] relevant: 7504
-[ia] 7504 reused, enriching 0 new items via metadata API
-[ia] saved 7504 records
-[ia] took 491s
-total 491s
+[ia] raw unique hits: 18551
+[ia] relevant: 7505
+[ia] 7504 reused, enriching 1 new items via metadata API
+[ia] saved 7505 records
+[ia] took 543s
+total 543s
