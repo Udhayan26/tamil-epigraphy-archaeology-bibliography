@@ -1,22 +1,22 @@
 {
-"generated": "2026-11-18",
-"count": 4704,
-"with_author": 3164,
+"generated": "2026-11-19",
+"count": 4706,
+"with_author": 3166,
 "with_publisher": 2919,
 "with_year": 3280,
-"open_access": 2858,
-"with_download": 2391,
+"open_access": 2860,
+"with_download": 2393,
 "heritage_records": 4263,
 "with_buy": 0,
 "access": {
-"open": 2858,
+"open": 2860,
 "catalogue": 1653,
 "": 49,
 "open-us": 100,
 "borrow": 44
 },
 "sources": {
-"Internet Archive": 2340,
+"Internet Archive": 2342,
 "Noolaham": 193,
 "Open Library": 1238,
 "Curated": 204,
@@ -117,7 +117,7 @@
 "JOU": {
 "en": "Journals & Periodicals",
 "ta": "இதழ்கள்",
-"count": 643
+"count": 645
 },
 "ONL": {
 "en": "Online Resources & Digital Libraries",
@@ -32272,8 +32272,8 @@
 "alt_title": "",
 "authors": "Muller,edward",
 "authors_roman": "",
-"publisher": "[[:பகுப்பு:Trubner & Co.",
-"publisher_roman": "[[:Pakuppu:Trubner & Co.",
+"publisher": "[[:பகுப்பு:Asian Educational Services",
+"publisher_roman": "[[:Pakuppu:Asian Educational Services",
 "place": "London; New Delhi",
 "year": "1838",
 "period": "1800–1899 (Colonial, early)",
@@ -32281,7 +32281,7 @@
 "type": "Book",
 "series": "",
 "isbn": "",
-"pages": "218",
+"pages": "219",
 "notes": "",
 "subjects": "Banasthali",
 "access": "open",
@@ -32295,18 +32295,18 @@
 "pdf": "https://archive.org/download/in.ernet.dli.2015.142654/2015.142654.Ancient-Inscriptions-In-Ceylon.pdf"
 },
 {
-"read": "https://noolaham.org/wiki/index.php/Ancient_inscriptions_in_Ceylon",
-"pdf": "http://noolaham.net/project/810/80975/80975.pdf"
-},
-{
 "read": "https://noolaham.org/wiki/index.php/Ancient_Inscriptions_in_Ceylon",
 "pdf": "http://noolaham.net/project/49/4812/4812.pdf"
+},
+{
+"read": "https://noolaham.org/wiki/index.php/Ancient_inscriptions_in_Ceylon",
+"pdf": "http://noolaham.net/project/810/80975/80975.pdf"
 }
 ],
 "other_source_urls": [
 "https://archive.org/details/in.ernet.dli.2015.142654",
-"https://noolaham.org/wiki/index.php/Ancient_inscriptions_in_Ceylon",
 "https://noolaham.org/wiki/index.php/Ancient_Inscriptions_in_Ceylon",
+"https://noolaham.org/wiki/index.php/Ancient_inscriptions_in_Ceylon",
 "https://openlibrary.org/works/OL63236W"
 ],
 "sources": [
@@ -39526,7 +39526,7 @@
 "isbn": "",
 "pages": "",
 "notes": "Coimbatore Mavatta Kalvettugal Thogudi 1",
-"subjects": "Tamil Inscriptions; Sources; History",
+"subjects": "Coimbatore; Kalvettugal",
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10643-%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D%20%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%A4%E0%AF%8A%E0%AE%95%E0%AF%81%E0%AE%A4%E0%AE%BF%20-%201",
 "download_url": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_1.pdf",
@@ -39542,19 +39542,19 @@
 "pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_1.pdf"
 },
 {
-"read": "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
-"pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D.pdf"
-},
-{
 "read": "https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
 "pdf": "https://archive.org/download/coimbatore-mavatta-kalvettugal-thogudi-1/Coimbatore%20Mavatta%20Kalvettugal%20-%20Thogudi%201.pdf"
+},
+{
+"read": "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
+"pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D.pdf"
 }
 ],
 "other_source_urls": [
 "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1",
+"https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
 "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
-"https://openlibrary.org/works/OL18734808W",
-"https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1"
+"https://openlibrary.org/works/OL18734808W"
 ],
 "sources": [
 "Curated",
@@ -144553,17 +144553,17 @@
 "source_url": "https://archive.org/details/kadavuL_vazipaaddu_varalaaRu",
 "copies": [
 {
-"read": "https://ta.wikisource.org/wiki/%E0%AE%95%E0%AE%9F%E0%AE%B5%E0%AF%81%E0%AE%B3%E0%AF%8D_%E0%AE%B5%E0%AE%B4%E0%AE%BF%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"read": "https://ta.wikisource.org/wiki/%E0%AE%85%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%B5%E0%AE%A3%E0%AF%88%3A%E0%AE%95%E0%AE%9F%E0%AE%B5%E0%AF%81%E0%AE%B3%E0%AF%8D_%E0%AE%B5%E0%AE%B4%E0%AE%BF%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81.pdf",
 "pdf": ""
 },
 {
-"read": "https://ta.wikisource.org/wiki/%E0%AE%85%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%B5%E0%AE%A3%E0%AF%88%3A%E0%AE%95%E0%AE%9F%E0%AE%B5%E0%AF%81%E0%AE%B3%E0%AF%8D_%E0%AE%B5%E0%AE%B4%E0%AE%BF%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81.pdf",
+"read": "https://ta.wikisource.org/wiki/%E0%AE%95%E0%AE%9F%E0%AE%B5%E0%AF%81%E0%AE%B3%E0%AF%8D_%E0%AE%B5%E0%AE%B4%E0%AE%BF%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
 "pdf": ""
 }
 ],
 "other_source_urls": [
-"https://ta.wikisource.org/wiki/%E0%AE%95%E0%AE%9F%E0%AE%B5%E0%AF%81%E0%AE%B3%E0%AF%8D_%E0%AE%B5%E0%AE%B4%E0%AE%BF%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"https://ta.wikisource.org/wiki/%E0%AE%85%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%B5%E0%AE%A3%E0%AF%88%3A%E0%AE%95%E0%AE%9F%E0%AE%B5%E0%AF%81%E0%AE%B3%E0%AF%8D_%E0%AE%B5%E0%AE%B4%E0%AE%BF%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81.pdf"
+"https://ta.wikisource.org/wiki/%E0%AE%85%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%B5%E0%AE%A3%E0%AF%88%3A%E0%AE%95%E0%AE%9F%E0%AE%B5%E0%AF%81%E0%AE%B3%E0%AF%8D_%E0%AE%B5%E0%AE%B4%E0%AE%BF%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81.pdf",
+"https://ta.wikisource.org/wiki/%E0%AE%95%E0%AE%9F%E0%AE%B5%E0%AF%81%E0%AE%B3%E0%AF%8D_%E0%AE%B5%E0%AE%B4%E0%AE%BF%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81"
 ],
 "sources": [
 "Internet Archive",
@@ -186908,6 +186908,84 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-28"
+},
+{
+"id": "TB-011004",
+"category": "JOU",
+"category_name": "Journals & Periodicals",
+"category_name_ta": "இதழ்கள்",
+"title": "book_quest\\history_geography\\2457\\Ancient India bulletin of the archaeological survey of India.pdf",
+"title_ta": "",
+"title_en": "book_quest\\history_geography\\2457\\Ancient India bulletin of the archaeological survey of India.pdf",
+"title_en_note": "",
+"alt_title": "",
+"authors": "mindroastermir",
+"authors_roman": "",
+"publisher": "",
+"publisher_roman": "",
+"place": "",
+"year": "",
+"period": "Undated",
+"language": "Urd",
+"type": "Journal issue",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "ahmady.org",
+"subjects": "deobandi books",
+"access": "open",
+"read_url": "https://archive.org/details/ahmady-org-deobandi_book_quest_history_geography_2457_ancient_india_bul_2133",
+"download_url": "https://archive.org/download/ahmady-org-deobandi_book_quest_history_geography_2457_ancient_india_bul_2133/book_quest/history_geography/2457/Ancient%20India%20%20bulletin%20of%20the%20archaeological%20survey%20of%20India.pdf",
+"buy_url": "",
+"source_url": "https://archive.org/details/ahmady-org-deobandi_book_quest_history_geography_2457_ancient_india_bul_2133",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"Internet Archive"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-19"
+},
+{
+"id": "TB-011005",
+"category": "JOU",
+"category_name": "Journals & Periodicals",
+"category_name_ta": "இதழ்கள்",
+"title": "book_quest\\history_geography\\2457\\Ancient India bulletin of the archaeological survey of India.pdf",
+"title_ta": "",
+"title_en": "book_quest\\history_geography\\2457\\Ancient India bulletin of the archaeological survey of India.pdf",
+"title_en_note": "",
+"alt_title": "",
+"authors": "mindroastermir",
+"authors_roman": "",
+"publisher": "",
+"publisher_roman": "",
+"place": "",
+"year": "",
+"period": "Undated",
+"language": "Urd",
+"type": "Journal issue",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "ahmady.org",
+"subjects": "deobandi books",
+"access": "open",
+"read_url": "https://archive.org/details/ahmady-org-deobandi_book_quest_history_geography_2457_ancient_india_bul_8799",
+"download_url": "https://archive.org/download/ahmady-org-deobandi_book_quest_history_geography_2457_ancient_india_bul_8799/book_quest/history_geography/2457/Ancient%20India%20%20bulletin%20of%20the%20archaeological%20survey%20of%20India.pdf",
+"buy_url": "",
+"source_url": "https://archive.org/details/ahmady-org-deobandi_book_quest_history_geography_2457_ancient_india_bul_8799",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"Internet Archive"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-19"
 },
 {
 "id": "TB-006041",

@@ -205,7 +205,7 @@
 [ia]     8  title:(Archaeological Survey of Southern India)
 [ia]     7  title:(antiquarian remains Madras)
 [ia]    49  title:(Madras Government Museum bulletin)
-[ia]    77  title:(Ancient India bulletin)
+[ia]    79  title:(Ancient India bulletin)
 [ia]    76  title:(Indian Archaeology a review)
 [ia]    20  title:(Annual report archaeological department southern circle)
 [ia]    18  (title:("Mackenzie collection") OR subject:("Mackenzie collection"))
@@ -327,9 +327,9 @@
 [ia]     0  collection:(tamilheritagefoundation) AND (title:(inscriptions OR epigraphy OR archaeology 
 [ia]     0  collection:(noolaham) AND (title:(inscriptions OR epigraphy OR archaeology OR excavation O
 [ia]  1043  collection:(TamilVirtualAcademy) AND (title:(inscriptions OR epigraphy OR archaeology OR e
-[ia] raw unique hits: 18553
-[ia] relevant: 7505
-[ia] 7505 reused, enriching 0 new items via metadata API
-[ia] saved 7505 records
-[ia] took 574s
-total 574s
+[ia] raw unique hits: 18555
+[ia] relevant: 7507
+[ia] 7505 reused, enriching 2 new items via metadata API
+[ia] saved 7507 records
+[ia] took 462s
+total 462s
