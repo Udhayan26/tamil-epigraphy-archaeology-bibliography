@@ -219,7 +219,7 @@
 [ol] q=Sri Lankan Tamil history: page 1 docs 69
 [ol] q=Tamil maritime trade history: page 1 docs 3
 [ol] q=Indo-Roman trade South India: page 1 docs 4
-[ol] q=Madras district manual: page 1 docs 41
+[ol] q=Madras district manual: page 1 docs 40
 [ol] q=Madras district gazetteer: page 1 docs 13
 [ol] q=Tamils eighteen hundred years ago: page 1 docs 7
 [ol] q=Tamilakam: page 1 docs 66
@@ -346,5 +346,5 @@
 [ol] subject=Inscriptions: page 5 docs 1000
 [ol] subject=Paleography, Tamil: page 1 docs 0
 [ol] saved 1209 records
-[ol] took 601s
-total 601s
+[ol] took 502s
+total 502s

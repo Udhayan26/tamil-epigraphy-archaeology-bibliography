@@ -127868,7 +127868,7 @@
 "access": "open",
 "read_url": "https://archive.org/details/ahmady-org-deobandi_book_quest_history_geography_2457_ancient_india_bul_8799",
 "download_url": "https://archive.org/download/ahmady-org-deobandi_book_quest_history_geography_2457_ancient_india_bul_8799/book_quest/history_geography/2457/Ancient%20India%20%20bulletin%20of%20the%20archaeological%20survey%20of%20India.pdf",
-"collection": "opensource",
+"collection": "mindroastermir-library; patron-library-collection",
 "description": "ahmady.org",
 "enriched": true
 },

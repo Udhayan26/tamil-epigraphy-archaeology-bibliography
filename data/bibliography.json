@@ -1,26 +1,26 @@
 {
 "generated": "2026-11-19",
-"count": 4706,
-"with_author": 3166,
-"with_publisher": 2919,
-"with_year": 3280,
-"open_access": 2860,
-"with_download": 2393,
+"count": 4711,
+"with_author": 3171,
+"with_publisher": 2924,
+"with_year": 3284,
+"open_access": 2864,
+"with_download": 2394,
 "heritage_records": 4263,
 "with_buy": 0,
 "access": {
-"open": 2860,
+"open": 2864,
 "catalogue": 1653,
 "": 49,
-"open-us": 100,
+"open-us": 101,
 "borrow": 44
 },
 "sources": {
 "Internet Archive": 2342,
-"Noolaham": 193,
+"Noolaham": 194,
 "Open Library": 1238,
 "Curated": 204,
-"OpenAlex": 320,
+"OpenAlex": 323,
 "HathiTrust": 1236,
 "Wikimedia Commons": 226,
 "Tamil Wikisource": 106,
@@ -72,7 +72,7 @@
 "PRE": {
 "en": "Archaeology: Prehistory & Megaliths",
 "ta": "தொல்பழங்காலம், பெருங்கற்காலம்",
-"count": 53
+"count": 54
 },
 "ARC": {
 "en": "Archaeology: General, Surveys & Museums",
@@ -92,7 +92,7 @@
 "HIS": {
 "en": "Tamil History: General, Society & Economy",
 "ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"count": 1113
+"count": 1116
 },
 "NUM": {
 "en": "Numismatics (Coins)",
@@ -102,7 +102,7 @@
 "PLM": {
 "en": "Palm-leaf Manuscripts & Manuscriptology",
 "ta": "ஓலைச்சுவடிகள், சுவடியியல்",
-"count": 252
+"count": 253
 },
 "SEA": {
 "en": "Seals, Rock-cut Caves & Jain Beds",
@@ -3287,7 +3287,7 @@
 "title_en": "Measurements from Tamil Epigraphs (A Mathematical approach)",
 "title_en_note": "",
 "alt_title": "",
-"authors": "Dr Santhi T",
+"authors": "Santhi T",
 "authors_roman": "",
 "publisher": "",
 "publisher_roman": "",
@@ -16111,7 +16111,7 @@
 "title_en": "Epigraphia Indica, Vol. 32",
 "title_en_note": "",
 "alt_title": "Epigraphia Indica Vol 32",
-"authors": "D. C. Chhabra Sircar",
+"authors": "D. C. Chhabra Sircar; Chhabra, B. Ch.",
 "authors_roman": "",
 "publisher": "Manager of Publications [etc",
 "publisher_roman": "",
@@ -17101,7 +17101,7 @@
 "title_en": "Epigraphia Indica, Vol. 34",
 "title_en_note": "",
 "alt_title": "Epigraphia Indica Vol 34",
-"authors": "D. C. Gai Sircar",
+"authors": "D. C. Gai Sircar; Gai, G. S.",
 "authors_roman": "",
 "publisher": "Manager of Publications [etc",
 "publisher_roman": "",
@@ -39526,7 +39526,7 @@
 "isbn": "",
 "pages": "",
 "notes": "Coimbatore Mavatta Kalvettugal Thogudi 1",
-"subjects": "Coimbatore; Kalvettugal",
+"subjects": "Tamil Inscriptions; Sources; History",
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10643-%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D%20%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%A4%E0%AF%8A%E0%AE%95%E0%AF%81%E0%AE%A4%E0%AE%BF%20-%201",
 "download_url": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_1.pdf",
@@ -39542,19 +39542,19 @@
 "pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_1.pdf"
 },
 {
-"read": "https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
-"pdf": "https://archive.org/download/coimbatore-mavatta-kalvettugal-thogudi-1/Coimbatore%20Mavatta%20Kalvettugal%20-%20Thogudi%201.pdf"
-},
-{
 "read": "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
 "pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D.pdf"
+},
+{
+"read": "https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
+"pdf": "https://archive.org/download/coimbatore-mavatta-kalvettugal-thogudi-1/Coimbatore%20Mavatta%20Kalvettugal%20-%20Thogudi%201.pdf"
 }
 ],
 "other_source_urls": [
 "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1",
-"https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
 "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
-"https://openlibrary.org/works/OL18734808W"
+"https://openlibrary.org/works/OL18734808W",
+"https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1"
 ],
 "sources": [
 "Curated",
@@ -61781,6 +61781,45 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-20"
+},
+{
+"id": "TB-011006",
+"category": "PRE",
+"category_name": "Archaeology: Prehistory & Megaliths",
+"category_name_ta": "தொல்பழங்காலம், பெருங்கற்காலம்",
+"title": "The Decorated Pottery Lids Of The Megalithic Nilgiris. Chennai: Government Museum.",
+"title_ta": "",
+"title_en": "The Decorated Pottery Lids Of The Megalithic Nilgiris. Chennai: Government Museum.",
+"title_en_note": "",
+"alt_title": "",
+"authors": "C. Maheswaran",
+"authors_roman": "",
+"publisher": "European Organization for Nuclear Research",
+"publisher_roman": "",
+"place": "",
+"year": "2011",
+"period": "2011–2026 (Recent)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Pottery; Megalith; Archaeology; Geography; Ancient history; Art; History",
+"access": "open",
+"read_url": "https://doi.org/10.5281/zenodo.439667",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://doi.org/10.5281/zenodo.439667",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-19"
 },
 {
 "id": "TB-001153",
@@ -113954,54 +113993,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-009093",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "'''ஸ்ரீ முன்னேஸ்வர வரலாறு'''",
-"title_ta": "'''ஸ்ரீ முன்னேஸ்வர வரலாறு'''",
-"title_en": "Śrī Munnēsvara varalāru",
-"title_en_note": "",
-"alt_title": "",
-"authors": "[[:பகுப்பு:சிவராமகிருஷ்ண சர்மா, பா.",
-"authors_roman": "[[:Pakuppu:Civarāmakiruṣṇa Carmā, Pā.",
-"publisher": "-",
-"publisher_roman": "",
-"place": "Colombo",
-"year": "1968",
-"period": "1947–1990 (Post-independence)",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "x + 74",
-"notes": "",
-"subjects": "இந்து சமயம்",
-"access": "open",
-"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"download_url": "http://noolaham.net/project/20/1998/1998.pdf",
-"buy_url": "",
-"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"copies": [
-{
-"read": "https://noolaham.org/wiki/index.php/%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"pdf": "http://noolaham.net/project/781/78073/78073.pdf"
-}
-],
-"other_source_urls": [
-"https://noolaham.org/wiki/index.php/%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"https://openlibrary.org/works/OL6548191W"
-],
-"sources": [
-"Noolaham",
-"Open Library"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
 "id": "TB-006206",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -127325,6 +127316,45 @@
 "added": "2026-10-29"
 },
 {
+"id": "TB-011007",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "A Handbook of Pali Literature",
+"title_ta": "",
+"title_en": "A Handbook of Pali Literature",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Oskar von Hinüber",
+"authors_roman": "",
+"publisher": "De Gruyter",
+"publisher_roman": "",
+"place": "",
+"year": "1996",
+"period": "1991–2010",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Ceylon; Buddhism; History; Ancient history; Traditional medicine; Medicine; Archaeology",
+"access": "open",
+"read_url": "https://zenodo.org/record/5636804",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://doi.org/10.1515/9783110814989",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-19"
+},
+{
 "id": "TB-006295",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -129681,6 +129711,52 @@
 "other_source_urls": [],
 "sources": [
 "Open Library"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-29"
+},
+{
+"id": "TB-010419",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "ஈழத்தமிழர் வரலாறு",
+"title_ta": "ஈழத்தமிழர் வரலாறு",
+"title_en": "Īḻattamiḻar Varalāṟu",
+"title_en_note": "romanised from Tamil",
+"alt_title": "",
+"authors": "[[:பகுப்பு:வசந்தா நடராசன்",
+"authors_roman": "[[:Pakuppu:Vacantā Naṭarācaṉ",
+"publisher": "[[:பகுப்பு:வசந்தம் பதிப்பகம்",
+"publisher_roman": "[[:Pakuppu:Vacantam Patippakam",
+"place": "",
+"year": "1999",
+"period": "1991–2010",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "326",
+"notes": "",
+"subjects": "இலங்கை வரலாறு",
+"access": "open",
+"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"download_url": "http://noolaham.net/project/925/92433/92433.pdf",
+"buy_url": "",
+"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"copies": [
+{
+"read": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"pdf": ""
+}
+],
+"other_source_urls": [
+"https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81"
+],
+"sources": [
+"Noolaham"
 ],
 "curated": false,
 "scholar": "",
@@ -138009,6 +138085,45 @@
 "added": "2026-10-30"
 },
 {
+"id": "TB-011008",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "ஓர் உலகளாவிய வரலாறு",
+"title_ta": "ஓர் உலகளாவிய வரலாறு",
+"title_en": "Ōr Ulakaḷāviya Varalāṟu",
+"title_en_note": "romanised from Tamil",
+"alt_title": "",
+"authors": "[[:பகுப்பு:மர்ஹீம் மவ்லவீ முஹம்மத் உஸ்மான் மஃரூஃபீ",
+"authors_roman": "[[:Pakuppu:Marhīm Mavlavī Muhammat Usmāṉ Maḵrūḵpī",
+"publisher": "[[:பகுப்பு:‎Daarul Quraan Publishers",
+"publisher_roman": "[[:Pakuppu:‎Daarul Quraan Publishers",
+"place": "",
+"year": "2012",
+"period": "2011–2026 (Recent)",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "364",
+"notes": "",
+"subjects": "வரலாறு",
+"access": "open",
+"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%93%E0%AE%B0%E0%AF%8D_%E0%AE%89%E0%AE%B2%E0%AE%95%E0%AE%B3%E0%AE%BE%E0%AE%B5%E0%AE%BF%E0%AE%AF_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%93%E0%AE%B0%E0%AF%8D_%E0%AE%89%E0%AE%B2%E0%AE%95%E0%AE%B3%E0%AE%BE%E0%AE%B5%E0%AE%BF%E0%AE%AF_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"Noolaham"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-19"
+},
+{
 "id": "TB-010204",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -140166,6 +140281,54 @@
 "added": "2026-10-29"
 },
 {
+"id": "TB-009093",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "ஶ்ரீ முன்னேஸ்வர வரலாறு",
+"title_ta": "ஶ்ரீ முன்னேஸ்வர வரலாறு",
+"title_en": "Śrī Munnēsvara varalāru",
+"title_en_note": "",
+"alt_title": "",
+"authors": "[[:பகுப்பு:பத்மநாபன், ச.",
+"authors_roman": "[[:Pakuppu:Patmanāpaṉ, Ca.",
+"publisher": "[[:பகுப்பு:ஶ்ரீ முன்னேஸ்வரம் தேவஸ்தானம்",
+"publisher_roman": "[[:Pakuppu:Śrī Muṉṉēsvaram Tēvastāṉam",
+"place": "Colombo",
+"year": "2017",
+"period": "2011–2026 (Recent)",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "118",
+"notes": "",
+"subjects": "கோயில் மலர்",
+"access": "open",
+"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"download_url": "http://noolaham.net/project/781/78073/78073.pdf",
+"buy_url": "",
+"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"copies": [
+{
+"read": "https://noolaham.org/wiki/index.php/%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"pdf": "http://noolaham.net/project/20/1998/1998.pdf"
+}
+],
+"other_source_urls": [
+"https://noolaham.org/wiki/index.php/%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"https://openlibrary.org/works/OL6548191W"
+],
+"sources": [
+"Noolaham",
+"Open Library"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-29"
+},
+{
 "id": "TB-010989",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -142058,6 +142221,45 @@
 "added": "2026-10-29"
 },
 {
+"id": "TB-011009",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "“True Catholicism” in Colonial South Asia. The Independent Catholics in Ceylon and India in the late Nineteenth and Early Twentieth Centuries",
+"title_ta": "",
+"title_en": "“True Catholicism” in Colonial South Asia. The Independent Catholics in Ceylon and India in the late Nineteenth and Early Twentieth Centuries",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Jiang Wei",
+"authors_roman": "",
+"publisher": "Harrassowitz Publishing House",
+"publisher_roman": "",
+"place": "",
+"year": "2023",
+"period": "2011–2026 (Recent)",
+"language": "De",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Ceylon; Colonialism; Ancient history; History; South asia; Archaeology",
+"access": "open",
+"read_url": "https://doi.org/10.13173/9783447118477",
+"download_url": "https://doi.org/10.13173/9783447118477",
+"buy_url": "",
+"source_url": "https://doi.org/10.13173/9783447118477",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-19"
+},
+{
 "id": "TB-004135",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -142478,56 +142680,6 @@
 "source_url": "https://noolaham.org/wiki/index.php/%E0%AE%85%E0%AE%B2%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%B0%E0%AF%8D_%E0%AE%AA%E0%AF%80%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AF%81%E0%AE%95%E0%AE%AE%E0%AE%A4%E0%AF%81_%E0%AE%B5%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
 "copies": [],
 "other_source_urls": [],
-"sources": [
-"Noolaham"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
-"id": "TB-010419",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "ஈழத் தமிழர் வரலாறு",
-"title_ta": "ஈழத் தமிழர் வரலாறு",
-"title_en": "Īḻat Tamiḻar Varalāṟu",
-"title_en_note": "romanised from Tamil",
-"alt_title": "",
-"authors": "[[:பகுப்பு:வன்னியூர் செந்தூரன்",
-"authors_roman": "[[:Pakuppu:Vaṉṉiyūr Centūraṉ",
-"publisher": "[[:பகுப்பு:ஈழத்துக் கலை இலக்கியப் பேரவை",
-"publisher_roman": "[[:Pakuppu:Īḻattuk Kalai Ilakkiyap Pēravai",
-"place": "",
-"year": "2025",
-"period": "2011–2026 (Recent)",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "188",
-"notes": "",
-"subjects": "வரலாறு",
-"access": "open",
-"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"download_url": "http://noolaham.net/project/925/92433/92433.pdf",
-"buy_url": "",
-"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"copies": [
-{
-"read": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"pdf": ""
-},
-{
-"read": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"pdf": "http://noolaham.net/project/925/92433/92433.pdf"
-}
-],
-"other_source_urls": [
-"https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81"
-],
 "sources": [
 "Noolaham"
 ],
@@ -154966,7 +155118,7 @@
 "title_en": "A descriptive catalogue of the Telugu manuscripts in the Government Oriental Manuscripts Library, Madras",
 "title_en_note": "",
 "alt_title": "",
-"authors": "India) Government Oriental Manuscripts Library (Tamil Nadu; P. P. Subrahmanya Sastri; S. Kuppuswami Sastri",
+"authors": "M. Raṅgācārya; S. Kuppuswami Sastri; P. P. Subrahmanya Sastri; A. Sankaran; Syed Muhammad Fazlullah; T. Chandrasekharan",
 "authors_roman": "",
 "publisher": "National Institute of Informatics",
 "publisher_roman": "",
@@ -154979,38 +155131,24 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Telugu; Government (linguistics); History; Library science; Classics; Media studies; Ridiculous; Political science; Descriptive research; Ancient history",
+"subjects": "Telugu; Government (linguistics); Library science; History; Geography; Computer science; Artificial intelligence; Linguistics; Philosophy",
 "access": "open",
 "read_url": "https://tufs.repo.nii.ac.jp/records/28420",
 "download_url": "",
 "buy_url": "",
-"source_url": "https://tufs.repo.nii.ac.jp/records/28416",
+"source_url": "http://ci.nii.ac.jp/ncid/BA65717911",
 "copies": [
 {
 "read": "http://hdl.handle.net/2027/umn.31951d00194440i",
 "pdf": ""
-},
-{
-"read": "https://babel.hathitrust.org/cgi/pt?id=umn.31951d00194440i",
-"pdf": ""
-},
-{
-"read": "https://babel.hathitrust.org/cgi/pt?id=umn.31951002312283m",
-"pdf": ""
-},
-{
-"read": "https://babel.hathitrust.org/cgi/pt?id=umn.31951002312288c",
-"pdf": ""
 }
 ],
 "other_source_urls": [
-"http://hdl.handle.net/2027/umn.31951d00194440i",
-"http://ci.nii.ac.jp/ncid/BA65717911",
-"https://catalog.hathitrust.org/Record/101721535"
+"https://tufs.repo.nii.ac.jp/records/28416",
+"http://hdl.handle.net/2027/umn.31951d00194440i"
 ],
 "sources": [
-"OpenAlex",
-"HathiTrust"
+"OpenAlex"
 ],
 "curated": false,
 "scholar": "",
@@ -160927,6 +161065,54 @@
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/001173551",
 "copies": [],
+"other_source_urls": [],
+"sources": [
+"HathiTrust"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-28"
+},
+{
+"id": "TB-006125",
+"category": "PLM",
+"category_name": "Palm-leaf Manuscripts & Manuscriptology",
+"category_name_ta": "ஓலைச்சுவடிகள், சுவடியியல்",
+"title": "A descriptive catalogue of the Telugu manuscripts in the Government Oriental manuscripts library, Madras / prepared under the orders of the government of Madras — v.3",
+"title_ta": "",
+"title_en": "A descriptive catalogue of the Telugu manuscripts in the Government Oriental manuscripts library, Madras / prepared under the orders of the government of Madras — v.3",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Government Oriental Manuscripts Library (Tamil Nadu, India)",
+"authors_roman": "",
+"publisher": "Printed by the superintendent, Government press",
+"publisher_roman": "",
+"place": "",
+"year": "",
+"period": "Undated",
+"language": "English",
+"type": "Book",
+"series": "v.3",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "",
+"access": "open-us",
+"read_url": "https://babel.hathitrust.org/cgi/pt?id=umn.31951d00194440i",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://catalog.hathitrust.org/Record/101721535",
+"copies": [
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=umn.31951002312283m",
+"pdf": ""
+},
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=umn.31951002312288c",
+"pdf": ""
+}
+],
 "other_source_urls": [],
 "sources": [
 "HathiTrust"
