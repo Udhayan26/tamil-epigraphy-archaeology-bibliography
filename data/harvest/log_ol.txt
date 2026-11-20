@@ -141,7 +141,7 @@
 [ol] q=palm leaf manuscripts South India: page 1 docs 3
 [ol] q=Tamil manuscripts catalogue: page 1 docs 30
 [ol] q=descriptive catalogue Tamil manuscripts: page 1 docs 19
-[ol] q=manuscriptology Tamil: page 1 docs 1
+[ol] ERR manuscriptology Tamil <urlopen error [Errno 104] Connection reset by peer>
 [ol] q=Government Oriental Manuscripts Library: page 1 docs 266
 [ol] q=Saraswathi Mahal Library manuscripts: page 1 docs 1
 [ol] q=Mackenzie manuscripts: page 1 docs 67
@@ -340,11 +340,8 @@
 [ol] subject=Megalithic monuments: page 2 docs 320
 [ol] subject=Inscriptions, Dravidian: page 1 docs 2
 [ol] subject=Inscriptions: page 1 docs 1000
-[ol] subject=Inscriptions: page 2 docs 1000
-[ol] subject=Inscriptions: page 3 docs 1000
-[ol] subject=Inscriptions: page 4 docs 1000
-[ol] subject=Inscriptions: page 5 docs 1000
+[ol] ERR Inscriptions HTTP Error 503: Service Unavailable
 [ol] subject=Paleography, Tamil: page 1 docs 0
 [ol] saved 1209 records
-[ol] took 502s
-total 502s
+[ol] took 951s
+total 951s

@@ -1,16 +1,16 @@
 {
-"generated": "2026-11-19",
-"count": 4711,
-"with_author": 3171,
-"with_publisher": 2924,
-"with_year": 3284,
-"open_access": 2864,
+"generated": "2026-11-20",
+"count": 4730,
+"with_author": 3189,
+"with_publisher": 2935,
+"with_year": 3302,
+"open_access": 2867,
 "with_download": 2394,
 "heritage_records": 4263,
 "with_buy": 0,
 "access": {
-"open": 2864,
-"catalogue": 1653,
+"open": 2867,
+"catalogue": 1669,
 "": 49,
 "open-us": 101,
 "borrow": 44
@@ -18,9 +18,9 @@
 "sources": {
 "Internet Archive": 2342,
 "Noolaham": 194,
-"Open Library": 1238,
+"Open Library": 1239,
 "Curated": 204,
-"OpenAlex": 323,
+"OpenAlex": 352,
 "HathiTrust": 1236,
 "Wikimedia Commons": 226,
 "Tamil Wikisource": 106,
@@ -52,7 +52,7 @@
 "TBR": {
 "en": "Tamil-Brahmi, Vatteluttu & Early Writing",
 "ta": "தமிழ்-பிராமி, வட்டெழுத்து",
-"count": 98
+"count": 99
 },
 "HER": {
 "en": "Hero Stones & Memorial Stones",
@@ -72,7 +72,7 @@
 "PRE": {
 "en": "Archaeology: Prehistory & Megaliths",
 "ta": "தொல்பழங்காலம், பெருங்கற்காலம்",
-"count": 54
+"count": 53
 },
 "ARC": {
 "en": "Archaeology: General, Surveys & Museums",
@@ -82,7 +82,7 @@
 "DYN": {
 "en": "Tamil Dynasties & Political History",
 "ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
-"count": 292
+"count": 301
 },
 "LOC": {
 "en": "Local, District & Temple History",
@@ -92,7 +92,7 @@
 "HIS": {
 "en": "Tamil History: General, Society & Economy",
 "ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"count": 1116
+"count": 1126
 },
 "NUM": {
 "en": "Numismatics (Coins)",
@@ -2466,11 +2466,13 @@
 "source_url": "https://catalog.hathitrust.org/Record/004963497",
 "copies": [],
 "other_source_urls": [
-"https://openlibrary.org/works/OL3212712W"
+"https://openlibrary.org/works/OL3212712W",
+"http://ci.nii.ac.jp/ncid/BA79325104"
 ],
 "sources": [
 "HathiTrust",
-"Open Library"
+"Open Library",
+"OpenAlex"
 ],
 "curated": false,
 "scholar": "",
@@ -16111,7 +16113,7 @@
 "title_en": "Epigraphia Indica, Vol. 32",
 "title_en_note": "",
 "alt_title": "Epigraphia Indica Vol 32",
-"authors": "D. C. Chhabra Sircar; Chhabra, B. Ch.",
+"authors": "D. C. Chhabra Sircar; B. Ch. Chhabra",
 "authors_roman": "",
 "publisher": "Manager of Publications [etc",
 "publisher_roman": "",
@@ -17101,7 +17103,7 @@
 "title_en": "Epigraphia Indica, Vol. 34",
 "title_en_note": "",
 "alt_title": "Epigraphia Indica Vol 34",
-"authors": "D. C. Gai Sircar; Gai, G. S.",
+"authors": "D. C. Gai Sircar; G. S. Gai",
 "authors_roman": "",
 "publisher": "Manager of Publications [etc",
 "publisher_roman": "",
@@ -32272,8 +32274,8 @@
 "alt_title": "",
 "authors": "Muller,edward",
 "authors_roman": "",
-"publisher": "[[:பகுப்பு:Asian Educational Services",
-"publisher_roman": "[[:Pakuppu:Asian Educational Services",
+"publisher": "[[:பகுப்பு:Trubner & Co.",
+"publisher_roman": "[[:Pakuppu:Trubner & Co.",
 "place": "London; New Delhi",
 "year": "1838",
 "period": "1800–1899 (Colonial, early)",
@@ -32281,7 +32283,7 @@
 "type": "Book",
 "series": "",
 "isbn": "",
-"pages": "219",
+"pages": "218",
 "notes": "",
 "subjects": "Banasthali",
 "access": "open",
@@ -32295,18 +32297,18 @@
 "pdf": "https://archive.org/download/in.ernet.dli.2015.142654/2015.142654.Ancient-Inscriptions-In-Ceylon.pdf"
 },
 {
-"read": "https://noolaham.org/wiki/index.php/Ancient_Inscriptions_in_Ceylon",
-"pdf": "http://noolaham.net/project/49/4812/4812.pdf"
-},
-{
 "read": "https://noolaham.org/wiki/index.php/Ancient_inscriptions_in_Ceylon",
 "pdf": "http://noolaham.net/project/810/80975/80975.pdf"
+},
+{
+"read": "https://noolaham.org/wiki/index.php/Ancient_Inscriptions_in_Ceylon",
+"pdf": "http://noolaham.net/project/49/4812/4812.pdf"
 }
 ],
 "other_source_urls": [
 "https://archive.org/details/in.ernet.dli.2015.142654",
-"https://noolaham.org/wiki/index.php/Ancient_Inscriptions_in_Ceylon",
 "https://noolaham.org/wiki/index.php/Ancient_inscriptions_in_Ceylon",
+"https://noolaham.org/wiki/index.php/Ancient_Inscriptions_in_Ceylon",
 "https://openlibrary.org/works/OL63236W"
 ],
 "sources": [
@@ -33699,15 +33701,14 @@
 "pages": "",
 "notes": "",
 "subjects": "Aryan race; Ancient history; History",
-"access": "borrow",
+"access": "catalogue",
 "read_url": "",
 "download_url": "",
 "buy_url": "",
 "source_url": "https://ci.nii.ac.jp/ncid/BA0265840X",
 "copies": [],
 "other_source_urls": [
-"https://openlibrary.org/works/OL11576938W",
-"https://openlibrary.org/works/OL314254W"
+"https://openlibrary.org/works/OL11576938W"
 ],
 "sources": [
 "OpenAlex",
@@ -50431,6 +50432,45 @@
 "added": "2026-10-20"
 },
 {
+"id": "TB-011010",
+"category": "TBR",
+"category_name": "Tamil-Brahmi, Vatteluttu & Early Writing",
+"category_name_ta": "தமிழ்-பிராமி, வட்டெழுத்து",
+"title": "Leprosy and a Life in South India: Journeys with a Tamil Brahmin",
+"title_ta": "",
+"title_en": "Leprosy and a Life in South India: Journeys with a Tamil Brahmin",
+"title_en_note": "",
+"alt_title": "",
+"authors": "James Staples",
+"authors_roman": "",
+"publisher": "Rowman & Littlefield",
+"publisher_roman": "",
+"place": "",
+"year": "2014",
+"period": "2011–2026 (Recent)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Leprosy; Geography; Medicine; Dermatology",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://doi.org/10.5040/9798216505938",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-20"
+},
+{
 "id": "TB-000082",
 "category": "TBR",
 "category_name": "Tamil-Brahmi, Vatteluttu & Early Writing",
@@ -50551,13 +50591,13 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-010917",
+"id": "TB-011011",
 "category": "TBR",
 "category_name": "Tamil-Brahmi, Vatteluttu & Early Writing",
 "category_name_ta": "தமிழ்-பிராமி, வட்டெழுத்து",
-"title": "Tamil Buddhism and brahminism in Modern India",
+"title": "Tamil Buddhism and brahminism in Modern India: Deep Resistance against Caste",
 "title_ta": "",
-"title_en": "Tamil Buddhism and brahminism in Modern India",
+"title_en": "Tamil Buddhism and brahminism in Modern India: Deep Resistance against Caste",
 "title_en_note": "",
 "alt_title": "",
 "authors": "Gajendran Ayyathurai",
@@ -50587,7 +50627,7 @@
 "curated": false,
 "scholar": "",
 "from_list": false,
-"added": "2026-11-05"
+"added": "2026-11-20"
 },
 {
 "id": "TB-002828",
@@ -61619,45 +61659,6 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-20"
-},
-{
-"id": "TB-010787",
-"category": "PRE",
-"category_name": "Archaeology: Prehistory & Megaliths",
-"category_name_ta": "தொல்பழங்காலம், பெருங்கற்காலம்",
-"title": "South Asia",
-"title_ta": "",
-"title_en": "South Asia",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Christopher V. Hill",
-"authors_roman": "",
-"publisher": "ABC-CLIO",
-"publisher_roman": "",
-"place": "",
-"year": "2008",
-"period": "1991–2010",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "Agrarian society; Peasant; Geography; Colonialism; Population; Sri lanka; Perspective (graphical); South asia; Prehistory; Ethnology",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://doi.org/10.5040/9798216016809",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"OpenAlex"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-30"
 },
 {
 "id": "TB-002904",
@@ -78879,6 +78880,45 @@
 "added": "2026-10-29"
 },
 {
+"id": "TB-011012",
+"category": "DYN",
+"category_name": "Tamil Dynasties & Political History",
+"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
+"title": "Pallava architecture, Part I : (early period)",
+"title_ta": "",
+"title_en": "Pallava architecture, Part I : (early period)",
+"title_en_note": "",
+"alt_title": "",
+"authors": "A. H. Longhurst",
+"authors_roman": "",
+"publisher": "",
+"publisher_roman": "",
+"place": "",
+"year": "1924",
+"period": "1900–1946 (Colonial, late)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Period (music); Architecture; History; Art; Archaeology; Aesthetics",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "http://ci.nii.ac.jp/ncid/BA88857410",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-20"
+},
+{
 "id": "TB-003209",
 "category": "DYN",
 "category_name": "Tamil Dynasties & Political History",
@@ -78945,7 +78985,8 @@
 "https://archive.org/details/in.gov.ignca.35372"
 ],
 "sources": [
-"Internet Archive"
+"Internet Archive",
+"OpenAlex"
 ],
 "curated": false,
 "scholar": "",
@@ -79126,6 +79167,45 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-29"
+},
+{
+"id": "TB-011013",
+"category": "DYN",
+"category_name": "Tamil Dynasties & Political History",
+"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
+"title": "Pallava architecture, Part III : (the later or Rājasimha period)",
+"title_ta": "",
+"title_en": "Pallava architecture, Part III : (the later or Rājasimha period)",
+"title_en_note": "",
+"alt_title": "",
+"authors": "A. H. Longhurst",
+"authors_roman": "",
+"publisher": "",
+"publisher_roman": "",
+"place": "",
+"year": "1930",
+"period": "1900–1946 (Colonial, late)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Period (music); Architecture; History; Art; Archaeology; Aesthetics",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "http://ci.nii.ac.jp/ncid/BA88862228",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-20"
 },
 {
 "id": "TB-006755",
@@ -79815,7 +79895,7 @@
 "title_en": "The art of the Pallavas",
 "title_en_note": "",
 "alt_title": "",
-"authors": "Ordhendra Coomar Gangoly",
+"authors": "O. C. Gangoly; A. Goswami; N. Ramakrishna",
 "authors_roman": "",
 "publisher": "Rupa",
 "publisher_roman": "",
@@ -79828,17 +79908,19 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Pallavas; Sculpture",
+"subjects": "Art",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
 "buy_url": "",
-"source_url": "https://openlibrary.org/works/OL11158420W",
+"source_url": "http://ci.nii.ac.jp/ncid/BA57142530",
 "copies": [],
 "other_source_urls": [
+"https://openlibrary.org/works/OL11158420W",
 "https://openlibrary.org/works/OL1770661W"
 ],
 "sources": [
+"OpenAlex",
 "Open Library"
 ],
 "curated": false,
@@ -80288,6 +80370,48 @@
 "added": "2026-10-20"
 },
 {
+"id": "TB-001278",
+"category": "DYN",
+"category_name": "Tamil Dynasties & Political History",
+"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
+"title": "Expansion of Indo-Aryan culture during Pallava rule",
+"title_ta": "",
+"title_en": "Expansion of Indo-Aryan culture during Pallava rule",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Bahadur Chand Chhabra",
+"authors_roman": "",
+"publisher": "Asiatic Society; Chhabra; Munshi Ram Manohar Lal",
+"publisher_roman": "",
+"place": "Place of publication not identified]; Delhi",
+"year": "1965",
+"period": "1947–1990 (Post-independence)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Aryan race; Ancient history; History",
+"access": "borrow",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "http://ci.nii.ac.jp/ncid/BA31479029",
+"copies": [],
+"other_source_urls": [
+"https://openlibrary.org/works/OL314254W"
+],
+"sources": [
+"OpenAlex",
+"Open Library"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
+},
+{
 "id": "TB-007025",
 "category": "DYN",
 "category_name": "Tamil Dynasties & Political History",
@@ -80310,17 +80434,19 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Pallavas; History",
+"subjects": "History",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
 "buy_url": "",
-"source_url": "https://openlibrary.org/works/OL343308W",
+"source_url": "http://ci.nii.ac.jp/ncid/BA05974508",
 "copies": [],
 "other_source_urls": [
+"https://openlibrary.org/works/OL343308W",
 "https://catalog.hathitrust.org/Record/001632923"
 ],
 "sources": [
+"OpenAlex",
 "Open Library",
 "HathiTrust"
 ],
@@ -81426,6 +81552,45 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-29"
+},
+{
+"id": "TB-011014",
+"category": "DYN",
+"category_name": "Tamil Dynasties & Political History",
+"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
+"title": "Temples Pallava construits",
+"title_ta": "",
+"title_en": "Temples Pallava construits",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Jacques Dumarçay; Françoise L’Hernault",
+"authors_roman": "",
+"publisher": "",
+"publisher_roman": "",
+"place": "",
+"year": "1975",
+"period": "1947–1990 (Post-independence)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Computer science",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "http://ci.nii.ac.jp/ncid/BA07643851",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-20"
 },
 {
 "id": "TB-000550",
@@ -82774,16 +82939,19 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "",
+"subjects": "Art",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/000283269",
 "copies": [],
-"other_source_urls": [],
+"other_source_urls": [
+"http://ci.nii.ac.jp/ncid/BA85727623"
+],
 "sources": [
-"HathiTrust"
+"HathiTrust",
+"OpenAlex"
 ],
 "curated": false,
 "scholar": "",
@@ -83265,9 +83433,9 @@
 "category": "DYN",
 "category_name": "Tamil Dynasties & Political History",
 "category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
-"title": "Kīlaiyūr-Mēlappaluvūr : épanouissement d'une dynastie princière en Inde, à l'époque Cōla",
+"title": "Kīl̲aiyūr-Mēlappal̲uvūr : épanouissement d'une dynastie princière en Inde, à l'époque Cōl̲a",
 "title_ta": "",
-"title_en": "Kīlaiyūr-Mēlappaluvūr : épanouissement d'une dynastie princière en Inde, à l'époque Cōla",
+"title_en": "Kīl̲aiyūr-Mēlappal̲uvūr : épanouissement d'une dynastie princière en Inde, à l'époque Cōl̲a",
 "title_en_note": "",
 "alt_title": "",
 "authors": "Blandine Legrand; Pierre-Sylvain Filliozat",
@@ -83427,6 +83595,45 @@
 "added": "2026-10-29"
 },
 {
+"id": "TB-011015",
+"category": "DYN",
+"category_name": "Tamil Dynasties & Political History",
+"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
+"title": "The monolithic temples of the Pallava Dynasty : a chronology : a thesis submitted to the Faculty of the Graduate School of the University of Minesota",
+"title_ta": "",
+"title_en": "The monolithic temples of the Pallava Dynasty : a chronology : a thesis submitted to the Faculty of the Graduate School of the University of Minesota",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Michael D. Rabe",
+"authors_roman": "",
+"publisher": "",
+"publisher_roman": "",
+"place": "",
+"year": "1987",
+"period": "1947–1990 (Post-independence)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Chronology; History; Classics; Ancient history; Library science; Archaeology; Computer science",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "http://ci.nii.ac.jp/ncid/BA22427603",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-20"
+},
+{
 "id": "TB-007638",
 "category": "DYN",
 "category_name": "Tamil Dynasties & Political History",
@@ -83574,11 +83781,13 @@
 "source_url": "https://catalog.hathitrust.org/Record/001104495",
 "copies": [],
 "other_source_urls": [
-"https://openlibrary.org/works/OL4756057W"
+"https://openlibrary.org/works/OL4756057W",
+"https://ci.nii.ac.jp/ncid/BA07671686"
 ],
 "sources": [
 "HathiTrust",
-"Open Library"
+"Open Library",
+"OpenAlex"
 ],
 "curated": false,
 "scholar": "",
@@ -83820,6 +84029,45 @@
 "added": "2026-10-29"
 },
 {
+"id": "TB-011016",
+"category": "DYN",
+"category_name": "Tamil Dynasties & Political History",
+"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
+"title": "Pallava architecture. Part I : (early period) . Hindu astronomy",
+"title_ta": "",
+"title_en": "Pallava architecture. Part I : (early period) . Hindu astronomy",
+"title_en_note": "",
+"alt_title": "",
+"authors": "A. H. Longhurst; George Rusby Kaye",
+"authors_roman": "",
+"publisher": "",
+"publisher_roman": "",
+"place": "",
+"year": "1991",
+"period": "1991–2010",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Hinduism; Period (music); Architecture; Astronomy; Geography; Art; Physics; Philosophy; Archaeology; Religious studies",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "http://ci.nii.ac.jp/ncid/BA14159021",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-20"
+},
+{
 "id": "TB-007756",
 "category": "DYN",
 "category_name": "Tamil Dynasties & Political History",
@@ -84038,9 +84286,9 @@
 "category": "DYN",
 "category_name": "Tamil Dynasties & Political History",
 "category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
-"title": "Early Chōla art : origin and emergence of style",
+"title": "Early Chōl̤a art : origin and emergence of style",
 "title_ta": "",
-"title_en": "Early Chōla art : origin and emergence of style",
+"title_en": "Early Chōl̤a art : origin and emergence of style",
 "title_en_note": "",
 "alt_title": "",
 "authors": "Rama S Sivaram",
@@ -85964,11 +86212,13 @@
 "source_url": "https://catalog.hathitrust.org/Record/005549166",
 "copies": [],
 "other_source_urls": [
-"https://openlibrary.org/works/OL13675181W"
+"https://openlibrary.org/works/OL13675181W",
+"http://ci.nii.ac.jp/ncid/BA88343708"
 ],
 "sources": [
 "HathiTrust",
-"Open Library"
+"Open Library",
+"OpenAlex"
 ],
 "curated": false,
 "scholar": "",
@@ -87371,6 +87621,47 @@
 "added": "2026-10-20"
 },
 {
+"id": "TB-011017",
+"category": "DYN",
+"category_name": "Tamil Dynasties & Political History",
+"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
+"title": "The Thief Who Stole My Heart: The Material Life of Sacred Bronzes from Chola India, 855–1280",
+"title_ta": "",
+"title_en": "The Thief Who Stole My Heart: The Material Life of Sacred Bronzes from Chola India, 855–1280",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Vidya Dehejia",
+"authors_roman": "",
+"publisher": "Princeton University Press",
+"publisher_roman": "",
+"place": "",
+"year": "2021",
+"period": "2011–2026 (Recent)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Business",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://doi.org/10.1353/book.114763",
+"copies": [],
+"other_source_urls": [
+"https://doi.org/10.2307/jj.5425907"
+],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-20"
+},
+{
 "id": "TB-010930",
 "category": "DYN",
 "category_name": "Tamil Dynasties & Political History",
@@ -87450,6 +87741,45 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-29"
+},
+{
+"id": "TB-011018",
+"category": "DYN",
+"category_name": "Tamil Dynasties & Political History",
+"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
+"title": "Chola in a Choke Hold: Reimagining Indigenous Futures Through Bolivian Lucha Libre",
+"title_ta": "",
+"title_en": "Chola in a Choke Hold: Reimagining Indigenous Futures Through Bolivian Lucha Libre",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Nell Haynes",
+"authors_roman": "",
+"publisher": "University of Pennsylvania Press",
+"publisher_roman": "",
+"place": "",
+"year": "2026",
+"period": "2011–2026 (Recent)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Indigenous; Political science; Economy; Government (linguistics); Politics; Futures contract; Political economy; Choke; Economic growth; Context (archaeology)",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://doi.org/10.9783/9781512830699",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-20"
 },
 {
 "id": "TB-004141",
@@ -87814,6 +88144,45 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-20"
+},
+{
+"id": "TB-011019",
+"category": "DYN",
+"category_name": "Tamil Dynasties & Political History",
+"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
+"title": "Hāra ; Vīṇā ; Granthi ; Pallava ; Guñjana ; Jyotsnā",
+"title_ta": "",
+"title_en": "Hāra ; Vīṇā ; Granthi ; Pallava ; Guñjana ; Jyotsnā",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Sumitra Nandan Pant",
+"authors_roman": "",
+"publisher": "National Institute of Informatics",
+"publisher_roman": "",
+"place": "",
+"year": "",
+"period": "Undated",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Process (computing); Identification (biology); Computer science; Product (mathematics); Work (physics); Context (archaeology); Set (abstract data type); Term (time); Natural (archaeology); Selection (",
+"access": "open",
+"read_url": "https://tufs.repo.nii.ac.jp/records/21579",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://tufs.repo.nii.ac.jp/records/21579",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-20"
 },
 {
 "id": "TB-004167",
@@ -98619,19 +98988,19 @@
 "isbn": "9780195674842; 0195674847",
 "pages": "",
 "notes": "",
-"subjects": "Peasant; Tamil; Subsistence agriculture; Agrarian society; Capitalism; Geography; Economic history; Rural society; Social science; Economy",
+"subjects": "Agriculture; Economic aspects; Economic aspects of Agriculture; History; Peasantry; Social conditions; Peasants; India, history; India, economic conditions; Capitalism",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
 "buy_url": "",
-"source_url": "https://ci.nii.ac.jp/ncid/BA89098508",
+"source_url": "https://openlibrary.org/works/OL1977231W",
 "copies": [],
 "other_source_urls": [
-"https://openlibrary.org/works/OL1977231W"
+"https://ci.nii.ac.jp/ncid/BA89098508"
 ],
 "sources": [
-"OpenAlex",
-"Open Library"
+"Open Library",
+"OpenAlex"
 ],
 "curated": false,
 "scholar": "",
@@ -108816,7 +109185,8 @@
 "Curated",
 "Internet Archive",
 "Open Library",
-"HathiTrust"
+"HathiTrust",
+"OpenAlex"
 ],
 "curated": true,
 "scholar": "C. Minakshi",
@@ -110686,7 +111056,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Tamil; Prosody; Linguistics; History; Psychology; Philosophy",
+"subjects": "Tamil; Prosody; History; Linguistics; Philosophy",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -110694,8 +111064,8 @@
 "source_url": "https://catalog.hathitrust.org/Record/001356971",
 "copies": [],
 "other_source_urls": [
-"http://ci.nii.ac.jp/ncid/BA83627672",
-"http://ci.nii.ac.jp/ncid/BA02579642?l=en"
+"http://ci.nii.ac.jp/ncid/BA02579642?l=en",
+"http://ci.nii.ac.jp/ncid/BA83627672"
 ],
 "sources": [
 "HathiTrust",
@@ -116114,7 +116484,7 @@
 "alt_title": "",
 "authors": "Rajan K. Sampath; J. Pavithra Dr. M Ganesan",
 "authors_roman": "",
-"publisher": "Institute of Development Studies",
+"publisher": "Figshare (United Kingdom)",
 "publisher_roman": "",
 "place": "",
 "year": "1974",
@@ -116128,9 +116498,9 @@
 "subjects": "Tamil; Agriculture; Agricultural economics; Economics; Agroforestry; Agricultural science; Geography; Environmental science; Art; Archaeology",
 "access": "open",
 "read_url": "http://opendocs.ids.ac.uk/opendocs/handle/123456789/823",
-"download_url": "http://opendocs.ids.ac.uk/opendocs/handle/123456789/823",
+"download_url": "",
 "buy_url": "",
-"source_url": "http://opendocs.ids.ac.uk/opendocs/handle/123456789/823",
+"source_url": "https://figshare.com/articles/monograph/Economics_of_dry_farming_in_Tamil_Nadu/26446237",
 "copies": [],
 "other_source_urls": [],
 "sources": [
@@ -116181,13 +116551,13 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-010935",
+"id": "TB-011020",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
 "category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Kinship and History in South Asia",
+"title": "Kinship and History in South Asia: Four Lectures",
 "title_ta": "",
-"title_en": "Kinship and History in South Asia",
+"title_en": "Kinship and History in South Asia: Four Lectures",
 "title_en_note": "",
 "alt_title": "",
 "authors": "Thomas R. Trautmann",
@@ -116217,7 +116587,7 @@
 "curated": false,
 "scholar": "",
 "from_list": false,
-"added": "2026-11-05"
+"added": "2026-11-20"
 },
 {
 "id": "TB-003471",
@@ -126221,6 +126591,45 @@
 "added": "2026-10-29"
 },
 {
+"id": "TB-011021",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "Dialogue and History: Constructing South India, 1795-1895",
+"title_ta": "",
+"title_en": "Dialogue and History: Constructing South India, 1795-1895",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Eugene F. Irschick",
+"authors_roman": "",
+"publisher": "University of California Press",
+"publisher_roman": "",
+"place": "",
+"year": "1994",
+"period": "1991–2010",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Computer science",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://doi.org/10.1525/9780520914322",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-20"
+},
+{
 "id": "TB-009535",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -129563,9 +129972,9 @@
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
 "category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "The four hundred songs of war and wisdom : an anthology of poems from classical Tamil, The Puranānūru",
+"title": "The four hundred songs of war and wisdom : an anthology of poems from classical Tamil, The Pur̲anān̲ūr̲u",
 "title_ta": "",
-"title_en": "The four hundred songs of war and wisdom : an anthology of poems from classical Tamil, The Puranānūru",
+"title_en": "The four hundred songs of war and wisdom : an anthology of poems from classical Tamil, The Pur̲anān̲ūr̲u",
 "title_en_note": "",
 "alt_title": "",
 "authors": "George L. Hart; Hank Heifetz",
@@ -132198,9 +132607,9 @@
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
 "category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Temples of Krṣṇa in South India : history, art and traditions in Tamilnāḍu",
+"title": "Temples of Kr̥ṣṇa in South India : history, art and traditions in Tamilnāḍu",
 "title_ta": "",
-"title_en": "Temples of Krṣṇa in South India : history, art and traditions in Tamilnāḍu",
+"title_en": "Temples of Kr̥ṣṇa in South India : history, art and traditions in Tamilnāḍu",
 "title_en_note": "",
 "alt_title": "",
 "authors": "T. Padmaja",
@@ -132425,7 +132834,7 @@
 "pdf": "https://archive.org/download/tdl.tdl_0c7185-nuul-tmilllk-vrlaarru-mkkllum-pnnpaattum/TVA_BOK_0000551_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%95_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81.pdf"
 },
 {
-"read": "https://ta.wikisource.org/wiki/%E0%AE%85%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%B5%E0%AE%A3%E0%AF%88%3A%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%95_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_%E0%AE%AE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%81%E0%AE%AE%E0%AF%8D_%E0%AE%AA%E0%AE%A3%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AF%81%E0%AE%AE%E0%AF%8D.pdf",
+"read": "https://zenodo.org/record/4692321",
 "pdf": ""
 }
 ],
@@ -132439,6 +132848,7 @@
 "sources": [
 "Wikimedia Commons",
 "Internet Archive",
+"OpenAlex",
 "Open Library",
 "Tamil Wikisource"
 ],
@@ -133372,13 +133782,13 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-010955",
+"id": "TB-011022",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
 "category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Hayagrīva in South India",
+"title": "Hayagrīva in South India: Complexity and Selectivity of a Pan-Indian Hindu Deity",
 "title_ta": "",
-"title_en": "Hayagrīva in South India",
+"title_en": "Hayagrīva in South India: Complexity and Selectivity of a Pan-Indian Hindu Deity",
 "title_en_note": "",
 "alt_title": "",
 "authors": "Kamala Elizabeth Nayar",
@@ -133408,7 +133818,7 @@
 "curated": false,
 "scholar": "",
 "from_list": false,
-"added": "2026-11-05"
+"added": "2026-11-20"
 },
 {
 "id": "TB-009844",
@@ -135260,6 +135670,45 @@
 "added": "2026-10-29"
 },
 {
+"id": "TB-011023",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "A Systemic Approach to Conflict Transformation : Exploring Strengths and Weaknesses",
+"title_ta": "",
+"title_en": "A Systemic Approach to Conflict Transformation : Exploring Strengths and Weaknesses",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Daniela Körppen; Beatrix Schmelzle; Oliver Wils",
+"authors_roman": "",
+"publisher": "",
+"publisher_roman": "",
+"place": "",
+"year": "2008",
+"period": "1991–2010",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Strengths and weaknesses; Context (archaeology); Sri lanka; Conflict transformation; Value (mathematics); Transformation (genetics); Epistemology; Sociology; Political science; Social science",
+"access": "open",
+"read_url": "http://edoc.vifapol.de/opus/volltexte/2011/2561/",
+"download_url": "",
+"buy_url": "",
+"source_url": "http://bvbr.bib-bvb.de:8991/F?func=service&amp;doc_library=BVB01&amp;local_base=BVB01&amp;doc_number=016782317&amp;sequence=000001&amp;line_number=0001&amp;func_code=DB_RECORDS&amp;service_type=MEDIA",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-20"
+},
+{
 "id": "TB-003081",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -135570,6 +136019,45 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-29"
+},
+{
+"id": "TB-011024",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "South Asia: An Environmental History",
+"title_ta": "",
+"title_en": "South Asia: An Environmental History",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Christopher V. Hill",
+"authors_roman": "",
+"publisher": "ABC-CLIO",
+"publisher_roman": "",
+"place": "",
+"year": "2008",
+"period": "1991–2010",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Agrarian society; Peasant; Geography; Colonialism; Population; Sri lanka; Perspective (graphical); South asia; Prehistory; Ethnology",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://doi.org/10.5040/9798216016809",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-20"
 },
 {
 "id": "TB-010027",
@@ -136372,6 +136860,45 @@
 "added": "2026-10-23"
 },
 {
+"id": "TB-010139",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "The Early Medieval in South India",
+"title_ta": "",
+"title_en": "The Early Medieval in South India",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Kesavan Veluthat",
+"authors_roman": "",
+"publisher": "",
+"publisher_roman": "",
+"place": "",
+"year": "2009",
+"period": "1991–2010",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Geography; State (computer science); Historiography; Ancient history; Politics; Literacy; State formation; Colonialism; History; Archaeology",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "http://ci.nii.ac.jp/ncid/BB03580633",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-29"
+},
+{
 "id": "TB-010093",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -136720,7 +137247,9 @@
 "buy_url": "",
 "source_url": "http://researchrepository.murdoch.edu.au/id/eprint/23344/",
 "copies": [],
-"other_source_urls": [],
+"other_source_urls": [
+"https://doi.org/10.4324/9780203085462"
+],
 "sources": [
 "OpenAlex"
 ],
@@ -137571,6 +138100,45 @@
 "added": "2026-10-29"
 },
 {
+"id": "TB-011025",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "The Sri Lanka Reader: History, Culture, Politics",
+"title_ta": "",
+"title_en": "The Sri Lanka Reader: History, Culture, Politics",
+"title_en_note": "",
+"alt_title": "",
+"authors": "",
+"authors_roman": "",
+"publisher": "Duke University Press",
+"publisher_roman": "",
+"place": "",
+"year": "2011",
+"period": "2011–2026 (Recent)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Tamil; Ancient history; Geography; Independence (probability theory); History; Politics; Sri lanka; Hinduism; Buddhism; Indigenous",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://doi.org/10.2307/j.ctv120qtx9",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-20"
+},
+{
 "id": "TB-010174",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -137923,6 +138491,45 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-20"
+},
+{
+"id": "TB-011026",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "More than Real: A History of the Imagination in South India",
+"title_ta": "",
+"title_en": "More than Real: A History of the Imagination in South India",
+"title_en_note": "",
+"alt_title": "",
+"authors": "David Dean Shulman",
+"authors_roman": "",
+"publisher": "Harvard University Press",
+"publisher_roman": "",
+"place": "",
+"year": "2012",
+"period": "2011–2026 (Recent)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Computer science",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://doi.org/10.4159/harvard.9780674065123",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-20"
 },
 {
 "id": "TB-000175",
@@ -138320,6 +138927,45 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-29"
+},
+{
+"id": "TB-011027",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "Medical texts and manuscripts in Indian cultural history",
+"title_ta": "",
+"title_en": "Medical texts and manuscripts in Indian cultural history",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Dominik Wujastyk; Anthony Cerulli; Karin Preisendanz",
+"authors_roman": "",
+"publisher": "",
+"publisher_roman": "",
+"place": "",
+"year": "2013",
+"period": "2011–2026 (Recent)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Sanskrit; Siddha; Tamil; Traditional medicine; Classics; Critical edition; Alchemy; History; South asia; Literature",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "http://bvbr.bib-bvb.de:8991/F?func=service&amp;doc_library=BVB01&amp;local_base=BVB01&amp;doc_number=027219488&amp;sequence=000001&amp;line_number=0001&amp;func_code=DB_RECORDS&amp;service_type=MEDIA",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-20"
 },
 {
 "id": "TB-010857",
@@ -139003,11 +139649,14 @@
 "source_url": "https://catalog.hathitrust.org/Record/102219409",
 "copies": [],
 "other_source_urls": [
-"https://openlibrary.org/works/OL21263409W"
+"https://openlibrary.org/works/OL21263409W",
+"https://doi.org/10.21313/hawaii/9780824838942.001.0001",
+"https://doi.org/10.1515/9780824847876"
 ],
 "sources": [
 "HathiTrust",
-"Open Library"
+"Open Library",
+"OpenAlex"
 ],
 "curated": false,
 "scholar": "",
@@ -141073,6 +141722,45 @@
 "added": "2026-10-29"
 },
 {
+"id": "TB-011028",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "Weaving Histories: The Transformation of the Handloom Industry in South India, 1800-1960",
+"title_ta": "",
+"title_en": "Weaving Histories: The Transformation of the Handloom Industry in South India, 1800-1960",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Karuna Dietrich Wielenga",
+"authors_roman": "",
+"publisher": "British Academy",
+"publisher_roman": "",
+"place": "",
+"year": "2020",
+"period": "2011–2026 (Recent)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Weaving; Industrialisation; Colonialism; Politics; Painting; Textile; Economy; Geography; History; Genealogy",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://doi.org/10.5871/bacad/9780197266731.001.0001",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-20"
+},
+{
 "id": "TB-010378",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -141751,6 +142439,45 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-29"
+},
+{
+"id": "TB-011029",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "Tamil Nationalism in Sri Lanka: Counter-history as War after the Tamil Tigers",
+"title_ta": "",
+"title_en": "Tamil Nationalism in Sri Lanka: Counter-history as War after the Tamil Tigers",
+"title_en_note": "",
+"alt_title": "",
+"authors": "A. R. Sriskanda Rajah",
+"authors_roman": "",
+"publisher": "Routledge",
+"publisher_roman": "",
+"place": "",
+"year": "2022",
+"period": "2011–2026 (Recent)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Tamil; Sri lanka; Nationalism; Geography; Political science; Socioeconomics; History; Ancient history; Sociology; Art",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://doi.org/10.4324/9781003301677",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-20"
 },
 {
 "id": "TB-010399",
@@ -142846,6 +143573,45 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-30"
+},
+{
+"id": "TB-011030",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "Guarantees of Non-Recurrence in Transitional Justice: Lessons from Sri Lanka",
+"title_ta": "",
+"title_en": "Guarantees of Non-Recurrence in Transitional Justice: Lessons from Sri Lanka",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Nikhil Narayan",
+"authors_roman": "",
+"publisher": "Routledge",
+"publisher_roman": "",
+"place": "",
+"year": "2026",
+"period": "2011–2026 (Recent)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Political science; Transitional justice; Economic Justice; Law and economics; Law; Government (linguistics); Public administration; Subject (documents); Context (archaeology); Criminology",
+"access": "open",
+"read_url": "https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.4324/9781003612582&type=googlepdf",
+"download_url": "https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.4324/9781003612582&type=googlepdf",
+"buy_url": "",
+"source_url": "https://doi.org/10.4324/9781003612582",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-20"
 },
 {
 "id": "TB-010424",
@@ -155133,19 +155899,19 @@
 "notes": "",
 "subjects": "Telugu; Government (linguistics); Library science; History; Geography; Computer science; Artificial intelligence; Linguistics; Philosophy",
 "access": "open",
-"read_url": "https://tufs.repo.nii.ac.jp/records/28420",
+"read_url": "http://hdl.handle.net/2027/umn.31951d00194440i",
 "download_url": "",
 "buy_url": "",
 "source_url": "http://ci.nii.ac.jp/ncid/BA65717911",
 "copies": [
 {
-"read": "http://hdl.handle.net/2027/umn.31951d00194440i",
+"read": "https://tufs.repo.nii.ac.jp/records/28420",
 "pdf": ""
 }
 ],
 "other_source_urls": [
-"https://tufs.repo.nii.ac.jp/records/28416",
-"http://hdl.handle.net/2027/umn.31951d00194440i"
+"http://hdl.handle.net/2027/umn.31951d00194440i",
+"https://tufs.repo.nii.ac.jp/records/28416"
 ],
 "sources": [
 "OpenAlex"

@@ -5,8 +5,8 @@ gb.json: previous 0, this run 0, kept from before 0, total 0
 ht.json: previous 5180, this run 5180, kept from before 0, total 5180
 ia.json: previous 7902, this run 7507, kept from before 395, total 7902
 loc.json: previous 42, this run 42, kept from before 0, total 42
-nl.json: previous 310, this run 148, kept from before 163, total 311
-oa.json: previous 455, this run 186, kept from before 272, total 458
+nl.json: previous 311, this run 173, kept from before 138, total 311
+oa.json: previous 458, this run 318, kept from before 169, total 487
 ol.json: previous 2357, this run 1209, kept from before 1148, total 2357
 td.json: previous 2573, this run 2573, kept from before 0, total 2573
 wi.json: previous 64, this run 64, kept from before 0, total 64

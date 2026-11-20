@@ -2503,6 +2503,10 @@
 "added": "2026-10-20",
 "id": "TB-001253"
 },
+"clnckltrmkntkncptrctrkplvnlclpr": {
+"added": "2026-11-20",
+"id": "TB-011018"
+},
 "clncklt|OpenAlex|https://openalex.org/W7224111349": {
 "added": "2026-11-05",
 "id": "TB-010931"
@@ -6655,6 +6659,10 @@
 "added": "2026-10-20",
 "id": "TB-003966"
 },
+"ctcnvrnmntlctr": {
+"added": "2026-11-20",
+"id": "TB-011024"
+},
 "ctcpclkctlrcktnklnvlprclrmxcn": {
 "added": "2026-10-29",
 "id": "TB-007034"
@@ -7478,6 +7486,10 @@
 "ctmcntlprtctkrclnvnlprntprln1968kctvpntcnrcrtlncmrknrpnvc": {
 "added": "2026-10-29",
 "id": "TB-007135"
+},
+"ctmcprctcnplctrncprmtnxplrnctrntcntvknc": {
+"added": "2026-11-20",
+"id": "TB-011023"
 },
 "ctmlkvlprtl": {
 "added": "2026-10-29",
@@ -11487,6 +11499,10 @@
 "added": "2026-11-05",
 "id": "TB-010935"
 },
+"kncpntctrnctcprlctrc": {
+"added": "2026-11-20",
+"id": "TB-011020"
+},
 "kncpntnctr": {
 "added": "2026-10-20",
 "id": "TB-003762"
@@ -12227,6 +12243,10 @@
 "added": "2026-10-29",
 "id": "TB-009469"
 },
+"krntcpnrcrncntrnctnlctclcncprmcrlnk": {
+"added": "2026-11-20",
+"id": "TB-011030"
+},
 "krntcpt|Internet Archive|tdl.17434-nuul-krntaic-ceppeettttut-tokuti": {
 "added": "2026-10-20",
 "id": "TB-000922"
@@ -12370,6 +12390,10 @@
 "krvnctnt": {
 "added": "2026-11-05",
 "id": "TB-010955"
+},
+"krvnctntcmplxtntclctvtpntnt": {
+"added": "2026-11-20",
+"id": "TB-011022"
 },
 "krvrcrklvpkm": {
 "added": "2026-10-20",
@@ -14254,6 +14278,10 @@
 "lprclrnvnlpnctptctlcprmrcrntctctlprclrclprtcncrcl8910tcmprt196": {
 "added": "2026-10-29",
 "id": "TB-007050"
+},
+"lprcntlpnctntcrncvtmlprmn": {
+"added": "2026-11-20",
+"id": "TB-011010"
 },
 "lprcpcntlpltcrntrnlrltltrctrclrnlctlpltcmrcrctlncnlprprpcrptctctcnlctntcprlmcrmntlprntlctcrtcnprmrcl": {
 "added": "2026-10-29",
@@ -16407,6 +16435,10 @@
 "added": "2026-10-29",
 "id": "TB-008282"
 },
+"mrtnrlctrptmkntnctnt": {
+"added": "2026-11-20",
+"id": "TB-011026"
+},
 "mrtntckntlmntclrptpnt": {
 "added": "2026-10-29",
 "id": "TB-007731"
@@ -16462,6 +16494,10 @@
 "mtcltlvrkmtclmtclcrclkntmnrtlcmrctlpr": {
 "added": "2026-10-29",
 "id": "TB-008248"
+},
+"mtcltxtcntmncrptcntncltrlctr": {
+"added": "2026-11-20",
+"id": "TB-011027"
 },
 "mtcncrlnk": {
 "added": "2026-10-29",
@@ -26171,6 +26207,18 @@
 "added": "2026-10-20",
 "id": "TB-003187"
 },
+"plvrctctr1rlprt": {
+"added": "2026-11-20",
+"id": "TB-011012"
+},
+"plvrctctr1rlprtntctrnm": {
+"added": "2026-11-20",
+"id": "TB-011016"
+},
+"plvrctctr3tltrcmprt": {
+"added": "2026-11-20",
+"id": "TB-011013"
+},
 "plvrctctrclkclcrvpnt": {
 "added": "2026-10-20",
 "id": "TB-002685"
@@ -30643,6 +30691,10 @@
 "added": "2026-10-29",
 "id": "TB-006310"
 },
+"rvnkrntplvknctcn": {
+"added": "2026-11-20",
+"id": "TB-011019"
+},
 "rvnptvntk": {
 "added": "2026-10-20",
 "id": "TB-003848"
@@ -31750,6 +31802,10 @@
 "tcrlnkrtr": {
 "added": "2026-10-30",
 "id": "TB-010851"
+},
+"tcrlnkrtrctrcltrpltc": {
+"added": "2026-11-20",
+"id": "TB-011025"
 },
 "tcrlntncpmpcncncptlpkrtlnrctctrtnkln1831832183ltrlcpltltmptlprtnkctltlctmrclnc": {
 "added": "2026-10-20",
@@ -32886,6 +32942,10 @@
 "tlkntctntrtrlmtvlplvcntclcprncrlkntpkt": {
 "added": "2026-10-29",
 "id": "TB-008270"
+},
+"tlkntctrcnctrctnctnt17951895": {
+"added": "2026-11-20",
+"id": "TB-011021"
 },
 "tlkpmcltkrm": {
 "added": "2026-10-28",
@@ -35299,6 +35359,10 @@
 "added": "2026-10-29",
 "id": "TB-010398"
 },
+"tmlntnlcmncrlnkcntrctrcvrptrtmltkrc": {
+"added": "2026-11-20",
+"id": "TB-011029"
+},
 "tmlntnlkrtrnmlr": {
 "added": "2026-10-20",
 "id": "TB-005167"
@@ -35586,6 +35650,10 @@
 "tmlptcmntprmncmnmtrnt": {
 "added": "2026-11-05",
 "id": "TB-010917"
+},
+"tmlptcmntprmncmnmtrntprctncknctct": {
+"added": "2026-11-20",
+"id": "TB-011011"
 },
 "tmlptnk|Open Library|/works/OL18670960W": {
 "added": "2026-10-29",
@@ -36147,6 +36215,10 @@
 "added": "2026-10-29",
 "id": "TB-007636"
 },
+"tmnltctmplcptplvtnctcrnlktcpmtpcltptkrtclptnvrctpmnct": {
+"added": "2026-11-20",
+"id": "TB-011015"
+},
 "tmnpcnctntxcplrlvrcptmncvrmtmplcncrlnk": {
 "added": "2026-10-30",
 "id": "TB-010833"
@@ -36226,6 +36298,10 @@
 "tmplcpkrcnctntctrtntrtncntmlnt": {
 "added": "2026-11-08",
 "id": "TB-010985"
+},
+"tmplcplvcnctrtc": {
+"added": "2026-11-20",
+"id": "TB-011014"
 },
 "tmplctptntktctrncntnltrvtrtnprctctrncrlnk": {
 "added": "2026-11-13",
@@ -39106,6 +39182,10 @@
 "tpvctlmrt": {
 "added": "2026-10-29",
 "id": "TB-008277"
+},
+"tpvctlmrtmtrlpcrtprnlcprmclnt851280": {
+"added": "2026-11-20",
+"id": "TB-011017"
 },
 "tpvnctctkrcrntkrcvmklnvrlr": {
 "added": "2026-10-29",
@@ -42366,6 +42446,10 @@
 "vncpncklnc": {
 "added": "2026-10-29",
 "id": "TB-009992"
+},
+"vnctrctrncprmtnptntlmntctrnctnt1801960": {
+"added": "2026-11-20",
+"id": "TB-011028"
 },
 "vnklntmlcrktkl": {
 "added": "2026-10-29",
