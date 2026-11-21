@@ -1,27 +1,27 @@
 {
-"generated": "2026-11-20",
-"count": 4730,
-"with_author": 3189,
-"with_publisher": 2935,
-"with_year": 3302,
-"open_access": 2867,
+"generated": "2026-11-21",
+"count": 4733,
+"with_author": 3191,
+"with_publisher": 2938,
+"with_year": 3304,
+"open_access": 2866,
 "with_download": 2394,
 "heritage_records": 4263,
 "with_buy": 0,
 "access": {
-"open": 2867,
-"catalogue": 1669,
+"open": 2866,
+"catalogue": 1673,
 "": 49,
 "open-us": 101,
 "borrow": 44
 },
 "sources": {
-"Internet Archive": 2342,
+"Internet Archive": 2341,
 "Noolaham": 194,
-"Open Library": 1239,
+"Open Library": 1238,
 "Curated": 204,
 "OpenAlex": 352,
-"HathiTrust": 1236,
+"HathiTrust": 1245,
 "Wikimedia Commons": 226,
 "Tamil Wikisource": 106,
 "Online text": 43,
@@ -37,7 +37,7 @@
 "ASI": {
 "en": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"count": 585
+"count": 586
 },
 "TNS": {
 "en": "Inscription Corpora: Tamil Nadu State, District & Temple",
@@ -77,7 +77,7 @@
 "ARC": {
 "en": "Archaeology: General, Surveys & Museums",
 "ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
-"count": 402
+"count": 405
 },
 "DYN": {
 "en": "Tamil Dynasties & Political History",
@@ -102,7 +102,7 @@
 "PLM": {
 "en": "Palm-leaf Manuscripts & Manuscriptology",
 "ta": "ஓலைச்சுவடிகள், சுவடியியல்",
-"count": 253
+"count": 252
 },
 "SEA": {
 "en": "Seals, Rock-cut Caves & Jain Beds",
@@ -6600,14 +6600,14 @@
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Indica / Archæological Survey of India — 1892",
+"title": "Epigraphia Indica / Archaeological Survey of India — 1892",
 "title_ta": "",
-"title_en": "Epigraphia Indica / Archæological Survey of India — 1892",
+"title_en": "Epigraphia Indica / Archaeological Survey of India — 1892",
 "title_en_note": "",
 "alt_title": "",
 "authors": "",
 "authors_roman": "",
-"publisher": "Supt. of Govt. Printing, India",
+"publisher": "Manager of Publications",
 "publisher_roman": "",
 "place": "",
 "year": "1892",
@@ -6712,6 +6712,10 @@
 "pdf": ""
 },
 {
+"read": "https://archive.org/details/mpl.411.754.epi.35.8907-p4",
+"pdf": ""
+},
+{
 "read": "https://archive.org/details/bmshri.epigraphiaindica0000unse_e9c9",
 "pdf": ""
 },
@@ -6730,18 +6734,14 @@
 {
 "read": "https://babel.hathitrust.org/cgi/pt?id=uva.x004108038",
 "pdf": ""
-},
-{
-"read": "https://archive.org/details/EpigraphiaIndicaVol1",
-"pdf": "https://archive.org/download/EpigraphiaIndicaVol1/Epigraphia%20Indica_vol%201.pdf"
 }
 ],
 "other_source_urls": [
 "https://archive.org/details/mpl.411.7.54.epi.34.8928",
+"https://archive.org/details/mpl.411.754.epi.35.8907-p4",
 "https://archive.org/details/bmshri.epigraphiaindica0000unse_e9c9",
 "https://archive.org/details/mpl.411.754.epi.39.8943",
-"https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_1_%281892%29.pdf",
-"https://catalog.hathitrust.org/Record/000530277"
+"https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_1_%281892%29.pdf"
 ],
 "sources": [
 "Curated",
@@ -6956,14 +6956,14 @@
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Indica / Archæological Survey of India — 1894",
+"title": "Epigraphia Indica / Archaeological Survey of India — 1894",
 "title_ta": "",
-"title_en": "Epigraphia Indica / Archæological Survey of India — 1894",
+"title_en": "Epigraphia Indica / Archaeological Survey of India — 1894",
 "title_en_note": "",
 "alt_title": "",
 "authors": "",
 "authors_roman": "",
-"publisher": "Supt. of Govt. Printing, India",
+"publisher": "Manager of Publications",
 "publisher_roman": "",
 "place": "",
 "year": "1894",
@@ -7104,6 +7104,89 @@
 "other_source_urls": [],
 "sources": [
 "HathiTrust"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
+},
+{
+"id": "TB-001868",
+"category": "ASI",
+"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
+"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
+"title": "Epigraphia Indica, Vol. 3",
+"title_ta": "",
+"title_en": "Epigraphia Indica, Vol. 3",
+"title_en_note": "",
+"alt_title": "Epigraphia Indica Vol III",
+"authors": "E. Hultzsch",
+"authors_roman": "",
+"publisher": "The Government Of India",
+"publisher_roman": "",
+"place": "",
+"year": "1895",
+"period": "1800–1899 (Colonial, early)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "'Epigraphia Indica Vol 3'",
+"subjects": "Mahesha Pillai",
+"access": "open",
+"read_url": "https://archive.org/details/mpl.411.754.epi.3.207",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_3.pdf",
+"buy_url": "",
+"source_url": "https://archive.org/details/mpl.411.754.epi.3.207",
+"copies": [
+{
+"read": "https://archive.org/details/mpl.411.754.epi.3.207",
+"pdf": ""
+},
+{
+"read": "https://archive.org/details/mpl.411.754.epi.3.220",
+"pdf": ""
+},
+{
+"read": "https://archive.org/details/mpl.411.754.epi.33.8926",
+"pdf": ""
+},
+{
+"read": "https://archive.org/details/mpl.411.754.epi.34.8930",
+"pdf": ""
+},
+{
+"read": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_3.pdf",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_3.pdf"
+},
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=uva.x004352288",
+"pdf": ""
+},
+{
+"read": "https://archive.org/details/epigraphiaindicavol3_478_d",
+"pdf": "https://archive.org/download/epigraphiaindicavol3_478_d/Epigraphia%20Indica%20Vol%203.pdf"
+},
+{
+"read": "https://archive.org/details/in.ernet.dli.2015.108298",
+"pdf": "https://archive.org/download/in.ernet.dli.2015.108298/2015.108298.Epigraphia-Indica-Vol3.pdf"
+}
+],
+"other_source_urls": [
+"https://archive.org/details/mpl.411.754.epi.3.220",
+"https://archive.org/details/mpl.411.754.epi.33.8926",
+"https://archive.org/details/mpl.411.754.epi.34.8930",
+"https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_3.pdf",
+"https://catalog.hathitrust.org/Record/000530277"
+],
+"sources": [
+"Internet Archive",
+"Wikimedia Commons",
+"HathiTrust",
+"OpenAlex",
+"Online text",
+"English Wikisource"
 ],
 "curated": false,
 "scholar": "",
@@ -7339,10 +7422,10 @@
 "title_ta": "",
 "title_en": "Epigraphia Indica, Vol. 4",
 "title_en_note": "",
-"alt_title": "Epigraphia Indica Vol 4",
-"authors": "Hultzsch, E., Ed.",
+"alt_title": "Epigraphia Indica Vol IV 1896-97",
+"authors": "E. Hultzsch",
 "authors_roman": "",
-"publisher": "Manager of Publications [etc",
+"publisher": "The Government Of India",
 "publisher_roman": "",
 "place": "",
 "year": "1897",
@@ -7355,11 +7438,19 @@
 "notes": "Epigraphia Indica, Vol 4",
 "subjects": "inscriptions; epigraph; epigraphia; indica; india",
 "access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_4.pdf",
+"read_url": "https://archive.org/details/mpl.411.754.epi.4.221",
 "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_4.pdf",
 "buy_url": "",
-"source_url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_4.pdf",
+"source_url": "https://archive.org/details/mpl.411.754.epi.4.221",
 "copies": [
+{
+"read": "https://archive.org/details/mpl.411.754.epi.4.221",
+"pdf": ""
+},
+{
+"read": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_4.pdf",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_4.pdf"
+},
 {
 "read": "https://babel.hathitrust.org/cgi/pt?id=mdp.39015019143331",
 "pdf": ""
@@ -7383,27 +7474,19 @@
 {
 "read": "https://archive.org/details/in.ernet.dli.2015.181086",
 "pdf": "https://archive.org/download/in.ernet.dli.2015.181086/2015.181086.Epigraphia-Indica--Vol-4.pdf"
-},
-{
-"read": "https://archive.org/details/in.ernet.dli.2015.49130",
-"pdf": "https://archive.org/download/in.ernet.dli.2015.49130/2015.49130.Epigraphia-Indica--Vol-4.pdf"
-},
-{
-"read": "https://archive.org/details/in.ernet.dli.2015.56649",
-"pdf": "https://archive.org/download/in.ernet.dli.2015.56649/2015.56649.Epigraphia-Indica-Vol4.pdf"
 }
 ],
 "other_source_urls": [
+"https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_4.pdf",
 "https://catalog.hathitrust.org/Record/000530277",
 "https://catalog.hathitrust.org/Record/009016290",
 "https://archive.org/details/EpigraphiaIndicaVol4",
-"https://archive.org/details/epigraphiaindicavol4_202003_157_M",
-"https://archive.org/details/in.ernet.dli.2015.181086"
+"https://archive.org/details/epigraphiaindicavol4_202003_157_M"
 ],
 "sources": [
+"Internet Archive",
 "Wikimedia Commons",
 "HathiTrust",
-"Internet Archive",
 "Open Library",
 "Online text",
 "English Wikisource"
@@ -7813,10 +7896,10 @@
 "title_ta": "",
 "title_en": "Epigraphia Indica, Vol. 6",
 "title_en_note": "",
-"alt_title": "Epigraphia Indica vol 6",
-"authors": "E.hultzsch",
+"alt_title": "Epigraphia Indica Vol VI 1894-95",
+"authors": "E. Hultzsch",
 "authors_roman": "",
-"publisher": "Manager of Publications [etc",
+"publisher": "The Authority Of The Government Of India",
 "publisher_roman": "",
 "place": "",
 "year": "1901",
@@ -7829,11 +7912,23 @@
 "notes": "Epigraphia Indica, Volume 6",
 "subjects": "epigraphia; indica; inscriptions; epigraph; india",
 "access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_vol_6.djvu",
+"read_url": "https://archive.org/details/mpl.411.754.epi.6.210",
 "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_vol_6.djvu",
 "buy_url": "",
-"source_url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_vol_6.djvu",
+"source_url": "https://archive.org/details/mpl.411.754.epi.6.210",
 "copies": [
+{
+"read": "https://archive.org/details/mpl.411.754.epi.6.210",
+"pdf": ""
+},
+{
+"read": "https://archive.org/details/mpl.411.754.epi.6.223",
+"pdf": ""
+},
+{
+"read": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_vol_6.djvu",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_vol_6.djvu"
+},
 {
 "read": "https://babel.hathitrust.org/cgi/pt?id=uva.x004575401",
 "pdf": ""
@@ -7853,31 +7948,19 @@
 {
 "read": "https://archive.org/details/epigraphiaindicavol6_202003_18_I",
 "pdf": "https://archive.org/download/epigraphiaindicavol6_202003_18_I/Epigraphia%20Indica%20Vol%206.pdf"
-},
-{
-"read": "https://archive.org/details/in.ernet.dli.2015.56212",
-"pdf": "https://archive.org/download/in.ernet.dli.2015.56212/2015.56212.Epigraphia-Indica-Volvi.pdf"
-},
-{
-"read": "https://archive.org/details/in.ernet.dli.2015.56653",
-"pdf": "https://archive.org/download/in.ernet.dli.2015.56653/2015.56653.Epigraphia-Indica-Vol6.pdf"
-},
-{
-"read": "https://archive.org/details/mpl.411.754.epi.6.210",
-"pdf": "https://archive.org/download/mpl.411.754.epi.6.210/mpl.411.754.epi.6.210.pdf"
 }
 ],
 "other_source_urls": [
+"https://archive.org/details/mpl.411.754.epi.6.223",
+"https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_vol_6.djvu",
 "https://catalog.hathitrust.org/Record/000530277",
 "https://catalog.hathitrust.org/Record/006782992",
-"https://catalog.hathitrust.org/Record/008698880",
-"https://archive.org/details/EpigraphiaIndicaVol6",
-"https://archive.org/details/epigraphiaindicavol6_202003_18_I"
+"https://catalog.hathitrust.org/Record/008698880"
 ],
 "sources": [
+"Internet Archive",
 "Wikimedia Commons",
 "HathiTrust",
-"Internet Archive",
 "Open Library",
 "Online text",
 "English Wikisource"
@@ -8143,10 +8226,10 @@
 "title_ta": "",
 "title_en": "Epigraphia Indica, Vol. 7",
 "title_en_note": "",
-"alt_title": "Epigraphia indica (volume 7 & 8)",
-"authors": "E.hultzsch",
+"alt_title": "Epigraphia Indica Vol VII 1902-1903",
+"authors": "E. Hultzsch",
 "authors_roman": "",
-"publisher": "The director general archaeological survey of india",
+"publisher": "The Government Of India",
 "publisher_roman": "",
 "place": "",
 "year": "1903",
@@ -8159,11 +8242,19 @@
 "notes": "'Epigraphia Indica Vol 7'",
 "subjects": "Devi Bali",
 "access": "open",
-"read_url": "https://archive.org/details/bmshri.epigraphiaindica0000prof_t2d7",
+"read_url": "https://archive.org/details/mpl.411.754.epi.7.211",
 "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_7.pdf",
 "buy_url": "",
-"source_url": "https://archive.org/details/bmshri.epigraphiaindica0000prof_t2d7",
+"source_url": "https://archive.org/details/mpl.411.754.epi.7.211",
 "copies": [
+{
+"read": "https://archive.org/details/mpl.411.754.epi.7.211",
+"pdf": ""
+},
+{
+"read": "https://archive.org/details/mpl.411.754.epi.7.224",
+"pdf": ""
+},
 {
 "read": "https://archive.org/details/bmshri.epigraphiaindica0000prof_t2d7",
 "pdf": ""
@@ -8187,22 +8278,14 @@
 {
 "read": "https://archive.org/details/bmshri.epigraphiaindica0000prof_t2d7",
 "pdf": "https://archive.org/download/bmshri.epigraphiaindica0000prof_t2d7/bmshri.epigraphiaindica0000prof_t2d7.pdf"
-},
-{
-"read": "https://archive.org/details/epigraphiaindica014351mbp",
-"pdf": "https://archive.org/download/epigraphiaindica014351mbp/epigraphiaindica014351mbp.pdf"
-},
-{
-"read": "https://archive.org/details/epigraphiaindicavol7_911_D",
-"pdf": "https://archive.org/download/epigraphiaindicavol7_911_D/Epigraphia%20Indica%20Vol%207.pdf"
 }
 ],
 "other_source_urls": [
+"https://archive.org/details/mpl.411.754.epi.7.224",
+"https://archive.org/details/bmshri.epigraphiaindica0000prof_t2d7",
 "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_7.pdf",
 "https://catalog.hathitrust.org/Record/000530277",
-"https://catalog.hathitrust.org/Record/006782992",
-"https://archive.org/details/epigraphiaindica014351mbp",
-"https://archive.org/details/epigraphiaindicavol7_911_D"
+"https://catalog.hathitrust.org/Record/006782992"
 ],
 "sources": [
 "Internet Archive",
@@ -8756,10 +8839,10 @@
 "title_ta": "",
 "title_en": "Epigraphia Indica, Vol. 8",
 "title_en_note": "",
-"alt_title": "Epigraphia Indica Vol 8",
-"authors": "Hultzsch, E.",
+"alt_title": "Epigraphia Indica Vol VIII 1905-06",
+"authors": "E. Hultzsch",
 "authors_roman": "",
-"publisher": "Manager of Publications [etc",
+"publisher": "The Authority Of The Government Of India",
 "publisher_roman": "",
 "place": "",
 "year": "1906",
@@ -8772,11 +8855,19 @@
 "notes": "Epigraphia Indica Vol 8 Includes inscription of Vema Reddy, a proud shUdra, who fought against muslim plunderers.",
 "subjects": "history; sanskrt",
 "access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_8.djvu",
+"read_url": "https://archive.org/details/mpl.411.754.epi.8.212",
 "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_8.djvu",
 "buy_url": "",
-"source_url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_8.djvu",
+"source_url": "https://archive.org/details/mpl.411.754.epi.8.212",
 "copies": [
+{
+"read": "https://archive.org/details/mpl.411.754.epi.8.212",
+"pdf": ""
+},
+{
+"read": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_8.djvu",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_8.djvu"
+},
 {
 "read": "https://babel.hathitrust.org/cgi/pt?id=uva.x004538658",
 "pdf": ""
@@ -8800,27 +8891,19 @@
 {
 "read": "https://archive.org/details/in.ernet.dli.2015.69971",
 "pdf": "https://archive.org/download/in.ernet.dli.2015.69971/2015.69971.Epigraphia-Indica-Vol---Viii-1905---1906.pdf"
-},
-{
-"read": "https://archive.org/details/mpl.411.754.epi.8.212",
-"pdf": "https://archive.org/download/mpl.411.754.epi.8.212/mpl.411.754.epi.8.212.pdf"
-},
-{
-"read": "https://doi.org/10.5281/zenodo.1207196",
-"pdf": ""
 }
 ],
 "other_source_urls": [
+"https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_8.djvu",
 "https://catalog.hathitrust.org/Record/000530277",
 "https://catalog.hathitrust.org/Record/008698880",
 "https://archive.org/details/EpigraphiaIndica",
-"https://archive.org/details/epigraphiaindicavol8_83_i",
-"https://archive.org/details/in.ernet.dli.2015.56654"
+"https://archive.org/details/epigraphiaindicavol8_83_i"
 ],
 "sources": [
+"Internet Archive",
 "Wikimedia Commons",
 "HathiTrust",
-"Internet Archive",
 "OpenAlex",
 "Online text",
 "English Wikisource"
@@ -8891,10 +8974,10 @@
 "title_ta": "",
 "title_en": "Epigraphia Indica, Vol. 9",
 "title_en_note": "",
-"alt_title": "Epigraphia Indica Vol 9",
-"authors": "Hultzsch, E.",
+"alt_title": "Epigraphia Indica Vol IX 1907-08",
+"authors": "E. Hultzsch",
 "authors_roman": "",
-"publisher": "Manager of Publications [etc",
+"publisher": "The Authority Of The Government Of India",
 "publisher_roman": "",
 "place": "",
 "year": "1907",
@@ -8907,11 +8990,19 @@
 "notes": "Jangamwadi Math Collection, 'Epigraphia Indica And Record Of The Archeological Survey of India, Vol 9, 1907 To 08 Edited By Hultzsch, Sten Konow - Jangamwadi Math Collection'",
 "subjects": "eGangotri-37; Jangamwadi Math; Jangamwadi Math Library Collection; जंगमवाड़ी मठ; Jangamwadi Math Printed Books Collection; Jangamwadi Hindi",
 "access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_9.pdf",
+"read_url": "https://archive.org/details/mpl.411.75a.epi.9.226",
 "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_9.pdf",
 "buy_url": "",
-"source_url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_9.pdf",
+"source_url": "https://archive.org/details/mpl.411.75a.epi.9.226",
 "copies": [
+{
+"read": "https://archive.org/details/mpl.411.75a.epi.9.226",
+"pdf": ""
+},
+{
+"read": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_9.pdf",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_9.pdf"
+},
 {
 "read": "https://babel.hathitrust.org/cgi/pt?id=uva.x004575402",
 "pdf": ""
@@ -8935,27 +9026,19 @@
 {
 "read": "https://archive.org/details/in.ernet.dli.2015.382521",
 "pdf": "https://archive.org/download/in.ernet.dli.2015.382521/2015.382521.Epigraphia-Indica.pdf"
-},
-{
-"read": "https://archive.org/details/in.ernet.dli.2015.48794",
-"pdf": "https://archive.org/download/in.ernet.dli.2015.48794/2015.48794.Epigraphia-Indica--Vol-9.pdf"
-},
-{
-"read": "https://archive.org/details/in.ernet.dli.2015.56657",
-"pdf": "https://archive.org/download/in.ernet.dli.2015.56657/2015.56657.Epigraphia-Indica-Vol9.pdf"
 }
 ],
 "other_source_urls": [
+"https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_9.pdf",
 "https://catalog.hathitrust.org/Record/000530277",
 "https://archive.org/details/QrMe_epigraphia-indica-and-record-of-the-archeological-survey-of-india-vol-9-1907-to-",
 "https://archive.org/details/epigraphiaindica014770mbp",
-"https://archive.org/details/epigraphiaindicavol9_425_Z",
-"https://archive.org/details/in.ernet.dli.2015.180698"
+"https://archive.org/details/epigraphiaindicavol9_425_Z"
 ],
 "sources": [
+"Internet Archive",
 "Wikimedia Commons",
 "HathiTrust",
-"Internet Archive",
 "Open Library",
 "English Wikisource"
 ],
@@ -9493,89 +9576,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-001854",
-"category": "ASI",
-"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
-"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Indica, Vol. 11",
-"title_ta": "",
-"title_en": "Epigraphia Indica, Vol. 11",
-"title_en_note": "",
-"alt_title": "Epigraphia Indica Vol 11",
-"authors": "E.hultzsch",
-"authors_roman": "",
-"publisher": "Manager of Publications [etc",
-"publisher_roman": "",
-"place": "",
-"year": "1911",
-"period": "1900–1946 (Colonial, late)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "'Epigraphia Indica Vol 11'",
-"subjects": "Chandra Dubey",
-"access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_11.pdf",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_11.pdf",
-"buy_url": "",
-"source_url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_11.pdf",
-"copies": [
-{
-"read": "https://babel.hathitrust.org/cgi/pt?id=mdp.39015034799513",
-"pdf": ""
-},
-{
-"read": "https://babel.hathitrust.org/cgi/pt?id=uva.x030554249",
-"pdf": ""
-},
-{
-"read": "https://babel.hathitrust.org/cgi/pt?id=hvd.32044092571827",
-"pdf": ""
-},
-{
-"read": "https://archive.org/details/epigraphiaindica014772mbp",
-"pdf": "https://archive.org/download/epigraphiaindica014772mbp/epigraphiaindica014772mbp.pdf"
-},
-{
-"read": "https://archive.org/details/epigraphiaindicavol11_626_J",
-"pdf": "https://archive.org/download/epigraphiaindicavol11_626_J/Epigraphia%20Indica%20Vol%2011.pdf"
-},
-{
-"read": "https://archive.org/details/in.ernet.dli.2015.115919",
-"pdf": "https://archive.org/download/in.ernet.dli.2015.115919/2015.115919.Epigraphia-Indica-Vol-11.pdf"
-},
-{
-"read": "https://archive.org/details/in.ernet.dli.2015.180699",
-"pdf": "https://archive.org/download/in.ernet.dli.2015.180699/2015.180699.Epigraphia-Indica--Vol11.pdf"
-},
-{
-"read": "https://archive.org/details/in.ernet.dli.2015.48787",
-"pdf": "https://archive.org/download/in.ernet.dli.2015.48787/2015.48787.Epigraphia-Indica--Vol11.pdf"
-}
-],
-"other_source_urls": [
-"https://catalog.hathitrust.org/Record/000530277",
-"https://catalog.hathitrust.org/Record/006782992",
-"https://archive.org/details/epigraphiaindica014772mbp",
-"https://archive.org/details/epigraphiaindicavol11_626_J",
-"https://archive.org/details/in.ernet.dli.2015.115919"
-],
-"sources": [
-"Wikimedia Commons",
-"HathiTrust",
-"Internet Archive",
-"OpenAlex",
-"Open Library",
-"English Wikisource"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-000385",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
@@ -9755,6 +9755,89 @@
 "sources": [
 "Wikimedia Commons",
 "Internet Archive"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
+},
+{
+"id": "TB-001854",
+"category": "ASI",
+"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
+"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
+"title": "Epigraphia Indica, Vol. 11",
+"title_ta": "",
+"title_en": "Epigraphia Indica, Vol. 11",
+"title_en_note": "",
+"alt_title": "Epigraphia Indica Vol XI 1911-12",
+"authors": "Rai Bahadur V. Venkayya",
+"authors_roman": "",
+"publisher": "The Authority Of The Government Of India",
+"publisher_roman": "",
+"place": "",
+"year": "1912",
+"period": "1900–1946 (Colonial, late)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "'Epigraphia Indica Vol 11'",
+"subjects": "Chandra Dubey",
+"access": "open",
+"read_url": "https://archive.org/details/mpl.411.754.epi.11.215",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_11.pdf",
+"buy_url": "",
+"source_url": "https://archive.org/details/mpl.411.754.epi.11.215",
+"copies": [
+{
+"read": "https://archive.org/details/mpl.411.754.epi.11.215",
+"pdf": ""
+},
+{
+"read": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_11.pdf",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_11.pdf"
+},
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=mdp.39015034799513",
+"pdf": ""
+},
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=uva.x030554249",
+"pdf": ""
+},
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=hvd.32044092571827",
+"pdf": ""
+},
+{
+"read": "https://archive.org/details/epigraphiaindica014772mbp",
+"pdf": "https://archive.org/download/epigraphiaindica014772mbp/epigraphiaindica014772mbp.pdf"
+},
+{
+"read": "https://archive.org/details/epigraphiaindicavol11_626_J",
+"pdf": "https://archive.org/download/epigraphiaindicavol11_626_J/Epigraphia%20Indica%20Vol%2011.pdf"
+},
+{
+"read": "https://archive.org/details/in.ernet.dli.2015.115919",
+"pdf": "https://archive.org/download/in.ernet.dli.2015.115919/2015.115919.Epigraphia-Indica-Vol-11.pdf"
+}
+],
+"other_source_urls": [
+"https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_11.pdf",
+"https://catalog.hathitrust.org/Record/000530277",
+"https://catalog.hathitrust.org/Record/006782992",
+"https://archive.org/details/epigraphiaindica014772mbp",
+"https://archive.org/details/epigraphiaindicavol11_626_J"
+],
+"sources": [
+"Internet Archive",
+"Wikimedia Commons",
+"HathiTrust",
+"OpenAlex",
+"Open Library",
+"English Wikisource"
 ],
 "curated": false,
 "scholar": "",
@@ -11291,10 +11374,10 @@
 "title_ta": "",
 "title_en": "Epigraphia Indica, Vol. 17",
 "title_en_note": "",
-"alt_title": "Epigraphia Indica Vol 17",
-"authors": "Sastri, H. Krishna, Ed.",
+"alt_title": "Epigraphia Indica Vol XVII",
+"authors": "E. Hultzsch",
 "authors_roman": "",
-"publisher": "Manager of Publications [etc",
+"publisher": "The Authority Of The Government Of India",
 "publisher_roman": "",
 "place": "",
 "year": "1923",
@@ -11307,11 +11390,19 @@
 "notes": "'Epigraphia Indica Vol 17'",
 "subjects": "Bharata Zacharia",
 "access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_17.pdf",
+"read_url": "https://archive.org/details/mpl.411.754.epi.17.902",
 "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_17.pdf",
 "buy_url": "",
-"source_url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_17.pdf",
+"source_url": "https://archive.org/details/mpl.411.754.epi.17.902",
 "copies": [
+{
+"read": "https://archive.org/details/mpl.411.754.epi.17.902",
+"pdf": ""
+},
+{
+"read": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_17.pdf",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_17.pdf"
+},
 {
 "read": "https://babel.hathitrust.org/cgi/pt?id=mdp.39015034799554",
 "pdf": ""
@@ -11335,27 +11426,19 @@
 {
 "read": "https://archive.org/details/in.ernet.dli.2015.56666",
 "pdf": "https://archive.org/download/in.ernet.dli.2015.56666/2015.56666.Epigraphia-Indica-Vol17.pdf"
-},
-{
-"read": "https://archive.org/details/in.ernet.dli.2015.70170",
-"pdf": "https://archive.org/download/in.ernet.dli.2015.70170/2015.70170.Epigraphia-Indica-Vol-17.pdf"
-},
-{
-"read": "https://archive.org/details/mpl.411.754.epi.17.902",
-"pdf": "https://archive.org/download/mpl.411.754.epi.17.902/mpl.411.754.epi.17.902.pdf"
 }
 ],
 "other_source_urls": [
+"https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_17.pdf",
 "https://catalog.hathitrust.org/Record/000530277",
 "https://archive.org/details/epigraphiaindicavol17_731_k",
 "https://archive.org/details/in.ernet.dli.2015.180697",
-"https://archive.org/details/in.ernet.dli.2015.48793",
-"https://archive.org/details/in.ernet.dli.2015.56666"
+"https://archive.org/details/in.ernet.dli.2015.48793"
 ],
 "sources": [
+"Internet Archive",
 "Wikimedia Commons",
 "HathiTrust",
-"Internet Archive",
 "OpenAlex",
 "English Wikisource"
 ],
@@ -11804,7 +11887,12 @@
 "download_url": "https://archive.org/download/mpl.411.754.epi.18.944/mpl.411.754.epi.18.944.pdf",
 "buy_url": "",
 "source_url": "https://archive.org/details/mpl.411.754.epi.18.944",
-"copies": [],
+"copies": [
+{
+"read": "https://archive.org/details/mpl.411.754.epi.18.944",
+"pdf": ""
+}
+],
 "other_source_urls": [],
 "sources": [
 "Internet Archive"
@@ -17183,7 +17271,12 @@
 "download_url": "https://archive.org/download/mpl.411.754.epi.34.4389/mpl.411.754.epi.34.4389.pdf",
 "buy_url": "",
 "source_url": "https://archive.org/details/mpl.411.754.epi.34.4389",
-"copies": [],
+"copies": [
+{
+"read": "https://archive.org/details/mpl.411.754.epi.34.4389",
+"pdf": ""
+}
+],
 "other_source_urls": [],
 "sources": [
 "Internet Archive"
@@ -17783,89 +17876,6 @@
 "other_source_urls": [],
 "sources": [
 "HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
-"id": "TB-001868",
-"category": "ASI",
-"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
-"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Indica, Vol. 3",
-"title_ta": "",
-"title_en": "Epigraphia Indica, Vol. 3",
-"title_en_note": "",
-"alt_title": "Epigraphia Indica-Vol,XXXIII-Oct,1960-Part,VIII",
-"authors": "Hultzsch, E.",
-"authors_roman": "",
-"publisher": "The Manager Of Publications, Delhi",
-"publisher_roman": "",
-"place": "",
-"year": "1963",
-"period": "1947–1990 (Post-independence)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "'Epigraphia Indica Vol 3'",
-"subjects": "Mahesha Pillai",
-"access": "open",
-"read_url": "https://archive.org/details/mpl.411.754.epi.33.8926",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_3.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/mpl.411.754.epi.33.8926",
-"copies": [
-{
-"read": "https://archive.org/details/mpl.411.754.epi.33.8926",
-"pdf": ""
-},
-{
-"read": "https://archive.org/details/mpl.411.754.epi.34.8930",
-"pdf": ""
-},
-{
-"read": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_3.pdf",
-"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_3.pdf"
-},
-{
-"read": "https://babel.hathitrust.org/cgi/pt?id=uva.x004352288",
-"pdf": ""
-},
-{
-"read": "https://archive.org/details/epigraphiaindicavol3_478_d",
-"pdf": "https://archive.org/download/epigraphiaindicavol3_478_d/Epigraphia%20Indica%20Vol%203.pdf"
-},
-{
-"read": "https://archive.org/details/in.ernet.dli.2015.108298",
-"pdf": "https://archive.org/download/in.ernet.dli.2015.108298/2015.108298.Epigraphia-Indica-Vol3.pdf"
-},
-{
-"read": "https://archive.org/details/in.ernet.dli.2015.70015",
-"pdf": "https://archive.org/download/in.ernet.dli.2015.70015/2015.70015.Epigraphia-Indica-Vol---Iii194----95.pdf"
-},
-{
-"read": "https://archive.org/details/mpl.411.754.epi.3.207",
-"pdf": "https://archive.org/download/mpl.411.754.epi.3.207/mpl.411.754.epi.3.207.pdf"
-}
-],
-"other_source_urls": [
-"https://archive.org/details/mpl.411.754.epi.34.8930",
-"https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_3.pdf",
-"https://catalog.hathitrust.org/Record/000530277",
-"https://archive.org/details/epigraphiaindicavol3_478_d",
-"https://archive.org/details/in.ernet.dli.2015.108298"
-],
-"sources": [
-"Internet Archive",
-"Wikimedia Commons",
-"HathiTrust",
-"OpenAlex",
-"Online text",
-"English Wikisource"
 ],
 "curated": false,
 "scholar": "",
@@ -29505,6 +29515,45 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-20"
+},
+{
+"id": "TB-011031",
+"category": "ASI",
+"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
+"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
+"title": "Epigraphia Indica / Archaeological Survey of India — v.34 + Index v.1/34",
+"title_ta": "",
+"title_en": "Epigraphia Indica / Archaeological Survey of India — v.34 + Index v.1/34",
+"title_en_note": "",
+"alt_title": "",
+"authors": "",
+"authors_roman": "",
+"publisher": "Manager of Publications",
+"publisher_roman": "",
+"place": "",
+"year": "",
+"period": "Undated",
+"language": "English",
+"type": "Book",
+"series": "v.34 + Index v.1/34",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://catalog.hathitrust.org/Record/006782988",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"HathiTrust"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-21"
 },
 {
 "id": "TB-002631",
@@ -61809,7 +61858,7 @@
 "subjects": "Pottery; Megalith; Archaeology; Geography; Ancient history; Art; History",
 "access": "open",
 "read_url": "https://doi.org/10.5281/zenodo.439667",
-"download_url": "",
+"download_url": "https://doi.org/10.5281/zenodo.439667",
 "buy_url": "",
 "source_url": "https://doi.org/10.5281/zenodo.439667",
 "copies": [],
@@ -64539,6 +64588,45 @@
 "scholar": "C. Sivaramamurti",
 "from_list": false,
 "added": "2026-10-20"
+},
+{
+"id": "TB-011032",
+"category": "ARC",
+"category_name": "Archaeology: General, Surveys & Museums",
+"category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
+"title": "Archaeology in Travancore",
+"title_ta": "",
+"title_en": "Archaeology in Travancore",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Poduval, R. Vasudeva",
+"authors_roman": "",
+"publisher": "Printed by the Supt., Govt. Press",
+"publisher_roman": "",
+"place": "",
+"year": "1940",
+"period": "1900–1946 (Colonial, late)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://catalog.hathitrust.org/Record/103615288",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"HathiTrust"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-21"
 },
 {
 "id": "TB-005592",
@@ -68097,6 +68185,45 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-29"
+},
+{
+"id": "TB-011033",
+"category": "ARC",
+"category_name": "Archaeology: General, Surveys & Museums",
+"category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
+"title": "Where serfdom thrives : the plantation Tamils of Sri Lanka / Mayan Vije",
+"title_ta": "",
+"title_en": "Where serfdom thrives : the plantation Tamils of Sri Lanka / Mayan Vije",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Vije, Mayan",
+"authors_roman": "",
+"publisher": "Published by Tamil Information & Research Unit on behalf of Tamil Information Centre, London, United Kingdom",
+"publisher_roman": "",
+"place": "",
+"year": "1987",
+"period": "1947–1990 (Post-independence)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://catalog.hathitrust.org/Record/001538623",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"HathiTrust"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-21"
 },
 {
 "id": "TB-006274",
@@ -71745,6 +71872,45 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-20"
+},
+{
+"id": "TB-011034",
+"category": "ARC",
+"category_name": "Archaeology: General, Surveys & Museums",
+"category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
+"title": "\"We will teach you a lesson\" : sexual violence against Tamils by Sri Lankan security forces / [Charu Lata Hogg]",
+"title_ta": "",
+"title_en": "\"We will teach you a lesson\" : sexual violence against Tamils by Sri Lankan security forces / [Charu Lata Hogg]",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Hogg, Charu Lata",
+"authors_roman": "",
+"publisher": "Human Rights Watch, c",
+"publisher_roman": "",
+"place": "",
+"year": "2013",
+"period": "2011–2026 (Recent)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "9781564329936,1564329933",
+"pages": "",
+"notes": "",
+"subjects": "",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://catalog.hathitrust.org/Record/103610773",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"HathiTrust"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-21"
 },
 {
 "id": "TB-003098",
@@ -108852,6 +109018,45 @@
 "added": "2026-10-29"
 },
 {
+"id": "TB-011035",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "The life-histories of decapod Crustacea from Madras / by M. Krishna Menon",
+"title_ta": "",
+"title_en": "The life-histories of decapod Crustacea from Madras / by M. Krishna Menon",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Krishna Menon, M",
+"authors_roman": "",
+"publisher": "Printed by the superintendent, Government Press",
+"publisher_roman": "",
+"place": "",
+"year": "1933",
+"period": "1900–1946 (Colonial, late)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://catalog.hathitrust.org/Record/103618663",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"HathiTrust"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-21"
+},
+{
 "id": "TB-008971",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -121734,8 +121939,8 @@
 "category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
 "title": "தமிழ்நாட்டு வரலாறு சங்ககாலம் - அரசியல்",
 "title_ta": "தமிழ்நாட்டு வரலாறு சங்ககாலம் - அரசியல்",
-"title_en": "Tamiḻnāṭṭu Varalāṟu Caṅkakālam - Araciyal",
-"title_en_note": "romanised from Tamil",
+"title_en": "Tamiḷnāṭṭu varalār̲u / Tamil̲nāṭṭu Varalār̲r̲uk Kul̲u — v.1",
+"title_en_note": "",
 "alt_title": "",
 "authors": "தமிழ்நாட்டு வரலாற்றுக் குழு",
 "authors_roman": "Tamiḻnāṭṭu Varalāṟṟuk Kuḻu",
@@ -121764,50 +121969,11 @@
 {
 "read": "https://archive.org/details/tdl.tdl_814900-nuul-tmilllnaattttu-vrlaarru-_-cngkkkaalm-arciyl",
 "pdf": "https://archive.org/download/tdl.tdl_814900-nuul-tmilllnaattttu-vrlaarru-_-cngkkkaalm-arciyl/TVA_BOK_0000873_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81.pdf"
-}
-],
-"other_source_urls": [
-"https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMdkJly.TVA_BOK_0000873",
-"https://archive.org/details/tdl.tdl_814900-nuul-tmilllnaattttu-vrlaarru-_-cngkkkaalm-arciyl"
-],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
 },
 {
-"id": "TB-009288",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "தமிழ்நாட்டு வரலாறு சங்ககாலம் - வாழ்வியல்",
-"title_ta": "தமிழ்நாட்டு வரலாறு சங்ககாலம் - வாழ்வியல்",
-"title_en": "Tamiḻnāṭṭu Varalāṟu Caṅkakālam - Vāḻviyal",
-"title_en_note": "romanised from Tamil",
-"alt_title": "",
-"authors": "தமிழ்நாட்டு வரலாற்றுக் குழு",
-"authors_roman": "Tamiḻnāṭṭu Varalāṟṟuk Kuḻu",
-"publisher": "தமிழ்நாட்டுப் பாடநூல் நிறுவனம் (சென்னை)",
-"publisher_roman": "Tamiḻnāṭṭup Pāṭanūl Niṟuvaṉam (Ceṉṉai)",
-"place": "",
-"year": "1983",
-"period": "1947–1990 (Post-independence)",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "தமிழ்நாட்டு வரலாறு, சங்ககாலம் - வாழ்வியல் , தமிழ்நாட்டு வரலாற்றுக்குழு, தமிழ் வளர்ச்சி இயக்கத்திற்காக வெளியிட்டோர் தமிழ்நாட்டுப் பாடநூல் நிறுவனம், சென்னை - 6",
-"subjects": "தமிழ்நாட்டு வரலாறு சங்ககாலம் - வாழ்வியல்",
-"access": "open",
-"read_url": "https://archive.org/details/acc.-no.-28801-tamilnadu-varalaru-sangakalam-vazhviyal-1983",
-"download_url": "https://archive.org/download/acc.-no.-28801-tamilnadu-varalaru-sangakalam-vazhviyal-1983/Acc.No.28801-TamilnaduVaralaruSangakalam-Vazhviyal-1983.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/acc.-no.-28801-tamilnadu-varalaru-sangakalam-vazhviyal-1983",
-"copies": [
+"read": "https://archive.org/details/acc.-no.-28801-tamilnadu-varalaru-sangakalam-vazhviyal-1983",
+"pdf": "https://archive.org/download/acc.-no.-28801-tamilnadu-varalaru-sangakalam-vazhviyal-1983/Acc.No.28801-TamilnaduVaralaruSangakalam-Vazhviyal-1983.pdf"
+},
 {
 "read": "https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMdkJly.TVA_BOK_0000874",
 "pdf": "https://archive.org/download/dli.jZY9lup2kZl6TuXGlZQdjZMdkJly.TVA_BOK_0000874/TVA_BOK_0000874_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81.pdf"
@@ -121818,11 +121984,15 @@
 }
 ],
 "other_source_urls": [
-"https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMdkJly.TVA_BOK_0000874",
-"https://archive.org/details/tdl.tdl_88838c-nuul-tmilllnaattttu-vrlaarru-_-cngkkkaalm-vaalllviyl"
+"https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMdkJly.TVA_BOK_0000873",
+"https://archive.org/details/tdl.tdl_814900-nuul-tmilllnaattttu-vrlaarru-_-cngkkkaalm-arciyl",
+"https://catalog.hathitrust.org/Record/103614297",
+"https://archive.org/details/acc.-no.-28801-tamilnadu-varalaru-sangakalam-vazhviyal-1983",
+"https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMdkJly.TVA_BOK_0000874"
 ],
 "sources": [
-"Internet Archive"
+"Internet Archive",
+"HathiTrust"
 ],
 "curated": false,
 "scholar": "",
@@ -129026,7 +129196,7 @@
 "authors_roman": "",
 "publisher": "Blackwell Publishers",
 "publisher_roman": "",
-"place": "Oxford [England]; Malden, Mass",
+"place": "Malden, Mass; Oxford [England]",
 "year": "1998",
 "period": "1991–2010",
 "language": "English",
@@ -130120,52 +130290,6 @@
 "other_source_urls": [],
 "sources": [
 "Open Library"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
-"id": "TB-010419",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "ஈழத்தமிழர் வரலாறு",
-"title_ta": "ஈழத்தமிழர் வரலாறு",
-"title_en": "Īḻattamiḻar Varalāṟu",
-"title_en_note": "romanised from Tamil",
-"alt_title": "",
-"authors": "[[:பகுப்பு:வசந்தா நடராசன்",
-"authors_roman": "[[:Pakuppu:Vacantā Naṭarācaṉ",
-"publisher": "[[:பகுப்பு:வசந்தம் பதிப்பகம்",
-"publisher_roman": "[[:Pakuppu:Vacantam Patippakam",
-"place": "",
-"year": "1999",
-"period": "1991–2010",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "326",
-"notes": "",
-"subjects": "இலங்கை வரலாறு",
-"access": "open",
-"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"download_url": "http://noolaham.net/project/925/92433/92433.pdf",
-"buy_url": "",
-"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"copies": [
-{
-"read": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"pdf": ""
-}
-],
-"other_source_urls": [
-"https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81"
-],
-"sources": [
-"Noolaham"
 ],
 "curated": false,
 "scholar": "",
@@ -132237,59 +132361,16 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-009758",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Buddhism among Tamils in pre-colonial Tamilakam and Īlam",
-"title_ta": "",
-"title_en": "Buddhism among Tamils in pre-colonial Tamilakam and Īlam",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Peter Schalk; A. Velu Pillai",
-"authors_roman": "",
-"publisher": "Uppsala universitet; Uppsala Universitet",
-"publisher_roman": "",
-"place": "Uppsala",
-"year": "2002",
-"period": "1991–2010",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "9155453589; 9155453570",
-"pages": "",
-"notes": "",
-"subjects": "Tamil; Buddhism; Colonialism; Ancient history; History; Art; Literature; Archaeology",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://ci.nii.ac.jp/ncid/BA5816837X",
-"copies": [],
-"other_source_urls": [
-"https://openlibrary.org/works/OL19162619W",
-"https://openlibrary.org/works/OL21149065M"
-],
-"sources": [
-"OpenAlex",
-"Open Library"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
 "id": "TB-006305",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
 "category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Buddhism among Tamil̲s in Tamil̲akam and Īl̲am",
+"title": "Buddhism among Tamils in pre-colonial Tamil̲akam and Īl̲am / editor-in-chief, Peter Schalk ; co-editor, Āḷvāppiḷḷai Vēluppiḷḷai ; [contributions by] Irāmaccantiran̲ Nākacāmi, Civacuppiramaṇiyam Patmanātan̲, Peter Schalk, Turaicāmi Tayāḷan̲, [and] Āḷvāppiḷḷai Vēluppiḷḷai — pt.2",
 "title_ta": "",
-"title_en": "Buddhism among Tamil̲s in Tamil̲akam and Īl̲am",
+"title_en": "Buddhism among Tamils in pre-colonial Tamil̲akam and Īl̲am / editor-in-chief, Peter Schalk ; co-editor, Āḷvāppiḷḷai Vēluppiḷḷai ; [contributions by] Irāmaccantiran̲ Nākacāmi, Civacuppiramaṇiyam Patmanātan̲, Peter Schalk, Turaicāmi Tayāḷan̲, [and] Āḷvāppiḷḷai Vēluppiḷḷai — pt.2",
 "title_en_note": "",
 "alt_title": "",
-"authors": "Peter Schalk; Astrid van Nahl",
+"authors": "Peter Schalk; Irā Nākacāmi",
 "authors_roman": "",
 "publisher": "Uppsala Universitet",
 "publisher_roman": "",
@@ -132298,20 +132379,27 @@
 "period": "1991–2010",
 "language": "English",
 "type": "Book",
-"series": "",
-"isbn": "9789155484125; 9155484123",
+"series": "pt.2",
+"isbn": "9789155484125 (v. 3 : pbk.),9155484123 (v. 3 : pbk.),9789155453589 (v. 2 : pbk.),9155453589 (v. 2 : pbk.),9789155453572 (v. 1 : pbk.),9155453570 (v. 1 : pbk.)",
 "pages": "",
 "notes": "",
-"subjects": "Religion; Tamil (Indic people); Congresses; Buddhism",
+"subjects": "Religion; Tamil (Indic people); History; Buddhism; Sources; Buddhism, history; Tamil (indic people); Buddhism, india; Religious life and customs",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
 "buy_url": "",
-"source_url": "https://openlibrary.org/works/OL22338716W",
+"source_url": "https://catalog.hathitrust.org/Record/102023273",
 "copies": [],
-"other_source_urls": [],
+"other_source_urls": [
+"https://openlibrary.org/works/OL19162619W",
+"https://openlibrary.org/works/OL22338716W",
+"https://ci.nii.ac.jp/ncid/BA5816837X",
+"https://openlibrary.org/works/OL21149065M"
+],
 "sources": [
-"Open Library"
+"HathiTrust",
+"Open Library",
+"OpenAlex"
 ],
 "curated": false,
 "scholar": "",
@@ -134853,9 +134941,12 @@
 "buy_url": "",
 "source_url": "https://openlibrary.org/works/OL5862934W",
 "copies": [],
-"other_source_urls": [],
+"other_source_urls": [
+"https://catalog.hathitrust.org/Record/009666524"
+],
 "sources": [
-"Open Library"
+"Open Library",
+"HathiTrust"
 ],
 "curated": false,
 "scholar": "",
@@ -143416,6 +143507,56 @@
 "added": "2026-10-29"
 },
 {
+"id": "TB-010419",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "ஈழத் தமிழர் வரலாறு",
+"title_ta": "ஈழத் தமிழர் வரலாறு",
+"title_en": "Īḻat Tamiḻar Varalāṟu",
+"title_en_note": "romanised from Tamil",
+"alt_title": "",
+"authors": "[[:பகுப்பு:வன்னியூர் செந்தூரன்",
+"authors_roman": "[[:Pakuppu:Vaṉṉiyūr Centūraṉ",
+"publisher": "[[:பகுப்பு:ஈழத்துக் கலை இலக்கியப் பேரவை",
+"publisher_roman": "[[:Pakuppu:Īḻattuk Kalai Ilakkiyap Pēravai",
+"place": "",
+"year": "2025",
+"period": "2011–2026 (Recent)",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "188",
+"notes": "",
+"subjects": "வரலாறு",
+"access": "open",
+"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"download_url": "http://noolaham.net/project/925/92433/92433.pdf",
+"buy_url": "",
+"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"copies": [
+{
+"read": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"pdf": ""
+},
+{
+"read": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"pdf": "http://noolaham.net/project/925/92433/92433.pdf"
+}
+],
+"other_source_urls": [
+"https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81"
+],
+"sources": [
+"Noolaham"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-29"
+},
+{
 "id": "TB-010421",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -145236,6 +145377,58 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-29"
+},
+{
+"id": "TB-011036",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "History of the rise of the Mahomedan power in India till the year A.D. 1612 : to which is added an account of the conquest by the kings of Hydrabad, of those parts of the Madras provinces denominated the ceded districts and northern circars / translated from the original persian of Mahomed Kasim Ferishta by John Briggs — v.3",
+"title_ta": "",
+"title_en": "History of the rise of the Mahomedan power in India till the year A.D. 1612 : to which is added an account of the conquest by the kings of Hydrabad, of those parts of the Madras provinces denominated the ceded districts and northern circars / translated from the original persian of Mahomed Kasim Ferishta by John Briggs — v.3",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Firishtah, Muḥammad Qāsim Hindū Shāh Astarābādī",
+"authors_roman": "",
+"publisher": "R. Cambray & Co",
+"publisher_roman": "",
+"place": "",
+"year": "",
+"period": "Undated",
+"language": "English",
+"type": "Book",
+"series": "v.3",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "",
+"access": "open-us",
+"read_url": "https://babel.hathitrust.org/cgi/pt?id=umn.319510020620403",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://catalog.hathitrust.org/Record/012304703",
+"copies": [
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=umn.31951002062039o",
+"pdf": ""
+},
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=umn.31951002062038q",
+"pdf": ""
+},
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=umn.319510020620411",
+"pdf": ""
+}
+],
+"other_source_urls": [],
+"sources": [
+"HathiTrust"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-21"
 },
 {
 "id": "TB-010456",
@@ -155879,12 +156072,12 @@
 "category": "PLM",
 "category_name": "Palm-leaf Manuscripts & Manuscriptology",
 "category_name_ta": "ஓலைச்சுவடிகள், சுவடியியல்",
-"title": "A descriptive catalogue of the Telugu manuscripts in the Government Oriental Manuscripts Library, Madras",
+"title": "A descriptive catalogue of the Telugu manuscripts in the Government Oriental manuscripts library, Madras /",
 "title_ta": "",
-"title_en": "A descriptive catalogue of the Telugu manuscripts in the Government Oriental Manuscripts Library, Madras",
+"title_en": "A descriptive catalogue of the Telugu manuscripts in the Government Oriental manuscripts library, Madras /",
 "title_en_note": "",
 "alt_title": "",
-"authors": "M. Raṅgācārya; S. Kuppuswami Sastri; P. P. Subrahmanya Sastri; A. Sankaran; Syed Muhammad Fazlullah; T. Chandrasekharan",
+"authors": "India) Government Oriental Manuscripts Library (Tamil Nadu; P. P. Subrahmanya Sastri; S. Kuppuswami Sastri",
 "authors_roman": "",
 "publisher": "National Institute of Informatics",
 "publisher_roman": "",
@@ -155897,24 +156090,38 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Telugu; Government (linguistics); Library science; History; Geography; Computer science; Artificial intelligence; Linguistics; Philosophy",
+"subjects": "Telugu; Government (linguistics); History; Library science; Classics; Medicine; Ancient history; History of medicine; Media studies; Art",
 "access": "open",
 "read_url": "http://hdl.handle.net/2027/umn.31951d00194440i",
 "download_url": "",
 "buy_url": "",
-"source_url": "http://ci.nii.ac.jp/ncid/BA65717911",
+"source_url": "http://hdl.handle.net/2027/umn.31951d00194440i",
 "copies": [
 {
 "read": "https://tufs.repo.nii.ac.jp/records/28420",
 "pdf": ""
+},
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=umn.31951d00194440i",
+"pdf": ""
+},
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=umn.31951002312283m",
+"pdf": ""
+},
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=umn.31951002312288c",
+"pdf": ""
 }
 ],
 "other_source_urls": [
-"http://hdl.handle.net/2027/umn.31951d00194440i",
-"https://tufs.repo.nii.ac.jp/records/28416"
+"http://ci.nii.ac.jp/ncid/BA65717911",
+"https://tufs.repo.nii.ac.jp/records/28416",
+"https://catalog.hathitrust.org/Record/101721535"
 ],
 "sources": [
-"OpenAlex"
+"OpenAlex",
+"HathiTrust"
 ],
 "curated": false,
 "scholar": "",
@@ -161831,54 +162038,6 @@
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/001173551",
 "copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-28"
-},
-{
-"id": "TB-006125",
-"category": "PLM",
-"category_name": "Palm-leaf Manuscripts & Manuscriptology",
-"category_name_ta": "ஓலைச்சுவடிகள், சுவடியியல்",
-"title": "A descriptive catalogue of the Telugu manuscripts in the Government Oriental manuscripts library, Madras / prepared under the orders of the government of Madras — v.3",
-"title_ta": "",
-"title_en": "A descriptive catalogue of the Telugu manuscripts in the Government Oriental manuscripts library, Madras / prepared under the orders of the government of Madras — v.3",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Government Oriental Manuscripts Library (Tamil Nadu, India)",
-"authors_roman": "",
-"publisher": "Printed by the superintendent, Government press",
-"publisher_roman": "",
-"place": "",
-"year": "",
-"period": "Undated",
-"language": "English",
-"type": "Book",
-"series": "v.3",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "open-us",
-"read_url": "https://babel.hathitrust.org/cgi/pt?id=umn.31951d00194440i",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/101721535",
-"copies": [
-{
-"read": "https://babel.hathitrust.org/cgi/pt?id=umn.31951002312283m",
-"pdf": ""
-},
-{
-"read": "https://babel.hathitrust.org/cgi/pt?id=umn.31951002312288c",
-"pdf": ""
-}
-],
 "other_source_urls": [],
 "sources": [
 "HathiTrust"
@@ -170385,10 +170544,10 @@
 ],
 "other_source_urls": [
 "https://catalog.hathitrust.org/Record/000501150",
+"https://catalog.hathitrust.org/Record/006213465",
 "https://catalog.hathitrust.org/Record/009790464",
 "https://archive.org/details/india.history.resource.77432",
-"https://archive.org/details/india.history.resource.89096",
-"https://archive.org/details/indianantiquary1879vol.8_742_r"
+"https://archive.org/details/india.history.resource.89096"
 ],
 "sources": [
 "Wikimedia Commons",
