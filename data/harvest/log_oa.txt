@@ -350,12 +350,12 @@
 [oa] tamilnattu varalaru: total so far 501
 [oa] ERR talavaralaru HTTP Error 429: Too Many Requests
 [oa] talavaralaru: total so far 501
-[oa] ERR tala varalaru HTTP Error 429: Too Many Requests
+[oa] ERR tala varalaru HTTP Error 503: Service Unavailable
 [oa] tala varalaru: total so far 501
-[oa] ERR meykkirtti HTTP Error 429: Too Many Requests
+[oa] ERR meykkirtti HTTP Error 503: Service Unavailable
 [oa] meykkirtti: total so far 501
-[oa] ERR meikeerthi HTTP Error 429: Too Many Requests
+[oa] ERR meikeerthi HTTP Error 503: Service Unavailable
 [oa] meikeerthi: total so far 501
 [oa] saved 187 records
-[oa] took 21003s
-total 21003s
+[oa] took 20678s
+total 20678s

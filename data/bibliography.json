@@ -6600,14 +6600,14 @@
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Indica / Archaeological Survey of India — 1892",
+"title": "Epigraphia Indica / Archæological Survey of India — 1892",
 "title_ta": "",
-"title_en": "Epigraphia Indica / Archaeological Survey of India — 1892",
+"title_en": "Epigraphia Indica / Archæological Survey of India — 1892",
 "title_en_note": "",
 "alt_title": "",
 "authors": "",
 "authors_roman": "",
-"publisher": "Manager of Publications",
+"publisher": "Supt. of Govt. Printing, India",
 "publisher_roman": "",
 "place": "",
 "year": "1892",
@@ -6712,15 +6712,15 @@
 "pdf": ""
 },
 {
-"read": "https://archive.org/details/mpl.411.754.epi.35.8907-p4",
-"pdf": ""
-},
-{
 "read": "https://archive.org/details/bmshri.epigraphiaindica0000unse_e9c9",
 "pdf": ""
 },
 {
 "read": "https://archive.org/details/mpl.411.754.epi.39.8943",
+"pdf": ""
+},
+{
+"read": "https://archive.org/details/mpl.411.754.epi.35.8907-p4",
 "pdf": ""
 },
 {
@@ -6738,9 +6738,9 @@
 ],
 "other_source_urls": [
 "https://archive.org/details/mpl.411.7.54.epi.34.8928",
-"https://archive.org/details/mpl.411.754.epi.35.8907-p4",
 "https://archive.org/details/bmshri.epigraphiaindica0000unse_e9c9",
 "https://archive.org/details/mpl.411.754.epi.39.8943",
+"https://archive.org/details/mpl.411.754.epi.35.8907-p4",
 "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_1_%281892%29.pdf"
 ],
 "sources": [
@@ -6956,14 +6956,14 @@
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Indica / Archaeological Survey of India — 1894",
+"title": "Epigraphia Indica / Archæological Survey of India — 1894",
 "title_ta": "",
-"title_en": "Epigraphia Indica / Archaeological Survey of India — 1894",
+"title_en": "Epigraphia Indica / Archæological Survey of India — 1894",
 "title_en_note": "",
 "alt_title": "",
 "authors": "",
 "authors_roman": "",
-"publisher": "Manager of Publications",
+"publisher": "Supt. of Govt. Printing, India",
 "publisher_roman": "",
 "place": "",
 "year": "1894",
@@ -7119,10 +7119,10 @@
 "title_ta": "",
 "title_en": "Epigraphia Indica, Vol. 3",
 "title_en_note": "",
-"alt_title": "Epigraphia Indica Vol III",
+"alt_title": "Epigraphia Indica-Vol,XXXIII-Oct,1960-Part,VIII",
 "authors": "E. Hultzsch",
 "authors_roman": "",
-"publisher": "The Government Of India",
+"publisher": "The Manager Of Publications, Delhi",
 "publisher_roman": "",
 "place": "",
 "year": "1895",
@@ -7135,25 +7135,25 @@
 "notes": "'Epigraphia Indica Vol 3'",
 "subjects": "Mahesha Pillai",
 "access": "open",
-"read_url": "https://archive.org/details/mpl.411.754.epi.3.207",
+"read_url": "https://archive.org/details/mpl.411.754.epi.33.8926",
 "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_3.pdf",
 "buy_url": "",
-"source_url": "https://archive.org/details/mpl.411.754.epi.3.207",
+"source_url": "https://archive.org/details/mpl.411.754.epi.33.8926",
 "copies": [
-{
-"read": "https://archive.org/details/mpl.411.754.epi.3.207",
-"pdf": ""
-},
-{
-"read": "https://archive.org/details/mpl.411.754.epi.3.220",
-"pdf": ""
-},
 {
 "read": "https://archive.org/details/mpl.411.754.epi.33.8926",
 "pdf": ""
 },
 {
 "read": "https://archive.org/details/mpl.411.754.epi.34.8930",
+"pdf": ""
+},
+{
+"read": "https://archive.org/details/mpl.411.754.epi.3.207",
+"pdf": ""
+},
+{
+"read": "https://archive.org/details/mpl.411.754.epi.3.220",
 "pdf": ""
 },
 {
@@ -7174,9 +7174,9 @@
 }
 ],
 "other_source_urls": [
-"https://archive.org/details/mpl.411.754.epi.3.220",
-"https://archive.org/details/mpl.411.754.epi.33.8926",
 "https://archive.org/details/mpl.411.754.epi.34.8930",
+"https://archive.org/details/mpl.411.754.epi.3.207",
+"https://archive.org/details/mpl.411.754.epi.3.220",
 "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_3.pdf",
 "https://catalog.hathitrust.org/Record/000530277"
 ],
@@ -8226,10 +8226,10 @@
 "title_ta": "",
 "title_en": "Epigraphia Indica, Vol. 7",
 "title_en_note": "",
-"alt_title": "Epigraphia Indica Vol VII 1902-1903",
+"alt_title": "Epigraphia indica (volume 7 & 8)",
 "authors": "E. Hultzsch",
 "authors_roman": "",
-"publisher": "The Government Of India",
+"publisher": "The director general archaeological survey of india",
 "publisher_roman": "",
 "place": "",
 "year": "1903",
@@ -8242,21 +8242,21 @@
 "notes": "'Epigraphia Indica Vol 7'",
 "subjects": "Devi Bali",
 "access": "open",
-"read_url": "https://archive.org/details/mpl.411.754.epi.7.211",
+"read_url": "https://archive.org/details/bmshri.epigraphiaindica0000prof_t2d7",
 "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_7.pdf",
 "buy_url": "",
-"source_url": "https://archive.org/details/mpl.411.754.epi.7.211",
+"source_url": "https://archive.org/details/bmshri.epigraphiaindica0000prof_t2d7",
 "copies": [
+{
+"read": "https://archive.org/details/bmshri.epigraphiaindica0000prof_t2d7",
+"pdf": ""
+},
 {
 "read": "https://archive.org/details/mpl.411.754.epi.7.211",
 "pdf": ""
 },
 {
 "read": "https://archive.org/details/mpl.411.754.epi.7.224",
-"pdf": ""
-},
-{
-"read": "https://archive.org/details/bmshri.epigraphiaindica0000prof_t2d7",
 "pdf": ""
 },
 {
@@ -8281,8 +8281,8 @@
 }
 ],
 "other_source_urls": [
+"https://archive.org/details/mpl.411.754.epi.7.211",
 "https://archive.org/details/mpl.411.754.epi.7.224",
-"https://archive.org/details/bmshri.epigraphiaindica0000prof_t2d7",
 "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_7.pdf",
 "https://catalog.hathitrust.org/Record/000530277",
 "https://catalog.hathitrust.org/Record/006782992"
@@ -39576,7 +39576,7 @@
 "isbn": "",
 "pages": "",
 "notes": "Coimbatore Mavatta Kalvettugal Thogudi 1",
-"subjects": "Coimbatore; Kalvettugal",
+"subjects": "Tamil Inscriptions; Sources; History",
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10643-%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D%20%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%A4%E0%AF%8A%E0%AE%95%E0%AF%81%E0%AE%A4%E0%AE%BF%20-%201",
 "download_url": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_1.pdf",
@@ -39592,19 +39592,19 @@
 "pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_1.pdf"
 },
 {
-"read": "https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
-"pdf": "https://archive.org/download/coimbatore-mavatta-kalvettugal-thogudi-1/Coimbatore%20Mavatta%20Kalvettugal%20-%20Thogudi%201.pdf"
-},
-{
 "read": "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
 "pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D.pdf"
+},
+{
+"read": "https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
+"pdf": "https://archive.org/download/coimbatore-mavatta-kalvettugal-thogudi-1/Coimbatore%20Mavatta%20Kalvettugal%20-%20Thogudi%201.pdf"
 }
 ],
 "other_source_urls": [
 "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1",
-"https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
 "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
-"https://openlibrary.org/works/OL18734808W"
+"https://openlibrary.org/works/OL18734808W",
+"https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1"
 ],
 "sources": [
 "Curated",
@@ -114568,6 +114568,54 @@
 "added": "2026-10-29"
 },
 {
+"id": "TB-009093",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "'''ஸ்ரீ முன்னேஸ்வர வரலாறு'''",
+"title_ta": "'''ஸ்ரீ முன்னேஸ்வர வரலாறு'''",
+"title_en": "Śrī Munnēsvara varalāru",
+"title_en_note": "",
+"alt_title": "",
+"authors": "[[:பகுப்பு:சிவராமகிருஷ்ண சர்மா, பா.",
+"authors_roman": "[[:Pakuppu:Civarāmakiruṣṇa Carmā, Pā.",
+"publisher": "-",
+"publisher_roman": "",
+"place": "Colombo",
+"year": "1968",
+"period": "1947–1990 (Post-independence)",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "x + 74",
+"notes": "",
+"subjects": "இந்து சமயம்",
+"access": "open",
+"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"download_url": "http://noolaham.net/project/20/1998/1998.pdf",
+"buy_url": "",
+"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"copies": [
+{
+"read": "https://noolaham.org/wiki/index.php/%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"pdf": "http://noolaham.net/project/781/78073/78073.pdf"
+}
+],
+"other_source_urls": [
+"https://noolaham.org/wiki/index.php/%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"https://openlibrary.org/works/OL6548191W"
+],
+"sources": [
+"Noolaham",
+"Open Library"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-29"
+},
+{
 "id": "TB-006206",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -129196,7 +129244,7 @@
 "authors_roman": "",
 "publisher": "Blackwell Publishers",
 "publisher_roman": "",
-"place": "Malden, Mass; Oxford [England]",
+"place": "Oxford [England]; Malden, Mass",
 "year": "1998",
 "period": "1991–2010",
 "language": "English",
@@ -141014,54 +141062,6 @@
 "other_source_urls": [],
 "sources": [
 "Noolaham"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
-"id": "TB-009093",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "ஶ்ரீ முன்னேஸ்வர வரலாறு",
-"title_ta": "ஶ்ரீ முன்னேஸ்வர வரலாறு",
-"title_en": "Śrī Munnēsvara varalāru",
-"title_en_note": "",
-"alt_title": "",
-"authors": "[[:பகுப்பு:பத்மநாபன், ச.",
-"authors_roman": "[[:Pakuppu:Patmanāpaṉ, Ca.",
-"publisher": "[[:பகுப்பு:ஶ்ரீ முன்னேஸ்வரம் தேவஸ்தானம்",
-"publisher_roman": "[[:Pakuppu:Śrī Muṉṉēsvaram Tēvastāṉam",
-"place": "Colombo",
-"year": "2017",
-"period": "2011–2026 (Recent)",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "118",
-"notes": "",
-"subjects": "கோயில் மலர்",
-"access": "open",
-"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"download_url": "http://noolaham.net/project/781/78073/78073.pdf",
-"buy_url": "",
-"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"copies": [
-{
-"read": "https://noolaham.org/wiki/index.php/%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"pdf": "http://noolaham.net/project/20/1998/1998.pdf"
-}
-],
-"other_source_urls": [
-"https://noolaham.org/wiki/index.php/%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"https://openlibrary.org/works/OL6548191W"
-],
-"sources": [
-"Noolaham",
-"Open Library"
 ],
 "curated": false,
 "scholar": "",
@@ -170544,8 +170544,8 @@
 ],
 "other_source_urls": [
 "https://catalog.hathitrust.org/Record/000501150",
-"https://catalog.hathitrust.org/Record/006213465",
 "https://catalog.hathitrust.org/Record/009790464",
+"https://catalog.hathitrust.org/Record/006213465",
 "https://archive.org/details/india.history.resource.77432",
 "https://archive.org/details/india.history.resource.89096"
 ],
