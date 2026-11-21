@@ -253,7 +253,7 @@
 [ol] q=முதுமக்கள் தாழி: page 1 docs 0
 [ol] q=கீழடி: page 1 docs 1
 [ol] q=ஆதிச்சநல்லூர்: page 1 docs 1
-[ol] ERR கொடுமணல் HTTP Error 502: Bad Gateway
+[ol] q=கொடுமணல்: page 1 docs 0
 [ol] q=சிவகளை: page 1 docs 0
 [ol] q=பொருந்தல்: page 1 docs 0
 [ol] q=அழகன்குளம்: page 1 docs 0
@@ -346,5 +346,5 @@
 [ol] subject=Inscriptions: page 5 docs 1000
 [ol] subject=Paleography, Tamil: page 1 docs 0
 [ol] saved 1209 records
-[ol] took 648s
-total 648s
+[ol] took 732s
+total 732s
