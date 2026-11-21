@@ -239,3 +239,8 @@ ONL|Tamil-English||Tamil Nadu State Department of Archaeology – Publications||
 ONL|Tamil-English||Tamil Heritage Foundation Reference Library – South Indian Inscriptions||Tamil Heritage Foundation||Online|Web library||Links to SII volume scans.|http://thfreferencelibrary.blogspot.com/2019/05/SouthIndianInscriptions.html
 ONL|English||Academia.edu – Tamil Epigraphy research papers||Academia.edu||Online|Web database|||https://www.academia.edu/Documents/in/Tamil_Epigraphy
 ONL|English||Internet Archive – South Indian Inscriptions collection||Internet Archive||Online|Web database|||https://archive.org/details/south-indian-inscriptions
+
+## ---------- Recent releases (added 2026-11-21) ----------
+TBR|English|2025|Indus Signs and Graffiti Marks of Tamil Nadu: A Morphological Study||K. Rajan; R. Sivanantham|Department of Archaeology, Government of Tamil Nadu|Chennai|Book||ISBN 9788197784255; 145 p., illus., maps. Released in Tamil and English by the Chief Minister, 5 Jan 2025.|https://zenon.dainst.org/Record/003101129
+DYN|English|2025|Lords of Earth and Sea: A History of the Chola Empire||Anirudh Kanisetti|Juggernaut|New Delhi|Book||Narrative history of the Cholas drawing on inscriptions.|https://openthemagazine.com/lounge/books/rediscovering-the-cholas
+DYN|English|2023|Epic Saga of the Cholas: Their Art, Temples and Heritage||T. S. Subramanian; K. Kirubanidhi (ed.)|The Hindu|Chennai|Book||ISBN 9789387791947; ~430 p.|https://www.ibpbooks.com/epic-saga-of-the-cholas-their-art-temples-and-heritage/p/59793

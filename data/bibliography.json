@@ -1,28 +1,28 @@
 {
 "generated": "2026-11-21",
-"count": 4733,
-"with_author": 3191,
-"with_publisher": 2938,
-"with_year": 3304,
-"open_access": 2866,
-"with_download": 2394,
+"count": 4693,
+"with_author": 3183,
+"with_publisher": 2907,
+"with_year": 3269,
+"open_access": 2856,
+"with_download": 2388,
 "heritage_records": 4263,
 "with_buy": 0,
 "access": {
-"open": 2866,
-"catalogue": 1673,
+"open": 2856,
+"catalogue": 1643,
 "": 49,
 "open-us": 101,
 "borrow": 44
 },
 "sources": {
-"Internet Archive": 2341,
+"Internet Archive": 2336,
 "Noolaham": 194,
-"Open Library": 1238,
-"Curated": 204,
+"Open Library": 1236,
+"Curated": 207,
 "OpenAlex": 352,
-"HathiTrust": 1245,
-"Wikimedia Commons": 226,
+"HathiTrust": 1229,
+"Wikimedia Commons": 225,
 "Tamil Wikisource": 106,
 "Online text": 43,
 "English Wikisource": 77,
@@ -32,17 +32,17 @@
 "EPG": {
 "en": "Epigraphy: Manuals, Palaeography & Studies",
 "ta": "கல்வெட்டியல்: கையேடுகள், எழுத்தியல், ஆய்வுகள்",
-"count": 138
+"count": 137
 },
 "ASI": {
 "en": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"count": 586
+"count": 569
 },
 "TNS": {
 "en": "Inscription Corpora: Tamil Nadu State, District & Temple",
 "ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
-"count": 319
+"count": 317
 },
 "CPP": {
 "en": "Copper Plates & Charters",
@@ -52,7 +52,7 @@
 "TBR": {
 "en": "Tamil-Brahmi, Vatteluttu & Early Writing",
 "ta": "தமிழ்-பிராமி, வட்டெழுத்து",
-"count": 99
+"count": 100
 },
 "HER": {
 "en": "Hero Stones & Memorial Stones",
@@ -62,12 +62,12 @@
 "ROC": {
 "en": "Rock Art & Paintings",
 "ta": "பாறை ஓவியங்கள்",
-"count": 33
+"count": 30
 },
 "EXC": {
 "en": "Archaeology: Excavation Reports & Sites",
 "ta": "அகழாய்வு அறிக்கைகள்",
-"count": 95
+"count": 94
 },
 "PRE": {
 "en": "Archaeology: Prehistory & Megaliths",
@@ -77,22 +77,22 @@
 "ARC": {
 "en": "Archaeology: General, Surveys & Museums",
 "ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
-"count": 405
+"count": 400
 },
 "DYN": {
 "en": "Tamil Dynasties & Political History",
 "ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
-"count": 301
+"count": 302
 },
 "LOC": {
 "en": "Local, District & Temple History",
 "ta": "ஊர், மாவட்ட, கோயில் வரலாறு",
-"count": 341
+"count": 340
 },
 "HIS": {
 "en": "Tamil History: General, Society & Economy",
 "ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"count": 1126
+"count": 1117
 },
 "NUM": {
 "en": "Numismatics (Coins)",
@@ -102,7 +102,7 @@
 "PLM": {
 "en": "Palm-leaf Manuscripts & Manuscriptology",
 "ta": "ஓலைச்சுவடிகள், சுவடியியல்",
-"count": 252
+"count": 250
 },
 "SEA": {
 "en": "Seals, Rock-cut Caves & Jain Beds",
@@ -112,7 +112,7 @@
 "REF": {
 "en": "Reference: Catalogues, Lists & Glossaries",
 "ta": "பட்டியல்கள், சொல்லகராதிகள்",
-"count": 92
+"count": 91
 },
 "JOU": {
 "en": "Journals & Periodicals",
@@ -2390,48 +2390,6 @@
 ],
 "curated": false,
 "scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
-"id": "TB-001788",
-"category": "EPG",
-"category_name": "Epigraphy: Manuals, Palaeography & Studies",
-"category_name_ta": "கல்வெட்டியல்: கையேடுகள், எழுத்தியல், ஆய்வுகள்",
-"title": "Early Tamil epigraphy from the earliest times to the sixth century A.D. / [edited and translated by] Iravatham Mahadevan",
-"title_ta": "",
-"title_en": "Early Tamil epigraphy from the earliest times to the sixth century A.D. / [edited and translated by] Iravatham Mahadevan",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Iravatham Mahadevan",
-"authors_roman": "",
-"publisher": "Harvard University Press",
-"publisher_roman": "",
-"place": "",
-"year": "2003",
-"period": "1991–2010",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "0674012275",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/003868649",
-"copies": [],
-"other_source_urls": [
-"https://openlibrary.org/works/OL6791053W"
-],
-"sources": [
-"HathiTrust",
-"Open Library"
-],
-"curated": false,
-"scholar": "Iravatham Mahadevan",
 "from_list": false,
 "added": "2026-10-20"
 },
@@ -6605,7 +6563,7 @@
 "title_en": "Epigraphia Indica / Archæological Survey of India — 1892",
 "title_en_note": "",
 "alt_title": "",
-"authors": "",
+"authors": "James Burgess; E. Hultzsch; Alois Anton Führer",
 "authors_roman": "",
 "publisher": "Supt. of Govt. Printing, India",
 "publisher_roman": "",
@@ -6618,54 +6576,18 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "",
+"subjects": "Arch; History; Geography; Archaeology",
 "access": "open",
 "read_url": "https://babel.hathitrust.org/cgi/pt?id=inu.39000002175854",
 "download_url": "",
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/006782988",
 "copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
+"other_source_urls": [
+"http://ci.nii.ac.jp/ncid/BA18993425"
 ],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
-"id": "TB-001851",
-"category": "ASI",
-"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
-"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Indica : a collection of inscriptions supplementary to the Corpus inscriptionum Indicarum of the Archæological Survey",
-"title_ta": "",
-"title_en": "Epigraphia Indica : a collection of inscriptions supplementary to the Corpus inscriptionum Indicarum of the Archæological Survey",
-"title_en_note": "",
-"alt_title": "",
-"authors": "James Burgess; E. Hultzsch; Alois Anton Führer",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "1892",
-"period": "1800–1899 (Colonial, early)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "Arch; History; Geography; Archaeology",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "http://ci.nii.ac.jp/ncid/BA18993425",
-"copies": [],
-"other_source_urls": [],
 "sources": [
+"HathiTrust",
 "OpenAlex"
 ],
 "curated": false,
@@ -16763,84 +16685,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002107",
-"category": "ASI",
-"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
-"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Indica / Archaeological Survey of India — 1959-1960",
-"title_ta": "",
-"title_en": "Epigraphia Indica / Archaeological Survey of India — 1959-1960",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "Manager of Publications",
-"publisher_roman": "",
-"place": "",
-"year": "1960",
-"period": "1947–1990 (Post-independence)",
-"language": "English",
-"type": "Book",
-"series": "1959-1960",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/006051013",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
-"id": "TB-002108",
-"category": "ASI",
-"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
-"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Indica / Archaeological Survey of India — Suppl.:1959/60",
-"title_ta": "",
-"title_en": "Epigraphia Indica / Archaeological Survey of India — Suppl.:1959/60",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "Manager of Publications",
-"publisher_roman": "",
-"place": "",
-"year": "1960",
-"period": "1947–1990 (Post-independence)",
-"language": "English",
-"type": "Book",
-"series": "Suppl.:1959/60",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/006051013",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-002111",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
@@ -16870,7 +16714,9 @@
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/000530277",
 "copies": [],
-"other_source_urls": [],
+"other_source_urls": [
+"https://catalog.hathitrust.org/Record/006051013"
+],
 "sources": [
 "HathiTrust"
 ],
@@ -17104,45 +16950,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002118",
-"category": "ASI",
-"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
-"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Indica / Archaeological Survey of India — Suppl.:1961",
-"title_ta": "",
-"title_en": "Epigraphia Indica / Archaeological Survey of India — Suppl.:1961",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "Manager of Publications",
-"publisher_roman": "",
-"place": "",
-"year": "1961",
-"period": "1947–1990 (Post-independence)",
-"language": "English",
-"type": "Book",
-"series": "Suppl.:1961",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/006051013",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-002120",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
@@ -17358,7 +17165,8 @@
 "source_url": "https://catalog.hathitrust.org/Record/000536223",
 "copies": [],
 "other_source_urls": [
-"https://archive.org/details/mpl.411.7.54.epi.4398"
+"https://archive.org/details/mpl.411.7.54.epi.4398",
+"https://catalog.hathitrust.org/Record/006051013"
 ],
 "sources": [
 "HathiTrust",
@@ -17844,45 +17652,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002138",
-"category": "ASI",
-"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
-"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Indica / Archaeological Survey of India — Suppl.:1963",
-"title_ta": "",
-"title_en": "Epigraphia Indica / Archaeological Survey of India — Suppl.:1963",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "Manager of Publications",
-"publisher_roman": "",
-"place": "",
-"year": "1963",
-"period": "1947–1990 (Post-independence)",
-"language": "English",
-"type": "Book",
-"series": "Suppl.:1963",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/006051013",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-002140",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
@@ -18302,7 +18071,8 @@
 "source_url": "https://catalog.hathitrust.org/Record/000536223",
 "copies": [],
 "other_source_urls": [
-"https://archive.org/details/mpl.411.7.54.epi.5207"
+"https://archive.org/details/mpl.411.7.54.epi.5207",
+"https://catalog.hathitrust.org/Record/006051013"
 ],
 "sources": [
 "HathiTrust",
@@ -18395,45 +18165,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002154",
-"category": "ASI",
-"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
-"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Indica / Archaeological Survey of India — Suppl.:1964",
-"title_ta": "",
-"title_en": "Epigraphia Indica / Archaeological Survey of India — Suppl.:1964",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "Manager of Publications",
-"publisher_roman": "",
-"place": "",
-"year": "1964",
-"period": "1947–1990 (Post-independence)",
-"language": "English",
-"type": "Book",
-"series": "Suppl.:1964",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/006051013",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-002162",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
@@ -18463,7 +18194,9 @@
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/000530277",
 "copies": [],
-"other_source_urls": [],
+"other_source_urls": [
+"https://catalog.hathitrust.org/Record/006051013"
+],
 "sources": [
 "HathiTrust"
 ],
@@ -18859,45 +18592,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002167",
-"category": "ASI",
-"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
-"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Indica / Archaeological Survey of India — Suppl.:1965",
-"title_ta": "",
-"title_en": "Epigraphia Indica / Archaeological Survey of India — Suppl.:1965",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "Manager of Publications",
-"publisher_roman": "",
-"place": "",
-"year": "1965",
-"period": "1947–1990 (Post-independence)",
-"language": "English",
-"type": "Book",
-"series": "Suppl.:1965",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/006051013",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-002169",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
@@ -18927,7 +18621,9 @@
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/000530277",
 "copies": [],
-"other_source_urls": [],
+"other_source_urls": [
+"https://catalog.hathitrust.org/Record/006051013"
+],
 "sources": [
 "HathiTrust"
 ],
@@ -20466,45 +20162,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002233",
-"category": "ASI",
-"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
-"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Indica / Archaeological Survey of India — Suppl.:1969",
-"title_ta": "",
-"title_en": "Epigraphia Indica / Archaeological Survey of India — Suppl.:1969",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "Manager of Publications",
-"publisher_roman": "",
-"place": "",
-"year": "1969",
-"period": "1947–1990 (Post-independence)",
-"language": "English",
-"type": "Book",
-"series": "Suppl.:1969",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/006051013",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-002239",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
@@ -20534,7 +20191,9 @@
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/000530277",
 "copies": [],
-"other_source_urls": [],
+"other_source_urls": [
+"https://catalog.hathitrust.org/Record/006051013"
+],
 "sources": [
 "HathiTrust"
 ],
@@ -21056,45 +20715,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002253",
-"category": "ASI",
-"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
-"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Indica / Archaeological Survey of India — Suppl.:1970",
-"title_ta": "",
-"title_en": "Epigraphia Indica / Archaeological Survey of India — Suppl.:1970",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "Manager of Publications",
-"publisher_roman": "",
-"place": "",
-"year": "1970",
-"period": "1947–1990 (Post-independence)",
-"language": "English",
-"type": "Book",
-"series": "Suppl.:1970",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/006051013",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-002261",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
@@ -21124,7 +20744,9 @@
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/000530277",
 "copies": [],
-"other_source_urls": [],
+"other_source_urls": [
+"https://catalog.hathitrust.org/Record/006051013"
+],
 "sources": [
 "HathiTrust"
 ],
@@ -21377,84 +20999,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002274",
-"category": "ASI",
-"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
-"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Indica / Archaeological Survey of India — 1971",
-"title_ta": "",
-"title_en": "Epigraphia Indica / Archaeological Survey of India — 1971",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "Manager of Publications",
-"publisher_roman": "",
-"place": "",
-"year": "1971",
-"period": "1947–1990 (Post-independence)",
-"language": "English",
-"type": "Book",
-"series": "1971",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/006051013",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
-"id": "TB-002275",
-"category": "ASI",
-"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
-"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Indica / Archaeological Survey of India — Suppl.:1971",
-"title_ta": "",
-"title_en": "Epigraphia Indica / Archaeological Survey of India — Suppl.:1971",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "Manager of Publications",
-"publisher_roman": "",
-"place": "",
-"year": "1971",
-"period": "1947–1990 (Post-independence)",
-"language": "English",
-"type": "Book",
-"series": "Suppl.:1971",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/006051013",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-002282",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
@@ -21484,7 +21028,9 @@
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/000530277",
 "copies": [],
-"other_source_urls": [],
+"other_source_urls": [
+"https://catalog.hathitrust.org/Record/006051013"
+],
 "sources": [
 "HathiTrust"
 ],
@@ -21966,45 +21512,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002296",
-"category": "ASI",
-"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
-"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Indica / Archaeological Survey of India — Suppl.:1972",
-"title_ta": "",
-"title_en": "Epigraphia Indica / Archaeological Survey of India — Suppl.:1972",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "Manager of Publications",
-"publisher_roman": "",
-"place": "",
-"year": "1972",
-"period": "1947–1990 (Post-independence)",
-"language": "English",
-"type": "Book",
-"series": "Suppl.:1972",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/006051013",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-002299",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
@@ -22034,7 +21541,9 @@
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/000530277",
 "copies": [],
-"other_source_urls": [],
+"other_source_urls": [
+"https://catalog.hathitrust.org/Record/006051013"
+],
 "sources": [
 "HathiTrust"
 ],
@@ -22304,45 +21813,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002321",
-"category": "ASI",
-"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
-"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Indica / Archaeological Survey of India — Suppl.:1973",
-"title_ta": "",
-"title_en": "Epigraphia Indica / Archaeological Survey of India — Suppl.:1973",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "Manager of Publications",
-"publisher_roman": "",
-"place": "",
-"year": "1973",
-"period": "1947–1990 (Post-independence)",
-"language": "English",
-"type": "Book",
-"series": "Suppl.:1973",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/006051013",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-002330",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
@@ -22372,7 +21842,9 @@
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/000530277",
 "copies": [],
-"other_source_urls": [],
+"other_source_urls": [
+"https://catalog.hathitrust.org/Record/006051013"
+],
 "sources": [
 "HathiTrust"
 ],
@@ -22652,45 +22124,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002341",
-"category": "ASI",
-"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
-"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Indica / Archaeological Survey of India — Suppl.:1974",
-"title_ta": "",
-"title_en": "Epigraphia Indica / Archaeological Survey of India — Suppl.:1974",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "Manager of Publications",
-"publisher_roman": "",
-"place": "",
-"year": "1974",
-"period": "1947–1990 (Post-independence)",
-"language": "English",
-"type": "Book",
-"series": "Suppl.:1974",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/006051013",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-002346",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
@@ -22720,7 +22153,9 @@
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/000530277",
 "copies": [],
-"other_source_urls": [],
+"other_source_urls": [
+"https://catalog.hathitrust.org/Record/006051013"
+],
 "sources": [
 "HathiTrust"
 ],
@@ -22967,45 +22402,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002354",
-"category": "ASI",
-"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
-"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Indica / Archaeological Survey of India — Suppl.:1975",
-"title_ta": "",
-"title_en": "Epigraphia Indica / Archaeological Survey of India — Suppl.:1975",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "Manager of Publications",
-"publisher_roman": "",
-"place": "",
-"year": "1975",
-"period": "1947–1990 (Post-independence)",
-"language": "English",
-"type": "Book",
-"series": "Suppl.:1975",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/006051013",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-002355",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
@@ -23081,7 +22477,8 @@
 ],
 "other_source_urls": [
 "https://archive.org/details/in.ernet.dli.2015.382520",
-"https://doi.org/10.5281/zenodo.2559556"
+"https://doi.org/10.5281/zenodo.2559556",
+"https://catalog.hathitrust.org/Record/006051013"
 ],
 "sources": [
 "HathiTrust",
@@ -25780,51 +25177,11 @@
 "https://openlibrary.org/works/OL6192506W",
 "https://openlibrary.org/works/OL22159570W",
 "https://catalog.hathitrust.org/Record/004724807",
-"https://catalog.hathitrust.org/Record/005375096"
-],
-"sources": [
-"Open Library",
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
-"id": "TB-002457",
-"category": "ASI",
-"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
-"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Manual of the Pudukkóttai State / edited by K.R. Venkatarama Ayyar — v.2:1",
-"title_ta": "",
-"title_en": "Manual of the Pudukkóttai State / edited by K.R. Venkatarama Ayyar — v.2:1",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "Director of Museums, Govt. of Tamilnadu",
-"publisher_roman": "",
-"place": "",
-"year": "2002",
-"period": "1991–2010",
-"language": "English",
-"type": "Book",
-"series": "v.2:1",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/005375096",
-"copies": [],
-"other_source_urls": [
+"https://catalog.hathitrust.org/Record/005375096",
 "https://catalog.hathitrust.org/Record/102472136"
 ],
 "sources": [
+"Open Library",
 "HathiTrust"
 ],
 "curated": false,
@@ -26001,45 +25358,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002461",
-"category": "ASI",
-"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
-"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Indica / Archaeological Survey of India — Arabic and Persian Suppl. 2011",
-"title_ta": "",
-"title_en": "Epigraphia Indica / Archaeological Survey of India — Arabic and Persian Suppl. 2011",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "Manager of Publications",
-"publisher_roman": "",
-"place": "",
-"year": "2011",
-"period": "2011–2026 (Recent)",
-"language": "English",
-"type": "Book",
-"series": "Arabic and Persian Suppl. 2011",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/006051013",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-002462",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
@@ -26076,12 +25394,14 @@
 ],
 "other_source_urls": [
 "https://openlibrary.org/works/OL17885073W",
-"https://ci.nii.ac.jp/ncid/BB13690693"
+"https://ci.nii.ac.jp/ncid/BB13690693",
+"https://catalog.hathitrust.org/Record/006051013"
 ],
 "sources": [
 "Internet Archive",
 "Open Library",
-"OpenAlex"
+"OpenAlex",
+"HathiTrust"
 ],
 "curated": false,
 "scholar": "",
@@ -39269,12 +38589,14 @@
 "other_source_urls": [
 "https://archive.org/details/tdl.10761-nuul-tnycaavuur-vttttk-klvettttukll-tokuti-1",
 "https://openlibrary.org/works/OL18670247W",
-"https://archive.org/details/digital.assets.thanjchaavuur_vaddak_kalveddukaL"
+"https://archive.org/details/digital.assets.thanjchaavuur_vaddak_kalveddukaL",
+"https://catalog.hathitrust.org/Record/005676050"
 ],
 "sources": [
 "Curated",
 "Internet Archive",
-"Open Library"
+"Open Library",
+"HathiTrust"
 ],
 "curated": true,
 "scholar": "",
@@ -39367,11 +38689,14 @@
 "source_url": "https://catalog.hathitrust.org/Record/005557120",
 "copies": [],
 "other_source_urls": [
-"https://openlibrary.org/works/OL18767442W"
+"https://openlibrary.org/works/OL18767442W",
+"https://hal.science/halshs-02794046v1",
+"https://shs.hal.science/halshs-02794046"
 ],
 "sources": [
 "HathiTrust",
-"Open Library"
+"Open Library",
+"OpenAlex"
 ],
 "curated": false,
 "scholar": "",
@@ -39411,47 +38736,6 @@
 "other_source_urls": [],
 "sources": [
 "Open Library"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
-"id": "TB-002764",
-"category": "TNS",
-"category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
-"category_name_ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
-"title": "Putucceri Manilakkalvettukkal / Pondicherry Inscriptions Part I. Introduction and Texts with Notes",
-"title_ta": "",
-"title_en": "Putucceri Manilakkalvettukkal / Pondicherry Inscriptions Part I. Introduction and Texts with Notes",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Bahour S. Kuppusamy; G. Vijayavenugopal; École française d'Extrême-Orient; Emmanuel Francis; Charlotte Schmid",
-"authors_roman": "",
-"publisher": "Centre pour la Communication Scientifique Directe",
-"publisher_roman": "",
-"place": "",
-"year": "2006",
-"period": "1991–2010",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "History",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://hal.science/halshs-02794046v1",
-"copies": [],
-"other_source_urls": [
-"https://shs.hal.science/halshs-02794046"
-],
-"sources": [
-"OpenAlex"
 ],
 "curated": false,
 "scholar": "",
@@ -39576,7 +38860,7 @@
 "isbn": "",
 "pages": "",
 "notes": "Coimbatore Mavatta Kalvettugal Thogudi 1",
-"subjects": "Tamil Inscriptions; Sources; History",
+"subjects": "Coimbatore; Kalvettugal",
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10643-%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D%20%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%A4%E0%AF%8A%E0%AE%95%E0%AF%81%E0%AE%A4%E0%AE%BF%20-%201",
 "download_url": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_1.pdf",
@@ -39592,19 +38876,19 @@
 "pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_1.pdf"
 },
 {
-"read": "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
-"pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D.pdf"
-},
-{
 "read": "https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
 "pdf": "https://archive.org/download/coimbatore-mavatta-kalvettugal-thogudi-1/Coimbatore%20Mavatta%20Kalvettugal%20-%20Thogudi%201.pdf"
+},
+{
+"read": "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
+"pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D.pdf"
 }
 ],
 "other_source_urls": [
 "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1",
+"https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
 "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
-"https://openlibrary.org/works/OL18734808W",
-"https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1"
+"https://openlibrary.org/works/OL18734808W"
 ],
 "sources": [
 "Curated",
@@ -43259,45 +42543,6 @@
 "other_source_urls": [],
 "sources": [
 "Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
-"id": "TB-003074",
-"category": "TNS",
-"category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
-"category_name_ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
-"title": "Tañcāvūr vaṭṭak kalveṭṭukaḷ, tokuti 1 / patippāciriyar Ti. Śrī. Śrītar ; utavip patippāciriyarkaḷ A. Patmāvati, Ara. Vacantakalyāṇi — v.1",
-"title_ta": "",
-"title_en": "Tañcāvūr vaṭṭak kalveṭṭukaḷ, tokuti 1 / patippāciriyar Ti. Śrī. Śrītar ; utavip patippāciriyarkaḷ A. Patmāvati, Ara. Vacantakalyāṇi — v.1",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "Tamiḻnāṭu Aracu Tolliyal Tuṟai",
-"publisher_roman": "",
-"place": "",
-"year": "",
-"period": "Undated",
-"language": "Tamil",
-"type": "Book",
-"series": "v.1",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/005676050",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
 ],
 "curated": false,
 "scholar": "",
@@ -49427,8 +48672,15 @@
 "download_url": "https://archive.org/download/dli.jZY9lup2kZl6TuXGlZQdjZI3kuQy.TVA_BOK_0009554/TVA_BOK_0009554_II_International_conference-seminar_of_tamil_studies.pdf",
 "buy_url": "",
 "source_url": "https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZI3kuQy.TVA_BOK_0009554",
-"copies": [],
-"other_source_urls": [],
+"copies": [
+{
+"read": "https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZI3kZxy",
+"pdf": "https://archive.org/download/dli.jZY9lup2kZl6TuXGlZQdjZI3kZxy/TVA_BOK_0009547_II_International_conference-seminar_of_tamil_studies.pdf"
+}
+],
+"other_source_urls": [
+"https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZI3kZxy"
+],
 "sources": [
 "Internet Archive"
 ],
@@ -50124,7 +49376,7 @@
 "language": "English",
 "type": "Book",
 "series": "Harvard Oriental Series Vol. 62",
-"isbn": "",
+"isbn": "0674012275",
 "pages": "",
 "notes": "ISBN 9780674012271. Definitive corpus of Tamil-Brahmi and early Vatteluttu.",
 "subjects": "India, history, sources; India, civilization; Tamil Inscriptions; Translations into English; Tamil language; Antiquities; Excavations (Archaeology); Tamil; Brahmischrift; Inschrift",
@@ -50135,10 +49387,13 @@
 "source_url": "https://iberlibro.com/9780674012271/Early-Tamil-Epigraphy-Earlist-Times-0674012275/plp",
 "copies": [],
 "other_source_urls": [
+"https://catalog.hathitrust.org/Record/003868649",
+"https://openlibrary.org/works/OL6791053W",
 "https://openlibrary.org/works/OL6791052W"
 ],
 "sources": [
 "Curated",
+"HathiTrust",
 "Open Library"
 ],
 "curated": true,
@@ -50596,6 +49851,48 @@
 "Internet Archive"
 ],
 "curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
+},
+{
+"id": "TB-000956",
+"category": "TBR",
+"category_name": "Tamil-Brahmi, Vatteluttu & Early Writing",
+"category_name_ta": "தமிழ்-பிராமி, வட்டெழுத்து",
+"title": "Indus Signs and Graffiti Marks of Tamil Nadu: A Morphological Study",
+"title_ta": "",
+"title_en": "Indus Signs and Graffiti Marks of Tamil Nadu: A Morphological Study",
+"title_en_note": "",
+"alt_title": "",
+"authors": "K. Rajan; R. Sivanantham",
+"authors_roman": "",
+"publisher": "Department of Archaeology, Government of Tamil Nadu",
+"publisher_roman": "",
+"place": "Chennai",
+"year": "2025",
+"period": "2011–2026 (Recent)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "ISBN 9788197784255; 145 p., illus., maps. Released in Tamil and English by the Chief Minister, 5 Jan 2025.",
+"subjects": "Graffiti Sites; Indus Script; Basic Signs; Graffiti Marks; Mohenjadaro; Kodumanal; Kalibangan; Indus Valley Seal; Book",
+"access": "open",
+"read_url": "https://archive.org/details/tdl.tdl_2c44e6-nuul-indus-signs-and-graffiti-marks-of-tamil-nadu-_-a-morphological-study",
+"download_url": "https://archive.org/download/tdl.tdl_2c44e6-nuul-indus-signs-and-graffiti-marks-of-tamil-nadu-_-a-morphological-study/TVA_BOK_0065888_Indus_Signs_and_Graffiti_Marks_of_Tamil_Nadu_A_Morphological_Study.pdf",
+"buy_url": "",
+"source_url": "https://zenon.dainst.org/Record/003101129",
+"copies": [],
+"other_source_urls": [
+"https://archive.org/details/tdl.tdl_2c44e6-nuul-indus-signs-and-graffiti-marks-of-tamil-nadu-_-a-morphological-study"
+],
+"sources": [
+"Curated",
+"Internet Archive"
+],
+"curated": true,
 "scholar": "",
 "from_list": false,
 "added": "2026-10-20"
@@ -52376,24 +51673,16 @@
 "isbn": "",
 "pages": "",
 "notes": "Comparative study of graffiti marks from TN excavations and Indus signs (2025).",
-"subjects": "Graffiti Sites; Indus Script; Basic Signs; Graffiti Marks; Mohenjadaro; Kodumanal; Kalibangan; Indus Valley Seal; Book",
-"access": "open",
-"read_url": "https://archive.org/details/tdl.tdl_2c44e6-nuul-indus-signs-and-graffiti-marks-of-tamil-nadu-_-a-morphological-study",
-"download_url": "https://archive.org/download/tdl.tdl_2c44e6-nuul-indus-signs-and-graffiti-marks-of-tamil-nadu-_-a-morphological-study/TVA_BOK_0065888_Indus_Signs_and_Graffiti_Marks_of_Tamil_Nadu_A_Morphological_Study.pdf",
+"subjects": "",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
 "buy_url": "",
 "source_url": "https://www.harappa.com/content/indus-signs-and-graffiti-marks-tamil-nadu",
-"copies": [
-{
-"read": "",
-"pdf": "https://archive.org/download/tdl.tdl_2c44e6-nuul-indus-signs-and-graffiti-marks-of-tamil-nadu-_-a-morphological-study/TVA_BOK_0065888_Indus_Signs_and_Graffiti_Marks_of_Tamil_Nadu_A_Morphological_Study.pdf"
-}
-],
-"other_source_urls": [
-"https://archive.org/details/tdl.tdl_2c44e6-nuul-indus-signs-and-graffiti-marks-of-tamil-nadu-_-a-morphological-study"
-],
+"copies": [],
+"other_source_urls": [],
 "sources": [
-"Curated",
-"Internet Archive"
+"Curated"
 ],
 "curated": true,
 "scholar": "",
@@ -55156,51 +54445,15 @@
 "buy_url": "",
 "source_url": "https://openlibrary.org/works/OL23955279W",
 "copies": [],
-"other_source_urls": [],
-"sources": [
-"Open Library"
+"other_source_urls": [
+"https://catalog.hathitrust.org/Record/005661550"
 ],
-"curated": false,
-"scholar": "S. Vasanthi archaeology",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
-"id": "TB-002845",
-"category": "ROC",
-"category_name": "Rock Art & Paintings",
-"category_name_ta": "பாறை ஓவியங்கள்",
-"title": "Rock art of Tamil Nadu : / editor T. S. Sridhar ; assistant editors S. Vasanthi, S. Sree Kumar",
-"title_ta": "",
-"title_en": "Rock art of Tamil Nadu : / editor T. S. Sridhar ; assistant editors S. Vasanthi, S. Sree Kumar",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "Department of Archaeology, Govt. of Tamil Nadu",
-"publisher_roman": "",
-"place": "",
-"year": "2005",
-"period": "1991–2010",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/005661550",
-"copies": [],
-"other_source_urls": [],
 "sources": [
+"Open Library",
 "HathiTrust"
 ],
 "curated": false,
-"scholar": "",
+"scholar": "S. Vasanthi archaeology",
 "from_list": false,
 "added": "2026-10-20"
 },
@@ -55244,45 +54497,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-006157",
-"category": "ROC",
-"category_name": "Rock Art & Paintings",
-"category_name_ta": "பாறை ஓவியங்கள்",
-"title": "Chola Murals",
-"title_ta": "",
-"title_en": "Chola Murals",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "Archaeological Survey of India",
-"publisher_roman": "",
-"place": "New Delhi",
-"year": "2011",
-"period": "2011–2026 (Recent)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://openlibrary.org/works/OL16143536W",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Open Library"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
 "id": "TB-006158",
 "category": "ROC",
 "category_name": "Rock Art & Paintings",
@@ -55314,6 +54528,7 @@
 "copies": [],
 "other_source_urls": [
 "https://openlibrary.org/works/OL16264193W",
+"https://openlibrary.org/works/OL16143536W",
 "http://ci.nii.ac.jp/ncid/BB0959713X"
 ],
 "sources": [
@@ -55483,45 +54698,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-000999",
-"category": "ROC",
-"category_name": "Rock Art & Paintings",
-"category_name_ta": "பாறை ஓவியங்கள்",
-"title": "Rock Art Of Tamil Nadu, Vol I, 2026, TNSDA",
-"title_ta": "",
-"title_en": "Rock Art Of Tamil Nadu, Vol I, 2026, TNSDA",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Tamil Nadu Department of Archaeology",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "2026",
-"period": "2011–2026 (Recent)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "Rock Art of Tamil Nadu, Volume I by K. Rajan, R. Sivanantham Tamil Nadu Department of Archaeology 2026. xiv, 734 pages. Source: https://tamildigitallibrary.in",
-"subjects": "Rock Art; Tamil Nadu; India; Dept. of Archaeology",
-"access": "open",
-"read_url": "https://archive.org/details/rock-art-of-tamil-nadu-vol-i-2026-tnsda",
-"download_url": "https://archive.org/download/rock-art-of-tamil-nadu-vol-i-2026-tnsda/Rock_Art_of_Tamil_Nadu_VolI_2026_TNSDA.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/rock-art-of-tamil-nadu-vol-i-2026-tnsda",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-000099",
 "category": "ROC",
 "category_name": "Rock Art & Paintings",
@@ -55558,11 +54734,16 @@
 {
 "read": "https://archive.org/details/tdl.062967-rock-art-of-tamil-nadu-vol-1",
 "pdf": "https://archive.org/download/tdl.062967-rock-art-of-tamil-nadu-vol-1/TVA_TVA_BOK_062967_Rock_Art_of_Tamil_Nadu.pdf"
+},
+{
+"read": "https://archive.org/details/rock-art-of-tamil-nadu-vol-i-2026-tnsda",
+"pdf": "https://archive.org/download/rock-art-of-tamil-nadu-vol-i-2026-tnsda/Rock_Art_of_Tamil_Nadu_VolI_2026_TNSDA.pdf"
 }
 ],
 "other_source_urls": [
 "https://archive.org/details/tamildigitallibrary.062967",
-"https://archive.org/details/tdl.062967-rock-art-of-tamil-nadu-vol-1"
+"https://archive.org/details/tdl.062967-rock-art-of-tamil-nadu-vol-1",
+"https://archive.org/details/rock-art-of-tamil-nadu-vol-i-2026-tnsda"
 ],
 "sources": [
 "Curated",
@@ -56495,17 +55676,54 @@
 "buy_url": "",
 "source_url": "http://ci.nii.ac.jp/ncid/BA35043819",
 "copies": [],
+"other_source_urls": [],
+"sources": [
+"Curated",
+"OpenAlex"
+],
+"curated": true,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
+},
+{
+"id": "TB-001035",
+"category": "EXC",
+"category_name": "Archaeology: Excavation Reports & Sites",
+"category_name_ta": "அகழாய்வு அறிக்கைகள்",
+"title": "Kaveripattinam excavations, 1963-73",
+"title_ta": "",
+"title_en": "Kaveripattinam excavations, 1963-73",
+"title_en_note": "",
+"alt_title": "",
+"authors": "K. V. Soundara Rajan",
+"authors_roman": "",
+"publisher": "Archaeological Survey of India, Govt. of India",
+"publisher_roman": "",
+"place": "New Delhi",
+"year": "1994",
+"period": "1991–2010",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Excavations (Archaeology); Antiquities",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://openlibrary.org/works/OL2318250W",
+"copies": [],
 "other_source_urls": [
-"https://openlibrary.org/works/OL2318250W",
 "https://catalog.hathitrust.org/Record/100942175"
 ],
 "sources": [
-"Curated",
-"OpenAlex",
 "Open Library",
 "HathiTrust"
 ],
-"curated": true,
+"curated": false,
 "scholar": "K. V. Soundara Rajan",
 "from_list": false,
 "added": "2026-10-20"
@@ -56961,9 +56179,12 @@
 "pdf": ""
 }
 ],
-"other_source_urls": [],
+"other_source_urls": [
+"https://catalog.hathitrust.org/Record/005676068"
+],
 "sources": [
-"Curated"
+"Curated",
+"HathiTrust"
 ],
 "curated": true,
 "scholar": "",
@@ -57011,45 +56232,6 @@
 ],
 "curated": true,
 "scholar": "S. Vasanthi archaeology",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
-"id": "TB-003072",
-"category": "EXC",
-"category_name": "Archaeology: Excavation Reports & Sites",
-"category_name_ta": "அகழாய்வு அறிக்கைகள்",
-"title": "Tamiḻaka akaḻāyvukaḷ : Āṇṭippaṭṭi, 2004-05 / patippāciriyar Ti. Śrī. Śrītar ; utavi patippāciriyarkaḷ Ār. Celvarāj, Mā. Kalaivāṇaṉ, Cī. Vacanti",
-"title_ta": "",
-"title_en": "Tamiḻaka akaḻāyvukaḷ : Āṇṭippaṭṭi, 2004-05 / patippāciriyar Ti. Śrī. Śrītar ; utavi patippāciriyarkaḷ Ār. Celvarāj, Mā. Kalaivāṇaṉ, Cī. Vacanti",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "Tamiḻnāṭu Aracu",
-"publisher_roman": "",
-"place": "Tolliyal Tuṟai",
-"year": "2005",
-"period": "1991–2010",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/005676068",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
 "from_list": false,
 "added": "2026-10-20"
 },
@@ -57599,7 +56781,7 @@
 "category_name": "Archaeology: Excavation Reports & Sites",
 "category_name_ta": "அகழாய்வு அறிக்கைகள்",
 "title": "Tamil̲aka akal̲āyvukaḷ, Talaiccaṅkāṭu akal̲āyvu ar̲ikkai, 2010-2011",
-"title_ta": "",
+"title_ta": "தமிழக அகழாய்வுகள் தலைச்சங்காடு அகழாய்வு அறிக்கை",
 "title_en": "Tamil̲aka akal̲āyvukaḷ, Talaiccaṅkāṭu akal̲āyvu ar̲ikkai, 2010-2011",
 "title_en_note": "",
 "alt_title": "",
@@ -57617,15 +56799,23 @@
 "pages": "",
 "notes": "",
 "subjects": "Excavations (Archaeology); Antiquities",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
+"access": "open",
+"read_url": "https://archive.org/details/digital.assets.thamizaka_akazaayvukaL_thalaichchangkaadu_akazaayvu_aRikkai",
+"download_url": "https://archive.org/download/digital.assets.thamizaka_akazaayvukaL_thalaichchangkaadu_akazaayvu_aRikkai/%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%95_%E0%AE%85%E0%AE%95%E0%AE%B4%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_%E0%AE%A4%E0%AE%B2%E0%AF%88%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%9F%E0%AF%81_%E0%AE%85%E0%AE%95%E0%AE%B4%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%81_%E0%AE%85%E0%AE%B1%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%88.pdf",
 "buy_url": "",
 "source_url": "https://openlibrary.org/works/OL23382909W",
-"copies": [],
-"other_source_urls": [],
+"copies": [
+{
+"read": "",
+"pdf": "https://archive.org/download/digital.assets.thamizaka_akazaayvukaL_thalaichchangkaadu_akazaayvu_aRikkai/%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%95_%E0%AE%85%E0%AE%95%E0%AE%B4%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_%E0%AE%A4%E0%AE%B2%E0%AF%88%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%9F%E0%AF%81_%E0%AE%85%E0%AE%95%E0%AE%B4%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%81_%E0%AE%85%E0%AE%B1%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%88.pdf"
+}
+],
+"other_source_urls": [
+"https://archive.org/details/digital.assets.thamizaka_akazaayvukaL_thalaichchangkaadu_akazaayvu_aRikkai"
+],
 "sources": [
-"Open Library"
+"Open Library",
+"Internet Archive"
 ],
 "curated": false,
 "scholar": "",
@@ -59638,45 +58828,6 @@
 "download_url": "https://archive.org/download/tdl.10748/TVA_BOK_0010748_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%95_%E0%AE%85%E0%AE%95%E0%AE%B4%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D.pdf",
 "buy_url": "",
 "source_url": "https://archive.org/details/tdl.10748",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
-"id": "TB-001125",
-"category": "EXC",
-"category_name": "Archaeology: Excavation Reports & Sites",
-"category_name_ta": "அகழாய்வு அறிக்கைகள்",
-"title": "தமிழக அகழாய்வுகள் தலைச்சங்காடு அகழாய்வு அறிக்கை",
-"title_ta": "தமிழக அகழாய்வுகள் தலைச்சங்காடு அகழாய்வு அறிக்கை",
-"title_en": "Tamiḻaka Akaḻāyvukaḷ Talaiccaṅkāṭu Akaḻāyvu Aṟikkai",
-"title_en_note": "romanised from Tamil",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "",
-"period": "Undated",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "open",
-"read_url": "https://archive.org/details/digital.assets.thamizaka_akazaayvukaL_thalaichchangkaadu_akazaayvu_aRikkai",
-"download_url": "https://archive.org/download/digital.assets.thamizaka_akazaayvukaL_thalaichchangkaadu_akazaayvu_aRikkai/%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%95_%E0%AE%85%E0%AE%95%E0%AE%B4%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_%E0%AE%A4%E0%AE%B2%E0%AF%88%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%9F%E0%AF%81_%E0%AE%85%E0%AE%95%E0%AE%B4%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%81_%E0%AE%85%E0%AE%B1%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%88.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/digital.assets.thamizaka_akazaayvukaL_thalaichchangkaadu_akazaayvu_aRikkai",
 "copies": [],
 "other_source_urls": [],
 "sources": [
@@ -65864,45 +65015,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-001170",
-"category": "ARC",
-"category_name": "Archaeology: General, Surveys & Museums",
-"category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
-"title": "II International conference-seminar of tamil studies : (january 3 to 10, 1968) Plenary sessions Archaeology and Tamil studies",
-"title_ta": "",
-"title_en": "II International conference-seminar of tamil studies : (january 3 to 10, 1968) Plenary sessions Archaeology and Tamil studies",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "Hoe & Co. (Madras)",
-"publisher_roman": "",
-"place": "",
-"year": "1968",
-"period": "1947–1990 (Post-independence)",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "Source: Tamil Digital Library Book ID: jZY9lup2kZl6TuXGlZQdjZI3kZxy",
-"subjects": "Tamil Digital Library",
-"access": "open",
-"read_url": "https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZI3kZxy",
-"download_url": "https://archive.org/download/dli.jZY9lup2kZl6TuXGlZQdjZI3kZxy/TVA_BOK_0009547_II_International_conference-seminar_of_tamil_studies.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZI3kZxy",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-002982",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
@@ -66136,11 +65248,13 @@
 "source_url": "http://ci.nii.ac.jp/ncid/BA39561815",
 "copies": [],
 "other_source_urls": [
+"https://catalog.hathitrust.org/Record/000605403",
 "https://openlibrary.org/works/OL344117W"
 ],
 "sources": [
 "Curated",
 "OpenAlex",
+"HathiTrust",
 "Open Library"
 ],
 "curated": true,
@@ -67910,45 +67024,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-006271",
-"category": "ARC",
-"category_name": "Archaeology: General, Surveys & Museums",
-"category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
-"title": "Heritage of the Tamils : education and vocation / editors, S.V. Subramanian, V.R. Madhavan",
-"title_ta": "",
-"title_en": "Heritage of the Tamils : education and vocation / editors, S.V. Subramanian, V.R. Madhavan",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "International Institute of Tamil Studies",
-"publisher_roman": "",
-"place": "",
-"year": "1986",
-"period": "1947–1990 (Post-independence)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/000927636",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
 "id": "TB-003023",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
@@ -68137,45 +67212,6 @@
 "download_url": "",
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/000927376",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
-"id": "TB-006273",
-"category": "ARC",
-"category_name": "Archaeology: General, Surveys & Museums",
-"category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
-"title": "Tamiḻar vēḷāṇmai marapukaḷ = Agricultural heritage of the Tamils / Ila. Ce. Kantacāmi",
-"title_ta": "",
-"title_en": "Tamiḻar vēḷāṇmai marapukaḷ = Agricultural heritage of the Tamils / Ila. Ce. Kantacāmi",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Kantacāmi, Ila. Ce., 1939-1992",
-"authors_roman": "",
-"publisher": "Kalaiccelvam Patippakam",
-"publisher_roman": "",
-"place": "",
-"year": "1987",
-"period": "1947–1990 (Post-independence)",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/002223715",
 "copies": [],
 "other_source_urls": [],
 "sources": [
@@ -68973,45 +68009,6 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-20"
-},
-{
-"id": "TB-006292",
-"category": "ARC",
-"category_name": "Archaeology: General, Surveys & Museums",
-"category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
-"title": "The Sri Lankan Tamils : ethnicity and identity / edited by Chelvadurai Manogaran and Bryan Pfaffenberger",
-"title_ta": "",
-"title_en": "The Sri Lankan Tamils : ethnicity and identity / edited by Chelvadurai Manogaran and Bryan Pfaffenberger",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "Westview Press",
-"publisher_roman": "",
-"place": "",
-"year": "1994",
-"period": "1991–2010",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "0813388457",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/002902345",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
 },
 {
 "id": "TB-006297",
@@ -70385,45 +69382,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-003070",
-"category": "ARC",
-"category_name": "Archaeology: General, Surveys & Museums",
-"category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
-"title": "Kōyamputtūr Māvaṭṭat tolliyal kaiyēṭu / patippāciriyar, Ti. Śrī. Śrītar ; utavi patippāciriyarkaḷ, Ra. Pūṅkuṉṟaṉ, Pe. Kautamaputtiraṉ",
-"title_ta": "",
-"title_en": "Kōyamputtūr Māvaṭṭat tolliyal kaiyēṭu / patippāciriyar, Ti. Śrī. Śrītar ; utavi patippāciriyarkaḷ, Ra. Pūṅkuṉṟaṉ, Pe. Kautamaputtiraṉ",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "Tamilnāṭu Aracu Tolliyaltuṟai",
-"publisher_roman": "",
-"place": "",
-"year": "2005",
-"period": "1991–2010",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/005671933",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-010920",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
@@ -70621,11 +69579,13 @@
 "other_source_urls": [
 "https://archive.org/details/tdl.10648-nuul-kooymputtuur-maavttttt-tolliyl-kaiyeettu",
 "https://archive.org/details/tdl.10651-nuul-kooymputtuur-maavttttt-tolliyl-kaiyeettu",
-"https://openlibrary.org/works/OL23955504W"
+"https://openlibrary.org/works/OL23955504W",
+"https://catalog.hathitrust.org/Record/005671933"
 ],
 "sources": [
 "Internet Archive",
-"Open Library"
+"Open Library",
+"HathiTrust"
 ],
 "curated": false,
 "scholar": "",
@@ -80985,45 +79945,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-007133",
-"category": "DYN",
-"category_name": "Tamil Dynasties & Political History",
-"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
-"title": "Early Chola temples; Parantaka I to Rajaraja I, A.D. 907-985 / [by] S. R. Balasubrahmanyam",
-"title_ta": "",
-"title_en": "Early Chola temples; Parantaka I to Rajaraja I, A.D. 907-985 / [by] S. R. Balasubrahmanyam",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Balasubrahmanyam, S. R",
-"authors_roman": "",
-"publisher": "Orient Longman",
-"publisher_roman": "",
-"place": "",
-"year": "1971",
-"period": "1947–1990 (Post-independence)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/000605403",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
 "id": "TB-007138",
 "category": "DYN",
 "category_name": "Tamil Dynasties & Political History",
@@ -87065,53 +85986,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-008250",
-"category": "DYN",
-"category_name": "Tamil Dynasties & Political History",
-"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
-"title": "Cōl̲ar camutāyam : Aruṇmol̲i āyvuk kaṭṭuraikaḷin̲ mar̲upatippu / patippāciriyar Cī. Vacanti",
-"title_ta": "சோழர் சமுதாயம் : அருண்மொழி ஆய்வுக் கட்டுரைகளின் மறுபதிப்பு",
-"title_en": "Cōl̲ar camutāyam : Aruṇmol̲i āyvuk kaṭṭuraikaḷin̲ mar̲upatippu / patippāciriyar Cī. Vacanti",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "Tami̲lnāṭu Aracu Tolliyal Tur̲ai",
-"publisher_roman": "",
-"place": "",
-"year": "2012",
-"period": "2011–2026 (Recent)",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "Keywords: வரலாறு, தஞ்சை, குந்தவைப் பிராட்டி, தேவதானம், சுவடிகள்",
-"subjects": "வரலாறு; தஞ்சை; குந்தவைப் பிராட்டி; தேவதானம்; சுவடிகள்; Book",
-"access": "open",
-"read_url": "https://archive.org/details/tdl.10747-nuul-coolllr-cmutaaym-arunnmollli-aayvuk-ktttturaikllinnn-mrruptippu",
-"download_url": "https://archive.org/download/tdl.10747-nuul-coolllr-cmutaaym-arunnmollli-aayvuk-ktttturaikllinnn-mrruptippu/TVA_BOK_0010747_%E0%AE%9A%E0%AF%8B%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%9A%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%BE%E0%AE%AF%E0%AE%AE%E0%AF%8D.pdf",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/103427984",
-"copies": [
-{
-"read": "",
-"pdf": "https://archive.org/download/tdl.10747-nuul-coolllr-cmutaaym-arunnmollli-aayvuk-ktttturaikllinnn-mrruptippu/TVA_BOK_0010747_%E0%AE%9A%E0%AF%8B%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%9A%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%BE%E0%AE%AF%E0%AE%AE%E0%AF%8D.pdf"
-}
-],
-"other_source_urls": [
-"https://archive.org/details/tdl.10747-nuul-coolllr-cmutaaym-arunnmollli-aayvuk-ktttturaikllinnn-mrruptippu"
-],
-"sources": [
-"HathiTrust",
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
 "id": "TB-003973",
 "category": "DYN",
 "category_name": "Tamil Dynasties & Political History",
@@ -87141,9 +86015,12 @@
 "buy_url": "",
 "source_url": "https://openlibrary.org/works/OL23382910W",
 "copies": [],
-"other_source_urls": [],
+"other_source_urls": [
+"https://catalog.hathitrust.org/Record/103427984"
+],
 "sources": [
-"Open Library"
+"Open Library",
+"HathiTrust"
 ],
 "curated": false,
 "scholar": "S. Vasanthi archaeology",
@@ -87867,6 +86744,45 @@
 "added": "2026-11-05"
 },
 {
+"id": "TB-011038",
+"category": "DYN",
+"category_name": "Tamil Dynasties & Political History",
+"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
+"title": "Epic Saga of the Cholas: Their Art, Temples and Heritage",
+"title_ta": "",
+"title_en": "Epic Saga of the Cholas: Their Art, Temples and Heritage",
+"title_en_note": "",
+"alt_title": "",
+"authors": "T. S. Subramanian; K. Kirubanidhi (ed.)",
+"authors_roman": "",
+"publisher": "The Hindu",
+"publisher_roman": "",
+"place": "Chennai",
+"year": "2023",
+"period": "2011–2026 (Recent)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "ISBN 9789387791947; ~430 p.",
+"subjects": "",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://www.ibpbooks.com/epic-saga-of-the-cholas-their-art-temples-and-heritage/p/59793",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"Curated"
+],
+"curated": true,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
+},
+{
 "id": "TB-008118",
 "category": "DYN",
 "category_name": "Tamil Dynasties & Political History",
@@ -87907,6 +86823,45 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-29"
+},
+{
+"id": "TB-011039",
+"category": "DYN",
+"category_name": "Tamil Dynasties & Political History",
+"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
+"title": "Lords of Earth and Sea: A History of the Chola Empire",
+"title_ta": "",
+"title_en": "Lords of Earth and Sea: A History of the Chola Empire",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Anirudh Kanisetti",
+"authors_roman": "",
+"publisher": "Juggernaut",
+"publisher_roman": "",
+"place": "New Delhi",
+"year": "2025",
+"period": "2011–2026 (Recent)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "Narrative history of the Cholas drawing on inscriptions.",
+"subjects": "",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://openthemagazine.com/lounge/books/rediscovering-the-cholas",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"Curated"
+],
+"curated": true,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
 "id": "TB-011018",
@@ -89572,6 +88527,45 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-29"
+},
+{
+"id": "TB-011040",
+"category": "DYN",
+"category_name": "Tamil Dynasties & Political History",
+"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
+"title": "சோழர் சமுதாயம் : அருண்மொழி ஆய்வுக் கட்டுரைகளின் மறுபதிப்பு",
+"title_ta": "சோழர் சமுதாயம் : அருண்மொழி ஆய்வுக் கட்டுரைகளின் மறுபதிப்பு",
+"title_en": "Cōḻar Camutāyam : Aruṇmoḻi Āyvuk Kaṭṭuraikaḷiṉ Maṟupatippu",
+"title_en_note": "romanised from Tamil",
+"alt_title": "",
+"authors": "",
+"authors_roman": "",
+"publisher": "",
+"publisher_roman": "",
+"place": "",
+"year": "",
+"period": "Undated",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "Keywords: வரலாறு, தஞ்சை, குந்தவைப் பிராட்டி, தேவதானம், சுவடிகள்",
+"subjects": "வரலாறு; தஞ்சை; குந்தவைப் பிராட்டி; தேவதானம்; சுவடிகள்; Book",
+"access": "open",
+"read_url": "https://archive.org/details/tdl.10747-nuul-coolllr-cmutaaym-arunnmollli-aayvuk-ktttturaikllinnn-mrruptippu",
+"download_url": "https://archive.org/download/tdl.10747-nuul-coolllr-cmutaaym-arunnmollli-aayvuk-ktttturaikllinnn-mrruptippu/TVA_BOK_0010747_%E0%AE%9A%E0%AF%8B%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%9A%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%BE%E0%AE%AF%E0%AE%AE%E0%AF%8D.pdf",
+"buy_url": "",
+"source_url": "https://archive.org/details/tdl.10747-nuul-coolllr-cmutaaym-arunnmollli-aayvuk-ktttturaikllinnn-mrruptippu",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"Internet Archive"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-21"
 },
 {
 "id": "TB-008457",
@@ -96389,55 +95383,22 @@
 "download_url": "https://archive.org/download/dli.jZY9lup2kZl6TuXGlZQdjZl2lJYy.TVA_BOK_0008130/TVA_BOK_0008130_%E0%AE%95%E0%AF%8A%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%81_%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81.pdf",
 "buy_url": "",
 "source_url": "https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZl2lJYy.TVA_BOK_0008130",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
-"id": "TB-008694",
-"category": "LOC",
-"category_name": "Local, District & Temple History",
-"category_name_ta": "ஊர், மாவட்ட, கோயில் வரலாறு",
-"title": "கொங்கு நாட்டு வரலாறு, 1978",
-"title_ta": "கொங்கு நாட்டு வரலாறு, 1978",
-"title_en": "Koṅku Nāṭṭu Varalāṟu, 1978",
-"title_en_note": "romanised from Tamil",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "1978",
-"period": "1947–1990 (Post-independence)",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3A%E0%AE%95%E0%AF%8A%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%81_%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%2C_1978.pdf",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%E0%AE%95%E0%AF%8A%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%81_%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%2C_1978.pdf",
-"buy_url": "",
-"source_url": "https://commons.wikimedia.org/wiki/File%3A%E0%AE%95%E0%AF%8A%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%81_%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%2C_1978.pdf",
 "copies": [
+{
+"read": "https://commons.wikimedia.org/wiki/File%3A%E0%AE%95%E0%AF%8A%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%81_%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%2C_1978.pdf",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/%E0%AE%95%E0%AF%8A%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%81_%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%2C_1978.pdf"
+},
 {
 "read": "https://ta.wikisource.org/wiki/%E0%AE%85%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%B5%E0%AE%A3%E0%AF%88%3A%E0%AE%95%E0%AF%8A%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%81_%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%2C_1978.pdf",
 "pdf": ""
 }
 ],
 "other_source_urls": [
+"https://commons.wikimedia.org/wiki/File%3A%E0%AE%95%E0%AF%8A%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%81_%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%2C_1978.pdf",
 "https://ta.wikisource.org/wiki/%E0%AE%85%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%B5%E0%AE%A3%E0%AF%88%3A%E0%AE%95%E0%AF%8A%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%81_%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%2C_1978.pdf"
 ],
 "sources": [
+"Internet Archive",
 "Wikimedia Commons",
 "Tamil Wikisource"
 ],
@@ -105735,47 +104696,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-003128",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Ceylon : an account of the island, physical, historical, and topographical with notices of its natural history, antiquities and productions / by Sir James Emerson Tennent",
-"title_ta": "",
-"title_en": "Ceylon : an account of the island, physical, historical, and topographical with notices of its natural history, antiquities and productions / by Sir James Emerson Tennent",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Tennent, James Emerson, Sir, 1804-1869",
-"authors_roman": "",
-"publisher": "Green, Longman, and Roberts",
-"publisher_roman": "",
-"place": "Longman",
-"year": "1860",
-"period": "1800–1899 (Colonial, early)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "open",
-"read_url": "https://babel.hathitrust.org/cgi/pt?id=hvd.32044107253288",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/006574710",
-"copies": [],
-"other_source_urls": [
-"https://catalog.hathitrust.org/Record/101990373"
-],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-003129",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -105801,10 +104721,14 @@
 "subjects": "",
 "access": "open",
 "read_url": "https://babel.hathitrust.org/cgi/pt?id=uc1.b3503289",
-"download_url": "",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ceylon%3B_an_account_of_the_island%2C_physical%2C_historical%2C_and_topographical%2C_with_notices_of_its_natural_history%2C_antiquities_and_productions_%28IA_ceylonaccountofi01tenniala%29.pdf",
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/006574710",
 "copies": [
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=uc1.b3503289",
+"pdf": ""
+},
 {
 "read": "https://babel.hathitrust.org/cgi/pt?id=hvd.32044106209075",
 "pdf": ""
@@ -105820,14 +104744,30 @@
 {
 "read": "https://babel.hathitrust.org/cgi/pt?id=hvd.32044105339162",
 "pdf": ""
+},
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=hvd.32044107253288",
+"pdf": ""
+},
+{
+"read": "https://commons.wikimedia.org/wiki/File%3ACeylon%3B_an_account_of_the_island%2C_physical%2C_historical%2C_and_topographical%2C_with_notices_of_its_natural_history%2C_antiquities_and_productions_%28IA_ceylonaccountofi01tenniala%29.pdf",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Ceylon%3B_an_account_of_the_island%2C_physical%2C_historical%2C_and_topographical%2C_with_notices_of_its_natural_history%2C_antiquities_and_productions_%28IA_ceylonaccountofi01tenniala%29.pdf"
+},
+{
+"read": "https://commons.wikimedia.org/wiki/File%3ACeylon_-_an_account_of_the_island%2C_physical%2C_historical%2C_and_topographical_with_notices_of_its_natural_history%2C_antiquities_and_productions_%28IA_ceylonaccountofi01tenn%29.pdf",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Ceylon_-_an_account_of_the_island%2C_physical%2C_historical%2C_and_topographical_with_notices_of_its_natural_history%2C_antiquities_and_productions_%28IA_ceylonaccountofi01tenn%29.pdf"
 }
 ],
 "other_source_urls": [
 "https://catalog.hathitrust.org/Record/007692707",
-"https://catalog.hathitrust.org/Record/011561816"
+"https://catalog.hathitrust.org/Record/011561816",
+"https://catalog.hathitrust.org/Record/101990373",
+"https://commons.wikimedia.org/wiki/File%3ACeylon%3B_an_account_of_the_island%2C_physical%2C_historical%2C_and_topographical%2C_with_notices_of_its_natural_history%2C_antiquities_and_productions_%28IA_ceylonaccountofi01tenniala%29.pdf",
+"https://commons.wikimedia.org/wiki/File%3ACeylon_-_an_account_of_the_island%2C_physical%2C_historical%2C_and_topographical_with_notices_of_its_natural_history%2C_antiquities_and_productions_%28IA_ceylonaccountofi01tenn%29.pdf"
 ],
 "sources": [
-"HathiTrust"
+"HathiTrust",
+"Wikimedia Commons"
 ],
 "curated": false,
 "scholar": "",
@@ -114816,45 +113756,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-006209",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Tamil̲akam: ūrum pērum",
-"title_ta": "",
-"title_en": "Tamil̲akam: ūrum pērum",
-"title_en_note": "",
-"alt_title": "",
-"authors": "R. P. Sethu Pillai",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "1968",
-"period": "1947–1990 (Post-independence)",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "Names, Geographical; Geographical Names",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://openlibrary.org/works/OL347597W",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Open Library"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
 "id": "TB-006210",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -114877,16 +113778,19 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "",
+"subjects": "Names, Geographical; Geographical Names",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/001254321",
 "copies": [],
-"other_source_urls": [],
+"other_source_urls": [
+"https://openlibrary.org/works/OL347597W"
+],
 "sources": [
-"HathiTrust"
+"HathiTrust",
+"Open Library"
 ],
 "curated": false,
 "scholar": "",
@@ -120728,52 +119632,14 @@
 "copies": [],
 "other_source_urls": [
 "https://openlibrary.org/works/OL14685227M",
-"https://openlibrary.org/works/OL22676052W"
-],
-"sources": [
-"Internet Archive",
-"Open Library"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
-"id": "TB-009254",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Palaiyappattukkalin varalaru : Family history of the Palayappattu Pattakkarars, local chieftain in Tamil Nadu",
-"title_ta": "",
-"title_en": "Palaiyappattukkalin varalaru : Family history of the Palayappattu Pattakkarars, local chieftain in Tamil Nadu",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "Tamilnatu Aracu Tolporul Ayvutturai",
-"publisher_roman": "",
-"place": "Tamilnatu Aracu Kiltticaic Cuvatikal Nulnilaiyam",
-"year": "1981",
-"period": "1947–1990 (Post-independence)",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/010045214",
-"copies": [],
-"other_source_urls": [
+"https://openlibrary.org/works/OL22676052W",
+"https://catalog.hathitrust.org/Record/010045214",
 "https://catalog.hathitrust.org/Record/010045215",
 "https://catalog.hathitrust.org/Record/010046025"
 ],
 "sources": [
+"Internet Archive",
+"Open Library",
 "HathiTrust"
 ],
 "curated": false,
@@ -123042,10 +121908,12 @@
 "copies": [],
 "other_source_urls": [
 "https://openlibrary.org/works/OL22819380W",
-"https://openlibrary.org/works/OL22913760W"
+"https://openlibrary.org/works/OL22913760W",
+"https://catalog.hathitrust.org/Record/000927636"
 ],
 "sources": [
-"Open Library"
+"Open Library",
+"HathiTrust"
 ],
 "curated": false,
 "scholar": "",
@@ -123696,9 +122564,12 @@
 "buy_url": "",
 "source_url": "https://openlibrary.org/works/OL5273303W",
 "copies": [],
-"other_source_urls": [],
+"other_source_urls": [
+"https://catalog.hathitrust.org/Record/002223715"
+],
 "sources": [
-"Open Library"
+"Open Library",
+"HathiTrust"
 ],
 "curated": false,
 "scholar": "",
@@ -127320,9 +126191,12 @@
 "buy_url": "",
 "source_url": "https://openlibrary.org/works/OL3458415W",
 "copies": [],
-"other_source_urls": [],
+"other_source_urls": [
+"https://catalog.hathitrust.org/Record/002902345"
+],
 "sources": [
-"Open Library"
+"Open Library",
+"HathiTrust"
 ],
 "curated": false,
 "scholar": "",
@@ -130267,45 +129141,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-003051",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Tolliyal nōkkil Tamiḻakam / patippāciriyar, Ku. Tāmōtaraṉ",
-"title_ta": "",
-"title_en": "Tolliyal nōkkil Tamiḻakam / patippāciriyar, Ku. Tāmōtaraṉ",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "Tolporuḷ Āyvut Tuṟai, Tamiḻnāṭu Aracu",
-"publisher_roman": "",
-"place": "",
-"year": "1999",
-"period": "1991–2010",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/003841709",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-009679",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -130381,11 +129216,13 @@
 ],
 "other_source_urls": [
 "https://archive.org/details/acc.-no.-7431-tholliyal-nokkil-thamizhagam-1999",
-"https://openlibrary.org/works/OL23760674W"
+"https://openlibrary.org/works/OL23760674W",
+"https://catalog.hathitrust.org/Record/003841709"
 ],
 "sources": [
 "Internet Archive",
-"Open Library"
+"Open Library",
+"HathiTrust"
 ],
 "curated": false,
 "scholar": "",
@@ -130588,45 +129425,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-010952",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Colporuḷ : a history of Tamil dictionaries",
-"title_ta": "",
-"title_en": "Colporuḷ : a history of Tamil dictionaries",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Gregory James",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "2000",
-"period": "1991–2010",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "Tamil; Computer science; History; Linguistics; Philosophy",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "http://ci.nii.ac.jp/ncid/BA50869370",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"OpenAlex"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-11-05"
-},
-{
 "id": "TB-009685",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -130657,11 +129455,13 @@
 "source_url": "https://catalog.hathitrust.org/Record/003541438",
 "copies": [],
 "other_source_urls": [
-"https://archive.org/details/colporulhistoryo0000jame"
+"https://archive.org/details/colporulhistoryo0000jame",
+"http://ci.nii.ac.jp/ncid/BA50869370"
 ],
 "sources": [
 "HathiTrust",
-"Internet Archive"
+"Internet Archive",
+"OpenAlex"
 ],
 "curated": false,
 "scholar": "",
@@ -134483,45 +133283,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-010835",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "'''ஏறாவூர் வரலாறு'''",
-"title_ta": "'''ஏறாவூர் வரலாறு'''",
-"title_en": "'''ēṟāvūr Varalāṟu'''",
-"title_en_note": "romanised from Tamil",
-"alt_title": "",
-"authors": "-",
-"authors_roman": "",
-"publisher": "[[:பகுப்பு:ஏறாவூர் வரலாற்று ஆய்வு மையம்",
-"publisher_roman": "[[:Pakuppu:Ēṟāvūr Varalāṟṟu Āyvu Maiyam",
-"place": "",
-"year": "2005",
-"period": "1991–2010",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "580",
-"notes": "",
-"subjects": "இட வரலாறு",
-"access": "open",
-"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%8F%E0%AE%B1%E0%AE%BE%E0%AE%B5%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%8F%E0%AE%B1%E0%AE%BE%E0%AE%B5%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Noolaham"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-30"
-},
-{
 "id": "TB-001307",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -134887,7 +133648,7 @@
 "category_name": "Tamil History: General, Society & Economy",
 "category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
 "title": "Ēr̲āvūr varalār̲u",
-"title_ta": "",
+"title_ta": "'''ஏறாவூர் வரலாறு'''",
 "title_en": "Ēr̲āvūr varalār̲u",
 "title_en_note": "",
 "alt_title": "",
@@ -134902,18 +133663,21 @@
 "type": "Book",
 "series": "",
 "isbn": "9551261003; 9789551261009",
-"pages": "",
+"pages": "580",
 "notes": "",
 "subjects": "History",
-"access": "catalogue",
-"read_url": "",
+"access": "open",
+"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%8F%E0%AE%B1%E0%AE%BE%E0%AE%B5%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
 "download_url": "",
 "buy_url": "",
 "source_url": "https://openlibrary.org/works/OL23994209W",
 "copies": [],
-"other_source_urls": [],
+"other_source_urls": [
+"https://noolaham.org/wiki/index.php/%E0%AE%8F%E0%AE%B1%E0%AE%BE%E0%AE%B5%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81"
+],
 "sources": [
-"Open Library"
+"Open Library",
+"Noolaham"
 ],
 "curated": false,
 "scholar": "",
@@ -139379,10 +138143,15 @@
 {
 "read": "https://archive.org/details/a-concise-history-of-south-india-issues-and-interpretations",
 "pdf": ""
+},
+{
+"read": "https://archive.org/details/noboru-karashima-a-concise-history-of-south-india-issues-and-interpretations-201",
+"pdf": ""
 }
 ],
 "other_source_urls": [
 "https://bvbr.bib-bvb.de:443/F?func=service&doc_library=BVB01&local_base=BVB01&doc_number=027614751&sequence=000001&line_number=0001&func_code=DB_RECORDS&service_type=MEDIA",
+"https://archive.org/details/noboru-karashima-a-concise-history-of-south-india-issues-and-interpretations-201",
 "https://openlibrary.org/works/OL21087579W"
 ],
 "sources": [
@@ -143957,45 +142726,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-004142",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "A Concise History Of South India Issues And Interpretations ( 2014, Oxford University Press) Libgen.li",
-"title_ta": "",
-"title_en": "A Concise History Of South India Issues And Interpretations ( 2014, Oxford University Press) Libgen.li",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Noboru Karashima",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "",
-"period": "Undated",
-"language": "Jav",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "South India",
-"access": "open",
-"read_url": "https://archive.org/details/noboru-karashima-a-concise-history-of-south-india-issues-and-interpretations-201",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://archive.org/details/noboru-karashima-a-concise-history-of-south-india-issues-and-interpretations-201",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-004143",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -144836,45 +143566,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-004145",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Ceylon - an account of the island, physical, historical, and topographical with notices of its natural history, antiquities and productions (IA ceylonaccountofi01tenn)",
-"title_ta": "",
-"title_en": "Ceylon - an account of the island, physical, historical, and topographical with notices of its natural history, antiquities and productions (IA ceylonaccountofi01tenn)",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "",
-"period": "Undated",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3ACeylon_-_an_account_of_the_island%2C_physical%2C_historical%2C_and_topographical_with_notices_of_its_natural_history%2C_antiquities_and_productions_%28IA_ceylonaccountofi01tenn%29.pdf",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ceylon_-_an_account_of_the_island%2C_physical%2C_historical%2C_and_topographical_with_notices_of_its_natural_history%2C_antiquities_and_productions_%28IA_ceylonaccountofi01tenn%29.pdf",
-"buy_url": "",
-"source_url": "https://commons.wikimedia.org/wiki/File%3ACeylon_-_an_account_of_the_island%2C_physical%2C_historical%2C_and_topographical_with_notices_of_its_natural_history%2C_antiquities_and_productions_%28IA_ceylonaccountofi01tenn%29.pdf",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Wikimedia Commons"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-004146",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -144981,45 +143672,6 @@
 "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ceylon-_An_Account_of_the_Island_Physical%2C_Historical_and_Topographical_with_notices_of_its_Natural_History%2C_Antiquities_and_Production%2C_illustrated_by_Maps%2C_Plans_and_Drawings_%28IA_dli.granth.71187%29.pdf",
 "buy_url": "",
 "source_url": "https://commons.wikimedia.org/wiki/File%3ACeylon-_An_Account_of_the_Island_Physical%2C_Historical_and_Topographical_with_notices_of_its_Natural_History%2C_Antiquities_and_Production%2C_illustrated_by_Maps%2C_Plans_and_Drawings_%28IA_dli.granth.71187%29.pdf",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Wikimedia Commons"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
-"id": "TB-004148",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Ceylon; an account of the island, physical, historical, and topographical, with notices of its natural history, antiquities and productions (IA ceylonaccountofi01tenniala)",
-"title_ta": "",
-"title_en": "Ceylon; an account of the island, physical, historical, and topographical, with notices of its natural history, antiquities and productions (IA ceylonaccountofi01tenniala)",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "",
-"period": "Undated",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3ACeylon%3B_an_account_of_the_island%2C_physical%2C_historical%2C_and_topographical%2C_with_notices_of_its_natural_history%2C_antiquities_and_productions_%28IA_ceylonaccountofi01tenniala%29.pdf",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ceylon%3B_an_account_of_the_island%2C_physical%2C_historical%2C_and_topographical%2C_with_notices_of_its_natural_history%2C_antiquities_and_productions_%28IA_ceylonaccountofi01tenniala%29.pdf",
-"buy_url": "",
-"source_url": "https://commons.wikimedia.org/wiki/File%3ACeylon%3B_an_account_of_the_island%2C_physical%2C_historical%2C_and_topographical%2C_with_notices_of_its_natural_history%2C_antiquities_and_productions_%28IA_ceylonaccountofi01tenniala%29.pdf",
 "copies": [],
 "other_source_urls": [],
 "sources": [
@@ -155044,21 +153696,32 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "",
+"subjects": "Manuscripts, Oriental -- Catalogs; Manuscripts, Sanskrit -- Catalogs; Manuscripts -- India -- Catalogs; Manuscripts; Manuscripts, Oriental; Manuscripts, Sanskrit; India",
 "access": "open",
 "read_url": "https://babel.hathitrust.org/cgi/pt?id=hvd.32044018690917",
-"download_url": "",
+"download_url": "https://archive.org/download/mackenziecollec00wilsgoog/mackenziecollec00wilsgoog.pdf",
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/009720160",
 "copies": [
 {
+"read": "https://babel.hathitrust.org/cgi/pt?id=hvd.32044018690917",
+"pdf": ""
+},
+{
 "read": "https://babel.hathitrust.org/cgi/pt?id=hvd.32044014465009",
 "pdf": ""
+},
+{
+"read": "https://archive.org/details/mackenziecollec00wilsgoog",
+"pdf": "https://archive.org/download/mackenziecollec00wilsgoog/mackenziecollec00wilsgoog.pdf"
 }
 ],
-"other_source_urls": [],
+"other_source_urls": [
+"https://archive.org/details/mackenziecollec00wilsgoog"
+],
 "sources": [
-"HathiTrust"
+"HathiTrust",
+"Internet Archive"
 ],
 "curated": false,
 "scholar": "",
@@ -155103,45 +153766,6 @@
 "other_source_urls": [
 "https://archive.org/details/mackenziecollec01wilsgoog"
 ],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-28"
-},
-{
-"id": "TB-005765",
-"category": "PLM",
-"category_name": "Palm-leaf Manuscripts & Manuscriptology",
-"category_name_ta": "ஓலைச்சுவடிகள், சுவடியியல்",
-"title": "Mackenzie collection; a descriptive catalogue of the oriental manuscripts and other articles illustrative of the literature, history, statistics and antiquities of the South of India;",
-"title_ta": "",
-"title_en": "Mackenzie collection; a descriptive catalogue of the oriental manuscripts and other articles illustrative of the literature, history, statistics and antiquities of the South of India;",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Mackenzie, Colin, 1753?-1821",
-"authors_roman": "",
-"publisher": "Calcutta, Asiatic Press",
-"publisher_roman": "",
-"place": "",
-"year": "1828",
-"period": "1800–1899 (Colonial, early)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "Manuscripts, Oriental -- Catalogs; Manuscripts, Sanskrit -- Catalogs; Manuscripts -- India -- Catalogs; Manuscripts; Manuscripts, Oriental; Manuscripts, Sanskrit; India",
-"access": "open",
-"read_url": "https://archive.org/details/mackenziecollec00wilsgoog",
-"download_url": "https://archive.org/download/mackenziecollec00wilsgoog/mackenziecollec00wilsgoog.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/mackenziecollec00wilsgoog",
-"copies": [],
-"other_source_urls": [],
 "sources": [
 "Internet Archive"
 ],
@@ -158237,9 +156861,15 @@
 {
 "read": "https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZQeluty.TVA_BOK_0000222",
 "pdf": ""
+},
+{
+"read": "https://archive.org/details/tdl.tdl_458e4f-nuul-a-triennial-catalogue-of-tamil-manuscripts-_-collected-during-the-trien",
+"pdf": "https://archive.org/download/tdl.tdl_458e4f-nuul-a-triennial-catalogue-of-tamil-manuscripts-_-collected-during-the-trien/TVA_BOK_0000222_A_Triennial_Catalogue_of_Tamil_Manuscripts.pdf"
 }
 ],
-"other_source_urls": [],
+"other_source_urls": [
+"https://archive.org/details/tdl.tdl_458e4f-nuul-a-triennial-catalogue-of-tamil-manuscripts-_-collected-during-the-trien"
+],
 "sources": [
 "Internet Archive"
 ],
@@ -162945,45 +161575,6 @@
 "added": "2026-10-28"
 },
 {
-"id": "TB-005927",
-"category": "PLM",
-"category_name": "Palm-leaf Manuscripts & Manuscriptology",
-"category_name_ta": "ஓலைச்சுவடிகள், சுவடியியல்",
-"title": "A Triennial Catalogue of Tamil Manuscripts : Collected during the Trienniums 1934-35 to 1936-37, 1937-38 to 1939-40 and 1940-41 to 1942-43 for the Government Oriental Manuscripts Library, Madras - Part - 2 - Tamil",
-"title_ta": "",
-"title_en": "A Triennial Catalogue of Tamil Manuscripts : Collected during the Trienniums 1934-35 to 1936-37, 1937-38 to 1939-40 and 1940-41 to 1942-43 for the Government Oriental Manuscripts Library, Madras - Part - 2 - Tamil",
-"title_en_note": "",
-"alt_title": "",
-"authors": "",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "",
-"period": "Undated",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "Book",
-"access": "open",
-"read_url": "https://archive.org/details/tdl.tdl_458e4f-nuul-a-triennial-catalogue-of-tamil-manuscripts-_-collected-during-the-trien",
-"download_url": "https://archive.org/download/tdl.tdl_458e4f-nuul-a-triennial-catalogue-of-tamil-manuscripts-_-collected-during-the-trien/TVA_BOK_0000222_A_Triennial_Catalogue_of_Tamil_Manuscripts.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/tdl.tdl_458e4f-nuul-a-triennial-catalogue-of-tamil-manuscripts-_-collected-during-the-trien",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-28"
-},
-{
 "id": "TB-005928",
 "category": "PLM",
 "category_name": "Palm-leaf Manuscripts & Manuscriptology",
@@ -167134,45 +165725,6 @@
 "download_url": "https://archive.org/download/india.history.resource.93179/93179.pdf",
 "buy_url": "",
 "source_url": "https://archive.org/details/india.history.resource.93179",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
-"id": "TB-001433",
-"category": "REF",
-"category_name": "Reference: Catalogues, Lists & Glossaries",
-"category_name_ta": "பட்டியல்கள், சொல்லகராதிகள்",
-"title": "The Topographical List of the Inscriptions of the Madras Presidency. (collected till 1915), with Notes and References, Vol. III",
-"title_ta": "",
-"title_en": "The Topographical List of the Inscriptions of the Madras Presidency. (collected till 1915), with Notes and References, Vol. III",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Rangacharya, V.",
-"authors_roman": "",
-"publisher": "The Superintendent, Government Press (Madras)",
-"publisher_roman": "",
-"place": "",
-"year": "1919",
-"period": "1900–1946 (Colonial, late)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "Book; Bibliographies",
-"access": "open",
-"read_url": "https://archive.org/details/india.history.resource.93181",
-"download_url": "https://archive.org/download/india.history.resource.93181/93181.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/india.history.resource.93181",
 "copies": [],
 "other_source_urls": [],
 "sources": [

@@ -381,7 +381,10 @@ def harvest_ia():
 def harvest_ol():
     rows = live("ol")
     fl = "key,title,subtitle,author_name,publisher,publish_place,first_publish_year,publish_year,language,subject,isbn,ia,ebook_access"
+    yr = int(time.strftime("%Y"))
+    recent = f" first_publish_year:[{yr - 2} TO {yr}]"
     qs = [("q", t) for t in ROMAN_TERMS + EN_TERMS + TAMIL_TERMS] + [("subject", t.split("--")[0]) for t in SUBJECTS]
+    qs += [("q", t + recent) for t in ROMAN_TERMS + EN_TERMS + TAMIL_TERMS]   # new releases
     for kind, t in qs:
         page = 1
         while page <= 5:

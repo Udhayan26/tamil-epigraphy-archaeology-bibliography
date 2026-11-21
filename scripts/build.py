@@ -258,6 +258,7 @@ def main_title_key(t):
 def core_key(t):
     t = clean_title(t or "")
     t = re.split(r"\s/\s", t)[0]
+    t = re.split(r",\s*(?:1[6-9]\d\d|20[0-3]\d)\b", t)[0]
     t = re.sub(r"(\d{4})\s*[-–/]\s*\d{2,4}", r"\1", t)
     t = re.sub(r"\(.*?\)|\[.*?\]", " ", t)
     return skeleton(t)[:90]
@@ -269,7 +270,8 @@ def title_years(titles):
 
 def vol_tokens(t):
     t = translit(t or "").lower()
-    return tuple(sorted(set(re.findall(r"(?:vol(?:ume)?|part|pt|tokuti|thogudi|thokuthi|no)\.?\s*[-:]?\s*(\d{1,3}|[ivx]{1,6})\b", t))))
+    found = re.findall(r"(?:vol(?:ume)?|part|pt|tokuti|thogudi|thokuthi|no)\.?\s*[-:]?\s*(\d{1,3}|[ivx]{1,6})\b", t)
+    return tuple(sorted({str(_num(x) or x) for x in found}))
 
 
 def surname_key(a):
@@ -324,7 +326,7 @@ def fuzzy_merge(merged):
     for k, m in merged.items():
         if k.startswith("SERIES|") or m.get("is_journal"):
             continue
-        keys = {main_title_key(t) for t in m["titles"]}
+        keys = {main_title_key(t) for t in m["titles"]} | {core_key(t) for t in m["titles"]}
         for mk in keys:
             if len(mk) >= 6:
                 groups.setdefault(mk, []).append(k)
@@ -355,7 +357,8 @@ def fuzzy_merge(merged):
                 tya, tyb = title_years(a["titles"]), title_years(b["titles"])
                 if tya and tyb and tya.isdisjoint(tyb):
                     continue
-                if (same_book and not bare_series and (not short or authors_match)
+                same_year = bool(re.match(r"\d{4}", a.get("year") or "") and (a.get("year") or "")[:4] == (b.get("year") or "")[:4])
+                if (same_book and not bare_series and (not short or authors_match or (same_year and (not sa or not sb)))
                         and (not sa or not sb or authors_match) and years_ok(a.get("year"), b.get("year")) and (not va or not vb or va == vb)):
                     absorb(a, b)
                     gone.add(kb)

@@ -190,6 +190,10 @@ def main():
     cutoff = (today - timedelta(days=30)).isoformat()
     new = sorted([r for r in R if r.get("added", "") >= cutoff and not r.get("curated")], key=lambda r: r.get("added", ""), reverse=True)
     book_sheet(wb, "Newly Added (30 days)", new, "NewlyAdded")
+    yr = today.year
+    recent = sorted([r for r in R if re.match(r"\d{4}", r.get("year") or "") and int(r["year"][:4]) >= yr - 2],
+                    key=lambda r: r["year"], reverse=True)
+    book_sheet(wb, f"Recent Publications {yr - 2}-{yr}", recent, "RecentPubs")
     for i, (code, v) in enumerate(cats.items()):
         rs = [r for r in R if r["category"] == code]
         if rs:
