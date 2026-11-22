@@ -331,5 +331,5 @@
 [ia] relevant: 7507
 [ia] 7507 reused, enriching 0 new items via metadata API
 [ia] saved 7507 records
-[ia] took 579s
-total 579s
+[ia] took 433s
+total 433s
