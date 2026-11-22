@@ -232,9 +232,9 @@
 [ol] q=நடுகல்: page 1 docs 0
 [ol] q=நடுகற்கள்: page 1 docs 0
 [ol] q=வீரக்கல்: page 1 docs 0
-[ol] q=தொல்லியல்: page 1 docs 0
+[ol] ERR தொல்லியல் <urlopen error timed out>
 [ol] q=தொல்பொருள்: page 1 docs 0
-[ol] q=அகழாய்வு: page 1 docs 0
+[ol] ERR அகழாய்வு <urlopen error timed out>
 [ol] q=அகழ்வாய்வு: page 1 docs 0
 [ol] q=அகழ்வைப்பகம்: page 1 docs 0
 [ol] q=பாறை ஓவியம்: page 1 docs 0
@@ -347,7 +347,7 @@
 [ol] subject=Paleography, Tamil: page 1 docs 0
 [ol] q=kalvettu first_publish_year:[2024 TO 2026]: page 1 docs 0
 [ol] q=kalvettukal first_publish_year:[2024 TO 2026]: page 1 docs 0
-[ol] q=kalvettukkal first_publish_year:[2024 TO 2026]: page 1 docs 0
+[ol] ERR kalvettukkal first_publish_year:[2024 TO 2026] <urlopen error [Errno 104] Connection reset by peer>
 [ol] q=kalvettugal first_publish_year:[2024 TO 2026]: page 1 docs 0
 [ol] q=kalvetukal first_publish_year:[2024 TO 2026]: page 1 docs 0
 [ol] q=kalvettiyal first_publish_year:[2024 TO 2026]: page 1 docs 0
@@ -365,7 +365,7 @@
 [ol] q=tolliyal first_publish_year:[2024 TO 2026]: page 1 docs 0
 [ol] q=tholporul first_publish_year:[2024 TO 2026]: page 1 docs 0
 [ol] q=agazhaivu first_publish_year:[2024 TO 2026]: page 1 docs 0
-[ol] q=akalayvu first_publish_year:[2024 TO 2026]: page 1 docs 0
+[ol] ERR akalayvu first_publish_year:[2024 TO 2026] <urlopen error [Errno 104] Connection reset by peer>
 [ol] q=akazhaivu first_publish_year:[2024 TO 2026]: page 1 docs 0
 [ol] q=akalvaippakam first_publish_year:[2024 TO 2026]: page 1 docs 0
 [ol] q=paarai oviyangal first_publish_year:[2024 TO 2026]: page 1 docs 0
@@ -652,5 +652,5 @@
 [ol] q=தமிழகப் பொருளாதார வரலாறு first_publish_year:[2024 TO 2026]: page 1 docs 0
 [ol] q=கடல் வணிகம் first_publish_year:[2024 TO 2026]: page 1 docs 0
 [ol] saved 1209 records
-[ol] took 1110s
-total 1110s
+[ol] took 4549s
+total 4549s
