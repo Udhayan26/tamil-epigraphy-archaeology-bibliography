@@ -1,11 +1,11 @@
-au.json: previous 2098, this run 2071, kept from before 27, total 2098
+au.json: previous 2098, this run 2098, kept from before 0, total 2098
 cm.json: previous 272, this run 265, kept from before 7, total 272
 doab.json: previous 0, this run 0, kept from before 0, total 0
 gb.json: previous 0, this run 0, kept from before 0, total 0
-ht.json: previous 5195, this run 1997, kept from before 3198, total 5195
+ht.json: previous 5195, this run 5195, kept from before 0, total 5195
 ia.json: previous 7902, this run 7507, kept from before 395, total 7902
-loc.json: previous 42, this run 0, kept from before 42, total 42
-nl.json: previous 311, this run 163, kept from before 148, total 311
+loc.json: previous 42, this run 42, kept from before 0, total 42
+nl.json: previous 311, this run 134, kept from before 177, total 311
 oa.json: previous 487, this run 487, kept from before 0, total 487
 ol.json: previous 2357, this run 1209, kept from before 1148, total 2357
 td.json: previous 2573, this run 2573, kept from before 0, total 2573

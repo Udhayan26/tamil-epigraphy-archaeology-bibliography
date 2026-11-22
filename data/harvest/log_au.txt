@@ -114,11 +114,11 @@
 [au/gb] ERR inauthor:"கே. எஸ். சம்பத்" Google Books quota exhausted for this run
 [au] K. S. Sampath: 4
 [au/gb] ERR inauthor:"E. Hultzsch" Google Books quota exhausted for this run
-[au] E. Hultzsch: 31
+[au] E. Hultzsch: 21
 [au/gb] ERR inauthor:"V. Venkayya" Google Books quota exhausted for this run
-[au] V. Venkayya: 3
+[au] V. Venkayya: 2
 [au/gb] ERR inauthor:"H. Krishna Sastri" Google Books quota exhausted for this run
-[au] H. Krishna Sastri: 17
+[au] H. Krishna Sastri: 16
 [au/gb] ERR inauthor:"C. Sivaramamurti" Google Books quota exhausted for this run
 [au] C. Sivaramamurti: 107
 [au/gb] ERR inauthor:"R. Champakalakshmi" Google Books quota exhausted for this run
@@ -150,7 +150,7 @@
 [au/gb] ERR inauthor:"C. Minakshi" Google Books quota exhausted for this run
 [au] C. Minakshi: 5
 [au/gb] ERR inauthor:"D. C. Sircar" Google Books quota exhausted for this run
-[au] D. C. Sircar: 32
+[au] D. C. Sircar: 30
 [au/gb] ERR inauthor:"N. Subrahmanian" Google Books quota exhausted for this run
 [au] N. Subrahmanian: 35
 [au/gb] ERR inauthor:"R. Tirumalai" Google Books quota exhausted for this run
@@ -285,9 +285,9 @@
 [au/gb] ERR inpublisher:"Tamil Heritage Foundation" Google Books quota exhausted for this run
 [au] publisher Tamil Heritage Foundation: 1
 [au/gb] ERR inpublisher:"International Institute of Tamil Studies" Google Books quota exhausted for this run
-[au] publisher International Institute of Tamil Studies: 13
+[au] publisher International Institute of Tamil Studies: 15
 [au/gb] ERR inpublisher:"Central Institute of Classical Tamil" Google Books quota exhausted for this run
-[au] publisher Central Institute of Classical Tamil: 1
+[au] publisher Central Institute of Classical Tamil: 2
 [au/gb] ERR inpublisher:"Institute of Asian Studies Chennai" Google Books quota exhausted for this run
 [au] publisher Institute of Asian Studies Chennai: 1
 [au/gb] ERR inpublisher:"Archaeological Survey of India" Google Books quota exhausted for this run
@@ -301,11 +301,11 @@
 [au/gb] ERR inpublisher:"South Indian Numismatic Society" Google Books quota exhausted for this run
 [au] publisher South Indian Numismatic Society: 1
 [au/gb] ERR inpublisher:"Garnet Publishers" Google Books quota exhausted for this run
-[au] publisher Garnet Publishers: 3
+[au] publisher Garnet Publishers: 4
 [au/gb] ERR inpublisher:"Institut français de Pondichéry" Google Books quota exhausted for this run
-[au] publisher Institut français de Pondichéry: 1
+[au] publisher Institut français de Pondichéry: 5
 [au/gb] ERR inpublisher:"École française d'Extrême-Orient" Google Books quota exhausted for this run
-[au] publisher École française d'Extrême-Orient: 1
-[au] saved 2071 records
-[au] took 719s
-total 719s
+[au] publisher École française d'Extrême-Orient: 7
+[au] saved 2068 records
+[au] took 643s
+total 643s
