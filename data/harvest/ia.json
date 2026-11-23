@@ -42270,7 +42270,7 @@
 "access": "open",
 "read_url": "https://archive.org/details/tamilnattuk-kalvettukal-ix",
 "download_url": "https://archive.org/download/tamilnattuk-kalvettukal-ix/Tamilnattuk%20Kalvettukal%20IX.pdf",
-"collection": "booksbylanguage_tamil; booksbylanguage; fav-rakku",
+"collection": "booksbylanguage_tamil; booksbylanguage; fav-rakku; fav-manikandan_sakthivel244",
 "description": "தமிழ்நாட்டுக் கல்வெட்டுகள் - 9: காஞ்சிபுரம் மாவட்டக் கல்வெட்டுகள் - 5",
 "enriched": true
 },
@@ -42327,7 +42327,7 @@
 "access": "open",
 "read_url": "https://archive.org/details/tamilnattuk-kalvettukal-viii",
 "download_url": "https://archive.org/download/tamilnattuk-kalvettukal-viii/Tamilnattuk%20Kalvettukal%20VIII.pdf",
-"collection": "booksbylanguage_tamil; booksbylanguage; fav-rakku",
+"collection": "booksbylanguage_tamil; booksbylanguage; fav-manikandan_sakthivel244; fav-rakku",
 "description": "தமிழ்நாட்டுக் கல்வெட்டுகள் - 8: தஞ்சாவூர் வட்டக் கல்வெட்டுகள்",
 "enriched": true
 },
@@ -94882,7 +94882,7 @@
 "access": "open",
 "read_url": "https://archive.org/details/kalvettu-magazine",
 "download_url": "https://archive.org/download/kalvettu-magazine/Kalvettukal%206.pdf",
-"collection": "magazine_packs; magazine_rack; fav-athmanathan; fav-kalanidhi_nidhi; fav-pandiyanadu_trust; fav-rakku; fav-scoobydooby7728; fav-tejashwin_s_cse_c; fav-titus_samuel; fav-wedra",
+"collection": "magazine_packs; magazine_rack; fav-manikandan_sakthivel244; fav-kalanidhi_nidhi; fav-wedra; fav-rakku; fav-titus_samuel; fav-scoobydooby7728; fav-athmanathan; fav-tejashwin_s_cse_c; fav-pandiyanadu_tr",
 "description": "Kalvettu Magazine which was published by Tamilnadu State Department of Archaeology, Chennai.",
 "enriched": true
 },
