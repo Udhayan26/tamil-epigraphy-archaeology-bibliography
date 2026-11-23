@@ -785,22 +785,6 @@
 },
 {
 "source": "Wikimedia Commons",
-"source_id": "File:Epigraphia Indica Vol 7.pdf",
-"title": "Epigraphia Indica Vol 7",
-"alt_title": "",
-"authors": "",
-"publisher": "",
-"place": "",
-"year": "",
-"language": "",
-"subjects": "",
-"url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_7.pdf",
-"access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_7.pdf",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_7.pdf"
-},
-{
-"source": "Wikimedia Commons",
 "source_id": "File:Epigraphia Indica Vol 13.pdf",
 "title": "Epigraphia Indica Vol 13",
 "alt_title": "",
@@ -814,6 +798,22 @@
 "access": "open",
 "read_url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_13.pdf",
 "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_13.pdf"
+},
+{
+"source": "Wikimedia Commons",
+"source_id": "File:Epigraphia Indica Vol 7.pdf",
+"title": "Epigraphia Indica Vol 7",
+"alt_title": "",
+"authors": "",
+"publisher": "",
+"place": "",
+"year": "",
+"language": "",
+"subjects": "",
+"url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_7.pdf",
+"access": "open",
+"read_url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_7.pdf",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_7.pdf"
 },
 {
 "source": "Wikimedia Commons",
@@ -1009,22 +1009,6 @@
 },
 {
 "source": "Wikimedia Commons",
-"source_id": "File:Epigraphia Indica Vol 39 No. 1 January 1971.pdf",
-"title": "Epigraphia Indica Vol 39 No. 1 January 1971",
-"alt_title": "",
-"authors": "",
-"publisher": "",
-"place": "",
-"year": "1971",
-"language": "",
-"subjects": "",
-"url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._1_January_1971.pdf",
-"access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._1_January_1971.pdf",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_39_No._1_January_1971.pdf"
-},
-{
-"source": "Wikimedia Commons",
 "source_id": "File:Epigraphia Indica Vol 40 No. 6 July 1974.pdf",
 "title": "Epigraphia Indica Vol 40 No. 6 July 1974",
 "alt_title": "",
@@ -1038,6 +1022,22 @@
 "access": "open",
 "read_url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_40_No._6_July_1974.pdf",
 "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_40_No._6_July_1974.pdf"
+},
+{
+"source": "Wikimedia Commons",
+"source_id": "File:Epigraphia Indica Vol 39 No. 1 January 1971.pdf",
+"title": "Epigraphia Indica Vol 39 No. 1 January 1971",
+"alt_title": "",
+"authors": "",
+"publisher": "",
+"place": "",
+"year": "1971",
+"language": "",
+"subjects": "",
+"url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._1_January_1971.pdf",
+"access": "open",
+"read_url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_39_No._1_January_1971.pdf",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_39_No._1_January_1971.pdf"
 },
 {
 "source": "Wikimedia Commons",
@@ -1553,8 +1553,8 @@
 },
 {
 "source": "Wikimedia Commons",
-"source_id": "File:The Indian Antiquary Vol 59 (IGNCA).pdf",
-"title": "The Indian Antiquary Vol 59 (IGNCA)",
+"source_id": "File:The Indian Antiquary Vol 19.pdf",
+"title": "The Indian Antiquary Vol 19",
 "alt_title": "",
 "authors": "",
 "publisher": "",
@@ -1562,10 +1562,10 @@
 "year": "",
 "language": "",
 "subjects": "",
-"url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_59_%28IGNCA%29.pdf",
+"url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_19.pdf",
 "access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_59_%28IGNCA%29.pdf",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_59_%28IGNCA%29.pdf"
+"read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_19.pdf",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_19.pdf"
 },
 {
 "source": "Wikimedia Commons",
@@ -1585,8 +1585,8 @@
 },
 {
 "source": "Wikimedia Commons",
-"source_id": "File:The Indian Antiquary Vol 19.pdf",
-"title": "The Indian Antiquary Vol 19",
+"source_id": "File:The Indian Antiquary Vol 59 (IGNCA).pdf",
+"title": "The Indian Antiquary Vol 59 (IGNCA)",
 "alt_title": "",
 "authors": "",
 "publisher": "",
@@ -1594,10 +1594,10 @@
 "year": "",
 "language": "",
 "subjects": "",
-"url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_19.pdf",
+"url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_59_%28IGNCA%29.pdf",
 "access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_19.pdf",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_19.pdf"
+"read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_59_%28IGNCA%29.pdf",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_59_%28IGNCA%29.pdf"
 },
 {
 "source": "Wikimedia Commons",
@@ -1921,22 +1921,6 @@
 },
 {
 "source": "Wikimedia Commons",
-"source_id": "File:The Indian Antiquary Vol 42.pdf",
-"title": "The Indian Antiquary Vol 42",
-"alt_title": "",
-"authors": "",
-"publisher": "",
-"place": "",
-"year": "",
-"language": "",
-"subjects": "",
-"url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_42.pdf",
-"access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_42.pdf",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_42.pdf"
-},
-{
-"source": "Wikimedia Commons",
 "source_id": "File:The Indian Antiquary Vol 22.pdf",
 "title": "The Indian Antiquary Vol 22",
 "alt_title": "",
@@ -1982,6 +1966,22 @@
 "access": "open",
 "read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_50_%28IGNCA%29.pdf",
 "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_50_%28IGNCA%29.pdf"
+},
+{
+"source": "Wikimedia Commons",
+"source_id": "File:The Indian Antiquary Vol 42.pdf",
+"title": "The Indian Antiquary Vol 42",
+"alt_title": "",
+"authors": "",
+"publisher": "",
+"place": "",
+"year": "",
+"language": "",
+"subjects": "",
+"url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_42.pdf",
+"access": "open",
+"read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_42.pdf",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_42.pdf"
 },
 {
 "source": "Wikimedia Commons",
@@ -2049,22 +2049,6 @@
 },
 {
 "source": "Wikimedia Commons",
-"source_id": "File:The Indian Antiquary Vol 33.pdf",
-"title": "The Indian Antiquary Vol 33",
-"alt_title": "",
-"authors": "",
-"publisher": "",
-"place": "",
-"year": "",
-"language": "",
-"subjects": "",
-"url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_33.pdf",
-"access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_33.pdf",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_33.pdf"
-},
-{
-"source": "Wikimedia Commons",
 "source_id": "File:The Indian Antiquary Vol 39.pdf",
 "title": "The Indian Antiquary Vol 39",
 "alt_title": "",
@@ -2094,6 +2078,22 @@
 "access": "open",
 "read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_4_%28IGNCA%29.pdf",
 "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_4_%28IGNCA%29.pdf"
+},
+{
+"source": "Wikimedia Commons",
+"source_id": "File:The Indian Antiquary Vol 33.pdf",
+"title": "The Indian Antiquary Vol 33",
+"alt_title": "",
+"authors": "",
+"publisher": "",
+"place": "",
+"year": "",
+"language": "",
+"subjects": "",
+"url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_33.pdf",
+"access": "open",
+"read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_33.pdf",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_33.pdf"
 },
 {
 "source": "Wikimedia Commons",
@@ -2257,22 +2257,6 @@
 },
 {
 "source": "Wikimedia Commons",
-"source_id": "File:The Indian Antiquary Vol 51 (IGNCA).pdf",
-"title": "The Indian Antiquary Vol 51 (IGNCA)",
-"alt_title": "",
-"authors": "",
-"publisher": "",
-"place": "",
-"year": "",
-"language": "",
-"subjects": "",
-"url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_51_%28IGNCA%29.pdf",
-"access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_51_%28IGNCA%29.pdf",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_51_%28IGNCA%29.pdf"
-},
-{
-"source": "Wikimedia Commons",
 "source_id": "File:The Indian Antiquary Vol 32 (IGNCA).pdf",
 "title": "The Indian Antiquary Vol 32 (IGNCA)",
 "alt_title": "",
@@ -2286,6 +2270,22 @@
 "access": "open",
 "read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_32_%28IGNCA%29.pdf",
 "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_32_%28IGNCA%29.pdf"
+},
+{
+"source": "Wikimedia Commons",
+"source_id": "File:The Indian Antiquary Vol 51 (IGNCA).pdf",
+"title": "The Indian Antiquary Vol 51 (IGNCA)",
+"alt_title": "",
+"authors": "",
+"publisher": "",
+"place": "",
+"year": "",
+"language": "",
+"subjects": "",
+"url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_51_%28IGNCA%29.pdf",
+"access": "open",
+"read_url": "https://commons.wikimedia.org/wiki/File%3AThe_Indian_Antiquary_Vol_51_%28IGNCA%29.pdf",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Antiquary_Vol_51_%28IGNCA%29.pdf"
 },
 {
 "source": "Wikimedia Commons",
@@ -2561,22 +2561,6 @@
 },
 {
 "source": "Wikimedia Commons",
-"source_id": "File:Epigraphia carnatica. By B. Lewis Rice, Director of Archaeological Researches in Mysore (IA epigraphiacarnat12myso).pdf",
-"title": "Epigraphia carnatica. By B. Lewis Rice, Director of Archaeological Researches in Mysore (IA epigraphiacarnat12myso)",
-"alt_title": "",
-"authors": "",
-"publisher": "",
-"place": "",
-"year": "",
-"language": "",
-"subjects": "",
-"url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_carnatica._By_B._Lewis_Rice%2C_Director_of_Archaeological_Researches_in_Mysore_%28IA_epigraphiacarnat12myso%29.pdf",
-"access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_carnatica._By_B._Lewis_Rice%2C_Director_of_Archaeological_Researches_in_Mysore_%28IA_epigraphiacarnat12myso%29.pdf",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_carnatica._By_B._Lewis_Rice%2C_Director_of_Archaeological_Researches_in_Mysore_%28IA_epigraphiacarnat12myso%29.pdf"
-},
-{
-"source": "Wikimedia Commons",
 "source_id": "File:Epigraphia carnatica. By B. Lewis Rice, Director of Archaeological Researches in Mysore (IA epigraphiacarnat14myso).pdf",
 "title": "Epigraphia carnatica. By B. Lewis Rice, Director of Archaeological Researches in Mysore (IA epigraphiacarnat14myso)",
 "alt_title": "",
@@ -2606,6 +2590,22 @@
 "access": "open",
 "read_url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_carnatica._By_B._Lewis_Rice%2C_Director_of_Archaeological_Researches_in_Mysore_%28IA_epigraphiacarnat09myso%29.pdf",
 "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_carnatica._By_B._Lewis_Rice%2C_Director_of_Archaeological_Researches_in_Mysore_%28IA_epigraphiacarnat09myso%29.pdf"
+},
+{
+"source": "Wikimedia Commons",
+"source_id": "File:Epigraphia carnatica. By B. Lewis Rice, Director of Archaeological Researches in Mysore (IA epigraphiacarnat12myso).pdf",
+"title": "Epigraphia carnatica. By B. Lewis Rice, Director of Archaeological Researches in Mysore (IA epigraphiacarnat12myso)",
+"alt_title": "",
+"authors": "",
+"publisher": "",
+"place": "",
+"year": "",
+"language": "",
+"subjects": "",
+"url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_carnatica._By_B._Lewis_Rice%2C_Director_of_Archaeological_Researches_in_Mysore_%28IA_epigraphiacarnat12myso%29.pdf",
+"access": "open",
+"read_url": "https://commons.wikimedia.org/wiki/File%3AEpigraphia_carnatica._By_B._Lewis_Rice%2C_Director_of_Archaeological_Researches_in_Mysore_%28IA_epigraphiacarnat12myso%29.pdf",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_carnatica._By_B._Lewis_Rice%2C_Director_of_Archaeological_Researches_in_Mysore_%28IA_epigraphiacarnat12myso%29.pdf"
 },
 {
 "source": "Wikimedia Commons",

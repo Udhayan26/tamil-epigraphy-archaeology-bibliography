@@ -52,7 +52,7 @@
 [ol] q=inscriptions Tamil Nadu: page 1 docs 94
 [ol] q=Tamilnadu inscriptions: page 1 docs 14
 [ol] q=Tamil epigraphy: page 1 docs 18
-[ol] q=South Indian inscriptions: page 1 docs 71
+[ol] q=South Indian inscriptions: page 1 docs 70
 [ol] q=South Indian epigraphy: page 1 docs 14
 [ol] q=Epigraphia Indica: page 1 docs 14
 [ol] q=annual report epigraphy: page 1 docs 4
@@ -314,7 +314,7 @@
 [ol] q=கடல் வணிகம்: page 1 docs 0
 [ol] subject=Inscriptions, Tamil: page 1 docs 192
 [ol] subject=Tamil language: page 1 docs 1000
-[ol] subject=Tamil language: page 2 docs 678
+[ol] subject=Tamil language: page 2 docs 677
 [ol] subject=Inscriptions: page 1 docs 1000
 [ol] subject=Inscriptions: page 2 docs 1000
 [ol] subject=Inscriptions: page 3 docs 1000
@@ -329,10 +329,10 @@
 [ol] subject=Hero stones: page 1 docs 8
 [ol] subject=Memorial stones: page 1 docs 42
 [ol] subject=Rock paintings: page 1 docs 1000
-[ol] subject=Rock paintings: page 2 docs 715
+[ol] subject=Rock paintings: page 2 docs 714
 [ol] subject=Petroglyphs: page 1 docs 1000
 [ol] subject=Petroglyphs: page 2 docs 1000
-[ol] subject=Petroglyphs: page 3 docs 419
+[ol] subject=Petroglyphs: page 3 docs 418
 [ol] subject=Copper plates: page 1 docs 31
 [ol] subject=Brahmi inscriptions: page 1 docs 24
 [ol] subject=Coins, Tamil: page 1 docs 4
@@ -651,6 +651,6 @@
 [ol] q=தமிழக சமூக வரலாறு first_publish_year:[2024 TO 2026]: page 1 docs 0
 [ol] q=தமிழகப் பொருளாதார வரலாறு first_publish_year:[2024 TO 2026]: page 1 docs 0
 [ol] q=கடல் வணிகம் first_publish_year:[2024 TO 2026]: page 1 docs 0
-[ol] saved 1209 records
-[ol] took 1141s
-total 1141s
+[ol] saved 1208 records
+[ol] took 798s
+total 798s
