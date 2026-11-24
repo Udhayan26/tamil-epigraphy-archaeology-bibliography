@@ -4,13 +4,13 @@
 "with_author": 3187,
 "with_publisher": 2908,
 "with_year": 3272,
-"open_access": 2853,
+"open_access": 2851,
 "with_download": 2387,
 "heritage_records": 4263,
 "with_buy": 0,
 "access": {
-"open": 2853,
-"catalogue": 1648,
+"open": 2851,
+"catalogue": 1650,
 "": 49,
 "open-us": 102,
 "borrow": 44
@@ -38593,8 +38593,8 @@
 "other_source_urls": [
 "https://archive.org/details/tdl.10761-nuul-tnycaavuur-vttttk-klvettttukll-tokuti-1",
 "https://openlibrary.org/works/OL18670247W",
-"https://archive.org/details/digital.assets.thanjchaavuur_vaddak_kalveddukaL",
-"https://catalog.hathitrust.org/Record/005676050"
+"https://catalog.hathitrust.org/Record/005676050",
+"https://archive.org/details/digital.assets.thanjchaavuur_vaddak_kalveddukaL"
 ],
 "sources": [
 "Curated",
@@ -49391,14 +49391,14 @@
 "source_url": "https://iberlibro.com/9780674012271/Early-Tamil-Epigraphy-Earlist-Times-0674012275/plp",
 "copies": [],
 "other_source_urls": [
-"https://openlibrary.org/works/OL6791052W",
 "https://catalog.hathitrust.org/Record/003868649",
-"https://openlibrary.org/works/OL6791053W"
+"https://openlibrary.org/works/OL6791053W",
+"https://openlibrary.org/works/OL6791052W"
 ],
 "sources": [
 "Curated",
-"Open Library",
-"HathiTrust"
+"HathiTrust",
+"Open Library"
 ],
 "curated": true,
 "scholar": "Iravatham Mahadevan",
@@ -113512,6 +113512,54 @@
 "added": "2026-10-29"
 },
 {
+"id": "TB-009093",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "'''ஸ்ரீ முன்னேஸ்வர வரலாறு'''",
+"title_ta": "'''ஸ்ரீ முன்னேஸ்வர வரலாறு'''",
+"title_en": "Śrī Munnēsvara varalāru",
+"title_en_note": "",
+"alt_title": "",
+"authors": "[[:பகுப்பு:சிவராமகிருஷ்ண சர்மா, பா.",
+"authors_roman": "[[:Pakuppu:Civarāmakiruṣṇa Carmā, Pā.",
+"publisher": "-",
+"publisher_roman": "",
+"place": "Colombo",
+"year": "1968",
+"period": "1947–1990 (Post-independence)",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "x + 74",
+"notes": "",
+"subjects": "இந்து சமயம்",
+"access": "open",
+"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"download_url": "http://noolaham.net/project/20/1998/1998.pdf",
+"buy_url": "",
+"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"copies": [
+{
+"read": "https://noolaham.org/wiki/index.php/%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"pdf": "http://noolaham.net/project/781/78073/78073.pdf"
+}
+],
+"other_source_urls": [
+"https://noolaham.org/wiki/index.php/%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"https://openlibrary.org/works/OL6548191W"
+],
+"sources": [
+"Noolaham",
+"Open Library"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-29"
+},
+{
 "id": "TB-006206",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -138229,8 +138277,8 @@
 ],
 "other_source_urls": [
 "https://bvbr.bib-bvb.de:443/F?func=service&doc_library=BVB01&local_base=BVB01&doc_number=027614751&sequence=000001&line_number=0001&func_code=DB_RECORDS&service_type=MEDIA",
-"https://openlibrary.org/works/OL21087579W",
-"https://archive.org/details/noboru-karashima-a-concise-history-of-south-india-issues-and-interpretations-201"
+"https://archive.org/details/noboru-karashima-a-concise-history-of-south-india-issues-and-interpretations-201",
+"https://openlibrary.org/works/OL21087579W"
 ],
 "sources": [
 "Curated",
@@ -139909,54 +139957,6 @@
 "other_source_urls": [],
 "sources": [
 "Noolaham"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
-"id": "TB-009093",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "ஶ்ரீ முன்னேஸ்வர வரலாறு",
-"title_ta": "ஶ்ரீ முன்னேஸ்வர வரலாறு",
-"title_en": "Śrī Munnēsvara varalāru",
-"title_en_note": "",
-"alt_title": "",
-"authors": "[[:பகுப்பு:பத்மநாபன், ச.",
-"authors_roman": "[[:Pakuppu:Patmanāpaṉ, Ca.",
-"publisher": "[[:பகுப்பு:ஶ்ரீ முன்னேஸ்வரம் தேவஸ்தானம்",
-"publisher_roman": "[[:Pakuppu:Śrī Muṉṉēsvaram Tēvastāṉam",
-"place": "Colombo",
-"year": "2017",
-"period": "2011–2026 (Recent)",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "118",
-"notes": "",
-"subjects": "கோயில் மலர்",
-"access": "open",
-"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"download_url": "http://noolaham.net/project/781/78073/78073.pdf",
-"buy_url": "",
-"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"copies": [
-{
-"read": "https://noolaham.org/wiki/index.php/%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"pdf": "http://noolaham.net/project/20/1998/1998.pdf"
-}
-],
-"other_source_urls": [
-"https://noolaham.org/wiki/index.php/%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"https://openlibrary.org/works/OL6548191W"
-],
-"sources": [
-"Noolaham",
-"Open Library"
 ],
 "curated": false,
 "scholar": "",
@@ -149481,25 +149481,13 @@
 "subjects": "",
 "access": "open",
 "read_url": "https://babel.hathitrust.org/cgi/pt?id=coo1.ark:/13960/t3hx1xb4j",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/On_the_ancient_coins_and_measures_of_Ceylon_-_with_a_discussion_of_the_Ceylon_date_of_the_Buddha%27s_death_%28IA_onancientcoinsme00davirich%29.pdf",
+"download_url": "",
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/100771718",
-"copies": [
-{
-"read": "https://babel.hathitrust.org/cgi/pt?id=coo1.ark:/13960/t3hx1xb4j",
-"pdf": ""
-},
-{
-"read": "https://commons.wikimedia.org/wiki/File%3AOn_the_ancient_coins_and_measures_of_Ceylon_-_with_a_discussion_of_the_Ceylon_date_of_the_Buddha%27s_death_%28IA_onancientcoinsme00davirich%29.pdf",
-"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/On_the_ancient_coins_and_measures_of_Ceylon_-_with_a_discussion_of_the_Ceylon_date_of_the_Buddha%27s_death_%28IA_onancientcoinsme00davirich%29.pdf"
-}
-],
-"other_source_urls": [
-"https://commons.wikimedia.org/wiki/File%3AOn_the_ancient_coins_and_measures_of_Ceylon_-_with_a_discussion_of_the_Ceylon_date_of_the_Buddha%27s_death_%28IA_onancientcoinsme00davirich%29.pdf"
-],
+"copies": [],
+"other_source_urls": [],
 "sources": [
-"HathiTrust",
-"Wikimedia Commons"
+"HathiTrust"
 ],
 "curated": false,
 "scholar": "",
@@ -150216,15 +150204,23 @@
 "pages": "",
 "notes": "",
 "subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
+"access": "open",
+"read_url": "https://commons.wikimedia.org/wiki/File%3AOn_the_ancient_coins_and_measures_of_Ceylon_-_with_a_discussion_of_the_Ceylon_date_of_the_Buddha%27s_death_%28IA_onancientcoinsme00davirich%29.pdf",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/On_the_ancient_coins_and_measures_of_Ceylon_-_with_a_discussion_of_the_Ceylon_date_of_the_Buddha%27s_death_%28IA_onancientcoinsme00davirich%29.pdf",
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/100722536",
-"copies": [],
-"other_source_urls": [],
+"copies": [
+{
+"read": "",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/On_the_ancient_coins_and_measures_of_Ceylon_-_with_a_discussion_of_the_Ceylon_date_of_the_Buddha%27s_death_%28IA_onancientcoinsme00davirich%29.pdf"
+}
+],
+"other_source_urls": [
+"https://commons.wikimedia.org/wiki/File%3AOn_the_ancient_coins_and_measures_of_Ceylon_-_with_a_discussion_of_the_Ceylon_date_of_the_Buddha%27s_death_%28IA_onancientcoinsme00davirich%29.pdf"
+],
 "sources": [
-"HathiTrust"
+"HathiTrust",
+"Wikimedia Commons"
 ],
 "curated": false,
 "scholar": "",
@@ -154841,10 +154837,6 @@
 "source_url": "http://hdl.handle.net/2027/umn.31951d00194440i",
 "copies": [
 {
-"read": "https://tufs.repo.nii.ac.jp/records/28420",
-"pdf": ""
-},
-{
 "read": "https://babel.hathitrust.org/cgi/pt?id=umn.31951d00194440i",
 "pdf": ""
 },
@@ -155807,8 +155799,8 @@
 "pages": "",
 "notes": "",
 "subjects": "Government (linguistics); Persian; Index (typography); History; Ancient history; Political science; Classics; Media studies; Economic history; Library science",
-"access": "open",
-"read_url": "https://tufs.repo.nii.ac.jp/records/29500",
+"access": "catalogue",
+"read_url": "",
 "download_url": "",
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/103334347",
@@ -156413,8 +156405,8 @@
 "pages": "",
 "notes": "",
 "subjects": "Islam; Government (linguistics); Ancient history; Library science; History; Geography; Classics; Archaeology; Computer science; Philosophy",
-"access": "open",
-"read_url": "https://tufs.repo.nii.ac.jp/records/28407",
+"access": "catalogue",
+"read_url": "",
 "download_url": "",
 "buy_url": "",
 "source_url": "https://ci.nii.ac.jp/ncid/BA68864661",
@@ -158556,8 +158548,8 @@
 "pages": "",
 "notes": "",
 "subjects": "Tamil; Art; History; Philosophy; Linguistics",
-"access": "open",
-"read_url": "https://tufs.repo.nii.ac.jp/records/32623",
+"access": "catalogue",
+"read_url": "",
 "download_url": "",
 "buy_url": "",
 "source_url": "https://tufs.repo.nii.ac.jp/records/32622",
@@ -159045,10 +159037,6 @@
 "copies": [
 {
 "read": "https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU7l0ty",
-"pdf": ""
-},
-{
-"read": "https://tufs.repo.nii.ac.jp/records/28395",
 "pdf": ""
 }
 ],
@@ -165564,34 +165552,34 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-004236",
+"id": "TB-001427",
 "category": "REF",
 "category_name": "Reference: Catalogues, Lists & Glossaries",
 "category_name_ta": "பட்டியல்கள், சொல்லகராதிகள்",
-"title": "A topographical list of the inscriptions of the Madras Presidency, collected till 1915 : with notes and references / by V. Rangacharya — v.1",
+"title": "A topographical list of the inscriptions of the Madras Presidency, collected till 1915",
 "title_ta": "",
-"title_en": "A topographical list of the inscriptions of the Madras Presidency, collected till 1915 : with notes and references / by V. Rangacharya — v.1",
+"title_en": "A topographical list of the inscriptions of the Madras Presidency, collected till 1915",
 "title_en_note": "",
 "alt_title": "",
-"authors": "Rangacharya, V",
+"authors": "V. Rangacharya",
 "authors_roman": "",
-"publisher": "Govt. Press",
+"publisher": "Supt., Govt. Press; Asian Educational Services",
 "publisher_roman": "",
-"place": "Supt.",
+"place": "Madras; New Delhi",
 "year": "1919",
 "period": "1900–1946 (Colonial, late)",
 "language": "English",
 "type": "Book",
-"series": "v.1",
+"series": "",
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "History; Archaeology; Geography; Period (music); Cartography; Feature (linguistics); Ancient history; Legibility; Visual arts; Line drawings",
+"subjects": "Sources; History; Inscriptions",
 "access": "open-us",
 "read_url": "https://babel.hathitrust.org/cgi/pt?id=uiug.30112078626733",
 "download_url": "",
 "buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/101683630",
+"source_url": "https://openlibrary.org/works/OL1771999W",
 "copies": [
 {
 "read": "https://babel.hathitrust.org/cgi/pt?id=uiug.30112078626576",
@@ -165603,13 +165591,13 @@
 }
 ],
 "other_source_urls": [
-"https://tufs.repo.nii.ac.jp/records/29025",
-"https://openlibrary.org/works/OL1771999W"
+"https://catalog.hathitrust.org/Record/101683630",
+"https://tufs.repo.nii.ac.jp/records/29025"
 ],
 "sources": [
+"Open Library",
 "HathiTrust",
-"OpenAlex",
-"Open Library"
+"OpenAlex"
 ],
 "curated": false,
 "scholar": "V. Rangacharya",
