@@ -120059,7 +120059,7 @@
 "access": "open",
 "read_url": "https://archive.org/details/in.ernet.dli.2015.181414",
 "download_url": "https://archive.org/download/in.ernet.dli.2015.181414/2015.181414.The-Indian-Antiquary--Vol-9-1880.pdf",
-"collection": "digitallibraryindia; JaiGyan; fav-d_sandhu; fav-parjanya",
+"collection": "digitallibraryindia; JaiGyan; fav-parjanya; fav-d_sandhu",
 "description": "Book Source: Digital Library of India Item 2015.181414 dc.contributor.author: Burgess, Jas, Ed. dc.date.accessioned: 2015-07-07T14:32:14Z dc.date.available: 2015-07-07T14:32:14Z dc.date.digitalpublicationdate: 2007-03-19 dc.date.citation: 1880 dc.identifier.barcode: 4990010104712 dc.identifier.origpath: /rawdataupload/upload/0104/714 dc.identifier.copyno: 1 dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/181414 dc.description.scanningcentre: C-DAK, Kolkata dc.description.main: 1 dc.description.tagged: 0 dc.description.totalpages: 408 dc.format.mimetype: application/pdf dc.language.i",
 "enriched": true
 },

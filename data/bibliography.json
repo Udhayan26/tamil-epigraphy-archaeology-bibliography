@@ -1,18 +1,18 @@
 {
-"generated": "2026-11-23",
-"count": 4693,
-"with_author": 3183,
-"with_publisher": 2907,
-"with_year": 3269,
-"open_access": 2856,
-"with_download": 2388,
+"generated": "2026-11-24",
+"count": 4696,
+"with_author": 3187,
+"with_publisher": 2908,
+"with_year": 3272,
+"open_access": 2853,
+"with_download": 2387,
 "heritage_records": 4263,
 "with_buy": 0,
 "access": {
-"open": 2856,
-"catalogue": 1643,
+"open": 2853,
+"catalogue": 1648,
 "": 49,
-"open-us": 101,
+"open-us": 102,
 "borrow": 44
 },
 "sources": {
@@ -20,7 +20,7 @@
 "Noolaham": 194,
 "Open Library": 1236,
 "Curated": 207,
-"OpenAlex": 352,
+"OpenAlex": 355,
 "HathiTrust": 1229,
 "Wikimedia Commons": 225,
 "Tamil Wikisource": 106,
@@ -92,7 +92,7 @@
 "HIS": {
 "en": "Tamil History: General, Society & Economy",
 "ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"count": 1117
+"count": 1120
 },
 "NUM": {
 "en": "Numismatics (Coins)",
@@ -3261,8 +3261,8 @@
 "pages": "",
 "notes": "",
 "subjects": "Tamil; Epigraphy; Realm; Computer science; Unit (ring theory); Geography; Mathematics; Archaeology; Linguistics; Humanities",
-"access": "open",
-"read_url": "https://doi.org/10.26524/royal.139",
+"access": "catalogue",
+"read_url": "",
 "download_url": "",
 "buy_url": "",
 "source_url": "https://doi.org/10.26524/royal.139",
@@ -31771,8 +31771,8 @@
 "other_source_urls": [
 "https://archive.org/details/elementssouthin05burngoog",
 "https://archive.org/details/elementssouthin06burngoog",
-"http://ci.nii.ac.jp/ncid/BA57095689",
-"https://doi.org/10.1017/cbo9781139192187"
+"https://doi.org/10.1017/cbo9781139192187",
+"http://ci.nii.ac.jp/ncid/BA57095689"
 ],
 "sources": [
 "Internet Archive",
@@ -32928,15 +32928,11 @@
 "notes": "",
 "subjects": "Inscriptions; History; Kings and rulers; Genealogy; Sources",
 "access": "open",
-"read_url": "https://tufs.repo.nii.ac.jp/records/46246",
+"read_url": "https://archive.org/details/in.ernet.dli.2015.277064",
 "download_url": "https://archive.org/download/in.ernet.dli.2015.206655/2015.206655.The-Historical.pdf",
 "buy_url": "",
 "source_url": "https://openlibrary.org/works/OL1052860W",
 "copies": [
-{
-"read": "https://tufs.repo.nii.ac.jp/records/46246",
-"pdf": ""
-},
 {
 "read": "https://archive.org/details/in.ernet.dli.2015.277064",
 "pdf": ""
@@ -32948,6 +32944,14 @@
 {
 "read": "https://archive.org/details/in.ernet.dli.2015.277064",
 "pdf": "https://archive.org/download/in.ernet.dli.2015.277064/2015.277064.782_W_O.pdf"
+},
+{
+"read": "",
+"pdf": "https://archive.org/download/in.ernet.dli.2015.206655/2015.206655.The-Historical.pdf"
+},
+{
+"read": "https://tufs.repo.nii.ac.jp/records/46246",
+"pdf": ""
 }
 ],
 "other_source_urls": [
@@ -42059,8 +42063,8 @@
 "pages": "",
 "notes": "",
 "subjects": "Tamil; History; Ancient history; Geography; Art; Classics; Ethnology; Archaeomagnetic dating; Period (music); Duration (music)",
-"access": "open",
-"read_url": "https://tufs.repo.nii.ac.jp/records/39413",
+"access": "catalogue",
+"read_url": "",
 "download_url": "",
 "buy_url": "",
 "source_url": "https://tufs.repo.nii.ac.jp/records/39412",
@@ -49387,14 +49391,14 @@
 "source_url": "https://iberlibro.com/9780674012271/Early-Tamil-Epigraphy-Earlist-Times-0674012275/plp",
 "copies": [],
 "other_source_urls": [
+"https://openlibrary.org/works/OL6791052W",
 "https://catalog.hathitrust.org/Record/003868649",
-"https://openlibrary.org/works/OL6791053W",
-"https://openlibrary.org/works/OL6791052W"
+"https://openlibrary.org/works/OL6791053W"
 ],
 "sources": [
 "Curated",
-"HathiTrust",
-"Open Library"
+"Open Library",
+"HathiTrust"
 ],
 "curated": true,
 "scholar": "Iravatham Mahadevan",
@@ -61009,7 +61013,7 @@
 "subjects": "Pottery; Megalith; Archaeology; Geography; Ancient history; Art; History",
 "access": "open",
 "read_url": "https://doi.org/10.5281/zenodo.439667",
-"download_url": "https://doi.org/10.5281/zenodo.439667",
+"download_url": "",
 "buy_url": "",
 "source_url": "https://doi.org/10.5281/zenodo.439667",
 "copies": [],
@@ -68156,7 +68160,7 @@
 "language": "Sin",
 "type": "Book",
 "series": "",
-"isbn": "9789552023972; 9552023971",
+"isbn": "9552023971; 9789552023972",
 "pages": "",
 "notes": "",
 "subjects": "Dictionaries; Tamil; Antiquities; Sinhalese language; Monuments",
@@ -69407,7 +69411,7 @@
 "subjects": "Zoning; Subdivision; Code (set theory); Geography; Cartography; Database; Computer science; Archaeology; Engineering; Programming language",
 "access": "open",
 "read_url": "http://hdl.handle.net/1794/2989",
-"download_url": "http://hdl.handle.net/1794/2989",
+"download_url": "",
 "buy_url": "",
 "source_url": "http://hdl.handle.net/1794/2989",
 "copies": [],
@@ -86864,45 +86868,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-011018",
-"category": "DYN",
-"category_name": "Tamil Dynasties & Political History",
-"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
-"title": "Chola in a Choke Hold: Reimagining Indigenous Futures Through Bolivian Lucha Libre",
-"title_ta": "",
-"title_en": "Chola in a Choke Hold: Reimagining Indigenous Futures Through Bolivian Lucha Libre",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Nell Haynes",
-"authors_roman": "",
-"publisher": "University of Pennsylvania Press",
-"publisher_roman": "",
-"place": "",
-"year": "2026",
-"period": "2011–2026 (Recent)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "Indigenous; Political science; Economy; Government (linguistics); Politics; Futures contract; Political economy; Choke; Economic growth; Context (archaeology)",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://doi.org/10.9783/9781512830699",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"OpenAlex"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-11-20"
-},
-{
 "id": "TB-004141",
 "category": "DYN",
 "category_name": "Tamil Dynasties & Political History",
@@ -87026,6 +86991,45 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-20"
+},
+{
+"id": "TB-011018",
+"category": "DYN",
+"category_name": "Tamil Dynasties & Political History",
+"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
+"title": "Chola in a Choke Hold: Reimagining Indigenous Futures Through Bolivian Lucha Libre",
+"title_ta": "",
+"title_en": "Chola in a Choke Hold: Reimagining Indigenous Futures Through Bolivian Lucha Libre",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Nell Haynes",
+"authors_roman": "",
+"publisher": "University of Pennsylvania Press",
+"publisher_roman": "",
+"place": "",
+"year": "2027",
+"period": "2011–2026 (Recent)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Indigenous; Political science; Economy; Government (linguistics); Politics; Futures contract; Political economy; Choke; Economic growth; Context (archaeology)",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://doi.org/10.9783/9781512830699",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-20"
 },
 {
 "id": "TB-008289",
@@ -105075,7 +105079,7 @@
 "read_url": "https://www.biodiversitylibrary.org/itempdf/117451",
 "download_url": "https://www.biodiversitylibrary.org/itempdf/117451",
 "buy_url": "",
-"source_url": "https://doi.org/10.5962/bhl.title.34423",
+"source_url": "https://doi.org/10.5962/bhl.title.95404",
 "copies": [],
 "other_source_urls": [],
 "sources": [
@@ -120647,9 +120651,9 @@
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
 "category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Serangoon Road : a pictorial history = Cirāṅkūn Cālai : cittira varalāru",
+"title": "Serangoon Road : a pictorial history = Cirāṅkūn̲ Cālai : cittira varalār̲u",
 "title_ta": "",
-"title_en": "Serangoon Road : a pictorial history = Cirāṅkūn Cālai : cittira varalāru",
+"title_en": "Serangoon Road : a pictorial history = Cirāṅkūn̲ Cālai : cittira varalār̲u",
 "title_en_note": "",
 "alt_title": "",
 "authors": "Sharon Siddique; Nirmala Srirekam Purushotam; N. Pakirisamy; P. Hameem Mustafa",
@@ -126793,8 +126797,8 @@
 "notes": "",
 "subjects": "Ceylon; Buddhism; History; Ancient history; Traditional medicine; Medicine; Archaeology",
 "access": "open",
-"read_url": "https://zenodo.org/record/5636804",
-"download_url": "",
+"read_url": "https://zenodo.org/records/5636804/files/von%20Hinu%CC%88ber%201996.pdf",
+"download_url": "https://zenodo.org/records/5636804/files/von%20Hinu%CC%88ber%201996.pdf",
 "buy_url": "",
 "source_url": "https://doi.org/10.1515/9783110814989",
 "copies": [],
@@ -134118,13 +134122,52 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-010838",
+"id": "TB-011041",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
 "category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Declining Sri Lanka",
+"title": "Declining Sri Lanka: Terrorism and Ethnic Conflict: the legacy of J R Jayewardene (1906–1996)",
 "title_ta": "",
-"title_en": "Declining Sri Lanka",
+"title_en": "Declining Sri Lanka: Terrorism and Ethnic Conflict: the legacy of J R Jayewardene (1906–1996)",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Rajiva Wijesinha",
+"authors_roman": "",
+"publisher": "",
+"publisher_roman": "",
+"place": "",
+"year": "2007",
+"period": "1991–2010",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Tamil; Terrorism; Political science; Sri lanka; Context (archaeology); Government (linguistics); Ethnic group; Politics; Ethnic conflict; Development economics",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://www.cambridge.org/core/books/declining-sri-lanka/0A02A1990F270E2AC96B55D216B4090A",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-24"
+},
+{
+"id": "TB-011042",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "Declining Sri Lanka: Terrorism and Ethnic Conlict, the Legacy of J. R. Jayewardene",
+"title_ta": "",
+"title_en": "Declining Sri Lanka: Terrorism and Ethnic Conlict, the Legacy of J. R. Jayewardene",
 "title_en_note": "",
 "alt_title": "",
 "authors": "Rajiva Wijesinha",
@@ -134147,16 +134190,14 @@
 "buy_url": "",
 "source_url": "https://doi.org/10.1017/upo9788175968332",
 "copies": [],
-"other_source_urls": [
-"https://www.cambridge.org/core/books/declining-sri-lanka/0A02A1990F270E2AC96B55D216B4090A"
-],
+"other_source_urls": [],
 "sources": [
 "OpenAlex"
 ],
 "curated": false,
 "scholar": "",
 "from_list": false,
-"added": "2026-10-30"
+"added": "2026-11-24"
 },
 {
 "id": "TB-003897",
@@ -137010,7 +137051,7 @@
 "title_en": "The Sri Lanka Reader: History, Culture, Politics",
 "title_en_note": "",
 "alt_title": "",
-"authors": "",
+"authors": "John Clifford Holt",
 "authors_roman": "",
 "publisher": "Duke University Press",
 "publisher_roman": "",
@@ -137828,6 +137869,45 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-29"
+},
+{
+"id": "TB-011043",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "Buddhism among Tamils in Tamilakam and Īlam : Part 3 - Extension and Conclusions",
+"title_ta": "",
+"title_en": "Buddhism among Tamils in Tamilakam and Īlam : Part 3 - Extension and Conclusions",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Peter Schalk; Astrid van Nahl",
+"authors_roman": "",
+"publisher": "",
+"publisher_roman": "",
+"place": "",
+"year": "2013",
+"period": "2011–2026 (Recent)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Buddhism; Extension (predicate logic); Colonialism; Ancient history; Political science; History; Philosophy; Theology; Law; Computer science",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "http://uu.diva-portal.org/smash/get/diva2:604163/FULLTEXT01",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-24"
 },
 {
 "id": "TB-011027",
@@ -141878,8 +141958,8 @@
 "notes": "",
 "subjects": "Ceylon; Colonialism; Ancient history; History; South asia; Archaeology",
 "access": "open",
-"read_url": "https://doi.org/10.13173/9783447118477",
-"download_url": "https://doi.org/10.13173/9783447118477",
+"read_url": "http://dx.doi.org/10.13173/9783447118477",
+"download_url": "",
 "buy_url": "",
 "source_url": "https://doi.org/10.13173/9783447118477",
 "copies": [],
@@ -142566,13 +142646,52 @@
 "added": "2026-10-29"
 },
 {
+"id": "TB-011044",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "The Basel Mission between Switzerland, Germany and South India: Entangled Histories from Conversion to Commerce",
+"title_ta": "",
+"title_en": "The Basel Mission between Switzerland, Germany and South India: Entangled Histories from Conversion to Commerce",
+"title_en_note": "",
+"alt_title": "",
+"authors": "(:unkn) unknown",
+"authors_roman": "",
+"publisher": "Leuven University Press",
+"publisher_roman": "",
+"place": "",
+"year": "2026",
+"period": "2011–2026 (Recent)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Pietism; German; Economy; Political science; World history; Sociology; Economic history; Media studies; History of science; History",
+"access": "open",
+"read_url": "https://scholarlypublications.universiteitleiden.nl/download/1887/4295992/1?col=81522198850002711",
+"download_url": "https://scholarlypublications.universiteitleiden.nl/download/1887/4295992/1?col=81522198850002711",
+"buy_url": "",
+"source_url": "https://doi.org/10.24415/9789087284954",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-24"
+},
+{
 "id": "TB-010890",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
 "category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "THE FORGOTTEN GEMS OF AASEEVAGAM & RELATED QUESTIONS ஆசவகத தன மறக கப பட ட ரத தனங கள மற றம ததடர படடய ககள வகள",
-"title_ta": "THE FORGOTTEN GEMS OF AASEEVAGAM & RELATED QUESTIONS ஆசவகத தன மறக கப பட ட ரத தனங கள மற றம ததடர படடய ககள வகள",
-"title_en": "THE FORGOTTEN GEMS OF AASEEVAGAM & RELATED QUESTIONS Ācavakata Taṉa Maṟaka Kapa Paṭa Ṭa Rata Taṉaṅa Kaḷa Maṟa Ṟama Tataṭara Paṭaṭaya Kakaḷa Vakaḷa",
+"title": "THE FORGOTTEN GEMS OF AASEEVAGAM & RELATED QUESTIONS ஆசிவகத் தின் மறக் கப் பட் ட ரத் தினங் கள் மற் றும் ததொடர் புடடய ககள் விகள்",
+"title_ta": "THE FORGOTTEN GEMS OF AASEEVAGAM & RELATED QUESTIONS ஆசிவகத் தின் மறக் கப் பட் ட ரத் தினங் கள் மற் றும் ததொடர் புடடய ககள் விகள்",
+"title_en": "THE FORGOTTEN GEMS OF AASEEVAGAM & RELATED QUESTIONS Ācivakat Tiṉ Maṟak Kap Paṭ Ṭa Rat Tiṉaṅ Kaḷ Maṟ Ṟum Tatoṭar Puṭaṭaya Kakaḷ Vikaḷ",
 "title_en_note": "romanised from Tamil",
 "alt_title": "",
 "authors": "Krisna Gopi",
@@ -149362,13 +149481,25 @@
 "subjects": "",
 "access": "open",
 "read_url": "https://babel.hathitrust.org/cgi/pt?id=coo1.ark:/13960/t3hx1xb4j",
-"download_url": "",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/On_the_ancient_coins_and_measures_of_Ceylon_-_with_a_discussion_of_the_Ceylon_date_of_the_Buddha%27s_death_%28IA_onancientcoinsme00davirich%29.pdf",
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/100771718",
-"copies": [],
-"other_source_urls": [],
+"copies": [
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=coo1.ark:/13960/t3hx1xb4j",
+"pdf": ""
+},
+{
+"read": "https://commons.wikimedia.org/wiki/File%3AOn_the_ancient_coins_and_measures_of_Ceylon_-_with_a_discussion_of_the_Ceylon_date_of_the_Buddha%27s_death_%28IA_onancientcoinsme00davirich%29.pdf",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/On_the_ancient_coins_and_measures_of_Ceylon_-_with_a_discussion_of_the_Ceylon_date_of_the_Buddha%27s_death_%28IA_onancientcoinsme00davirich%29.pdf"
+}
+],
+"other_source_urls": [
+"https://commons.wikimedia.org/wiki/File%3AOn_the_ancient_coins_and_measures_of_Ceylon_-_with_a_discussion_of_the_Ceylon_date_of_the_Buddha%27s_death_%28IA_onancientcoinsme00davirich%29.pdf"
+],
 "sources": [
-"HathiTrust"
+"HathiTrust",
+"Wikimedia Commons"
 ],
 "curated": false,
 "scholar": "",
@@ -150085,23 +150216,15 @@
 "pages": "",
 "notes": "",
 "subjects": "",
-"access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3AOn_the_ancient_coins_and_measures_of_Ceylon_-_with_a_discussion_of_the_Ceylon_date_of_the_Buddha%27s_death_%28IA_onancientcoinsme00davirich%29.pdf",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/On_the_ancient_coins_and_measures_of_Ceylon_-_with_a_discussion_of_the_Ceylon_date_of_the_Buddha%27s_death_%28IA_onancientcoinsme00davirich%29.pdf",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/100722536",
-"copies": [
-{
-"read": "",
-"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/On_the_ancient_coins_and_measures_of_Ceylon_-_with_a_discussion_of_the_Ceylon_date_of_the_Buddha%27s_death_%28IA_onancientcoinsme00davirich%29.pdf"
-}
-],
-"other_source_urls": [
-"https://commons.wikimedia.org/wiki/File%3AOn_the_ancient_coins_and_measures_of_Ceylon_-_with_a_discussion_of_the_Ceylon_date_of_the_Buddha%27s_death_%28IA_onancientcoinsme00davirich%29.pdf"
-],
+"copies": [],
+"other_source_urls": [],
 "sources": [
-"HathiTrust",
-"Wikimedia Commons"
+"HathiTrust"
 ],
 "curated": false,
 "scholar": "",
@@ -165464,16 +165587,12 @@
 "pages": "",
 "notes": "",
 "subjects": "History; Archaeology; Geography; Period (music); Cartography; Feature (linguistics); Ancient history; Legibility; Visual arts; Line drawings",
-"access": "open",
-"read_url": "https://tufs.repo.nii.ac.jp/records/29028",
+"access": "open-us",
+"read_url": "https://babel.hathitrust.org/cgi/pt?id=uiug.30112078626733",
 "download_url": "",
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/101683630",
 "copies": [
-{
-"read": "https://babel.hathitrust.org/cgi/pt?id=uiug.30112078626733",
-"pdf": ""
-},
 {
 "read": "https://babel.hathitrust.org/cgi/pt?id=uiug.30112078626576",
 "pdf": ""
@@ -166777,11 +166896,11 @@
 "source_url": "https://archive.org/details/travancoreinscri00rvas",
 "copies": [
 {
-"read": "https://tufs.repo.nii.ac.jp/records/48401",
+"read": "https://archive.org/details/travancoreinscri00rvas",
 "pdf": ""
 },
 {
-"read": "https://archive.org/details/travancoreinscri00rvas",
+"read": "https://tufs.repo.nii.ac.jp/records/48401",
 "pdf": ""
 }
 ],
@@ -167387,13 +167506,13 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-010905",
+"id": "TB-011045",
 "category": "REF",
 "category_name": "Reference: Catalogues, Lists & Glossaries",
 "category_name_ta": "பட்டியல்கள், சொல்லகராதிகள்",
-"title": "Historical Dictionary of Sri Lanka",
+"title": "Historical Dictionary of Sri Lanka: 2015 edition",
 "title_ta": "",
-"title_en": "Historical Dictionary of Sri Lanka",
+"title_en": "Historical Dictionary of Sri Lanka: 2015 edition",
 "title_en_note": "",
 "alt_title": "",
 "authors": "Patrick J. Peebles",
@@ -167423,7 +167542,7 @@
 "curated": false,
 "scholar": "",
 "from_list": false,
-"added": "2026-10-30"
+"added": "2026-11-24"
 },
 {
 "id": "TB-010972",
@@ -167445,7 +167564,7 @@
 "language": "English",
 "type": "Book",
 "series": "",
-"isbn": "9781538106853; 9781538106860",
+"isbn": "9781282520325; 1538106868",
 "pages": "",
 "notes": "",
 "subjects": "History",
@@ -170082,8 +170201,8 @@
 "pdf": "https://archive.org/download/dli.calcutta.06227/H06008.pdf"
 },
 {
-"read": "https://zenodo.org/record/7241260",
-"pdf": ""
+"read": "https://zenodo.org/records/7241260/files/IA%2019%20(1890)%20OCR.pdf",
+"pdf": "https://zenodo.org/records/7241260/files/IA%2019%20(1890)%20OCR.pdf"
 },
 {
 "read": "https://en.wikisource.org/wiki/Index%3AThe_Indian_Antiquary_Vol_19.pdf",
@@ -175233,8 +175352,8 @@
 "pdf": "https://archive.org/download/indianantiquary1932vol.61_278_s/Indian%20Antiquary%20%201932%20vol.%2061.pdf"
 },
 {
-"read": "https://zenodo.org/record/3457372",
-"pdf": ""
+"read": "https://zenodo.org/records/3457372/files/IA%2061%201932.pdf",
+"pdf": "https://zenodo.org/records/3457372/files/IA%2061%201932.pdf"
 }
 ],
 "other_source_urls": [

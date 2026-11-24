@@ -320,7 +320,7 @@
 [ol] subject=Inscriptions: page 3 docs 1000
 [ol] subject=Inscriptions: page 4 docs 1000
 [ol] subject=Inscriptions: page 5 docs 1000
-[ol] subject=Tamil Nadu (India): page 1 docs 128
+[ol] subject=Tamil Nadu (India): page 1 docs 127
 [ol] subject=Excavations (Archaeology): page 1 docs 1000
 [ol] subject=Excavations (Archaeology): page 2 docs 1000
 [ol] subject=Excavations (Archaeology): page 3 docs 1000
@@ -329,7 +329,7 @@
 [ol] subject=Hero stones: page 1 docs 8
 [ol] subject=Memorial stones: page 1 docs 42
 [ol] subject=Rock paintings: page 1 docs 1000
-[ol] subject=Rock paintings: page 2 docs 714
+[ol] subject=Rock paintings: page 2 docs 713
 [ol] subject=Petroglyphs: page 1 docs 1000
 [ol] subject=Petroglyphs: page 2 docs 1000
 [ol] subject=Petroglyphs: page 3 docs 418
@@ -337,7 +337,7 @@
 [ol] subject=Brahmi inscriptions: page 1 docs 24
 [ol] subject=Coins, Tamil: page 1 docs 4
 [ol] subject=Megalithic monuments: page 1 docs 1000
-[ol] subject=Megalithic monuments: page 2 docs 320
+[ol] subject=Megalithic monuments: page 2 docs 318
 [ol] subject=Inscriptions, Dravidian: page 1 docs 2
 [ol] subject=Inscriptions: page 1 docs 1000
 [ol] subject=Inscriptions: page 2 docs 1000
@@ -652,5 +652,5 @@
 [ol] q=தமிழகப் பொருளாதார வரலாறு first_publish_year:[2024 TO 2026]: page 1 docs 0
 [ol] q=கடல் வணிகம் first_publish_year:[2024 TO 2026]: page 1 docs 0
 [ol] saved 1208 records
-[ol] took 798s
-total 798s
+[ol] took 2444s
+total 2444s
