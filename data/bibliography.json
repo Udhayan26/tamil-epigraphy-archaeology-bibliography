@@ -1,5 +1,5 @@
 {
-"generated": "2026-11-24",
+"generated": "2026-11-25",
 "count": 4696,
 "with_author": 3187,
 "with_publisher": 2908,
@@ -35181,7 +35181,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Addresses, essays, lectures; Inscriptions, Tamil; Jaina Temples; Jainism; Tamil Inscriptions; Temples, Jaina",
+"subjects": "Addresses, essays, lectures; Inscriptions, Tamil; Jainism; Tamil Inscriptions; Temples, Jaina; Jaina temples",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -38593,8 +38593,8 @@
 "other_source_urls": [
 "https://archive.org/details/tdl.10761-nuul-tnycaavuur-vttttk-klvettttukll-tokuti-1",
 "https://openlibrary.org/works/OL18670247W",
-"https://catalog.hathitrust.org/Record/005676050",
-"https://archive.org/details/digital.assets.thanjchaavuur_vaddak_kalveddukaL"
+"https://archive.org/details/digital.assets.thanjchaavuur_vaddak_kalveddukaL",
+"https://catalog.hathitrust.org/Record/005676050"
 ],
 "sources": [
 "Curated",
@@ -38864,7 +38864,7 @@
 "isbn": "",
 "pages": "",
 "notes": "Coimbatore Mavatta Kalvettugal Thogudi 1",
-"subjects": "Coimbatore; Kalvettugal",
+"subjects": "Tamil Inscriptions; Sources; History",
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10643-%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D%20%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%A4%E0%AF%8A%E0%AE%95%E0%AF%81%E0%AE%A4%E0%AE%BF%20-%201",
 "download_url": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_1.pdf",
@@ -38880,19 +38880,19 @@
 "pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_1.pdf"
 },
 {
-"read": "https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
-"pdf": "https://archive.org/download/coimbatore-mavatta-kalvettugal-thogudi-1/Coimbatore%20Mavatta%20Kalvettugal%20-%20Thogudi%201.pdf"
-},
-{
 "read": "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
 "pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D.pdf"
+},
+{
+"read": "https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
+"pdf": "https://archive.org/download/coimbatore-mavatta-kalvettugal-thogudi-1/Coimbatore%20Mavatta%20Kalvettugal%20-%20Thogudi%201.pdf"
 }
 ],
 "other_source_urls": [
 "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1",
-"https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
 "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
-"https://openlibrary.org/works/OL18734808W"
+"https://openlibrary.org/works/OL18734808W",
+"https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1"
 ],
 "sources": [
 "Curated",
@@ -49391,14 +49391,14 @@
 "source_url": "https://iberlibro.com/9780674012271/Early-Tamil-Epigraphy-Earlist-Times-0674012275/plp",
 "copies": [],
 "other_source_urls": [
+"https://openlibrary.org/works/OL6791052W",
 "https://catalog.hathitrust.org/Record/003868649",
-"https://openlibrary.org/works/OL6791053W",
-"https://openlibrary.org/works/OL6791052W"
+"https://openlibrary.org/works/OL6791053W"
 ],
 "sources": [
 "Curated",
-"HathiTrust",
-"Open Library"
+"Open Library",
+"HathiTrust"
 ],
 "curated": true,
 "scholar": "Iravatham Mahadevan",
@@ -65252,14 +65252,14 @@
 "source_url": "http://ci.nii.ac.jp/ncid/BA39561815",
 "copies": [],
 "other_source_urls": [
-"https://catalog.hathitrust.org/Record/000605403",
-"https://openlibrary.org/works/OL344117W"
+"https://openlibrary.org/works/OL344117W",
+"https://catalog.hathitrust.org/Record/000605403"
 ],
 "sources": [
 "Curated",
 "OpenAlex",
-"HathiTrust",
-"Open Library"
+"Open Library",
+"HathiTrust"
 ],
 "curated": true,
 "scholar": "S. R. Balasubrahmanyam",
@@ -121386,7 +121386,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Inscriptions; Jaina Temples; Religion; Temples, Jaina; Jaina temples",
+"subjects": "Inscriptions; Religion; Temples, Jaina; Jaina temples",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -126166,18 +126166,18 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-009559",
+"id": "TB-006292",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
 "category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "The Sri Lankan Tamils",
+"title": "The Sri Lankan Tamils : ethnicity and identity / edited by Chelvadurai Manogaran and Bryan Pfaffenberger",
 "title_ta": "",
-"title_en": "The Sri Lankan Tamils",
+"title_en": "The Sri Lankan Tamils : ethnicity and identity / edited by Chelvadurai Manogaran and Bryan Pfaffenberger",
 "title_en_note": "",
 "alt_title": "",
 "authors": "Chelvadurai Manogaran; Chelvadurai Manogaran; Bryan Pfaffenberger",
 "authors_roman": "",
-"publisher": "Taylor & Francis Group; Westview Press",
+"publisher": "Westview Press",
 "publisher_roman": "",
 "place": "Boulder",
 "year": "1994",
@@ -126185,22 +126185,22 @@
 "language": "English",
 "type": "Book",
 "series": "",
-"isbn": "9780813388458; 9780429315022",
+"isbn": "0813388457",
 "pages": "",
 "notes": "",
-"subjects": "Politics and government; Tamil (Indic people); Ethnic relations; History; Sri lanka, history; Sri lanka, ethnic relations; HISTORY; India & South Asia",
+"subjects": "Politics and government; Tamil (Indic people); Ethnic relations; History; Sri lanka, history; Sri lanka, ethnic relations; India & South Asia",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
 "buy_url": "",
-"source_url": "https://openlibrary.org/works/OL3458415W",
+"source_url": "https://catalog.hathitrust.org/Record/002902345",
 "copies": [],
 "other_source_urls": [
-"https://catalog.hathitrust.org/Record/002902345"
+"https://openlibrary.org/works/OL3458415W"
 ],
 "sources": [
-"Open Library",
-"HathiTrust"
+"HathiTrust",
+"Open Library"
 ],
 "curated": false,
 "scholar": "",
@@ -129177,52 +129177,6 @@
 "other_source_urls": [],
 "sources": [
 "Open Library"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
-"id": "TB-010419",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "ஈழத்தமிழர் வரலாறு",
-"title_ta": "ஈழத்தமிழர் வரலாறு",
-"title_en": "Īḻattamiḻar Varalāṟu",
-"title_en_note": "romanised from Tamil",
-"alt_title": "",
-"authors": "[[:பகுப்பு:வசந்தா நடராசன்",
-"authors_roman": "[[:Pakuppu:Vacantā Naṭarācaṉ",
-"publisher": "[[:பகுப்பு:வசந்தம் பதிப்பகம்",
-"publisher_roman": "[[:Pakuppu:Vacantam Patippakam",
-"place": "",
-"year": "1999",
-"period": "1991–2010",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "326",
-"notes": "",
-"subjects": "இலங்கை வரலாறு",
-"access": "open",
-"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"download_url": "http://noolaham.net/project/925/92433/92433.pdf",
-"buy_url": "",
-"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"copies": [
-{
-"read": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"pdf": ""
-}
-],
-"other_source_urls": [
-"https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81"
-],
-"sources": [
-"Noolaham"
 ],
 "curated": false,
 "scholar": "",
@@ -142393,6 +142347,56 @@
 "source_url": "https://noolaham.org/wiki/index.php/%E0%AE%85%E0%AE%B2%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%B0%E0%AF%8D_%E0%AE%AA%E0%AF%80%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AF%81%E0%AE%95%E0%AE%AE%E0%AE%A4%E0%AF%81_%E0%AE%B5%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
 "copies": [],
 "other_source_urls": [],
+"sources": [
+"Noolaham"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-29"
+},
+{
+"id": "TB-010419",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "ஈழத் தமிழர் வரலாறு",
+"title_ta": "ஈழத் தமிழர் வரலாறு",
+"title_en": "Īḻat Tamiḻar Varalāṟu",
+"title_en_note": "romanised from Tamil",
+"alt_title": "",
+"authors": "[[:பகுப்பு:வன்னியூர் செந்தூரன்",
+"authors_roman": "[[:Pakuppu:Vaṉṉiyūr Centūraṉ",
+"publisher": "[[:பகுப்பு:ஈழத்துக் கலை இலக்கியப் பேரவை",
+"publisher_roman": "[[:Pakuppu:Īḻattuk Kalai Ilakkiyap Pēravai",
+"place": "",
+"year": "2025",
+"period": "2011–2026 (Recent)",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "188",
+"notes": "",
+"subjects": "வரலாறு",
+"access": "open",
+"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"download_url": "http://noolaham.net/project/925/92433/92433.pdf",
+"buy_url": "",
+"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"copies": [
+{
+"read": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"pdf": ""
+},
+{
+"read": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"pdf": "http://noolaham.net/project/925/92433/92433.pdf"
+}
+],
+"other_source_urls": [
+"https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81"
+],
 "sources": [
 "Noolaham"
 ],
