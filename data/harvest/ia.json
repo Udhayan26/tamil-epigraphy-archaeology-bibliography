@@ -42346,7 +42346,7 @@
 "access": "open",
 "read_url": "https://archive.org/details/tamilnattuk-kalvettukal-xi",
 "download_url": "https://archive.org/download/tamilnattuk-kalvettukal-xi/Tamilnattuk%20Kalvettukal%20XI.pdf",
-"collection": "booksbylanguage_tamil; booksbylanguage; fav-rakku",
+"collection": "booksbylanguage_tamil; booksbylanguage; fav-manikandan_sakthivel244; fav-rakku",
 "description": "தமிழ்நாட்டுக் கல்வெட்டுகள் - 13: திருவண்ணாமலை மாவட்டக் கல்வெட்டுகள் - 2",
 "enriched": true
 },
@@ -95319,7 +95319,7 @@
 "access": "open",
 "read_url": "https://archive.org/details/tamilnattu-kalvettukal-vol-iv",
 "download_url": "https://archive.org/download/tamilnattu-kalvettukal-vol-iv/Tamilnattu%20Kalvettukal%20Vol%20IV.pdf",
-"collection": "booksbylanguage_tamil; booksbylanguage; fav-mohan31; fav-rakku; fav-saravana_nano",
+"collection": "booksbylanguage_tamil; booksbylanguage; fav-rakku; fav-saravana_nano; fav-mohan31; fav-manikandan_sakthivel244",
 "description": "Tamilnadu Archaeology Department",
 "enriched": true
 },
@@ -115100,7 +115100,7 @@
 "access": "open",
 "read_url": "https://archive.org/details/tdl.11166-travancore-archaeological-series-vol-iii-part-i-stone-and-copper-plate",
 "download_url": "https://archive.org/download/tdl.11166-travancore-archaeological-series-vol-iii-part-i-stone-and-copper-plate/TVA_BOK_0011166_Travancore_archaeological_series_vol-3_part-1.pdf",
-"collection": "TamilVirtualAcademy; JaiGyan",
+"collection": "TamilVirtualAcademy; JaiGyan; fav-manikandan_sakthivel244",
 "description": "Keywords: stone inscriptions, Tiruvallam, Parthivapuram, manalikkarai, copper plate, pandya inscriptions",
 "enriched": true
 },
