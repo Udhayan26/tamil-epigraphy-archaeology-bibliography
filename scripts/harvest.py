@@ -177,12 +177,13 @@ def fold(t):
 HIST_TA = re.compile(r"(வரலாறு|வரலாற்று|சோழர்|பாண்டியர்|பல்லவர்|சேரர்|களப்பிரர்|நாயக்கர்|சேதுபதி|தொண்டைமான்|பாளையக்கார|மெய்க்கீர்த்தி|சங்ககால|சங்க காலத்)")
 HIST_RO = re.compile(r"(?<![a-z])(varalar|varalaar|varalaru|meykkirtti|meikeerthi|colar |cholar |pantiyar|pandiyar|pallavar |cerar |kalappirar|nayakkar|cetupati|sethupathi|tontaiman|thondaiman)", re.I)
 HIST_EN = re.compile(r"(\btamils\b|histor|dynast|kingdom|\bcholas?\b|pandyas?|pandyan|pallavas?|cheras?\b|kalabhra|nayaks?\b|nayakas|sethupati|setupati|tondaiman|polygar|palayakkar|marathas? of tanjore|tamilakam|sangam age|gazetteer|district manual)", re.I)
-HIST_NOT = re.compile(r"(இதழியல்|italiyal|journalism|தொழிற்சங்க|trade union|fiction|criticism|textbook|text book|grade \d|தரம் \d|வினாவிடை|பாடநூல்|பாட நூல்|question|தன்வரலாறு|நாட்குறிப்பு|holocaust|diary|diaries|வாழ்க்கை வரலாறு|வாழ்க்கை|சுயசரிதை|இலக்கிய வரலாறு|இலக்கணம்|திரைப்பட|சினிமா|கட்சி|தேர்தல்|நாவல்|சிறுகதை|கவிதை|valkkai|vazhkai|cuyacaritai|ilakkiya varalaru|literature|literary|grammar|novel|poems?|poetry|cinema|film|party|election|movement|biography|autobiography|memoir|cricket|football|sports|music|dance|cookery|medicine|physics|chemistry|botany|zoology)", re.I)
+HIST_NOT = re.compile(r"(terroris|ethnic conflict|\bltte\b|insurgen|civil war|militan|missionar|\bmission\b|இதழியல்|italiyal|journalism|தொழிற்சங்க|trade union|fiction|criticism|textbook|text book|grade \d|தரம் \d|வினாவிடை|பாடநூல்|பாட நூல்|question|தன்வரலாறு|நாட்குறிப்பு|holocaust|diary|diaries|வாழ்க்கை வரலாறு|வாழ்க்கை|சுயசரிதை|இலக்கிய வரலாறு|இலக்கணம்|திரைப்பட|சினிமா|கட்சி|தேர்தல்|நாவல்|சிறுகதை|கவிதை|valkkai|vazhkai|cuyacaritai|ilakkiya varalaru|literature|literary|grammar|novel|poems?|poetry|cinema|film|party|election|movement|biography|autobiography|memoir|cricket|football|sports|music|dance|cookery|medicine|physics|chemistry|botany|zoology)", re.I)
 OTHER_SCRIPT = re.compile(r"[\u0C00-\u0D7F]")   # Telugu, Kannada, Malayalam
 
 
+MODERN_NOT = re.compile(r"(terroris|ethnic conflict|\bltte\b|insurgen|civil war|militan|missionar|\bmission\b)", re.I)
 DYN_NAME = re.compile(r"(\bcholas?\b|\bpandyas?\b|\bpandyan\b|\bpallavas?\b|\bcheras?\b|\bnayaks?\b|nayakas|kalabhra|sethupat|setupati|tondaiman|polygar)", re.I)
-HIST_WORD = re.compile(r"(histor|dynast|kingdom|empire|temple|inscri|epigraph|\bart\b|architect|sculpt|society|\brule|\bkings?\b|polity|\bage\b|period|country|capital|administration|coins?|bronze|township|history|varalar|vamsa)", re.I)
+HIST_WORD = re.compile(r"(south india|southern india|\bunder\b|chronolog|culture|civiliz|histor|dynast|kingdom|empire|temple|inscri|epigraph|\bart\b|architect|sculpt|society|\brule|\bkings?\b|polity|\bage\b|period|country|capital|administration|coins?|bronze|township|history|varalar|vamsa)", re.I)
 
 
 def relevant(title, subjects="", extra=""):
@@ -191,6 +192,8 @@ def relevant(title, subjects="", extra=""):
     blob = fold(f"{t} {s(subjects)} {s(extra)}")
     if SERIES.search(t):
         return True
+    if MODERN_NOT.search(t):
+        return False
     if OTHER_SCRIPT.search(t) and not TAMIL_SCRIPT.search(t):
         return False
     if re.search(r"(sasanamu|sasanagalu|shasanagalu|sasanalu)", t, re.I):

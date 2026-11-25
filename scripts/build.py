@@ -363,6 +363,32 @@ def fuzzy_merge(merged):
                     absorb(a, b)
                     gone.add(kb)
                     n += 1
+    # typo-level variants: same first author + same year, titles ≥ 92% alike
+    import difflib
+    by_ay = {}
+    for k, m in merged.items():
+        if k in gone or k.startswith("SERIES|") or m.get("is_journal"):
+            continue
+        sa = surname_key(m.get("authors"))
+        y = (m.get("year") or "")[:4]
+        if sa and re.match(r"\d{4}", y):
+            by_ay.setdefault((sa, y), []).append(k)
+    for ks in by_ay.values():
+        if len(ks) < 2 or len(ks) > 40:
+            continue
+        ks.sort(key=lambda k: richness(merged[k]), reverse=True)
+        for i, ka in enumerate(ks):
+            if ka in gone:
+                continue
+            for kb in ks[i + 1:]:
+                if kb in gone:
+                    continue
+                ta, tb = core_key(merged[ka]["titles"][0]), core_key(merged[kb]["titles"][0])
+                if len(ta) >= 12 and len(tb) >= 12 and difflib.SequenceMatcher(None, ta, tb).ratio() >= 0.92 \
+                        and vol_tokens(" ".join(merged[ka]["titles"])) == vol_tokens(" ".join(merged[kb]["titles"])):
+                    absorb(merged[ka], merged[kb])
+                    gone.add(kb)
+                    n += 1
     for k in gone:
         merged.pop(k, None)
     return n

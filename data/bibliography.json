@@ -1,27 +1,27 @@
 {
 "generated": "2026-11-25",
-"count": 4696,
-"with_author": 3187,
-"with_publisher": 2908,
-"with_year": 3272,
-"open_access": 2851,
-"with_download": 2387,
+"count": 4660,
+"with_author": 3151,
+"with_publisher": 2886,
+"with_year": 3236,
+"open_access": 2833,
+"with_download": 2372,
 "heritage_records": 4263,
 "with_buy": 0,
 "access": {
-"open": 2851,
-"catalogue": 1650,
-"": 49,
-"open-us": 102,
-"borrow": 44
+"open": 2833,
+"catalogue": 1638,
+"": 47,
+"open-us": 99,
+"borrow": 43
 },
 "sources": {
-"Internet Archive": 2336,
-"Noolaham": 194,
-"Open Library": 1236,
-"Curated": 207,
+"Internet Archive": 2321,
+"Noolaham": 193,
+"Open Library": 1233,
+"Curated": 206,
 "OpenAlex": 355,
-"HathiTrust": 1229,
+"HathiTrust": 1221,
 "Wikimedia Commons": 225,
 "Tamil Wikisource": 106,
 "Online text": 43,
@@ -37,17 +37,17 @@
 "ASI": {
 "en": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"count": 569
+"count": 568
 },
 "TNS": {
 "en": "Inscription Corpora: Tamil Nadu State, District & Temple",
 "ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
-"count": 317
+"count": 315
 },
 "CPP": {
 "en": "Copper Plates & Charters",
 "ta": "செப்பேடுகள், பட்டயங்கள்",
-"count": 84
+"count": 83
 },
 "TBR": {
 "en": "Tamil-Brahmi, Vatteluttu & Early Writing",
@@ -67,7 +67,7 @@
 "EXC": {
 "en": "Archaeology: Excavation Reports & Sites",
 "ta": "அகழாய்வு அறிக்கைகள்",
-"count": 94
+"count": 93
 },
 "PRE": {
 "en": "Archaeology: Prehistory & Megaliths",
@@ -77,22 +77,22 @@
 "ARC": {
 "en": "Archaeology: General, Surveys & Museums",
 "ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
-"count": 400
+"count": 396
 },
 "DYN": {
 "en": "Tamil Dynasties & Political History",
 "ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
-"count": 302
+"count": 312
 },
 "LOC": {
 "en": "Local, District & Temple History",
 "ta": "ஊர், மாவட்ட, கோயில் வரலாறு",
-"count": 340
+"count": 337
 },
 "HIS": {
 "en": "Tamil History: General, Society & Economy",
 "ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"count": 1120
+"count": 1095
 },
 "NUM": {
 "en": "Numismatics (Coins)",
@@ -102,7 +102,7 @@
 "PLM": {
 "en": "Palm-leaf Manuscripts & Manuscriptology",
 "ta": "ஓலைச்சுவடிகள், சுவடியியல்",
-"count": 250
+"count": 246
 },
 "SEA": {
 "en": "Seals, Rock-cut Caves & Jain Beds",
@@ -112,7 +112,7 @@
 "REF": {
 "en": "Reference: Catalogues, Lists & Glossaries",
 "ta": "பட்டியல்கள், சொல்லகராதிகள்",
-"count": 91
+"count": 86
 },
 "JOU": {
 "en": "Journals & Periodicals",
@@ -25853,45 +25853,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-000041",
-"category": "ASI",
-"category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
-"category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "South Indian Inscriptions: Inscriptions Collected during the Year 1912",
-"title_ta": "",
-"title_en": "South Indian Inscriptions: Inscriptions Collected during the Year 1912",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Archaeological Survey of India",
-"authors_roman": "",
-"publisher": "Archaeological Survey of India",
-"publisher_roman": "",
-"place": "Mysore",
-"year": "2019",
-"period": "2011–2026 (Recent)",
-"language": "English",
-"type": "Book",
-"series": "SII",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Curated"
-],
-"curated": true,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-000042",
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
@@ -32662,45 +32623,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-000498",
-"category": "TNS",
-"category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
-"category_name_ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
-"title": "Two statues of Palla kings and five Pallava inscriptions in a rock-temple at Mahabalipuram",
-"title_ta": "",
-"title_en": "Two statues of Palla kings and five Pallava inscriptions in a rock-temple at Mahabalipuram",
-"title_en_note": "",
-"alt_title": "",
-"authors": "H. Krishna Sastri",
-"authors_roman": "",
-"publisher": "Govt. of India, Central Publication Branch",
-"publisher_roman": "",
-"place": "Calcutta",
-"year": "1926",
-"period": "1900–1946 (Colonial, late)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "Pallavas; Inscriptions; Statues; Antiquities",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://openlibrary.org/works/OL1772525W",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Open Library"
-],
-"curated": false,
-"scholar": "H. Krishna Sastri",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-000499",
 "category": "TNS",
 "category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
@@ -32732,7 +32654,8 @@
 "copies": [],
 "other_source_urls": [
 "https://catalog.hathitrust.org/Record/103323595",
-"http://ci.nii.ac.jp/ncid/BA8885961X"
+"http://ci.nii.ac.jp/ncid/BA8885961X",
+"https://openlibrary.org/works/OL1772525W"
 ],
 "sources": [
 "Open Library",
@@ -32854,8 +32777,15 @@
 "download_url": "https://archive.org/download/dli.csl.6511/6511.pdf",
 "buy_url": "",
 "source_url": "https://archive.org/details/dli.csl.6511",
-"copies": [],
-"other_source_urls": [],
+"copies": [
+{
+"read": "https://archive.org/details/in.ernet.dli.2015.511995",
+"pdf": "https://archive.org/download/in.ernet.dli.2015.511995/2015.511995.The-Historical.pdf"
+}
+],
+"other_source_urls": [
+"https://archive.org/details/in.ernet.dli.2015.511995"
+],
 "sources": [
 "Internet Archive"
 ],
@@ -32967,45 +32897,6 @@
 ],
 "curated": false,
 "scholar": "Robert Sewell",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
-"id": "TB-000506",
-"category": "TNS",
-"category_name": "Inscription Corpora: Tamil Nadu State, District & Temple",
-"category_name_ta": "தமிழ்நாட்டுக் கல்வெட்டுத் தொகுதிகள்",
-"title": "The Historical Inscriptions Of Southern India And Outlins Of Polticl History",
-"title_ta": "",
-"title_en": "The Historical Inscriptions Of Southern India And Outlins Of Polticl History",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Sewell,robert",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "1932",
-"period": "1900–1946 (Colonial, late)",
-"language": "San",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "C-DAK",
-"access": "open",
-"read_url": "https://archive.org/details/in.ernet.dli.2015.511995",
-"download_url": "https://archive.org/download/in.ernet.dli.2015.511995/2015.511995.The-Historical.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/in.ernet.dli.2015.511995",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
 "from_list": false,
 "added": "2026-10-20"
 },
@@ -45506,45 +45397,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-002785",
-"category": "CPP",
-"category_name": "Copper Plates & Charters",
-"category_name_ta": "செப்பேடுகள், பட்டயங்கள்",
-"title": "Kaḷḷiyaṅkāṭṭuc ceppēṭukaḷ. The Kalliyankatu copper plates [1. patippu] — v.1 1970",
-"title_ta": "",
-"title_en": "Kaḷḷiyaṅkāṭṭuc ceppēṭukaḷ. The Kalliyankatu copper plates [1. patippu] — v.1 1970",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Gunasingam, Selladurai, 1943-",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "1970",
-"period": "1947–1990 (Post-independence)",
-"language": "Tamil",
-"type": "Book",
-"series": "v.1 1970",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/001006873",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-000809",
 "category": "CPP",
 "category_name": "Copper Plates & Charters",
@@ -57478,45 +57330,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-001096",
-"category": "EXC",
-"category_name": "Archaeology: Excavation Reports & Sites",
-"category_name_ta": "அகழாய்வு அறிக்கைகள்",
-"title": "Chief Minister's statement on Keezhadi and Adichanallur Excavations, Porunai Museum in Tirunelveli and undertaking studies with the help of Foreign Archaeologists",
-"title_ta": "",
-"title_en": "Chief Minister's statement on Keezhadi and Adichanallur Excavations, Porunai Museum in Tirunelveli and undertaking studies with the help of Foreign Archaeologists",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Tamil Nadu Legislative Assembly",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "2021",
-"period": "2011–2026 (Recent)",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "Document from Tamil Nadu Legislative Assembly Digital Archive",
-"subjects": "Tamil Nadu; Legislative Assembly; Government Documents",
-"access": "open",
-"read_url": "https://archive.org/details/TNLA-DB-16-2021-2-20-1-S-110_2021-09-09",
-"download_url": "https://archive.org/download/TNLA-DB-16-2021-2-20-1-S-110_2021-09-09/TNLA-DB-16-2021-2-20-1-S-110%282021-09-09%29.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/TNLA-DB-16-2021-2-20-1-S-110_2021-09-09",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-001097",
 "category": "EXC",
 "category_name": "Archaeology: Excavation Reports & Sites",
@@ -57545,8 +57358,15 @@
 "download_url": "https://archive.org/download/TNLA-DB-16-2021-2-20-1-MSC_2021-09-09/TNLA-DB-16-2021-2-20-1-MSC%282021-09-09%29.pdf",
 "buy_url": "",
 "source_url": "https://archive.org/details/TNLA-DB-16-2021-2-20-1-MSC_2021-09-09",
-"copies": [],
-"other_source_urls": [],
+"copies": [
+{
+"read": "https://archive.org/details/TNLA-DB-16-2021-2-20-1-S-110_2021-09-09",
+"pdf": "https://archive.org/download/TNLA-DB-16-2021-2-20-1-S-110_2021-09-09/TNLA-DB-16-2021-2-20-1-S-110%282021-09-09%29.pdf"
+}
+],
+"other_source_urls": [
+"https://archive.org/details/TNLA-DB-16-2021-2-20-1-S-110_2021-09-09"
+],
 "sources": [
 "Internet Archive"
 ],
@@ -61372,8 +61192,15 @@
 "download_url": "https://archive.org/download/biostor-280290/biostor-280290.pdf",
 "buy_url": "",
 "source_url": "https://archive.org/details/biostor-280290",
-"copies": [],
-"other_source_urls": [],
+"copies": [
+{
+"read": "https://archive.org/details/biostor-280298",
+"pdf": "https://archive.org/download/biostor-280298/biostor-280298.pdf"
+}
+],
+"other_source_urls": [
+"https://archive.org/details/biostor-280298"
+],
 "sources": [
 "Internet Archive"
 ],
@@ -61427,6 +61254,14 @@
 {
 "read": "https://commons.wikimedia.org/wiki/File%3AExamination_and_analysis_of_the_Mackenzie_manuscripts_deposited_in_the_Madras_College_Library_%28IA_dli.csl.4661%29.pdf",
 "pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/Examination_and_analysis_of_the_Mackenzie_manuscripts_deposited_in_the_Madras_College_Library_%28IA_dli.csl.4661%29.pdf"
+},
+{
+"read": "https://archive.org/details/biostor-280271",
+"pdf": "https://archive.org/download/biostor-280271/biostor-280271.pdf"
+},
+{
+"read": "https://archive.org/details/biostor-280277",
+"pdf": "https://archive.org/download/biostor-280277/biostor-280277.pdf"
 }
 ],
 "other_source_urls": [
@@ -61485,123 +61320,6 @@
 "other_source_urls": [],
 "sources": [
 "HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-28"
-},
-{
-"id": "TB-005587",
-"category": "ARC",
-"category_name": "Archaeology: General, Surveys & Museums",
-"category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
-"title": "I.—Examination and Analysis of the Mackenzie Manuscripts Deposited in the Madras College Library",
-"title_ta": "",
-"title_en": "I.—Examination and Analysis of the Mackenzie Manuscripts Deposited in the Madras College Library",
-"title_en_note": "",
-"alt_title": "",
-"authors": "William Taylor",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "1838",
-"period": "1800–1899 (Colonial, early)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "open",
-"read_url": "https://archive.org/details/biostor-280277",
-"download_url": "https://archive.org/download/biostor-280277/biostor-280277.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/biostor-280277",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-28"
-},
-{
-"id": "TB-005588",
-"category": "ARC",
-"category_name": "Archaeology: General, Surveys & Museums",
-"category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
-"title": "I.—Second Report on the Examinations and Restoration of the Mackenzie Manuscripts",
-"title_ta": "",
-"title_en": "I.—Second Report on the Examinations and Restoration of the Mackenzie Manuscripts",
-"title_en_note": "",
-"alt_title": "",
-"authors": "William Taylor",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "1838",
-"period": "1800–1899 (Colonial, early)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "open",
-"read_url": "https://archive.org/details/biostor-280298",
-"download_url": "https://archive.org/download/biostor-280298/biostor-280298.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/biostor-280298",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-28"
-},
-{
-"id": "TB-005589",
-"category": "ARC",
-"category_name": "Archaeology: General, Surveys & Museums",
-"category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
-"title": "II.—Examination and Analysis of the Mackenzie Manuscripts Deposited in the Madras College Library",
-"title_ta": "",
-"title_en": "II.—Examination and Analysis of the Mackenzie Manuscripts Deposited in the Madras College Library",
-"title_en_note": "",
-"alt_title": "",
-"authors": "William Taylor",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "1838",
-"period": "1800–1899 (Colonial, early)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "open",
-"read_url": "https://archive.org/details/biostor-280271",
-"download_url": "https://archive.org/download/biostor-280271/biostor-280271.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/biostor-280271",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Internet Archive"
 ],
 "curated": false,
 "scholar": "",
@@ -64391,16 +64109,17 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "",
-"access": "",
-"read_url": "",
+"subjects": "India; Madras; History",
+"access": "open",
+"read_url": "https://archive.org/details/EarlyHistoryOfTheMadrasRegion",
 "download_url": "",
 "buy_url": "",
-"source_url": "",
+"source_url": "https://archive.org/details/EarlyHistoryOfTheMadrasRegion",
 "copies": [],
 "other_source_urls": [],
 "sources": [
-"Curated"
+"Curated",
+"Internet Archive"
 ],
 "curated": true,
 "scholar": "",
@@ -71938,45 +71657,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-006340",
-"category": "ARC",
-"category_name": "Archaeology: General, Surveys & Museums",
-"category_name_ta": "தொல்லியல்: பொது, அகழ்வைப்பகங்கள்",
-"title": "Oru Pudhai Unda Varalaaru by M. Christopher",
-"title_ta": "",
-"title_en": "Oru Pudhai Unda Varalaaru by M. Christopher",
-"title_en_note": "",
-"alt_title": "",
-"authors": "M.Christopher",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "2022",
-"period": "2011–2026 (Recent)",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "Tamil Christian Ebook, Oru Pudhai Unda Varalaaru by M. Christopher",
-"subjects": "Oru Pudhai Unda Varalaaru; Tamil Christian Ebook; Christian Ebook by M. Christopher",
-"access": "open",
-"read_url": "https://archive.org/details/tamil-christian-ebook-oru-pudhai-unda-varalaaru-by-m.-christopher",
-"download_url": "https://archive.org/download/tamil-christian-ebook-oru-pudhai-unda-varalaaru-by-m.-christopher/Oru%20Pudhai%20Unda%20Varalaaru.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/tamil-christian-ebook-oru-pudhai-unda-varalaaru-by-m.-christopher",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
 "id": "TB-006341",
 "category": "ARC",
 "category_name": "Archaeology: General, Surveys & Museums",
@@ -77274,6 +76954,56 @@
 "added": "2026-10-29"
 },
 {
+"id": "TB-011047",
+"category": "DYN",
+"category_name": "Tamil Dynasties & Political History",
+"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
+"title": "The Tanjore Mahratta Principality in southern India : the land of the Chola, the eden of the south by William Hickey",
+"title_ta": "",
+"title_en": "The Tanjore Mahratta Principality in southern India : the land of the Chola, the eden of the south by William Hickey",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Hickey, William, active 1872-1875",
+"authors_roman": "",
+"publisher": "C. Foster",
+"publisher_roman": "",
+"place": "",
+"year": "1874",
+"period": "1800–1899 (Colonial, early)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "",
+"access": "open",
+"read_url": "https://babel.hathitrust.org/cgi/pt?id=hvd.32044010356111",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://catalog.hathitrust.org/Record/100329720",
+"copies": [
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=uc1.$b294649",
+"pdf": ""
+},
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=chi.12288736",
+"pdf": ""
+}
+],
+"other_source_urls": [
+"https://catalog.hathitrust.org/Record/100603447"
+],
+"sources": [
+"HathiTrust"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-25"
+},
+{
 "id": "TB-001468",
 "category": "DYN",
 "category_name": "Tamil Dynasties & Political History",
@@ -78258,45 +77988,6 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-20"
-},
-{
-"id": "TB-006742",
-"category": "DYN",
-"category_name": "Tamil Dynasties & Political History",
-"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
-"title": "The Pandyan kingdom : from the earliest to the sixteenth century",
-"title_ta": "",
-"title_en": "The Pandyan kingdom : from the earliest to the sixteenth century",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Nilakanta Sastri, K.A.",
-"authors_roman": "",
-"publisher": "Luzac,London",
-"publisher_roman": "",
-"place": "",
-"year": "1929",
-"period": "1900–1946 (Colonial, late)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "Central Secretariat Library, Government of India Source URL: http://192.168.1.42:8080//handle/123456789/5955",
-"subjects": "India - History - 16th century; India - Civilization; India - Antiquities; India - Pandian kingdom - History; Central Secretariat Library",
-"access": "open",
-"read_url": "https://archive.org/details/dli.csl.5955",
-"download_url": "https://archive.org/download/dli.csl.5955/5955.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/dli.csl.5955",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
 },
 {
 "id": "TB-011013",
@@ -79793,6 +79484,45 @@
 "added": "2026-10-29"
 },
 {
+"id": "TB-011048",
+"category": "DYN",
+"category_name": "Tamil Dynasties & Political History",
+"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
+"title": "Royal leadership and imperial conquest in medieval South India: the naval expedition of Rajendra Chola I, c. 1025 A. D",
+"title_ta": "",
+"title_en": "Royal leadership and imperial conquest in medieval South India: the naval expedition of Rajendra Chola I, c. 1025 A. D",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Spencer, George W. 1939-",
+"authors_roman": "",
+"publisher": "",
+"publisher_roman": "",
+"place": "",
+"year": "1967",
+"period": "1947–1990 (Post-independence)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://catalog.hathitrust.org/Record/100776939",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"HathiTrust"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-25"
+},
+{
 "id": "TB-007068",
 "category": "DYN",
 "category_name": "Tamil Dynasties & Political History",
@@ -79903,6 +79633,47 @@
 "other_source_urls": [],
 "sources": [
 "HathiTrust"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-29"
+},
+{
+"id": "TB-007117",
+"category": "DYN",
+"category_name": "Tamil Dynasties & Political History",
+"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
+"title": "Culture of the ancient Cheras",
+"title_ta": "",
+"title_en": "Culture of the ancient Cheras",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Muthuswamy E. Manickavasagom Pillai",
+"authors_roman": "",
+"publisher": "Manjula Publications",
+"publisher_roman": "",
+"place": "Kovilpatti",
+"year": "1970",
+"period": "1947–1990 (Post-independence)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Kerala; Chera (Indic people); History",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://openlibrary.org/works/OL12502582W",
+"copies": [],
+"other_source_urls": [
+"https://openlibrary.org/works/OL4756113W"
+],
+"sources": [
+"Open Library"
 ],
 "curated": false,
 "scholar": "",
@@ -81113,18 +80884,18 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-010924",
+"id": "TB-007334",
 "category": "DYN",
 "category_name": "Tamil Dynasties & Political History",
 "category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
-"title": "The Cholas : mathematics reconstructs the chronology",
+"title": "The Cholas : mathematics reconstructs the chronology / N. Sethuraman",
 "title_ta": "",
-"title_en": "The Cholas : mathematics reconstructs the chronology",
+"title_en": "The Cholas : mathematics reconstructs the chronology / N. Sethuraman",
 "title_en_note": "",
 "alt_title": "",
-"authors": "N. Sethuraman",
+"authors": "Sethuraman, N., 1930-1999",
 "authors_roman": "",
-"publisher": "",
+"publisher": "Sethuraman",
 "publisher_roman": "",
 "place": "",
 "year": "1977",
@@ -81140,16 +80911,19 @@
 "read_url": "",
 "download_url": "",
 "buy_url": "",
-"source_url": "http://ci.nii.ac.jp/ncid/BA15057967",
+"source_url": "https://catalog.hathitrust.org/Record/000260009",
 "copies": [],
-"other_source_urls": [],
+"other_source_urls": [
+"http://ci.nii.ac.jp/ncid/BA15057967"
+],
 "sources": [
+"HathiTrust",
 "OpenAlex"
 ],
 "curated": false,
 "scholar": "",
 "from_list": false,
-"added": "2026-11-05"
+"added": "2026-10-29"
 },
 {
 "id": "TB-007336",
@@ -81313,9 +81087,12 @@
 "buy_url": "",
 "source_url": "https://openlibrary.org/works/OL1763888W",
 "copies": [],
-"other_source_urls": [],
+"other_source_urls": [
+"https://catalog.hathitrust.org/Record/000143667"
+],
 "sources": [
-"Open Library"
+"Open Library",
+"HathiTrust"
 ],
 "curated": false,
 "scholar": "",
@@ -81678,6 +81455,45 @@
 "other_source_urls": [],
 "sources": [
 "Open Library"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-29"
+},
+{
+"id": "TB-007415",
+"category": "DYN",
+"category_name": "Tamil Dynasties & Political History",
+"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
+"title": "Early Cholas : mathematics reconstructs the chronology / N. Sethuraman",
+"title_ta": "",
+"title_en": "Early Cholas : mathematics reconstructs the chronology / N. Sethuraman",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Sethuraman, N., 1930-1999",
+"authors_roman": "",
+"publisher": "Sethuraman",
+"publisher_roman": "",
+"place": "",
+"year": "1980",
+"period": "1947–1990 (Post-independence)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://catalog.hathitrust.org/Record/000228095",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"HathiTrust"
 ],
 "curated": false,
 "scholar": "",
@@ -82598,6 +82414,45 @@
 "added": "2026-10-29"
 },
 {
+"id": "TB-007628",
+"category": "DYN",
+"category_name": "Tamil Dynasties & Political History",
+"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
+"title": "Resource mobilization and its disbursement under imperial Cholas",
+"title_ta": "",
+"title_en": "Resource mobilization and its disbursement under imperial Cholas",
+"title_en_note": "",
+"alt_title": "",
+"authors": "G. Lakshamma",
+"authors_roman": "",
+"publisher": "University of Mysore, Dept. of Post-graduate Studies and Research in History",
+"publisher_roman": "",
+"place": "Mysore",
+"year": "1987",
+"period": "1947–1990 (Post-independence)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Finance, Public; Public Finance; Economic history",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://openlibrary.org/works/OL3215426W",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"Open Library"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-29"
+},
+{
 "id": "TB-007633",
 "category": "DYN",
 "category_name": "Tamil Dynasties & Political History",
@@ -82879,6 +82734,45 @@
 "HathiTrust",
 "Open Library",
 "OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-29"
+},
+{
+"id": "TB-010786",
+"category": "DYN",
+"category_name": "Tamil Dynasties & Political History",
+"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
+"title": "The Tanjore Mahratta Principality in southern India : the land of the Chola, the eden of the south / William Hickey",
+"title_ta": "",
+"title_en": "The Tanjore Mahratta Principality in southern India : the land of the Chola, the eden of the south / William Hickey",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Hickey, William, active 1872-1875",
+"authors_roman": "",
+"publisher": "Asian Educational Services",
+"publisher_roman": "",
+"place": "",
+"year": "1988",
+"period": "1947–1990 (Post-independence)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "8120603028 :",
+"pages": "",
+"notes": "",
+"subjects": "",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://catalog.hathitrust.org/Record/001947353",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"HathiTrust"
 ],
 "curated": false,
 "scholar": "",
@@ -85356,6 +85250,45 @@
 "added": "2026-10-20"
 },
 {
+"id": "TB-010927",
+"category": "DYN",
+"category_name": "Tamil Dynasties & Political History",
+"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
+"title": "Śaivism, under the imperial cōḻas : as revealed through their monuments",
+"title_ta": "",
+"title_en": "Śaivism, under the imperial cōḻas : as revealed through their monuments",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Sita Narasimhan",
+"authors_roman": "",
+"publisher": "",
+"publisher_roman": "",
+"place": "",
+"year": "2006",
+"period": "1991–2010",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Art; Ancient history; History",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "http://ci.nii.ac.jp/ncid/BA82163372",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-05"
+},
+{
 "id": "TB-008202",
 "category": "DYN",
 "category_name": "Tamil Dynasties & Political History",
@@ -85613,6 +85546,48 @@
 "added": "2026-10-20"
 },
 {
+"id": "TB-010928",
+"category": "DYN",
+"category_name": "Tamil Dynasties & Political History",
+"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
+"title": "The Tanjore Mahratta Principality in Southern India: The Land of the Chola, the Eden of the South",
+"title_ta": "",
+"title_en": "The Tanjore Mahratta Principality in Southern India: The Land of the Chola, the Eden of the South",
+"title_en_note": "",
+"alt_title": "",
+"authors": "William Hickey",
+"authors_roman": "",
+"publisher": "C. Foster",
+"publisher_roman": "",
+"place": "",
+"year": "2008",
+"period": "1991–2010",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Geography; Ancient history; History",
+"access": "open",
+"read_url": "https://archive.org/details/tanjoremahratta00hickgoog",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://ci.nii.ac.jp/ncid/BA57118671",
+"copies": [],
+"other_source_urls": [
+"https://openlibrary.org/works/OL13127381W"
+],
+"sources": [
+"OpenAlex",
+"Open Library"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-05"
+},
+{
 "id": "TB-008225",
 "category": "DYN",
 "category_name": "Tamil Dynasties & Political History",
@@ -85705,6 +85680,47 @@
 "added": "2026-10-20"
 },
 {
+"id": "TB-008234",
+"category": "DYN",
+"category_name": "Tamil Dynasties & Political History",
+"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
+"title": "Palayagars as feudatories under the Nayaks of Madurai",
+"title_ta": "",
+"title_en": "Palayagars as feudatories under the Nayaks of Madurai",
+"title_en_note": "",
+"alt_title": "",
+"authors": "P. M. Lalitha",
+"authors_roman": "",
+"publisher": "P.M. Lalitha",
+"publisher_roman": "",
+"place": "Chennai",
+"year": "2009",
+"period": "1991–2010",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Kings and rulers; Feudalism; History",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://openlibrary.org/works/OL15417431W",
+"copies": [],
+"other_source_urls": [
+"https://openlibrary.org/works/OL15474862W"
+],
+"sources": [
+"Open Library"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-29"
+},
+{
 "id": "TB-008235",
 "category": "DYN",
 "category_name": "Tamil Dynasties & Political History",
@@ -85737,6 +85753,45 @@
 "other_source_urls": [],
 "sources": [
 "HathiTrust"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-29"
+},
+{
+"id": "TB-008238",
+"category": "DYN",
+"category_name": "Tamil Dynasties & Political History",
+"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
+"title": "Status of Women in Medieval South India With Special Reference to Cholas",
+"title_ta": "",
+"title_en": "Status of Women in Medieval South India With Special Reference to Cholas",
+"title_en_note": "",
+"alt_title": "",
+"authors": "Mansoob, Farheen",
+"authors_roman": "",
+"publisher": "Aligarh Muslim University",
+"publisher_roman": "",
+"place": "",
+"year": "2009",
+"period": "1991–2010",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "Shodaganga Thesis has been archived for better accessibility. Source:https://shodhganga.inflibnet.ac.in/ , Source Citation : http://hdl.handle.net/10603/56998",
+"subjects": "PhD Thesis; History; Ancient History; etd",
+"access": "open",
+"read_url": "https://archive.org/details/shdgnga.status-of-women-in-medieval-south-india-with-special-reference-to-cholas",
+"download_url": "https://archive.org/download/shdgnga.status-of-women-in-medieval-south-india-with-special-reference-to-cholas/Status%20of%20women%20in%20medieval%20South%20India%20with%20special%20reference%20to%20cholas.pdf",
+"buy_url": "",
+"source_url": "https://archive.org/details/shdgnga.status-of-women-in-medieval-south-india-with-special-reference-to-cholas",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"Internet Archive"
 ],
 "curated": false,
 "scholar": "",
@@ -86385,6 +86440,45 @@
 "other_source_urls": [],
 "sources": [
 "Open Library"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-29"
+},
+{
+"id": "TB-008270",
+"category": "DYN",
+"category_name": "Tamil Dynasties & Political History",
+"category_name_ta": "தமிழக அரச மரபுகள், அரசியல் வரலாறு",
+"title": "Ideology and the State under the Early Medieval Pallavas and Chōḷas: Purāṇic Religion and Bhakti",
+"title_ta": "",
+"title_en": "Ideology and the State under the Early Medieval Pallavas and Chōḷas: Purāṇic Religion and Bhakti",
+"title_en_note": "",
+"alt_title": "",
+"authors": "R. Champakalakshmi",
+"authors_roman": "",
+"publisher": "National Institute of Informatics",
+"publisher_roman": "",
+"place": "",
+"year": "2017",
+"period": "2011–2026 (Recent)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Ideology; State (computer science); Sociology; Religious studies; Philosophy; Political science; Gender studies; History; Key (lock); Field (mathematics)",
+"access": "open",
+"read_url": "https://toyo-bunko.repo.nii.ac.jp/record/3633/files/TBRL16_07_R.CHAMPAKALAKSHIMI.pdf",
+"download_url": "https://toyo-bunko.repo.nii.ac.jp/record/3633/files/TBRL16_07_R.CHAMPAKALAKSHIMI.pdf",
+"buy_url": "",
+"source_url": "https://toyo-bunko.repo.nii.ac.jp/records/3633",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"OpenAlex"
 ],
 "curated": false,
 "scholar": "",
@@ -95247,7 +95341,7 @@
 "category_name": "Local, District & Temple History",
 "category_name_ta": "ஊர், மாவட்ட, கோயில் வரலாறு",
 "title": "Citamparam Aruḷmiku Tillaiyamman̲ Kōyil varalār̲u",
-"title_ta": "",
+"title_ta": "சிதம்பரம் அருள்மிகு தில்லையம்மன் கோயில் தல வரலாறு",
 "title_en": "Citamparam Aruḷmiku Tillaiyamman̲ Kōyil varalār̲u",
 "title_en_note": "",
 "alt_title": "",
@@ -95265,53 +95359,22 @@
 "pages": "",
 "notes": "",
 "subjects": "Citamparam Aruḷmiku Tillaiyamman̲ Kōyil; Tamil Hindu hymns; Citamparam Aruḷmiku Tillaiyammaṉ Kōyil",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://openlibrary.org/works/OL6432229W",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Open Library"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
-"id": "TB-008691",
-"category": "LOC",
-"category_name": "Local, District & Temple History",
-"category_name_ta": "ஊர், மாவட்ட, கோயில் வரலாறு",
-"title": "சிதம்பரம் அருள்மிகு தில்லையம்மன் கோயில் தல வரலாறு",
-"title_ta": "சிதம்பரம் அருள்மிகு தில்லையம்மன் கோயில் தல வரலாறு",
-"title_en": "Citamparam Aruḷmiku Tillaiyammaṉ Kōyil Tala Varalāṟu",
-"title_en_note": "romanised from Tamil",
-"alt_title": "",
-"authors": "புலவர் து. சோ. நடராசன்",
-"authors_roman": "Pulavar Tu. Cō. Naṭarācaṉ",
-"publisher": "குமரன் பிரஸ், வடக்குமெயின் ரோடு, சிதம்பரம்",
-"publisher_roman": "Kumaraṉ Piras, Vaṭakkumeyiṉ Rōṭu, Citamparam",
-"place": "",
-"year": "1977",
-"period": "1947–1990 (Post-independence)",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "தல வரலாறு",
 "access": "open",
 "read_url": "https://archive.org/details/Acc.No.46312-Thillaiyammankoyilthalavaralaru-1977",
 "download_url": "https://archive.org/download/Acc.No.46312-Thillaiyammankoyilthalavaralaru-1977/Acc.No.46312-Thillaiyammankoyilthalavaralaru-1977.pdf",
 "buy_url": "",
-"source_url": "https://archive.org/details/Acc.No.46312-Thillaiyammankoyilthalavaralaru-1977",
-"copies": [],
-"other_source_urls": [],
+"source_url": "https://openlibrary.org/works/OL6432229W",
+"copies": [
+{
+"read": "",
+"pdf": "https://archive.org/download/Acc.No.46312-Thillaiyammankoyilthalavaralaru-1977/Acc.No.46312-Thillaiyammankoyilthalavaralaru-1977.pdf"
+}
+],
+"other_source_urls": [
+"https://archive.org/details/Acc.No.46312-Thillaiyammankoyilthalavaralaru-1977"
+],
 "sources": [
+"Open Library",
 "Internet Archive"
 ],
 "curated": false,
@@ -97182,45 +97245,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-007904",
-"category": "LOC",
-"category_name": "Local, District & Temple History",
-"category_name_ta": "ஊர், மாவட்ட, கோயில் வரலாறு",
-"title": "Pāṇṭiya maṇṭala varalār̲ukaḷ",
-"title_ta": "",
-"title_en": "Pāṇṭiya maṇṭala varalār̲ukaḷ",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Es Cauntara Pāṇṭiyan̲; Naṭan̲a Kācinātan̲",
-"authors_roman": "",
-"publisher": "A. Kī. Cu. Nū.",
-"publisher_roman": "",
-"place": "Cen̲n̲ai",
-"year": "1997",
-"period": "1991–2010",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "History",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://openlibrary.org/works/OL23700653W",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Open Library"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
 "id": "TB-009630",
 "category": "LOC",
 "category_name": "Local, District & Temple History",
@@ -97250,7 +97274,9 @@
 "buy_url": "",
 "source_url": "https://openlibrary.org/works/OL23700566W",
 "copies": [],
-"other_source_urls": [],
+"other_source_urls": [
+"https://openlibrary.org/works/OL23700653W"
+],
 "sources": [
 "Open Library"
 ],
@@ -97422,45 +97448,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-008729",
-"category": "LOC",
-"category_name": "Local, District & Temple History",
-"category_name_ta": "ஊர், மாவட்ட, கோயில் வரலாறு",
-"title": "Sri Sharada Ambal Divya Charitha Sringa Giri Sthala Sri Sharada Ambal Varalaru",
-"title_ta": "",
-"title_en": "Sri Sharada Ambal Divya Charitha Sringa Giri Sthala Sri Sharada Ambal Varalaru",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Bharathi Kaavalar Dr K Ramamurthi",
-"authors_roman": "",
-"publisher": "Chennai Navabharathi",
-"publisher_roman": "",
-"place": "",
-"year": "1999",
-"period": "1991–2010",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "'Sri Sharada Ambal Divya Charitha Sringa Giri Sthala Sri Sharada Ambal Varalaru By Bharathi Kaavalar Dr K Ramamurthi Tamil Religious Historical 1999 Chennai - Navabharathi', Muthulakshmi Research Academy Scans,MUTHU,",
-"subjects": "Muthulakshmi Research Academy; मुत्तुलक्षमी रिसर्च अकाडेमी; MUTHU",
-"access": "open",
-"read_url": "https://archive.org/details/ycgm_sri-sharada-ambal-divya-charitha-sringa-giri-sthala-sri-sharada-ambal-varal",
-"download_url": "https://archive.org/download/ycgm_sri-sharada-ambal-divya-charitha-sringa-giri-sthala-sri-sharada-ambal-varal/Sri%20Sharada%20Ambal%20Divya%20Charitha%20Sringa%20Giri%20Sthala%20Sri%20Sharada%20Ambal%20Varalaru%20By%20Bharathi%20Kaavalar%20Dr%20K%20Ramamurthi%20Tamil%20Religious%20Historical%201999%20Chennai%20-%20Navabharathi.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/ycgm_sri-sharada-ambal-divya-charitha-sringa-giri-sthala-sri-sharada-ambal-varal",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
 "id": "TB-008730",
 "category": "LOC",
 "category_name": "Local, District & Temple History",
@@ -97489,8 +97476,15 @@
 "download_url": "https://archive.org/download/tpch_sri-sharada-ambal-divya-charitham-sringa-giri-sthala-sri-sharada-ambal-vara/Sri%20Sharada%20Ambal%20Divya%20Charitham%20Sringa%20Giri%20Sthala%20Sri%20Sharada%20Ambal%20Varalaru%20by%20Bharathi%20Kaavalar%20Dr%20K%20Ramamurthi%20Tamil%20Religious%20Historical%201999%20Chennai%20-%20Navabharath.pdf",
 "buy_url": "",
 "source_url": "https://archive.org/details/tpch_sri-sharada-ambal-divya-charitham-sringa-giri-sthala-sri-sharada-ambal-vara",
-"copies": [],
-"other_source_urls": [],
+"copies": [
+{
+"read": "https://archive.org/details/ycgm_sri-sharada-ambal-divya-charitha-sringa-giri-sthala-sri-sharada-ambal-varal",
+"pdf": "https://archive.org/download/ycgm_sri-sharada-ambal-divya-charitha-sringa-giri-sthala-sri-sharada-ambal-varal/Sri%20Sharada%20Ambal%20Divya%20Charitha%20Sringa%20Giri%20Sthala%20Sri%20Sharada%20Ambal%20Varalaru%20By%20Bharathi%20Kaavalar%20Dr%20K%20Ramamurthi%20Tamil%20Religious%20Historical%201999%20Chennai%20-%20Navabharathi.pdf"
+}
+],
+"other_source_urls": [
+"https://archive.org/details/ycgm_sri-sharada-ambal-divya-charitha-sringa-giri-sthala-sri-sharada-ambal-varal"
+],
 "sources": [
 "Internet Archive"
 ],
@@ -103956,45 +103950,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-008882",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "The church in Madras : being the history of the ecclesiastical and missionary action of the East India Company in the Presidency of Madras in the seventeenth and eighteenth centuries / by the Rev. Frank Penny — v.2 (1805 - 1835)",
-"title_ta": "",
-"title_en": "The church in Madras : being the history of the ecclesiastical and missionary action of the East India Company in the Presidency of Madras in the seventeenth and eighteenth centuries / by the Rev. Frank Penny — v.2 (1805 - 1835)",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Penny, Frank",
-"authors_roman": "",
-"publisher": "Elder",
-"publisher_roman": "",
-"place": "Smith",
-"year": "1805",
-"period": "1800–1899 (Colonial, early)",
-"language": "English",
-"type": "Book",
-"series": "v.2 (1805 - 1835)",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/000754728",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
 "id": "TB-008885",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -104388,45 +104343,6 @@
 "added": "2026-10-28"
 },
 {
-"id": "TB-008894",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "The church in Madras : being the history of the ecclesiastical and missionary action of the East India Company in the Presidency of Madras in the seventeenth and eighteenth centuries / by the Rev. Frank Penny — v.3 (1835 - 1861)",
-"title_ta": "",
-"title_en": "The church in Madras : being the history of the ecclesiastical and missionary action of the East India Company in the Presidency of Madras in the seventeenth and eighteenth centuries / by the Rev. Frank Penny — v.3 (1835 - 1861)",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Penny, Frank",
-"authors_roman": "",
-"publisher": "Elder",
-"publisher_roman": "",
-"place": "Smith",
-"year": "1835",
-"period": "1800–1899 (Colonial, early)",
-"language": "English",
-"type": "Book",
-"series": "v.3 (1835 - 1861)",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/000754728",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
 "id": "TB-008896",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -104505,45 +104421,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-003122",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Eleven years in Ceylon. Comprising sketches of the field sports and natural history of that colony, and an account of its history and antiquities. By Major Forbes — v.02",
-"title_ta": "",
-"title_en": "Eleven years in Ceylon. Comprising sketches of the field sports and natural history of that colony, and an account of its history and antiquities. By Major Forbes — v.02",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Forbes, Jonathan, Major",
-"authors_roman": "",
-"publisher": "R. Bentley",
-"publisher_roman": "",
-"place": "",
-"year": "1841",
-"period": "1800–1899 (Colonial, early)",
-"language": "English",
-"type": "Book",
-"series": "v.02",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "open",
-"read_url": "https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t1pg1mx01",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/006214931",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-003123",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -104592,50 +104469,11 @@
 {
 "read": "https://babel.hathitrust.org/cgi/pt?id=hvd.32044107243032",
 "pdf": ""
-}
-],
-"other_source_urls": [
-"https://catalog.hathitrust.org/Record/011923391",
-"https://catalog.hathitrust.org/Record/100620461"
-],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
 },
 {
-"id": "TB-003124",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Eleven years in Ceylon. Comprising sketches of the field sports and natural history of that colony, and an account of its history and antiquities. By Major Forbes — v.2",
-"title_ta": "",
-"title_en": "Eleven years in Ceylon. Comprising sketches of the field sports and natural history of that colony, and an account of its history and antiquities. By Major Forbes — v.2",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Forbes, Jonathan, Major",
-"authors_roman": "",
-"publisher": "R. Bentley",
-"publisher_roman": "",
-"place": "",
-"year": "1841",
-"period": "1800–1899 (Colonial, early)",
-"language": "English",
-"type": "Book",
-"series": "v.2",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "open",
-"read_url": "https://babel.hathitrust.org/cgi/pt?id=ien.35556015841257",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/006214931",
-"copies": [
+"read": "https://babel.hathitrust.org/cgi/pt?id=ien.35556015841257",
+"pdf": ""
+},
 {
 "read": "https://babel.hathitrust.org/cgi/pt?id=uc1.b4306031",
 "pdf": ""
@@ -104643,14 +104481,11 @@
 {
 "read": "https://babel.hathitrust.org/cgi/pt?id=nyp.33433082432455",
 "pdf": ""
-},
-{
-"read": "https://babel.hathitrust.org/cgi/pt?id=ien.35556038048575",
-"pdf": ""
 }
 ],
 "other_source_urls": [
-"https://catalog.hathitrust.org/Record/011923391"
+"https://catalog.hathitrust.org/Record/011923391",
+"https://catalog.hathitrust.org/Record/100620461"
 ],
 "sources": [
 "HathiTrust"
@@ -104872,50 +104707,6 @@
 ],
 "sources": [
 "Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
-"id": "TB-008903",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Historical sketch of the Ceylon mission / by William W. Howland. And of the Madura and Madras missions / by James Herrick",
-"title_ta": "",
-"title_en": "Historical sketch of the Ceylon mission / by William W. Howland. And of the Madura and Madras missions / by James Herrick",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Howland, William W. 1817-1892",
-"authors_roman": "",
-"publisher": "American Board of Commissioners for Foreign Missions",
-"publisher_roman": "",
-"place": "",
-"year": "1865",
-"period": "1800–1899 (Colonial, early)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "open",
-"read_url": "https://babel.hathitrust.org/cgi/pt?id=ia.ark:/13960/t3vt1xk8p",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/011619019",
-"copies": [
-{
-"read": "https://babel.hathitrust.org/cgi/pt?id=hvd.32044020517322",
-"pdf": ""
-}
-],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
 ],
 "curated": false,
 "scholar": "",
@@ -105952,45 +105743,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-008924",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "The engineering works of the Gódávari delta: a descriptive and historical accont. Compiled for the Madras government by George T. Walch — v. 1",
-"title_ta": "",
-"title_en": "The engineering works of the Gódávari delta: a descriptive and historical accont. Compiled for the Madras government by George T. Walch — v. 1",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Walch, George Turner",
-"authors_roman": "",
-"publisher": "Pub. by the superintendent, Govt. press",
-"publisher_roman": "",
-"place": "",
-"year": "1896",
-"period": "1800–1899 (Colonial, early)",
-"language": "English",
-"type": "Book",
-"series": "v. 1",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "open",
-"read_url": "https://babel.hathitrust.org/cgi/pt?id=nyp.33433087569749",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/012310333",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
 "id": "TB-008925",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -106019,7 +105771,12 @@
 "download_url": "",
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/012310333",
-"copies": [],
+"copies": [
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=nyp.33433087569749",
+"pdf": ""
+}
+],
 "other_source_urls": [],
 "sources": [
 "HathiTrust"
@@ -106180,46 +105937,12 @@
 "download_url": "",
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/009206822",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
+"copies": [
 {
-"id": "TB-008932",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "The engineering works of the Kistna delta: a descriptive and historical account. Compiled for the Madras government by George T. Walch — v.2",
-"title_ta": "",
-"title_en": "The engineering works of the Kistna delta: a descriptive and historical account. Compiled for the Madras government by George T. Walch — v.2",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Walch, George Turner",
-"authors_roman": "",
-"publisher": "Government Press",
-"publisher_roman": "",
-"place": "",
-"year": "1899",
-"period": "1800–1899 (Colonial, early)",
-"language": "English",
-"type": "Book",
-"series": "v.2",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "open",
-"read_url": "https://babel.hathitrust.org/cgi/pt?id=coo.31924004962696",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/009206822",
-"copies": [],
+"read": "https://babel.hathitrust.org/cgi/pt?id=coo.31924004962696",
+"pdf": ""
+}
+],
 "other_source_urls": [],
 "sources": [
 "HathiTrust"
@@ -106466,136 +106189,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-008939",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "The church in Madras : being the history of the ecclesiastical and missionary action of the East India Company in the presidency of Madras",
-"title_ta": "",
-"title_en": "The church in Madras : being the history of the ecclesiastical and missionary action of the East India Company in the presidency of Madras",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Penny, Frank",
-"authors_roman": "",
-"publisher": "London : Smith, Elder",
-"publisher_roman": "",
-"place": "",
-"year": "1904",
-"period": "1900–1946 (Colonial, late)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "vol. 1; v. :; v. 2-3 have imprint: London: J. Murray; Includes bibliographical references and indexes; [v.1] 17th and 18th centuries -- v. 2. From 1805 to 1835 -- v. 3. From 1835 to 1861",
-"subjects": "East India Company; Missions -- Madras (India : Presidency); Tamil Nadu (India) -- Church history",
-"access": "open",
-"read_url": "https://archive.org/details/thechurchinmadra01pennuoft",
-"download_url": "https://archive.org/download/thechurchinmadra01pennuoft/thechurchinmadra01pennuoft.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/thechurchinmadra01pennuoft",
-"copies": [
-{
-"read": "https://archive.org/details/thechurchinmadra02unknuoft",
-"pdf": "https://archive.org/download/thechurchinmadra02unknuoft/thechurchinmadra02unknuoft.pdf"
-},
-{
-"read": "https://archive.org/details/thechurchinmadra03pennuoft",
-"pdf": "https://archive.org/download/thechurchinmadra03pennuoft/thechurchinmadra03pennuoft.pdf"
-}
-],
-"other_source_urls": [
-"https://archive.org/details/thechurchinmadra02unknuoft",
-"https://archive.org/details/thechurchinmadra03pennuoft"
-],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
-"id": "TB-008940",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "The church in Madras : being the history of the ecclesiastical and missionary action of the East India Company in the Presidency of Madras in the seventeenth and eighteenth centuries / by the Rev. Frank Penny",
-"title_ta": "",
-"title_en": "The church in Madras : being the history of the ecclesiastical and missionary action of the East India Company in the Presidency of Madras in the seventeenth and eighteenth centuries / by the Rev. Frank Penny",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Penny, Frank",
-"authors_roman": "",
-"publisher": "Elder",
-"publisher_roman": "",
-"place": "Smith",
-"year": "1904",
-"period": "1900–1946 (Colonial, late)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "East India Company; Missions -- India -- Tamil Nadu; Missions; Tamil Nadu (India) -- Church history; India -- Tamil Nadu; Madras, Church in",
-"access": "open",
-"read_url": "https://babel.hathitrust.org/cgi/pt?id=hvd.32044054200498",
-"download_url": "https://archive.org/download/churchinmadrasb00penngoog/churchinmadrasb00penngoog.pdf",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/000754728",
-"copies": [
-{
-"read": "https://babel.hathitrust.org/cgi/pt?id=hvd.32044072032337",
-"pdf": ""
-},
-{
-"read": "https://babel.hathitrust.org/cgi/pt?id=hvd.32044054200498",
-"pdf": ""
-},
-{
-"read": "https://babel.hathitrust.org/cgi/pt?id=uc1.$b51898",
-"pdf": ""
-},
-{
-"read": "https://archive.org/details/churchinmadrasb00penngoog",
-"pdf": "https://archive.org/download/churchinmadrasb00penngoog/churchinmadrasb00penngoog.pdf"
-},
-{
-"read": "https://archive.org/details/churchinmadrasb01penngoog",
-"pdf": "https://archive.org/download/churchinmadrasb01penngoog/churchinmadrasb01penngoog.pdf"
-},
-{
-"read": "https://archive.org/details/churchinmadrasbe01penn",
-"pdf": "https://archive.org/download/churchinmadrasbe01penn/churchinmadrasbe01penn.pdf"
-},
-{
-"read": "https://archive.org/details/churchinmadrasbe02penn",
-"pdf": "https://archive.org/download/churchinmadrasbe02penn/churchinmadrasbe02penn.pdf"
-},
-{
-"read": "https://archive.org/details/churchinmadrasbe03penn",
-"pdf": "https://archive.org/download/churchinmadrasbe03penn/churchinmadrasbe03penn.pdf"
-}
-],
-"other_source_urls": [
-"https://catalog.hathitrust.org/Record/010109641",
-"https://archive.org/details/churchinmadrasb00penngoog",
-"https://archive.org/details/churchinmadrasb01penngoog",
-"https://archive.org/details/churchinmadrasbe01penn",
-"https://archive.org/details/churchinmadrasbe02penn"
-],
-"sources": [
-"HathiTrust",
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
 "id": "TB-008941",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -106713,45 +106306,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-008943",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "A hundred years in Travancore, 1806-1906 : a history and description of the work done by the London Missionary Society in Travancore, South India during the past century / compiled by I.H. Hacker",
-"title_ta": "",
-"title_en": "A hundred years in Travancore, 1806-1906 : a history and description of the work done by the London Missionary Society in Travancore, South India during the past century / compiled by I.H. Hacker",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Hacker, Isaac Henry",
-"authors_roman": "",
-"publisher": "H.R. Allenson",
-"publisher_roman": "",
-"place": "",
-"year": "1908",
-"period": "1900–1946 (Colonial, late)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "open-us",
-"read_url": "https://babel.hathitrust.org/cgi/pt?id=mdp.39015013007920",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/000034804",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
 "id": "TB-008945",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -106828,45 +106382,6 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-20"
-},
-{
-"id": "TB-008950",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "The church in Madras : being the history of the ecclesiastical and missionary action of the East India Company in the Presidency of Madras in the seventeenth and eighteenth centuries / by the Rev. Frank Penny — v.2 1912",
-"title_ta": "",
-"title_en": "The church in Madras : being the history of the ecclesiastical and missionary action of the East India Company in the Presidency of Madras in the seventeenth and eighteenth centuries / by the Rev. Frank Penny — v.2 1912",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Penny, Frank",
-"authors_roman": "",
-"publisher": "Elder",
-"publisher_roman": "",
-"place": "Smith",
-"year": "1912",
-"period": "1900–1946 (Colonial, late)",
-"language": "English",
-"type": "Book",
-"series": "v.2 1912",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "open-us",
-"read_url": "https://babel.hathitrust.org/cgi/pt?id=mdp.39015036648791",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/000754728",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
 },
 {
 "id": "TB-008952",
@@ -107820,22 +107335,29 @@
 "series": "",
 "isbn": "",
 "pages": "",
-"notes": "",
+"notes": "Central Secretariat Library, Government of India Source URL: http://192.168.1.42:8080//handle/123456789/5955",
 "subjects": "Pandyas",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
+"access": "open",
+"read_url": "https://archive.org/details/dli.csl.5955",
+"download_url": "https://archive.org/download/dli.csl.5955/5955.pdf",
 "buy_url": "",
 "source_url": "https://openlibrary.org/works/OL349073W",
-"copies": [],
+"copies": [
+{
+"read": "",
+"pdf": "https://archive.org/download/dli.csl.5955/5955.pdf"
+}
+],
 "other_source_urls": [
 "https://openlibrary.org/works/OL349072W",
-"http://ci.nii.ac.jp/ncid/BA40078539"
+"http://ci.nii.ac.jp/ncid/BA40078539",
+"https://archive.org/details/dli.csl.5955"
 ],
 "sources": [
 "Curated",
 "Open Library",
-"OpenAlex"
+"OpenAlex",
+"Internet Archive"
 ],
 "curated": true,
 "scholar": "K. A. Nilakanta Sastri",
@@ -108668,63 +108190,31 @@
 "series": "",
 "isbn": "",
 "pages": "",
-"notes": "",
+"notes": "Source: Tamil Digital Library Book ID: jZY9lup2kZl6TuXGlZQdjZI6kuQy",
 "subjects": "Historiography",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
+"access": "open",
+"read_url": "https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZI6kuQy.TVA_BOK_0008784",
+"download_url": "https://archive.org/download/dli.jZY9lup2kZl6TuXGlZQdjZI6kuQy.TVA_BOK_0008784/TVA_BOK_0008784_Historical_Methods_in_relation_to_problems_of_South_Indian_history.pdf",
 "buy_url": "",
 "source_url": "https://openlibrary.org/works/OL349069W",
-"copies": [],
+"copies": [
+{
+"read": "",
+"pdf": "https://archive.org/download/dli.jZY9lup2kZl6TuXGlZQdjZI6kuQy.TVA_BOK_0008784/TVA_BOK_0008784_Historical_Methods_in_relation_to_problems_of_South_Indian_history.pdf"
+}
+],
 "other_source_urls": [
-"https://openlibrary.org/works/OL44908037W"
+"https://openlibrary.org/works/OL44908037W",
+"https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZI6kuQy.TVA_BOK_0008784"
 ],
 "sources": [
-"Open Library"
+"Open Library",
+"Internet Archive"
 ],
 "curated": false,
 "scholar": "K. A. Nilakanta Sastri",
 "from_list": false,
 "added": "2026-10-20"
-},
-{
-"id": "TB-008982",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Historical Methods in relation to problems of South Indian history",
-"title_ta": "",
-"title_en": "Historical Methods in relation to problems of South Indian history",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Nilakanta Sastri, K. A.",
-"authors_roman": "",
-"publisher": "University of Madras (Madras)",
-"publisher_roman": "",
-"place": "",
-"year": "1941",
-"period": "1900–1946 (Colonial, late)",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "Source: Tamil Digital Library Book ID: jZY9lup2kZl6TuXGlZQdjZI6kuQy",
-"subjects": "Tamil Digital Library",
-"access": "open",
-"read_url": "https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZI6kuQy.TVA_BOK_0008784",
-"download_url": "https://archive.org/download/dli.jZY9lup2kZl6TuXGlZQdjZI6kuQy.TVA_BOK_0008784/TVA_BOK_0008784_Historical_Methods_in_relation_to_problems_of_South_Indian_history.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZI6kuQy.TVA_BOK_0008784",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
 },
 {
 "id": "TB-008983",
@@ -109347,45 +108837,6 @@
 "language": "English",
 "type": "Book",
 "series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/000586501",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
-"id": "TB-009000",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "The private correspondence of Lord Macartney, Governor of Madras (1781-85) Edited for the Royal Historical Society by C. Collin Davies — ser.3 v.77",
-"title_ta": "",
-"title_en": "The private correspondence of Lord Macartney, Governor of Madras (1781-85) Edited for the Royal Historical Society by C. Collin Davies — ser.3 v.77",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Macartney, George Macartney, Earl, 1737-1806",
-"authors_roman": "",
-"publisher": "Offices of the Royal Historical Society",
-"publisher_roman": "",
-"place": "",
-"year": "1950",
-"period": "1947–1990 (Post-independence)",
-"language": "English",
-"type": "Book",
-"series": "ser.3 v.77",
 "isbn": "",
 "pages": "",
 "notes": "",
@@ -110272,45 +109723,6 @@
 ],
 "curated": false,
 "scholar": "C. Sivaramamurti",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
-"id": "TB-003289",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Early History Of The Madras Region",
-"title_ta": "",
-"title_en": "Early History Of The Madras Region",
-"title_en_note": "",
-"alt_title": "",
-"authors": "K. V. Raman",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "1957",
-"period": "1947–1990 (Post-independence)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "India; Madras; History",
-"access": "open",
-"read_url": "https://archive.org/details/EarlyHistoryOfTheMadrasRegion",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://archive.org/details/EarlyHistoryOfTheMadrasRegion",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
 "from_list": false,
 "added": "2026-10-20"
 },
@@ -111759,47 +111171,15 @@
 "download_url": "http://noolaham.net/project/38/3721/3721.pdf",
 "buy_url": "",
 "source_url": "https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AE%BE%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_1",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Noolaham"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
+"copies": [
 {
-"id": "TB-009056",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "''' இங்கிலாந்தின் வரலாறு பாகம் - 2 '''",
-"title_ta": "''' இங்கிலாந்தின் வரலாறு பாகம் - 2 '''",
-"title_en": "''' Iṅkilāntiṉ Varalāṟu Pākam - 2 '''",
-"title_en_note": "romanised from Tamil",
-"alt_title": "",
-"authors": "[[:பகுப்பு:திரவெலியன், யோ. ம.",
-"authors_roman": "[[:Pakuppu:Tiraveliyaṉ, Yō. Ma.",
-"publisher": "[[:பகுப்பு:உலோங்குமன்சு கிரீன் கம்பெனியார்",
-"publisher_roman": "[[:Pakuppu:Ulōṅkumaṉcu Kirīṉ Kampeṉiyār",
-"place": "",
-"year": "1964",
-"period": "1947–1990 (Post-independence)",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "554",
-"notes": "",
-"subjects": "வரலாறு",
-"access": "open",
-"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AE%BE%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_2",
-"download_url": "http://noolaham.net/project/38/3722/3722.pdf",
-"buy_url": "",
-"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AE%BE%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_2",
-"copies": [],
-"other_source_urls": [],
+"read": "https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AE%BE%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_2",
+"pdf": "http://noolaham.net/project/38/3722/3722.pdf"
+}
+],
+"other_source_urls": [
+"https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AE%BE%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_2"
+],
 "sources": [
 "Noolaham"
 ],
@@ -118703,7 +118083,9 @@
 "buy_url": "",
 "source_url": "https://openlibrary.org/works/OL2320616W",
 "copies": [],
-"other_source_urls": [],
+"other_source_urls": [
+"https://openlibrary.org/works/OL2320617W"
+],
 "sources": [
 "Open Library"
 ],
@@ -118711,84 +118093,6 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-29"
-},
-{
-"id": "TB-006252",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Maturai Māvaṭṭa cutantirap pōrāṭṭa varalār̲u",
-"title_ta": "",
-"title_en": "Maturai Māvaṭṭa cutantirap pōrāṭṭa varalār̲u",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Na Cōmayājūlu",
-"authors_roman": "",
-"publisher": "S. N. Somayajulu",
-"publisher_roman": "",
-"place": "Tirunelveli",
-"year": "1980",
-"period": "1947–1990 (Post-independence)",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://openlibrary.org/works/OL2320617W",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Open Library"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
-"id": "TB-003552",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Peasant State amd Society in Medieval South India",
-"title_ta": "",
-"title_en": "Peasant State amd Society in Medieval South India",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Burton Stein",
-"authors_roman": "",
-"publisher": "Oxford University Press, USA",
-"publisher_roman": "",
-"place": "",
-"year": "1980",
-"period": "1947–1990 (Post-independence)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://openlibrary.org/works/OL2720861W",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Open Library"
-],
-"curated": false,
-"scholar": "Burton Stein",
-"from_list": false,
-"added": "2026-10-20"
 },
 {
 "id": "TB-000161",
@@ -118821,7 +118125,8 @@
 "source_url": "https://archive.org/details/isbn_0195618300",
 "copies": [],
 "other_source_urls": [
-"https://openlibrary.org/works/OL2720865W"
+"https://openlibrary.org/works/OL2720865W",
+"https://openlibrary.org/works/OL2720861W"
 ],
 "sources": [
 "Curated",
@@ -119106,45 +118411,6 @@
 ],
 "sources": [
 "Open Library"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
-"id": "TB-009235",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "The history of the London Missionary Society in Travancore, 1806-1908 / by R.N. Yesudas",
-"title_ta": "",
-"title_en": "The history of the London Missionary Society in Travancore, 1806-1908 / by R.N. Yesudas",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Yesudas, R. N",
-"authors_roman": "",
-"publisher": "Kerala Historical Society",
-"publisher_roman": "",
-"place": "",
-"year": "1980",
-"period": "1947–1990 (Post-independence)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/000226307",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
 ],
 "curated": false,
 "scholar": "",
@@ -128229,45 +127495,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-009644",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "History of the Tamils and Sinhalese of Sri Lanka",
-"title_ta": "",
-"title_en": "History of the Tamils and Sinhalese of Sri Lanka",
-"title_en_note": "",
-"alt_title": "",
-"authors": "G. K. Rajasuriya",
-"authors_roman": "",
-"publisher": "Sine nomine",
-"publisher_roman": "",
-"place": "[s.l.]",
-"year": "1998",
-"period": "1991–2010",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://openlibrary.org/works/OL44373567W",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Open Library"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
 "id": "TB-009645",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -128539,7 +127766,8 @@
 "source_url": "https://catalog.hathitrust.org/Record/003541240",
 "copies": [],
 "other_source_urls": [
-"https://openlibrary.org/works/OL1060128W"
+"https://openlibrary.org/works/OL1060128W",
+"https://openlibrary.org/works/OL44373567W"
 ],
 "sources": [
 "HathiTrust",
@@ -134124,84 +133352,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-011041",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Declining Sri Lanka: Terrorism and Ethnic Conflict: the legacy of J R Jayewardene (1906–1996)",
-"title_ta": "",
-"title_en": "Declining Sri Lanka: Terrorism and Ethnic Conflict: the legacy of J R Jayewardene (1906–1996)",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Rajiva Wijesinha",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "2007",
-"period": "1991–2010",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "Tamil; Terrorism; Political science; Sri lanka; Context (archaeology); Government (linguistics); Ethnic group; Politics; Ethnic conflict; Development economics",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://www.cambridge.org/core/books/declining-sri-lanka/0A02A1990F270E2AC96B55D216B4090A",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"OpenAlex"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-11-24"
-},
-{
-"id": "TB-011042",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Declining Sri Lanka: Terrorism and Ethnic Conlict, the Legacy of J. R. Jayewardene",
-"title_ta": "",
-"title_en": "Declining Sri Lanka: Terrorism and Ethnic Conlict, the Legacy of J. R. Jayewardene",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Rajiva Wijesinha",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "2007",
-"period": "1991–2010",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "Tamil; Sri lanka; Terrorism; Political science; Government (linguistics); Context (archaeology); Politics; Development economics; Economic growth; Geography",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://doi.org/10.1017/upo9788175968332",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"OpenAlex"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-11-24"
-},
-{
 "id": "TB-003897",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -136322,45 +135472,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-010121",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Military History of Sri Lank: Sri Lankan Civil War, Eelam War Iv, Indian Intervention in the Sri Lankan Civil War, Jaffna University Helidrop",
-"title_ta": "",
-"title_en": "Military History of Sri Lank: Sri Lankan Civil War, Eelam War Iv, Indian Intervention in the Sri Lankan Civil War, Jaffna University Helidrop",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Books Llc",
-"authors_roman": "",
-"publisher": "Books LLC",
-"publisher_roman": "",
-"place": "",
-"year": "2010",
-"period": "1991–2010",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "9781157640387",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "borrow",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://archive.org/details/militaryhistoryo0000book",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
 "id": "TB-003953",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -137495,22 +136606,25 @@
 "language": "English",
 "type": "Book",
 "series": "",
-"isbn": "",
+"isbn": "0198077351; 9780198077350",
 "pages": "",
-"notes": "",
+"notes": "South India under the Cholas",
 "subjects": "India, history; India, civilization; South India; History",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
+"access": "open",
+"read_url": "https://archive.org/details/5-6177076485422059057",
+"download_url": "https://archive.org/download/5-6177076485422059057/5_6177076485422059057.pdf",
 "buy_url": "",
 "source_url": "https://openlibrary.org/works/OL21036698W",
 "copies": [],
 "other_source_urls": [
-"https://hal.science/hal-03252941"
+"https://archive.org/details/5-6177076485422059057",
+"https://hal.science/hal-03252941",
+"https://openlibrary.org/works/OL16655248W"
 ],
 "sources": [
 "Curated",
 "Open Library",
+"Internet Archive",
 "OpenAlex"
 ],
 "curated": true,
@@ -139208,45 +138322,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-010301",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Tamils and LTTE in Sri Lanka",
-"title_ta": "",
-"title_en": "Tamils and LTTE in Sri Lanka",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Singh, Chandra Prakash (Professor of history)",
-"authors_roman": "",
-"publisher": "Manas Publications",
-"publisher_roman": "",
-"place": "New Delhi, India",
-"year": "2016",
-"period": "2011–2026 (Recent)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "817049401X; 9788170494010",
-"pages": "",
-"notes": "",
-"subjects": "Tamil (Indic people); History; Politics and government; Tamil̲īl̲a Viṭutalaippulikaḷ (Association); Civil War (Sri Lanka : 1983-2009) fast (OCoLC)fst01907470; Civil War (Sri Lanka : 1983-2009) fast (u",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://openlibrary.org/works/OL32761257W",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Open Library"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
 "id": "TB-006329",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -140865,45 +139940,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-010383",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Chennai Sri Kalikambal Thala Varalaru",
-"title_ta": "",
-"title_en": "Chennai Sri Kalikambal Thala Varalaru",
-"title_en_note": "",
-"alt_title": "",
-"authors": "M Ko Srinivasan Achari",
-"authors_roman": "",
-"publisher": "Chennai Sri Kalikambal Kamadeswarar Deva Sthanam",
-"publisher_roman": "",
-"place": "",
-"year": "2021",
-"period": "2011–2026 (Recent)",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "'Chennai Sri Kalikambal Thala Varalaru By M Ko Srinivasan Achari Tamil Temple History Chennai 2021 - Chennai Sri Kalikambal Kamadeswarar Deva Sthanam', Muthulakshmi Research Academy Scans,MUTHU,",
-"subjects": "Muthulakshmi Research Academy; मुत्तुलक्षमी रिसर्च अकाडेमी; MUTHU",
-"access": "open",
-"read_url": "https://archive.org/details/wbej_chennai-sri-kalikambal-thala-varalaru-by-m-ko-srinivasan-achari-tamil-templ",
-"download_url": "https://archive.org/download/wbej_chennai-sri-kalikambal-thala-varalaru-by-m-ko-srinivasan-achari-tamil-templ/Chennai%20Sri%20Kalikambal%20Thala%20Varalaru%20By%20M%20Ko%20Srinivasan%20Achari%20Tamil%20Temple%20History%20Chennai%202021%20-%20Chennai%20Sri%20Kalikambal%20Kamadeswarar%20Deva%20Sthanam.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/wbej_chennai-sri-kalikambal-thala-varalaru-by-m-ko-srinivasan-achari-tamil-templ",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
 "id": "TB-010386",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -140932,8 +139968,15 @@
 "download_url": "https://archive.org/download/bzfg_shri-kalikambal-thala-varalaru-by-pulavar-m-ko-srinivasan-achari-tamil-temp/Shri%20Kalikambal%20Thala%20Varalaru%20By%20Pulavar%20M%20Ko%20Srinivasan%20Achari%20Tamil%20Temple%20History%20Chennai%20Missing%20Pages%202021%20-%20Shri%20Kalikambal%20Kamadeswarar%20Devasthanam.pdf",
 "buy_url": "",
 "source_url": "https://archive.org/details/bzfg_shri-kalikambal-thala-varalaru-by-pulavar-m-ko-srinivasan-achari-tamil-temp",
-"copies": [],
-"other_source_urls": [],
+"copies": [
+{
+"read": "https://archive.org/details/wbej_chennai-sri-kalikambal-thala-varalaru-by-m-ko-srinivasan-achari-tamil-templ",
+"pdf": "https://archive.org/download/wbej_chennai-sri-kalikambal-thala-varalaru-by-m-ko-srinivasan-achari-tamil-templ/Chennai%20Sri%20Kalikambal%20Thala%20Varalaru%20By%20M%20Ko%20Srinivasan%20Achari%20Tamil%20Temple%20History%20Chennai%202021%20-%20Chennai%20Sri%20Kalikambal%20Kamadeswarar%20Deva%20Sthanam.pdf"
+}
+],
+"other_source_urls": [
+"https://archive.org/details/wbej_chennai-sri-kalikambal-thala-varalaru-by-m-ko-srinivasan-achari-tamil-templ"
+],
 "sources": [
 "Internet Archive"
 ],
@@ -141324,8 +140367,15 @@
 "download_url": "https://archive.org/download/tamil-christian-ebook-pudhaiyunda-varalaru-by-m.-christopher/Pudhaiyunda%20Varalaru%20compress.pdf",
 "buy_url": "",
 "source_url": "https://archive.org/details/tamil-christian-ebook-pudhaiyunda-varalaru-by-m.-christopher",
-"copies": [],
-"other_source_urls": [],
+"copies": [
+{
+"read": "https://archive.org/details/tamil-christian-ebook-oru-pudhai-unda-varalaaru-by-m.-christopher",
+"pdf": "https://archive.org/download/tamil-christian-ebook-oru-pudhai-unda-varalaaru-by-m.-christopher/Oru%20Pudhai%20Unda%20Varalaaru.pdf"
+}
+],
+"other_source_urls": [
+"https://archive.org/details/tamil-christian-ebook-oru-pudhai-unda-varalaaru-by-m.-christopher"
+],
 "sources": [
 "Internet Archive"
 ],
@@ -142648,45 +141698,6 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-29"
-},
-{
-"id": "TB-011044",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "The Basel Mission between Switzerland, Germany and South India: Entangled Histories from Conversion to Commerce",
-"title_ta": "",
-"title_en": "The Basel Mission between Switzerland, Germany and South India: Entangled Histories from Conversion to Commerce",
-"title_en_note": "",
-"alt_title": "",
-"authors": "(:unkn) unknown",
-"authors_roman": "",
-"publisher": "Leuven University Press",
-"publisher_roman": "",
-"place": "",
-"year": "2026",
-"period": "2011–2026 (Recent)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "Pietism; German; Economy; Political science; World history; Sociology; Economic history; Media studies; History of science; History",
-"access": "open",
-"read_url": "https://scholarlypublications.universiteitleiden.nl/download/1887/4295992/1?col=81522198850002711",
-"download_url": "https://scholarlypublications.universiteitleiden.nl/download/1887/4295992/1?col=81522198850002711",
-"buy_url": "",
-"source_url": "https://doi.org/10.24415/9789087284954",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"OpenAlex"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-11-24"
 },
 {
 "id": "TB-010890",
@@ -144234,53 +143245,6 @@
 "other_source_urls": [],
 "sources": [
 "HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
-"id": "TB-010458",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "Ilaṅkaiyil in̲appiraccin̲aiyin̲ varalār̲u",
-"title_ta": "இலங்கையில் இனப்பிரச்சினையின் வரலாறு: 1833-1990 வரை காலவரிசைப்படுத்தப்பட்ட சிறு...",
-"title_en": "Ilaṅkaiyil in̲appiraccin̲aiyin̲ varalār̲u",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Ci. A. Yōtiliṅkam",
-"authors_roman": "",
-"publisher": "Vil̲utu",
-"publisher_roman": "",
-"place": "Kol̲umpu",
-"year": "",
-"period": "Undated",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "60",
-"notes": "",
-"subjects": "History; Ethnic conflict; Sri Lanka; Ethnic relations",
-"access": "open",
-"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D_%E0%AE%87%E0%AE%A9%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%A9%E0%AF%88%E0%AE%AF%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_1833-1990_%E0%AE%B5%E0%AE%B0%E0%AF%88_%E0%AE%95%E0%AE%BE%E0%AE%B2%E0%AE%B5%E0%AE%B0%E0%AE%BF%E0%AE%9A%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AF%8D%E0%AE%9F_%E0%AE%9A%E0%AE%BF%E0%AE%B1%E0%AF%81...",
-"download_url": "http://noolaham.net/project/570/56917/56917.pdf",
-"buy_url": "",
-"source_url": "https://openlibrary.org/works/OL13692362W",
-"copies": [
-{
-"read": "",
-"pdf": "http://noolaham.net/project/570/56917/56917.pdf"
-}
-],
-"other_source_urls": [
-"https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D_%E0%AE%87%E0%AE%A9%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%A9%E0%AF%88%E0%AE%AF%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_1833-1990_%E0%AE%B5%E0%AE%B0%E0%AF%88_%E0%AE%95%E0%AE%BE%E0%AE%B2%E0%AE%B5%E0%AE%B0%E0%AE%BF%E0%AE%9A%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AF%8D%E0%AE%9F_%E0%AE%9A%E0%AE%BF%E0%AE%B1%E0%AF%81..."
-],
-"sources": [
-"Open Library",
-"Noolaham"
 ],
 "curated": false,
 "scholar": "",
@@ -146566,6 +145530,45 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-29"
+},
+{
+"id": "TB-011046",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "இலங்கையில் இனப்பிரச்சினையின் வரலாறு: 1833-1990 வரை காலவரிசைப்படுத்தப்பட்ட சிறு...",
+"title_ta": "இலங்கையில் இனப்பிரச்சினையின் வரலாறு: 1833-1990 வரை காலவரிசைப்படுத்தப்பட்ட சிறு...",
+"title_en": "Ilaṅkaiyil Iṉappiracciṉaiyiṉ Varalāṟu: 1833-1990 Varai Kālavaricaippaṭuttappaṭṭa Ciṟu...",
+"title_en_note": "romanised from Tamil",
+"alt_title": "",
+"authors": "[[:பகுப்பு:யோதிலிங்கம், சி. அ.‎‎",
+"authors_roman": "[[:Pakuppu:Yōtiliṅkam, Ci. A.‎‎",
+"publisher": "[[:பகுப்பு:விழுது ஆற்றல் மேம்பாட்டு மையம்",
+"publisher_roman": "[[:Pakuppu:Viḻutu Āṟṟal Mēmpāṭṭu Maiyam",
+"place": "",
+"year": "",
+"period": "Undated",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "60",
+"notes": "",
+"subjects": "அரசியல்",
+"access": "open",
+"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D_%E0%AE%87%E0%AE%A9%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%A9%E0%AF%88%E0%AE%AF%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_1833-1990_%E0%AE%B5%E0%AE%B0%E0%AF%88_%E0%AE%95%E0%AE%BE%E0%AE%B2%E0%AE%B5%E0%AE%B0%E0%AE%BF%E0%AE%9A%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AF%8D%E0%AE%9F_%E0%AE%9A%E0%AE%BF%E0%AE%B1%E0%AF%81...",
+"download_url": "http://noolaham.net/project/570/56917/56917.pdf",
+"buy_url": "",
+"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D_%E0%AE%87%E0%AE%A9%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%A9%E0%AF%88%E0%AE%AF%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%3A_1833-1990_%E0%AE%B5%E0%AE%B0%E0%AF%88_%E0%AE%95%E0%AE%BE%E0%AE%B2%E0%AE%B5%E0%AE%B0%E0%AE%BF%E0%AE%9A%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AF%8D%E0%AE%9F_%E0%AE%9A%E0%AE%BF%E0%AE%B1%E0%AF%81...",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"Noolaham"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-25"
 },
 {
 "id": "TB-010510",
@@ -154499,45 +153502,6 @@
 "added": "2026-10-28"
 },
 {
-"id": "TB-005776",
-"category": "PLM",
-"category_name": "Palm-leaf Manuscripts & Manuscriptology",
-"category_name_ta": "ஓலைச்சுவடிகள், சுவடியியல்",
-"title": "A descriptive catalogue of the Sanskrit manuscripts of the Government Oriental Manuscripts Library, Madras, by M. Seshagiri Sastri, curator, Government Oriental Manuscripts Library — v. 5 (1909)",
-"title_ta": "",
-"title_en": "A descriptive catalogue of the Sanskrit manuscripts of the Government Oriental Manuscripts Library, Madras, by M. Seshagiri Sastri, curator, Government Oriental Manuscripts Library — v. 5 (1909)",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Government Oriental Manuscripts Library (Tamil Nadu, India)",
-"authors_roman": "",
-"publisher": "Printed by the Superintendent, Govt. Press",
-"publisher_roman": "",
-"place": "",
-"year": "1909",
-"period": "1900–1946 (Colonial, late)",
-"language": "English",
-"type": "Book",
-"series": "v. 5 (1909)",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/007687958",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-28"
-},
-{
 "id": "TB-005777",
 "category": "PLM",
 "category_name": "Palm-leaf Manuscripts & Manuscriptology",
@@ -155730,47 +154694,15 @@
 "download_url": "https://archive.org/download/in.ernet.dli.2015.367263/2015.367263.A-Triennial.pdf",
 "buy_url": "",
 "source_url": "https://archive.org/details/in.ernet.dli.2015.367263",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-28"
-},
+"copies": [
 {
-"id": "TB-005806",
-"category": "PLM",
-"category_name": "Palm-leaf Manuscripts & Manuscriptology",
-"category_name_ta": "ஓலைச்சுவடிகள், சுவடியியல்",
-"title": "A Triennial Catalogue Of Manuscripts Collected During The Triennium 1922 23 To 1924 25 Government Oriental Manuscripts Library , Madras Vol V Part 1 Sanskrit B",
-"title_ta": "",
-"title_en": "A Triennial Catalogue Of Manuscripts Collected During The Triennium 1922 23 To 1924 25 Government Oriental Manuscripts Library , Madras Vol V Part 1 Sanskrit B",
-"title_en_note": "",
-"alt_title": "",
-"authors": "S Kuppuswami Sastri",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "1932",
-"period": "1900–1946 (Colonial, late)",
-"language": "Mul",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "RMSC",
-"access": "open",
-"read_url": "https://archive.org/details/in.ernet.dli.2015.367282",
-"download_url": "https://archive.org/download/in.ernet.dli.2015.367282/2015.367282.A-Triennial.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/in.ernet.dli.2015.367282",
-"copies": [],
-"other_source_urls": [],
+"read": "https://archive.org/details/in.ernet.dli.2015.367282",
+"pdf": "https://archive.org/download/in.ernet.dli.2015.367282/2015.367282.A-Triennial.pdf"
+}
+],
+"other_source_urls": [
+"https://archive.org/details/in.ernet.dli.2015.367282"
+],
 "sources": [
 "Internet Archive"
 ],
@@ -156519,52 +155451,6 @@
 "added": "2026-10-28"
 },
 {
-"id": "TB-005823",
-"category": "PLM",
-"category_name": "Palm-leaf Manuscripts & Manuscriptology",
-"category_name_ta": "ஓலைச்சுவடிகள், சுவடியியல்",
-"title": "Alphabetical Index Of Sanskrit Manuscripts In The Government Oriental Manuscripts Library Madras Part 2",
-"title_ta": "",
-"title_en": "Alphabetical Index Of Sanskrit Manuscripts In The Government Oriental Manuscripts Library Madras Part 2",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Sastri,p.p. Subrahmanya",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "1940",
-"period": "1900–1946 (Colonial, late)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "IGNCA",
-"access": "open",
-"read_url": "https://archive.org/details/in.ernet.dli.2015.56971",
-"download_url": "https://archive.org/download/in.ernet.dli.2015.56971/2015.56971.Alphabetical-Index-Of-Sanskrit-Manuscripts-In-The-Government-Oriental-Manuscripts-Library-Madras-Part-2.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/in.ernet.dli.2015.56971",
-"copies": [
-{
-"read": "https://archive.org/details/in.gov.ignca.9497",
-"pdf": "https://archive.org/download/in.gov.ignca.9497/9497.pdf"
-}
-],
-"other_source_urls": [
-"https://archive.org/details/in.gov.ignca.9497"
-],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-28"
-},
-{
 "id": "TB-005824",
 "category": "PLM",
 "category_name": "Palm-leaf Manuscripts & Manuscriptology",
@@ -156597,10 +155483,20 @@
 {
 "read": "https://archive.org/details/in.ernet.dli.2015.367318",
 "pdf": "https://archive.org/download/in.ernet.dli.2015.367318/2015.367318.An-Alphabetical.pdf"
+},
+{
+"read": "https://archive.org/details/in.ernet.dli.2015.56971",
+"pdf": "https://archive.org/download/in.ernet.dli.2015.56971/2015.56971.Alphabetical-Index-Of-Sanskrit-Manuscripts-In-The-Government-Oriental-Manuscripts-Library-Madras-Part-2.pdf"
+},
+{
+"read": "https://archive.org/details/in.gov.ignca.9497",
+"pdf": "https://archive.org/download/in.gov.ignca.9497/9497.pdf"
 }
 ],
 "other_source_urls": [
-"https://archive.org/details/in.ernet.dli.2015.367318"
+"https://archive.org/details/in.ernet.dli.2015.367318",
+"https://archive.org/details/in.ernet.dli.2015.56971",
+"https://archive.org/details/in.gov.ignca.9497"
 ],
 "sources": [
 "Internet Archive"
@@ -157825,9 +156721,12 @@
 "buy_url": "",
 "source_url": "https://openlibrary.org/works/OL12091245W",
 "copies": [],
-"other_source_urls": [],
+"other_source_urls": [
+"https://catalog.hathitrust.org/Record/001177925"
+],
 "sources": [
-"Open Library"
+"Open Library",
+"HathiTrust"
 ],
 "curated": false,
 "scholar": "",
@@ -157870,45 +156769,6 @@
 "sources": [
 "OpenAlex",
 "Open Library"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-28"
-},
-{
-"id": "TB-005850",
-"category": "PLM",
-"category_name": "Palm-leaf Manuscripts & Manuscriptology",
-"category_name_ta": "ஓலைச்சுவடிகள், சுவடியியல்",
-"title": "An alphabetical index of Urdu, Arabic, and Persian manuscripts in the Government Oriental Manuscripts Library, Madras / by T. Chandrasekharan, ex-curator, P. Thirugnanasambandhan, in-charge of curator, and A. A. Ramanathan, curator, and the staff of the library",
-"title_ta": "",
-"title_en": "An alphabetical index of Urdu, Arabic, and Persian manuscripts in the Government Oriental Manuscripts Library, Madras / by T. Chandrasekharan, ex-curator, P. Thirugnanasambandhan, in-charge of curator, and A. A. Ramanathan, curator, and the staff of the library",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Government Oriental Manuscripts Library (Tamil Nadu, India)",
-"authors_roman": "",
-"publisher": "Printed by the Controller of Stationery and Print., Madras, on behalf of the Govt. of Madras",
-"publisher_roman": "",
-"place": "",
-"year": "1963",
-"period": "1947–1990 (Post-independence)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://catalog.hathitrust.org/Record/001177925",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"HathiTrust"
 ],
 "curated": false,
 "scholar": "",
@@ -164750,46 +163610,6 @@
 "download_url": "https://archive.org/download/in.ernet.dli.2015.501546/2015.501546.Archaeological-Survey.pdf",
 "buy_url": "",
 "source_url": "https://archive.org/details/in.ernet.dli.2015.501546",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Curated",
-"Internet Archive"
-],
-"curated": true,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
-"id": "TB-001413",
-"category": "REF",
-"category_name": "Reference: Catalogues, Lists & Glossaries",
-"category_name_ta": "பட்டியல்கள், சொல்லகராதிகள்",
-"title": "Lists Of Inscriptions And Sketch Of The Dynasties Of Southern India",
-"title_ta": "",
-"title_en": "Lists Of Inscriptions And Sketch Of The Dynasties Of Southern India",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Robert Sewell",
-"authors_roman": "",
-"publisher": "Printed by E. Keys at the Government Press",
-"publisher_roman": "",
-"place": "",
-"year": "1884",
-"period": "1800–1899 (Colonial, early)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "RMSC",
-"access": "open",
-"read_url": "https://archive.org/details/in.ernet.dli.2015.106694",
-"download_url": "https://archive.org/download/in.ernet.dli.2015.106694/2015.106694.Lists-Of-Inscriptions-And-Sketch-Of-The-Dynasties-Of-Southern-India.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/in.ernet.dli.2015.106694",
 "copies": [
 {
 "read": "https://archive.org/details/in.ernet.dli.2015.106694",
@@ -164798,17 +163618,23 @@
 {
 "read": "https://archive.org/details/listsinscriptio00sewegoog",
 "pdf": ""
+},
+{
+"read": "https://archive.org/details/in.ernet.dli.2015.106694",
+"pdf": "https://archive.org/download/in.ernet.dli.2015.106694/2015.106694.Lists-Of-Inscriptions-And-Sketch-Of-The-Dynasties-Of-Southern-India.pdf"
 }
 ],
 "other_source_urls": [
+"https://archive.org/details/in.ernet.dli.2015.106694",
 "https://archive.org/details/listsinscriptio00sewegoog",
 "https://openlibrary.org/works/OL1052853W"
 ],
 "sources": [
+"Curated",
 "Internet Archive",
 "Open Library"
 ],
-"curated": false,
+"curated": true,
 "scholar": "Robert Sewell",
 "from_list": false,
 "added": "2026-10-20"
@@ -165145,45 +163971,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-001419",
-"category": "REF",
-"category_name": "Reference: Catalogues, Lists & Glossaries",
-"category_name_ta": "பட்டியல்கள், சொல்லகராதிகள்",
-"title": "List of inscriptions on tombstones and monuments in Ceylon, of historical or local interest, with an obituary of persons uncommemorated",
-"title_ta": "",
-"title_en": "List of inscriptions on tombstones and monuments in Ceylon, of historical or local interest, with an obituary of persons uncommemorated",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Lewis, J. Penry (John Penry), 1854-1923",
-"authors_roman": "",
-"publisher": "Colombo, Printed by H. C. Cottle",
-"publisher_roman": "",
-"place": "",
-"year": "1913",
-"period": "1900–1946 (Colonial, late)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (",
-"subjects": "Epitaphs; Inscriptions",
-"access": "open",
-"read_url": "https://archive.org/details/cu31924007648516",
-"download_url": "https://archive.org/download/cu31924007648516/cu31924007648516.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/cu31924007648516",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-004229",
 "category": "REF",
 "category_name": "Reference: Catalogues, Lists & Glossaries",
@@ -165205,17 +163992,29 @@
 "series": "",
 "isbn": "",
 "pages": "",
-"notes": "",
-"subjects": "",
-"access": "open-us",
-"read_url": "https://babel.hathitrust.org/cgi/pt?id=coo1.ark:/13960/t9j399w1j",
-"download_url": "",
+"notes": "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (",
+"subjects": "Epitaphs; Inscriptions",
+"access": "open",
+"read_url": "https://archive.org/details/cu31924007648516",
+"download_url": "https://archive.org/download/cu31924007648516/cu31924007648516.pdf",
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/100759791",
-"copies": [],
-"other_source_urls": [],
+"copies": [
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=coo1.ark:/13960/t9j399w1j",
+"pdf": ""
+},
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=coo1.ark:/13960/t9j399w1j",
+"pdf": "https://archive.org/download/cu31924007648516/cu31924007648516.pdf"
+}
+],
+"other_source_urls": [
+"https://archive.org/details/cu31924007648516"
+],
 "sources": [
-"HathiTrust"
+"HathiTrust",
+"Internet Archive"
 ],
 "curated": false,
 "scholar": "",
@@ -165517,45 +164316,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-001426",
-"category": "REF",
-"category_name": "Reference: Catalogues, Lists & Glossaries",
-"category_name_ta": "பட்டியல்கள், சொல்லகராதிகள்",
-"title": "A Topographical List Of The Inscriptions Of The Madras Presidency Vol Iii 1915",
-"title_ta": "",
-"title_en": "A Topographical List Of The Inscriptions Of The Madras Presidency Vol Iii 1915",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Rangacharya,v",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "1919",
-"period": "1900–1946 (Colonial, late)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "Banasthali",
-"access": "open",
-"read_url": "https://archive.org/details/in.ernet.dli.2015.65877",
-"download_url": "https://archive.org/download/in.ernet.dli.2015.65877/2015.65877.A-Topographical-List-Of-The-Inscriptions-Of-The-Madras-Presidency-Vol-Iii-1915.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/in.ernet.dli.2015.65877",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-001427",
 "category": "REF",
 "category_name": "Reference: Catalogues, Lists & Glossaries",
@@ -165648,45 +164408,6 @@
 "added": "2026-10-20"
 },
 {
-"id": "TB-001429",
-"category": "REF",
-"category_name": "Reference: Catalogues, Lists & Glossaries",
-"category_name_ta": "பட்டியல்கள், சொல்லகராதிகள்",
-"title": "A Topographical List Of The Inscriptions Of The Madras Presindency (collected Till 1915) With Notes And References Volume I",
-"title_ta": "",
-"title_en": "A Topographical List Of The Inscriptions Of The Madras Presindency (collected Till 1915) With Notes And References Volume I",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Rangacharya, V.",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "1919",
-"period": "1900–1946 (Colonial, late)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "Banasthali",
-"access": "open",
-"read_url": "https://archive.org/details/in.ernet.dli.2015.34628",
-"download_url": "https://archive.org/download/in.ernet.dli.2015.34628/2015.34628.A-Topographical-List-Of-The-Inscriptions-Of-The-Madras-Presindency-collected-Till-1915-With-Notes-And-References-Volume-I.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/in.ernet.dli.2015.34628",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-001430",
 "category": "REF",
 "category_name": "Reference: Catalogues, Lists & Glossaries",
@@ -165754,8 +164475,15 @@
 "download_url": "https://archive.org/download/dli.ernet.15771/15771-A%20Topographical%20List%20Of%20The%20Inscriptions%20Of%20The%20Madras%20Presindency%20Vol-ii%20%281919%29.pdf",
 "buy_url": "",
 "source_url": "https://archive.org/details/dli.ernet.15771",
-"copies": [],
-"other_source_urls": [],
+"copies": [
+{
+"read": "https://archive.org/details/in.ernet.dli.2015.532621",
+"pdf": "https://archive.org/download/in.ernet.dli.2015.532621/2015.532621.topographical-list.pdf"
+}
+],
+"other_source_urls": [
+"https://archive.org/details/in.ernet.dli.2015.532621"
+],
 "sources": [
 "Internet Archive"
 ],
@@ -165832,8 +164560,15 @@
 "download_url": "https://archive.org/download/india.history.resource.93179/93179.pdf",
 "buy_url": "",
 "source_url": "https://archive.org/details/india.history.resource.93179",
-"copies": [],
-"other_source_urls": [],
+"copies": [
+{
+"read": "https://archive.org/details/in.ernet.dli.2015.34628",
+"pdf": "https://archive.org/download/in.ernet.dli.2015.34628/2015.34628.A-Topographical-List-Of-The-Inscriptions-Of-The-Madras-Presindency-collected-Till-1915-With-Notes-And-References-Volume-I.pdf"
+}
+],
+"other_source_urls": [
+"https://archive.org/details/in.ernet.dli.2015.34628"
+],
 "sources": [
 "Internet Archive"
 ],
@@ -165871,45 +164606,6 @@
 "download_url": "https://archive.org/download/in.ernet.dli.2015.532620/2015.532620.topographical-list.pdf",
 "buy_url": "",
 "source_url": "https://archive.org/details/in.ernet.dli.2015.532620",
-"copies": [],
-"other_source_urls": [],
-"sources": [
-"Internet Archive"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
-"id": "TB-001435",
-"category": "REF",
-"category_name": "Reference: Catalogues, Lists & Glossaries",
-"category_name_ta": "பட்டியல்கள், சொல்லகராதிகள்",
-"title": "Topographical List Of The Inscriptions Of The Madras Presidency Vol.2",
-"title_ta": "",
-"title_en": "Topographical List Of The Inscriptions Of The Madras Presidency Vol.2",
-"title_en_note": "",
-"alt_title": "",
-"authors": "Rangacharya, V.",
-"authors_roman": "",
-"publisher": "",
-"publisher_roman": "",
-"place": "",
-"year": "1919",
-"period": "1900–1946 (Colonial, late)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "IGNCA",
-"access": "open",
-"read_url": "https://archive.org/details/in.ernet.dli.2015.532621",
-"download_url": "https://archive.org/download/in.ernet.dli.2015.532621/2015.532621.topographical-list.pdf",
-"buy_url": "",
-"source_url": "https://archive.org/details/in.ernet.dli.2015.532621",
 "copies": [],
 "other_source_urls": [],
 "sources": [
