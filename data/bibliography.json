@@ -1,5 +1,5 @@
 {
-"generated": "2026-11-25",
+"generated": "2026-11-26",
 "count": 4660,
 "with_author": 3151,
 "with_publisher": 2886,
@@ -6180,7 +6180,7 @@
 "alt_title": "",
 "authors": "Eugen Hultzsch",
 "authors_roman": "",
-"publisher": "Manager of Publications",
+"publisher": "Indological Book House; Manager of Publications",
 "publisher_roman": "",
 "place": "Delhi",
 "year": "1890",
@@ -6558,14 +6558,14 @@
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Indica / Archæological Survey of India — 1892",
+"title": "Epigraphia Indica / Archaeological Survey of India — 1892",
 "title_ta": "",
-"title_en": "Epigraphia Indica / Archæological Survey of India — 1892",
+"title_en": "Epigraphia Indica / Archaeological Survey of India — 1892",
 "title_en_note": "",
 "alt_title": "",
 "authors": "James Burgess; E. Hultzsch; Alois Anton Führer",
 "authors_roman": "",
-"publisher": "Supt. of Govt. Printing, India",
+"publisher": "Manager of Publications",
 "publisher_roman": "",
 "place": "",
 "year": "1892",
@@ -6634,15 +6634,15 @@
 "pdf": ""
 },
 {
+"read": "https://archive.org/details/mpl.411.754.epi.35.8907-p4",
+"pdf": ""
+},
+{
 "read": "https://archive.org/details/bmshri.epigraphiaindica0000unse_e9c9",
 "pdf": ""
 },
 {
 "read": "https://archive.org/details/mpl.411.754.epi.39.8943",
-"pdf": ""
-},
-{
-"read": "https://archive.org/details/mpl.411.754.epi.35.8907-p4",
 "pdf": ""
 },
 {
@@ -6660,9 +6660,9 @@
 ],
 "other_source_urls": [
 "https://archive.org/details/mpl.411.7.54.epi.34.8928",
+"https://archive.org/details/mpl.411.754.epi.35.8907-p4",
 "https://archive.org/details/bmshri.epigraphiaindica0000unse_e9c9",
 "https://archive.org/details/mpl.411.754.epi.39.8943",
-"https://archive.org/details/mpl.411.754.epi.35.8907-p4",
 "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_1_%281892%29.pdf"
 ],
 "sources": [
@@ -6878,14 +6878,14 @@
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Indica / Archæological Survey of India — 1894",
+"title": "Epigraphia Indica / Archaeological Survey of India — 1894",
 "title_ta": "",
-"title_en": "Epigraphia Indica / Archæological Survey of India — 1894",
+"title_en": "Epigraphia Indica / Archaeological Survey of India — 1894",
 "title_en_note": "",
 "alt_title": "",
 "authors": "",
 "authors_roman": "",
-"publisher": "Supt. of Govt. Printing, India",
+"publisher": "Manager of Publications",
 "publisher_roman": "",
 "place": "",
 "year": "1894",
@@ -7041,10 +7041,10 @@
 "title_ta": "",
 "title_en": "Epigraphia Indica, Vol. 3",
 "title_en_note": "",
-"alt_title": "Epigraphia Indica-Vol,XXXIII-Oct,1960-Part,VIII",
+"alt_title": "Epigraphia Indica Vol III",
 "authors": "E. Hultzsch",
 "authors_roman": "",
-"publisher": "The Manager Of Publications, Delhi",
+"publisher": "The Government Of India",
 "publisher_roman": "",
 "place": "",
 "year": "1895",
@@ -7057,25 +7057,25 @@
 "notes": "'Epigraphia Indica Vol 3'",
 "subjects": "Mahesha Pillai",
 "access": "open",
-"read_url": "https://archive.org/details/mpl.411.754.epi.33.8926",
+"read_url": "https://archive.org/details/mpl.411.754.epi.3.207",
 "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_3.pdf",
 "buy_url": "",
-"source_url": "https://archive.org/details/mpl.411.754.epi.33.8926",
+"source_url": "https://archive.org/details/mpl.411.754.epi.3.207",
 "copies": [
-{
-"read": "https://archive.org/details/mpl.411.754.epi.33.8926",
-"pdf": ""
-},
-{
-"read": "https://archive.org/details/mpl.411.754.epi.34.8930",
-"pdf": ""
-},
 {
 "read": "https://archive.org/details/mpl.411.754.epi.3.207",
 "pdf": ""
 },
 {
 "read": "https://archive.org/details/mpl.411.754.epi.3.220",
+"pdf": ""
+},
+{
+"read": "https://archive.org/details/mpl.411.754.epi.33.8926",
+"pdf": ""
+},
+{
+"read": "https://archive.org/details/mpl.411.754.epi.34.8930",
 "pdf": ""
 },
 {
@@ -7096,9 +7096,9 @@
 }
 ],
 "other_source_urls": [
-"https://archive.org/details/mpl.411.754.epi.34.8930",
-"https://archive.org/details/mpl.411.754.epi.3.207",
 "https://archive.org/details/mpl.411.754.epi.3.220",
+"https://archive.org/details/mpl.411.754.epi.33.8926",
+"https://archive.org/details/mpl.411.754.epi.34.8930",
 "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_3.pdf",
 "https://catalog.hathitrust.org/Record/000530277"
 ],
@@ -8148,10 +8148,10 @@
 "title_ta": "",
 "title_en": "Epigraphia Indica, Vol. 7",
 "title_en_note": "",
-"alt_title": "Epigraphia indica (volume 7 & 8)",
+"alt_title": "Epigraphia Indica Vol VII 1902-1903",
 "authors": "E. Hultzsch",
 "authors_roman": "",
-"publisher": "The director general archaeological survey of india",
+"publisher": "The Government Of India",
 "publisher_roman": "",
 "place": "",
 "year": "1903",
@@ -8164,21 +8164,21 @@
 "notes": "'Epigraphia Indica Vol 7'",
 "subjects": "Devi Bali",
 "access": "open",
-"read_url": "https://archive.org/details/bmshri.epigraphiaindica0000prof_t2d7",
+"read_url": "https://archive.org/details/mpl.411.754.epi.7.211",
 "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_7.pdf",
 "buy_url": "",
-"source_url": "https://archive.org/details/bmshri.epigraphiaindica0000prof_t2d7",
+"source_url": "https://archive.org/details/mpl.411.754.epi.7.211",
 "copies": [
-{
-"read": "https://archive.org/details/bmshri.epigraphiaindica0000prof_t2d7",
-"pdf": ""
-},
 {
 "read": "https://archive.org/details/mpl.411.754.epi.7.211",
 "pdf": ""
 },
 {
 "read": "https://archive.org/details/mpl.411.754.epi.7.224",
+"pdf": ""
+},
+{
+"read": "https://archive.org/details/bmshri.epigraphiaindica0000prof_t2d7",
 "pdf": ""
 },
 {
@@ -8203,8 +8203,8 @@
 }
 ],
 "other_source_urls": [
-"https://archive.org/details/mpl.411.754.epi.7.211",
 "https://archive.org/details/mpl.411.754.epi.7.224",
+"https://archive.org/details/bmshri.epigraphiaindica0000prof_t2d7",
 "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_7.pdf",
 "https://catalog.hathitrust.org/Record/000530277",
 "https://catalog.hathitrust.org/Record/006782992"
@@ -31604,8 +31604,8 @@
 "alt_title": "",
 "authors": "Muller,edward",
 "authors_roman": "",
-"publisher": "[[:பகுப்பு:Trubner & Co.",
-"publisher_roman": "[[:Pakuppu:Trubner & Co.",
+"publisher": "[[:பகுப்பு:Asian Educational Services",
+"publisher_roman": "[[:Pakuppu:Asian Educational Services",
 "place": "London; New Delhi",
 "year": "1838",
 "period": "1800–1899 (Colonial, early)",
@@ -31613,7 +31613,7 @@
 "type": "Book",
 "series": "",
 "isbn": "",
-"pages": "218",
+"pages": "219",
 "notes": "",
 "subjects": "Banasthali",
 "access": "open",
@@ -31627,18 +31627,18 @@
 "pdf": "https://archive.org/download/in.ernet.dli.2015.142654/2015.142654.Ancient-Inscriptions-In-Ceylon.pdf"
 },
 {
-"read": "https://noolaham.org/wiki/index.php/Ancient_inscriptions_in_Ceylon",
-"pdf": "http://noolaham.net/project/810/80975/80975.pdf"
-},
-{
 "read": "https://noolaham.org/wiki/index.php/Ancient_Inscriptions_in_Ceylon",
 "pdf": "http://noolaham.net/project/49/4812/4812.pdf"
+},
+{
+"read": "https://noolaham.org/wiki/index.php/Ancient_inscriptions_in_Ceylon",
+"pdf": "http://noolaham.net/project/810/80975/80975.pdf"
 }
 ],
 "other_source_urls": [
 "https://archive.org/details/in.ernet.dli.2015.142654",
-"https://noolaham.org/wiki/index.php/Ancient_inscriptions_in_Ceylon",
 "https://noolaham.org/wiki/index.php/Ancient_Inscriptions_in_Ceylon",
+"https://noolaham.org/wiki/index.php/Ancient_inscriptions_in_Ceylon",
 "https://openlibrary.org/works/OL63236W"
 ],
 "sources": [
@@ -64971,14 +64971,14 @@
 "source_url": "http://ci.nii.ac.jp/ncid/BA39561815",
 "copies": [],
 "other_source_urls": [
-"https://catalog.hathitrust.org/Record/000605403",
-"https://openlibrary.org/works/OL344117W"
+"https://openlibrary.org/works/OL344117W",
+"https://catalog.hathitrust.org/Record/000605403"
 ],
 "sources": [
 "Curated",
 "OpenAlex",
-"HathiTrust",
-"Open Library"
+"Open Library",
+"HathiTrust"
 ],
 "curated": true,
 "scholar": "S. R. Balasubrahmanyam",
@@ -83062,7 +83062,7 @@
 "title_en": "La chola boliviana",
 "title_en_note": "",
 "alt_title": "",
-"authors": "paredes candia, antonio; healy, kevin j.",
+"authors": "healy, kevin j.; paredes candia, antonio",
 "authors_roman": "",
 "publisher": "",
 "publisher_roman": "",
@@ -83075,7 +83075,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "chicha -- bolivia; bolivia; indian women; wit and humor -- bolivia; mestizos and mestizaje -- bolivia; wit and humor; mestizos and mestizaje; women -- bolivia; cooking -- bolivia; clothing and dress; ",
+"subjects": "clothing and dress -- bolivia; bolivia; mestizos and mestizaje; indian women; cooking -- bolivia; cooking; clothing and dress; wit and humor -- bolivia; chicha -- bolivia; women; mestizos and mestizaj",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -84128,7 +84128,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "History; Asian / Middle Eastern history; Religion & Beliefs; India",
+"subjects": "History; Asian / Middle Eastern history; India; Religion & beliefs",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -105892,7 +105892,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "periyar river; india; irrigation; tamil nadu",
+"subjects": "periyar river; india; tamil nadu; irrigation",
 "access": "open",
 "read_url": "https://www.loc.gov/item/01001382/",
 "download_url": "https://tile.loc.gov/storage-services/public/gdcmassbookdig/historyofperiyar00mack/historyofperiyar00mack.pdf",
@@ -116057,7 +116057,7 @@
 "authors_roman": "",
 "publisher": "Gujarat State Committee for the Celebration of 2500th Anniversary of Bhagwan Mahavira Nirwan; exclusive distributors, Motilal Banarsidass",
 "publisher_roman": "",
-"place": "Gandhinagar; Delhi",
+"place": "Delhi; Gandhinagar",
 "year": "1976",
 "period": "1947–1990 (Post-independence)",
 "language": "English",
@@ -116066,7 +116066,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Temples; Temples, Jaina; Jaina Temples",
+"subjects": "Temples; Temples, Jaina; Jaina temples",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -116587,7 +116587,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Architecture; Palitana; Temples, Jaina; Jaina Temples",
+"subjects": "Architecture; Palitana; Temples, Jaina; Jaina temples",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -127340,7 +127340,7 @@
 "authors_roman": "",
 "publisher": "Blackwell Publishers",
 "publisher_roman": "",
-"place": "Oxford [England]; Malden, Mass",
+"place": "Malden, Mass; Oxford [England]",
 "year": "1998",
 "period": "1991–2010",
 "language": "English",
@@ -128357,52 +128357,6 @@
 "other_source_urls": [],
 "sources": [
 "Open Library"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
-"id": "TB-010419",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "ஈழத்தமிழர் வரலாறு",
-"title_ta": "ஈழத்தமிழர் வரலாறு",
-"title_en": "Īḻattamiḻar Varalāṟu",
-"title_en_note": "romanised from Tamil",
-"alt_title": "",
-"authors": "[[:பகுப்பு:வசந்தா நடராசன்",
-"authors_roman": "[[:Pakuppu:Vacantā Naṭarācaṉ",
-"publisher": "[[:பகுப்பு:வசந்தம் பதிப்பகம்",
-"publisher_roman": "[[:Pakuppu:Vacantam Patippakam",
-"place": "",
-"year": "1999",
-"period": "1991–2010",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "326",
-"notes": "",
-"subjects": "இலங்கை வரலாறு",
-"access": "open",
-"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"download_url": "http://noolaham.net/project/925/92433/92433.pdf",
-"buy_url": "",
-"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"copies": [
-{
-"read": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
-"pdf": ""
-}
-],
-"other_source_urls": [
-"https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81"
-],
-"sources": [
-"Noolaham"
 ],
 "curated": false,
 "scholar": "",
@@ -134579,7 +134533,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Social conditions; Tamil (Indic people); History; Tamil (indic people); India, history; Wirtschaft; Gesellschaft",
+"subjects": "Social conditions; Tamil (Indic people); History; India, history; Wirtschaft; Gesellschaft",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -141443,6 +141397,56 @@
 "source_url": "https://noolaham.org/wiki/index.php/%E0%AE%85%E0%AE%B2%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%B0%E0%AF%8D_%E0%AE%AA%E0%AF%80%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AF%81%E0%AE%95%E0%AE%AE%E0%AE%A4%E0%AF%81_%E0%AE%B5%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
 "copies": [],
 "other_source_urls": [],
+"sources": [
+"Noolaham"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-29"
+},
+{
+"id": "TB-010419",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "ஈழத் தமிழர் வரலாறு",
+"title_ta": "ஈழத் தமிழர் வரலாறு",
+"title_en": "Īḻat Tamiḻar Varalāṟu",
+"title_en_note": "romanised from Tamil",
+"alt_title": "",
+"authors": "[[:பகுப்பு:வன்னியூர் செந்தூரன்",
+"authors_roman": "[[:Pakuppu:Vaṉṉiyūr Centūraṉ",
+"publisher": "[[:பகுப்பு:ஈழத்துக் கலை இலக்கியப் பேரவை",
+"publisher_roman": "[[:Pakuppu:Īḻattuk Kalai Ilakkiyap Pēravai",
+"place": "",
+"year": "2025",
+"period": "2011–2026 (Recent)",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "188",
+"notes": "",
+"subjects": "வரலாறு",
+"access": "open",
+"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"download_url": "http://noolaham.net/project/925/92433/92433.pdf",
+"buy_url": "",
+"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"copies": [
+{
+"read": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"pdf": ""
+},
+{
+"read": "https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81",
+"pdf": "http://noolaham.net/project/925/92433/92433.pdf"
+}
+],
+"other_source_urls": [
+"https://noolaham.org/wiki/index.php/%E0%AE%88%E0%AE%B4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%B0%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81"
+],
 "sources": [
 "Noolaham"
 ],
@@ -156861,6 +156865,47 @@
 "added": "2026-10-28"
 },
 {
+"id": "TB-003961",
+"category": "PLM",
+"category_name": "Palm-leaf Manuscripts & Manuscriptology",
+"category_name_ta": "ஓலைச்சுவடிகள், சுவடியியல்",
+"title": "Mackenzie manuscripts",
+"title_ta": "",
+"title_en": "Mackenzie manuscripts",
+"title_en_note": "",
+"alt_title": "",
+"authors": "T. V. Mahalingam",
+"authors_roman": "",
+"publisher": "University of Madras",
+"publisher_roman": "",
+"place": "Chennai; [Madras]",
+"year": "1972",
+"period": "1947–1990 (Post-independence)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Madras (India). -- Government Oriental Manuscripts Library; South India -- History -- Sources; Manuscripts, Indic -- Abstracts",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://openlibrary.org/works/OL23222919W",
+"copies": [],
+"other_source_urls": [
+"https://openlibrary.org/works/OL20740011M"
+],
+"sources": [
+"Open Library"
+],
+"curated": false,
+"scholar": "T. V. Mahalingam",
+"from_list": false,
+"added": "2026-10-20"
+},
+{
 "id": "TB-005853",
 "category": "PLM",
 "category_name": "Palm-leaf Manuscripts & Manuscriptology",
@@ -158333,47 +158378,6 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-28"
-},
-{
-"id": "TB-003961",
-"category": "PLM",
-"category_name": "Palm-leaf Manuscripts & Manuscriptology",
-"category_name_ta": "ஓலைச்சுவடிகள், சுவடியியல்",
-"title": "Mackenzie manuscripts",
-"title_ta": "",
-"title_en": "Mackenzie manuscripts",
-"title_en_note": "",
-"alt_title": "",
-"authors": "T. V. Mahalingam",
-"authors_roman": "",
-"publisher": "University of Madras",
-"publisher_roman": "",
-"place": "Chennai",
-"year": "2011",
-"period": "2011–2026 (Recent)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "Madras (India). -- Government Oriental Manuscripts Library; South India -- History -- Sources; Manuscripts, Indic -- Abstracts",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://openlibrary.org/works/OL23222919W",
-"copies": [],
-"other_source_urls": [
-"https://openlibrary.org/works/OL20740011M"
-],
-"sources": [
-"Open Library"
-],
-"curated": false,
-"scholar": "T. V. Mahalingam",
-"from_list": false,
-"added": "2026-10-20"
 },
 {
 "id": "TB-005886",
@@ -162941,9 +162945,9 @@
 "alt_title": "",
 "authors": "James Burgess",
 "authors_roman": "",
-"publisher": "Indological Book House; Trübner & Co.; Archaeological Survey of India",
+"publisher": "Indological Book House; Archaeological Survey of India; Trübner & Co.",
 "publisher_roman": "",
-"place": "Varanasi; London",
+"place": "London; Varanasi",
 "year": "1883",
 "period": "1800–1899 (Colonial, early)",
 "language": "English",
@@ -162952,7 +162956,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Pali Inscriptions; Caves; Prakrit Inscriptions; Temples; Sanskrit Inscriptions; Buddhist Cave temples",
+"subjects": "Pali Inscriptions; Caves; Prakrit Inscriptions; Temples; Sanskrit Inscriptions; Buddhist cave temples",
 "access": "open",
 "read_url": "https://archive.org/details/reportoneluraca00bhgoog",
 "download_url": "",
@@ -167895,8 +167899,8 @@
 ],
 "other_source_urls": [
 "https://catalog.hathitrust.org/Record/000501150",
-"https://catalog.hathitrust.org/Record/009790464",
 "https://catalog.hathitrust.org/Record/006213465",
+"https://catalog.hathitrust.org/Record/009790464",
 "https://archive.org/details/india.history.resource.77432",
 "https://archive.org/details/india.history.resource.89096"
 ],

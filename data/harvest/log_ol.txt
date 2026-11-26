@@ -75,7 +75,7 @@
 [ol] q=memorial stones South India: page 1 docs 24
 [ol] q=rock art Tamil Nadu: page 1 docs 5
 [ol] q=rock paintings Tamil Nadu: page 1 docs 4
-[ol] ERR prehistoric rock art South India <urlopen error [Errno 104] Connection reset by peer>
+[ol] q=prehistoric rock art South India: page 1 docs 5
 [ol] q=excavations Tamil Nadu: page 1 docs 43
 [ol] q=archaeology Tamil Nadu: page 1 docs 167
 [ol] q=archaeology Tamilnadu: page 1 docs 43
@@ -179,7 +179,7 @@
 [ol] q=cave inscriptions Madurai: page 1 docs 0
 [ol] q=inscriptional glossary Tamil: page 1 docs 11
 [ol] q=Tamil inscriptions translation: page 1 docs 7
-[ol] ERR Grantha inscriptions <urlopen error [Errno 104] Connection reset by peer>
+[ol] q=Grantha inscriptions: page 1 docs 7
 [ol] q=bilingual inscriptions Tamil Sanskrit: page 1 docs 0
 [ol] q=history of Tamil Nadu: page 1 docs 340
 [ol] q=history of the Tamils: page 1 docs 464
@@ -289,7 +289,7 @@
 [ol] q=சோழர் வரலாறு: page 1 docs 1
 [ol] q=பாண்டியர் வரலாறு: page 1 docs 0
 [ol] q=பல்லவர் வரலாறு: page 1 docs 0
-[ol] ERR சேரர் வரலாறு <urlopen error [Errno 104] Connection reset by peer>
+[ol] q=சேரர் வரலாறு: page 1 docs 0
 [ol] q=களப்பிரர்: page 1 docs 1
 [ol] q=நாயக்கர் வரலாறு: page 1 docs 0
 [ol] q=சேதுபதி: page 1 docs 0
@@ -425,7 +425,7 @@
 [ol] q=prehistoric rock art South India first_publish_year:[2024 TO 2026]: page 1 docs 1
 [ol] q=excavations Tamil Nadu first_publish_year:[2024 TO 2026]: page 1 docs 0
 [ol] q=archaeology Tamil Nadu first_publish_year:[2024 TO 2026]: page 1 docs 0
-[ol] q=archaeology Tamilnadu first_publish_year:[2024 TO 2026]: page 1 docs 0
+[ol] ERR archaeology Tamilnadu first_publish_year:[2024 TO 2026] <urlopen error [Errno 111] Connection refused>
 [ol] q=Tamil Nadu archaeology department first_publish_year:[2024 TO 2026]: page 1 docs 0
 [ol] q=megalithic Tamil Nadu first_publish_year:[2024 TO 2026]: page 1 docs 0
 [ol] q=megaliths South India first_publish_year:[2024 TO 2026]: page 1 docs 0
@@ -589,7 +589,7 @@
 [ol] q=நாணயவியல் first_publish_year:[2024 TO 2026]: page 1 docs 0
 [ol] q=பழங்காசுகள் first_publish_year:[2024 TO 2026]: page 1 docs 0
 [ol] q=பெருங்கற்காலம் first_publish_year:[2024 TO 2026]: page 1 docs 0
-[ol] ERR முதுமக்கள் தாழி first_publish_year:[2024 TO 2026] <urlopen error [Errno 104] Connection reset by peer>
+[ol] q=முதுமக்கள் தாழி first_publish_year:[2024 TO 2026]: page 1 docs 0
 [ol] q=கீழடி first_publish_year:[2024 TO 2026]: page 1 docs 0
 [ol] q=ஆதிச்சநல்லூர் first_publish_year:[2024 TO 2026]: page 1 docs 0
 [ol] q=கொடுமணல் first_publish_year:[2024 TO 2026]: page 1 docs 0
@@ -651,6 +651,6 @@
 [ol] q=தமிழக சமூக வரலாறு first_publish_year:[2024 TO 2026]: page 1 docs 0
 [ol] q=தமிழகப் பொருளாதார வரலாறு first_publish_year:[2024 TO 2026]: page 1 docs 0
 [ol] q=கடல் வணிகம் first_publish_year:[2024 TO 2026]: page 1 docs 0
-[ol] saved 1207 records
-[ol] took 6553s
-total 6553s
+[ol] saved 1213 records
+[ol] took 1158s
+total 1158s
