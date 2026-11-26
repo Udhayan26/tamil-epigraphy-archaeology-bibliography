@@ -1,23 +1,6 @@
 [
 {
 "source": "Library of Congress",
-"source_id": "http://www.loc.gov/item/01001382/",
-"title": "History of the Periyár project",
-"alt_title": "",
-"authors": "mackenzie, archibald thomas",
-"publisher": "",
-"place": "",
-"year": "1899",
-"language": "english",
-"subjects": "periyar river; india; tamil nadu; irrigation",
-"url": "https://www.loc.gov/item/01001382/",
-"access": "open",
-"read_url": "https://www.loc.gov/item/01001382/",
-"download_url": "https://tile.loc.gov/storage-services/public/gdcmassbookdig/historyofperiyar00mack/historyofperiyar00mack.pdf",
-"imprint": "Madras, Printed by the superintendent, Government Press, 1899."
-},
-{
-"source": "Library of Congress",
 "source_id": "http://www.loc.gov/item/05006173/",
 "title": "Oriental historical manuscripts, in the Tamil language: translated; with annotations",
 "alt_title": "",
@@ -32,23 +15,6 @@
 "read_url": "https://www.loc.gov/item/05006173/",
 "download_url": "https://tile.loc.gov/storage-services/public/gdc/00050770849/00050770849.pdf",
 "imprint": "Madras [Printed by J.C. Taylor] 1835."
-},
-{
-"source": "Library of Congress",
-"source_id": "http://www.loc.gov/item/hlas-bi95019131/",
-"title": "La chola boliviana",
-"alt_title": "",
-"authors": "healy, kevin j.; paredes candia, antonio",
-"publisher": "",
-"place": "",
-"year": "1992",
-"language": "spanish",
-"subjects": "clothing and dress -- bolivia; bolivia; mestizos and mestizaje; indian women; cooking -- bolivia; cooking; clothing and dress; wit and humor -- bolivia; chicha -- bolivia; women; mestizos and mestizaje -- bolivia; women -- bolivia",
-"url": "https://www.loc.gov/item/hlas-bi95019131/",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"imprint": ""
 },
 {
 "source": "Library of Congress",
@@ -117,6 +83,23 @@
 "read_url": "https://www.loc.gov/item/2021005665/",
 "download_url": "",
 "imprint": "Ithaca [New York] : Cornell University Press, [2021]"
+},
+{
+"source": "Library of Congress",
+"source_id": "http://www.loc.gov/item/01001382/",
+"title": "History of the Periyár project",
+"alt_title": "",
+"authors": "mackenzie, archibald thomas",
+"publisher": "",
+"place": "",
+"year": "1899",
+"language": "english",
+"subjects": "periyar river; india; irrigation; tamil nadu",
+"url": "https://www.loc.gov/item/01001382/",
+"access": "open",
+"read_url": "https://www.loc.gov/item/01001382/",
+"download_url": "https://tile.loc.gov/storage-services/public/gdcmassbookdig/historyofperiyar00mack/historyofperiyar00mack.pdf",
+"imprint": "Madras, Printed by the superintendent, Government Press, 1899."
 },
 {
 "source": "Library of Congress",
@@ -440,6 +423,23 @@
 "read_url": "https://www.loc.gov/item/01013415/",
 "download_url": "https://tile.loc.gov/storage-services/public/gdcmassbookdig/historicalaccoun00john/historicalaccoun00john.pdf",
 "imprint": "Philadelphia, O. Rogers, 1839."
+},
+{
+"source": "Library of Congress",
+"source_id": "http://www.loc.gov/item/hlas-bi95019131/",
+"title": "La chola boliviana",
+"alt_title": "",
+"authors": "paredes candia, antonio; healy, kevin j.",
+"publisher": "",
+"place": "",
+"year": "1992",
+"language": "spanish",
+"subjects": "chicha -- bolivia; bolivia; indian women; wit and humor -- bolivia; mestizos and mestizaje -- bolivia; wit and humor; mestizos and mestizaje; women -- bolivia; cooking -- bolivia; clothing and dress; cooking; clothing and dress -- bolivia",
+"url": "https://www.loc.gov/item/hlas-bi95019131/",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"imprint": ""
 },
 {
 "source": "Library of Congress",
