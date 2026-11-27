@@ -122,12 +122,12 @@
 [ia]     0  title:(olaiccuvati*)
 [ia]     0  title:(cuvatiyiyal*)
 [ia]     0  title:(suvadiyiyal*)
-[ia]    44  title:(suvadi*)
+[ia]    45  title:(suvadi*)
 [ia]     0  title:(kacukal*)
 [ia]     0  title:(kasukal*)
 [ia]     1  title:(nanayangal*)
 [ia]   128  title:(varalaru*)
-[ia]    57  title:(varalaaru*)
+[ia]    66  title:(varalaaru*)
 [ia]     1  title:("cholar varalaru")
 [ia]     0  title:("pandiyar varalaru")
 [ia]     1  title:("pallavar varalaru")
@@ -327,9 +327,9 @@
 [ia]     0  collection:(tamilheritagefoundation) AND (title:(inscriptions OR epigraphy OR archaeology 
 [ia]     0  collection:(noolaham) AND (title:(inscriptions OR epigraphy OR archaeology OR excavation O
 [ia]  1043  collection:(TamilVirtualAcademy) AND (title:(inscriptions OR epigraphy OR archaeology OR e
-[ia] raw unique hits: 18562
+[ia] raw unique hits: 18572
 [ia] relevant: 7501
-[ia] 7500 reused, enriching 1 new items via metadata API
+[ia] 7501 reused, enriching 0 new items via metadata API
 [ia] saved 7501 records
-[ia] took 522s
-total 522s
+[ia] took 469s
+total 469s

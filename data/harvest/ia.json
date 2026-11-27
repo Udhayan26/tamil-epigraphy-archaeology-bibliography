@@ -101516,8 +101516,7 @@
 "download_url": "https://archive.org/download/mpl.411.7548.sou.3.1171/mpl.411.7548.sou.3.1171.pdf",
 "collection": "KarnatakaArchaeology; ServantsOfKnowledge; JaiGyan",
 "description": "",
-"enriched": true,
-"imagecount": "148"
+"enriched": true
 },
 {
 "source": "Internet Archive",
@@ -139060,7 +139059,7 @@
 "access": "open",
 "read_url": "https://archive.org/details/pqrk_royal-conquests-and-cultural-migrations-in-south-india-and-the-deccan-by-c-",
 "download_url": "https://archive.org/download/pqrk_royal-conquests-and-cultural-migrations-in-south-india-and-the-deccan-by-c-/Royal%20Conquests%20And%20Cultural%20Migrations%20In%20South%20India%20And%20The%20Deccan%20By%20C%20Sivaramamurti%20History%20Archaeology%20Illustrated%20Calcutta%201955%20-%20Trustees%20Of%20The%20Indian%20Museum.pdf",
-"collection": "opensource",
+"collection": "opensource; fav-ujjwal_sankhla",
 "description": "'Royal Conquests And Cultural Migrations In South India And The Deccan By C Sivaramamurti History Archaeology Illustrated Calcutta 1955 - Trustees Of The Indian Museum', Agamnigam Digital Preservation Foundation, Agamnigam-Chandigarh, LCK-M",
 "enriched": true
 },

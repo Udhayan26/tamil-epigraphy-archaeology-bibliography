@@ -3,12 +3,12 @@ cm.json: previous 272, this run 265, kept from before 7, total 272
 doab.json: previous 0, this run 0, kept from before 0, total 0
 gb.json: previous 0, this run 0, kept from before 0, total 0
 ht.json: previous 5195, this run 5195, kept from before 0, total 5195
-ia.json: previous 7902, this run 7501, kept from before 402, total 7903
+ia.json: previous 7903, this run 7501, kept from before 402, total 7903
 loc.json: previous 42, this run 42, kept from before 0, total 42
-nl.json: previous 311, this run 164, kept from before 147, total 311
+nl.json: previous 311, this run 153, kept from before 158, total 311
 oa.json: previous 489, this run 489, kept from before 0, total 489
 ol.json: previous 2357, this run 1213, kept from before 1144, total 2357
 td.json: previous 2573, this run 2573, kept from before 0, total 2573
 wi.json: previous 64, this run 64, kept from before 0, total 64
-ws.json: previous 604, this run 596, kept from before 8, total 604
+ws.json: previous 604, this run 597, kept from before 7, total 604
 xs.json: previous 0, this run 0, kept from before 0, total 0
