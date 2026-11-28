@@ -1,37 +1,37 @@
 {
- "created": 1795814492,
- "d1": "ia600400.us.archive.org",
- "d2": "ia800400.us.archive.org",
- "dir": "/4/items/rmrl_13969_1957",
+ "created": 1795835097,
+ "d1": "ia600709.us.archive.org",
+ "d2": "ia800709.us.archive.org",
+ "dir": "/30/items/rmrl_29365_1900",
  "files_count": 5,
- "item_last_updated": 1795776215,
- "item_size": 79530167,
+ "item_last_updated": 1795835089,
+ "item_size": 1441914,
  "metadata": {
-  "identifier": "rmrl_13969_1957",
-  "call_number": "18296",
+  "identifier": "rmrl_29365_1900",
+  "call_number": "40657",
   "collection": "opensource",
-  "coverage": "Cuddalore",
+  "coverage": "மதுரை",
   "creator": "Unknown / Classical",
-  "date": "1957",
-  "description": "Digitized from the Roja Muthiah Research Library (RMRL) digital archive (https://rmrl.in). Catalog ID: 13969. Shelf Mark: 18296. Place: Cuddalore. Publisher: G. Samuel. Publication Year: 1957. Physical Description: 77 p. ; 18 cm..\n<p>Scraped from rmrl.in HTML flipbooks to pdf by <a href=\"https://github.com/KalvettuByte\" rel=\"ugc nofollow\">KalvettuByte</a></p>",
-  "extent": "77 p. ; 18 cm.",
+  "date": "1900",
+  "description": "Digitized from the Roja Muthiah Research Library (RMRL) digital archive (https://rmrl.in). Catalog ID: 29365. Shelf Mark: 40657. Place: மதுரை. Publisher: [s.n. Publication Year: 1900. Physical Description: 14 p. : ill. ; 21 cm..\n<p>Scraped from rmrl.in HTML flipbooks to pdf by <a href=\"https://github.com/KalvettuByte\" rel=\"ugc nofollow\">KalvettuByte</a></p>",
+  "extent": "14 p. : ill. ; 21 cm.",
   "language": "tam",
   "mediatype": "texts",
-  "publisher": "G. Samuel",
+  "publisher": "[s.n",
   "subject": "Tamil literature; RMRL; Roja Muthiah Research Library; Tamil books",
-  "title": "Thabaal Muthiraigal Segarikkum Kalai | தபால் முத்திரைகள் சேகரிக்கும் கலை",
-  "year": "1957",
+  "title": "Madhuraimaa Nagarai Serndha Keezhadi Paarthalinggesvaran Vazhinadaichindhu | மதுரைமா நகரைச் சேர்ந்த கீழடி பார்த்தலிங்கேஸ்வரன் வழிநடைச்சிந்து",
+  "year": "1900",
   "uploader": "kalvettubyte@gmail.com",
-  "publicdate": "2026-11-27 10:38:21",
-  "addeddate": "2026-11-27 10:38:21",
-  "curation": "[curator]validator@archive.org[/curator][date]20261127104307[/date][comment]checked for malware[/comment]"
+  "publicdate": "2026-11-28 02:58:38",
+  "addeddate": "2026-11-28 02:58:38",
+  "curation": "[curator]validator@archive.org[/curator][date]20261128030447[/date][comment]checked for malware[/comment]"
  },
  "pending_tasks": true,
- "server": "ia600400.us.archive.org",
+ "server": "ia600709.us.archive.org",
  "servers_unavailable": true,
  "tasks": [
   {
-   "task_id": 5778163957,
+   "task_id": 5779023740,
    "cmd": "derive.php",
    "priority": -7,
    "wait_admin": 0,
@@ -39,8 +39,8 @@
    "status": "queued"
   }
  ],
- "uniq": 1650687504,
+ "uniq": 578740067,
  "workable_servers": [
-  "ia600400.us.archive.org"
+  "ia600709.us.archive.org"
  ]
 }

@@ -652,5 +652,5 @@
 [ol] q=தமிழகப் பொருளாதார வரலாறு first_publish_year:[2024 TO 2026]: page 1 docs 0
 [ol] q=கடல் வணிகம் first_publish_year:[2024 TO 2026]: page 1 docs 0
 [ol] saved 1213 records
-[ol] took 917s
-total 917s
+[ol] took 991s
+total 991s

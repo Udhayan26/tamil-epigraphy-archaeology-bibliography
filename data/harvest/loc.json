@@ -18,6 +18,23 @@
 },
 {
 "source": "Library of Congress",
+"source_id": "http://www.loc.gov/item/01001382/",
+"title": "History of the Periyár project",
+"alt_title": "",
+"authors": "mackenzie, archibald thomas",
+"publisher": "",
+"place": "",
+"year": "1899",
+"language": "english",
+"subjects": "india; periyar river; tamil nadu; irrigation",
+"url": "https://www.loc.gov/item/01001382/",
+"access": "open",
+"read_url": "https://www.loc.gov/item/01001382/",
+"download_url": "https://tile.loc.gov/storage-services/public/gdcmassbookdig/historyofperiyar00mack/historyofperiyar00mack.pdf",
+"imprint": "Madras, Printed by the superintendent, Government Press, 1899."
+},
+{
+"source": "Library of Congress",
 "source_id": "http://www.loc.gov/item/43032684/",
 "title": "Two years in the jungle : the experiences of a hunter and naturalist in India, Ceylon, the Malay Peninsula and Borneo",
 "alt_title": "",
@@ -83,23 +100,6 @@
 "read_url": "https://www.loc.gov/item/2021005665/",
 "download_url": "",
 "imprint": "Ithaca [New York] : Cornell University Press, [2021]"
-},
-{
-"source": "Library of Congress",
-"source_id": "http://www.loc.gov/item/01001382/",
-"title": "History of the Periyár project",
-"alt_title": "",
-"authors": "mackenzie, archibald thomas",
-"publisher": "",
-"place": "",
-"year": "1899",
-"language": "english",
-"subjects": "periyar river; india; irrigation; tamil nadu",
-"url": "https://www.loc.gov/item/01001382/",
-"access": "open",
-"read_url": "https://www.loc.gov/item/01001382/",
-"download_url": "https://tile.loc.gov/storage-services/public/gdcmassbookdig/historyofperiyar00mack/historyofperiyar00mack.pdf",
-"imprint": "Madras, Printed by the superintendent, Government Press, 1899."
 },
 {
 "source": "Library of Congress",
