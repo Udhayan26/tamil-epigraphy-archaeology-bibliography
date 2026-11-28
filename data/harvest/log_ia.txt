@@ -51,7 +51,7 @@
 [ia]     0  (title:("செப்புப் பட்டயம்") OR subject:("செப்புப் பட்டயம்"))
 [ia]     0  (title:("செப்புப்பட்டயங்கள்") OR subject:("செப்புப்பட்டயங்கள்"))
 [ia]     6  (title:("பட்டயங்கள்") OR subject:("பட்டயங்கள்"))
-[ia]     6  (title:("முத்திரைகள்") OR subject:("முத்திரைகள்"))
+[ia]     7  (title:("முத்திரைகள்") OR subject:("முத்திரைகள்"))
 [ia]   168  (title:("குடைவரை") OR subject:("குடைவரை"))
 [ia]     0  (title:("சமணப் படுகை") OR subject:("சமணப் படுகை"))
 [ia]     0  (title:("கல்வெட்டுச் சொல்") OR subject:("கல்வெட்டுச் சொல்"))
@@ -67,7 +67,7 @@
 [ia]     2  (title:("சேரர் வரலாறு") OR subject:("சேரர் வரலாறு"))
 [ia]    23  (title:("களப்பிரர்") OR subject:("களப்பிரர்"))
 [ia]     5  (title:("நாயக்கர் வரலாறு") OR subject:("நாயக்கர் வரலாறு"))
-[ia]   209  (title:("சேதுபதி") OR subject:("சேதுபதி"))
+[ia]   211  (title:("சேதுபதி") OR subject:("சேதுபதி"))
 [ia]    57  (title:("தொண்டைமான்") OR subject:("தொண்டைமான்"))
 [ia]     0  (title:("மராட்டியர் வரலாறு") OR subject:("மராட்டியர் வரலாறு"))
 [ia]    20  (title:("விஜயநகர") OR subject:("விஜயநகர"))
@@ -77,9 +77,9 @@
 [ia]     6  (title:("பாளையக்காரர்") OR subject:("பாளையக்காரர்"))
 [ia]     2  (title:("ஊர் வரலாறு") OR subject:("ஊர் வரலாறு"))
 [ia]    13  (title:("மாவட்ட வரலாறு") OR subject:("மாவட்ட வரலாறு"))
-[ia]   157  (title:("தல வரலாறு") OR subject:("தல வரலாறு"))
-[ia]   124  (title:("தலவரலாறு") OR subject:("தலவரலாறு"))
-[ia]    87  (title:("கோயில் வரலாறு") OR subject:("கோயில் வரலாறு"))
+[ia]   166  (title:("தல வரலாறு") OR subject:("தல வரலாறு"))
+[ia]   135  (title:("தலவரலாறு") OR subject:("தலவரலாறு"))
+[ia]    93  (title:("கோயில் வரலாறு") OR subject:("கோயில் வரலாறு"))
 [ia]     0  (title:("ஈழத் தமிழர் வரலாறு") OR subject:("ஈழத் தமிழர் வரலாறு"))
 [ia]     0  (title:("யாழ்ப்பாண வரலாறு") OR subject:("யாழ்ப்பாண வரலாறு"))
 [ia]     7  (title:("மெய்க்கீர்த்தி") OR subject:("மெய்க்கீர்த்தி"))
@@ -122,12 +122,12 @@
 [ia]     0  title:(olaiccuvati*)
 [ia]     0  title:(cuvatiyiyal*)
 [ia]     0  title:(suvadiyiyal*)
-[ia]    45  title:(suvadi*)
+[ia]    48  title:(suvadi*)
 [ia]     0  title:(kacukal*)
 [ia]     0  title:(kasukal*)
 [ia]     1  title:(nanayangal*)
 [ia]   128  title:(varalaru*)
-[ia]    66  title:(varalaaru*)
+[ia]   109  title:(varalaaru*)
 [ia]     1  title:("cholar varalaru")
 [ia]     0  title:("pandiyar varalaru")
 [ia]     1  title:("pallavar varalaru")
@@ -327,9 +327,9 @@
 [ia]     0  collection:(tamilheritagefoundation) AND (title:(inscriptions OR epigraphy OR archaeology 
 [ia]     0  collection:(noolaham) AND (title:(inscriptions OR epigraphy OR archaeology OR excavation O
 [ia]  1043  collection:(TamilVirtualAcademy) AND (title:(inscriptions OR epigraphy OR archaeology OR e
-[ia] raw unique hits: 18572
-[ia] relevant: 7501
-[ia] 7501 reused, enriching 0 new items via metadata API
-[ia] saved 7501 records
-[ia] took 469s
-total 469s
+[ia] raw unique hits: 18632
+[ia] relevant: 7502
+[ia] 7501 reused, enriching 1 new items via metadata API
+[ia] saved 7502 records
+[ia] took 522s
+total 522s
