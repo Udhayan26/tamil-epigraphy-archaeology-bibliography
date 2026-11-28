@@ -83504,8 +83504,7 @@
 "download_url": "https://archive.org/download/rmrl_13969_1957/13969-Unknown%20_%20Classical-Thabaal%20Muthiraigal%20Segarikkum%20Kalai--Unknown%20_%20Classical-%E0%AE%A4%E0%AE%AA%E0%AE%BE%E0%AE%B2%E0%AF%8D%20%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%88%E0%AE%95%E0%AE%B3%E0%AF%8D%20%E0%AE%9A%E0%AF%87%E0%AE%95%E0%AE%B0%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%88%20%281957%29-Roja%20Muthiah%20Digital%20Library.pdf",
 "collection": "opensource",
 "description": "Digitized from the Roja Muthiah Research Library (RMRL) digital archive (https://rmrl.in). Catalog ID: 13969. Shelf Mark: 18296. Place: Cuddalore. Publisher: G. Samuel. Publication Year: 1957. Physical Description: 77 p. ; 18 cm.. Scraped from rmrl.in HTML flipbooks to pdf by KalvettuByte",
-"enriched": true,
-"call_number": "18296"
+"enriched": true
 },
 {
 "source": "Internet Archive",
@@ -95989,6 +95988,26 @@
 "collection": "opensource",
 "description": "Muthulakshmi Research Academy Scans, 'Olaichuvadi (Tamil) by Dr.Venganoor Balakrishnan Tamil Trans by Ranjan Swamidas 2005 Nagercoil Tamil - Divine Digital'",
 "enriched": true
+},
+{
+"source": "Internet Archive",
+"source_id": "rmrl_31588_1920",
+"title": "Olaichuvadigalilirundhu Pudhidhaay Achitta Siddhar Noolkal Puthagavilai Jaapthaa | ஒலைச்சுவடிகளிலிருந்து புதிதாய் அச்சிட்ட சித்தர் நூல்கள் புத்தகவிலை ஜாப்தா",
+"alt_title": "",
+"authors": "Unknown / Classical",
+"publisher": "ஸ்ரீ ராமச்சந்திர விலாசம் பிரஸ்",
+"place": "",
+"year": "1920",
+"language": "tam",
+"subjects": "Tamil literature; RMRL; Roja Muthiah Research Library; Tamil books",
+"url": "https://archive.org/details/rmrl_31588_1920",
+"access": "open",
+"read_url": "https://archive.org/details/rmrl_31588_1920",
+"download_url": "https://archive.org/download/rmrl_31588_1920/31588-Olaichuvadigalilirundhu%20Pudhidhaay%20Achitta%20Siddhar%20Noolkal%20Puthagavilai%20Jaapthaa--Unknown%20/%20Classical-%E0%AE%92%E0%AE%B2%E0%AF%88%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AF%81%E0%AE%B5%E0%AE%9F%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AE%BF%E0%AE%B2%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81%20%E0%AE%AA%E0%AF%81%20%281920%29-Roja%20Muthiah%20Digital%20Library.pdf",
+"collection": "opensource",
+"description": "Digitized from the Roja Muthiah Research Library (RMRL) digital archive (https://rmrl.in). Catalog ID: 31588. Shelf Mark: 46602. Place: மதுரை. Publisher: ஸ்ரீ ராமச்சந்திர விலாசம் பிரஸ். Publication Year: 1920. Physical Description: 15 p. : ill. ; 16 cm.. Scraped from rmrl.in HTML flipbooks to pdf by KalvettuByte",
+"enriched": true,
+"call_number": "46602"
 },
 {
 "source": "Internet Archive",

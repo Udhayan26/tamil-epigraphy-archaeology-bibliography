@@ -1,22 +1,22 @@
 {
 "generated": "2026-11-28",
-"count": 4662,
-"with_author": 3153,
-"with_publisher": 2888,
-"with_year": 3238,
+"count": 4663,
+"with_author": 3154,
+"with_publisher": 2889,
+"with_year": 3239,
 "open_access": 2835,
-"with_download": 2374,
+"with_download": 2375,
 "heritage_records": 4263,
 "with_buy": 0,
 "access": {
 "open": 2835,
-"catalogue": 1638,
+"catalogue": 1639,
 "": 47,
 "open-us": 99,
 "borrow": 43
 },
 "sources": {
-"Internet Archive": 2323,
+"Internet Archive": 2324,
 "Noolaham": 193,
 "Open Library": 1233,
 "Curated": 206,
@@ -102,7 +102,7 @@
 "PLM": {
 "en": "Palm-leaf Manuscripts & Manuscriptology",
 "ta": "ஓலைச்சுவடிகள், சுவடியியல்",
-"count": 246
+"count": 247
 },
 "SEA": {
 "en": "Seals, Rock-cut Caves & Jain Beds",
@@ -6180,7 +6180,7 @@
 "alt_title": "",
 "authors": "Eugen Hultzsch",
 "authors_roman": "",
-"publisher": "Indological Book House; Manager of Publications",
+"publisher": "Manager of Publications",
 "publisher_roman": "",
 "place": "Delhi",
 "year": "1890",
@@ -6558,14 +6558,14 @@
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Indica / Archaeological Survey of India — 1892",
+"title": "Epigraphia Indica / Archæological Survey of India — 1892",
 "title_ta": "",
-"title_en": "Epigraphia Indica / Archaeological Survey of India — 1892",
+"title_en": "Epigraphia Indica / Archæological Survey of India — 1892",
 "title_en_note": "",
 "alt_title": "",
 "authors": "James Burgess; E. Hultzsch; Alois Anton Führer",
 "authors_roman": "",
-"publisher": "Manager of Publications",
+"publisher": "Supt. of Govt. Printing, India",
 "publisher_roman": "",
 "place": "",
 "year": "1892",
@@ -6634,15 +6634,15 @@
 "pdf": ""
 },
 {
-"read": "https://archive.org/details/mpl.411.754.epi.35.8907-p4",
-"pdf": ""
-},
-{
 "read": "https://archive.org/details/bmshri.epigraphiaindica0000unse_e9c9",
 "pdf": ""
 },
 {
 "read": "https://archive.org/details/mpl.411.754.epi.39.8943",
+"pdf": ""
+},
+{
+"read": "https://archive.org/details/mpl.411.754.epi.35.8907-p4",
 "pdf": ""
 },
 {
@@ -6660,9 +6660,9 @@
 ],
 "other_source_urls": [
 "https://archive.org/details/mpl.411.7.54.epi.34.8928",
-"https://archive.org/details/mpl.411.754.epi.35.8907-p4",
 "https://archive.org/details/bmshri.epigraphiaindica0000unse_e9c9",
 "https://archive.org/details/mpl.411.754.epi.39.8943",
+"https://archive.org/details/mpl.411.754.epi.35.8907-p4",
 "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_1_%281892%29.pdf"
 ],
 "sources": [
@@ -6878,14 +6878,14 @@
 "category": "ASI",
 "category_name": "Inscription Corpora: ASI, Epigraphia & Colonial Series",
 "category_name_ta": "கல்வெட்டுத் தொகுதிகள்: இந்தியத் தொல்லியல் துறை",
-"title": "Epigraphia Indica / Archaeological Survey of India — 1894",
+"title": "Epigraphia Indica / Archæological Survey of India — 1894",
 "title_ta": "",
-"title_en": "Epigraphia Indica / Archaeological Survey of India — 1894",
+"title_en": "Epigraphia Indica / Archæological Survey of India — 1894",
 "title_en_note": "",
 "alt_title": "",
 "authors": "",
 "authors_roman": "",
-"publisher": "Manager of Publications",
+"publisher": "Supt. of Govt. Printing, India",
 "publisher_roman": "",
 "place": "",
 "year": "1894",
@@ -7041,10 +7041,10 @@
 "title_ta": "",
 "title_en": "Epigraphia Indica, Vol. 3",
 "title_en_note": "",
-"alt_title": "Epigraphia Indica Vol III",
+"alt_title": "Epigraphia Indica-Vol,XXXIII-Oct,1960-Part,VIII",
 "authors": "E. Hultzsch",
 "authors_roman": "",
-"publisher": "The Government Of India",
+"publisher": "The Manager Of Publications, Delhi",
 "publisher_roman": "",
 "place": "",
 "year": "1895",
@@ -7057,25 +7057,25 @@
 "notes": "'Epigraphia Indica Vol 3'",
 "subjects": "Mahesha Pillai",
 "access": "open",
-"read_url": "https://archive.org/details/mpl.411.754.epi.3.207",
+"read_url": "https://archive.org/details/mpl.411.754.epi.33.8926",
 "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_3.pdf",
 "buy_url": "",
-"source_url": "https://archive.org/details/mpl.411.754.epi.3.207",
+"source_url": "https://archive.org/details/mpl.411.754.epi.33.8926",
 "copies": [
-{
-"read": "https://archive.org/details/mpl.411.754.epi.3.207",
-"pdf": ""
-},
-{
-"read": "https://archive.org/details/mpl.411.754.epi.3.220",
-"pdf": ""
-},
 {
 "read": "https://archive.org/details/mpl.411.754.epi.33.8926",
 "pdf": ""
 },
 {
 "read": "https://archive.org/details/mpl.411.754.epi.34.8930",
+"pdf": ""
+},
+{
+"read": "https://archive.org/details/mpl.411.754.epi.3.207",
+"pdf": ""
+},
+{
+"read": "https://archive.org/details/mpl.411.754.epi.3.220",
 "pdf": ""
 },
 {
@@ -7096,9 +7096,9 @@
 }
 ],
 "other_source_urls": [
-"https://archive.org/details/mpl.411.754.epi.3.220",
-"https://archive.org/details/mpl.411.754.epi.33.8926",
 "https://archive.org/details/mpl.411.754.epi.34.8930",
+"https://archive.org/details/mpl.411.754.epi.3.207",
+"https://archive.org/details/mpl.411.754.epi.3.220",
 "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_3.pdf",
 "https://catalog.hathitrust.org/Record/000530277"
 ],
@@ -8148,10 +8148,10 @@
 "title_ta": "",
 "title_en": "Epigraphia Indica, Vol. 7",
 "title_en_note": "",
-"alt_title": "Epigraphia Indica Vol VII 1902-1903",
+"alt_title": "Epigraphia indica (volume 7 & 8)",
 "authors": "E. Hultzsch",
 "authors_roman": "",
-"publisher": "The Government Of India",
+"publisher": "The director general archaeological survey of india",
 "publisher_roman": "",
 "place": "",
 "year": "1903",
@@ -8164,21 +8164,21 @@
 "notes": "'Epigraphia Indica Vol 7'",
 "subjects": "Devi Bali",
 "access": "open",
-"read_url": "https://archive.org/details/mpl.411.754.epi.7.211",
+"read_url": "https://archive.org/details/bmshri.epigraphiaindica0000prof_t2d7",
 "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epigraphia_Indica_Vol_7.pdf",
 "buy_url": "",
-"source_url": "https://archive.org/details/mpl.411.754.epi.7.211",
+"source_url": "https://archive.org/details/bmshri.epigraphiaindica0000prof_t2d7",
 "copies": [
+{
+"read": "https://archive.org/details/bmshri.epigraphiaindica0000prof_t2d7",
+"pdf": ""
+},
 {
 "read": "https://archive.org/details/mpl.411.754.epi.7.211",
 "pdf": ""
 },
 {
 "read": "https://archive.org/details/mpl.411.754.epi.7.224",
-"pdf": ""
-},
-{
-"read": "https://archive.org/details/bmshri.epigraphiaindica0000prof_t2d7",
 "pdf": ""
 },
 {
@@ -8203,8 +8203,8 @@
 }
 ],
 "other_source_urls": [
+"https://archive.org/details/mpl.411.754.epi.7.211",
 "https://archive.org/details/mpl.411.754.epi.7.224",
-"https://archive.org/details/bmshri.epigraphiaindica0000prof_t2d7",
 "https://commons.wikimedia.org/wiki/File%3AEpigraphia_Indica_Vol_7.pdf",
 "https://catalog.hathitrust.org/Record/000530277",
 "https://catalog.hathitrust.org/Record/006782992"
@@ -38484,8 +38484,8 @@
 "other_source_urls": [
 "https://archive.org/details/tdl.10761-nuul-tnycaavuur-vttttk-klvettttukll-tokuti-1",
 "https://openlibrary.org/works/OL18670247W",
-"https://catalog.hathitrust.org/Record/005676050",
-"https://archive.org/details/digital.assets.thanjchaavuur_vaddak_kalveddukaL"
+"https://archive.org/details/digital.assets.thanjchaavuur_vaddak_kalveddukaL",
+"https://catalog.hathitrust.org/Record/005676050"
 ],
 "sources": [
 "Curated",
@@ -38755,7 +38755,7 @@
 "isbn": "",
 "pages": "",
 "notes": "Coimbatore Mavatta Kalvettugal Thogudi 1",
-"subjects": "Coimbatore; Kalvettugal",
+"subjects": "Tamil Inscriptions; Sources; History",
 "access": "open",
 "read_url": "https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-10643-%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D%20%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%A4%E0%AF%8A%E0%AE%95%E0%AF%81%E0%AE%A4%E0%AE%BF%20-%201",
 "download_url": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_1.pdf",
@@ -38771,19 +38771,19 @@
 "pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_1.pdf"
 },
 {
-"read": "https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
-"pdf": "https://archive.org/download/coimbatore-mavatta-kalvettugal-thogudi-1/Coimbatore%20Mavatta%20Kalvettugal%20-%20Thogudi%201.pdf"
-},
-{
 "read": "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
 "pdf": "https://archive.org/download/digital.assets.kooyampuththuur_maavaddak_kalveddukaL/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D.pdf"
+},
+{
+"read": "https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
+"pdf": "https://archive.org/download/coimbatore-mavatta-kalvettugal-thogudi-1/Coimbatore%20Mavatta%20Kalvettugal%20-%20Thogudi%201.pdf"
 }
 ],
 "other_source_urls": [
 "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL_1",
-"https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1",
 "https://archive.org/details/digital.assets.kooyampuththuur_maavaddak_kalveddukaL",
-"https://openlibrary.org/works/OL18734808W"
+"https://openlibrary.org/works/OL18734808W",
+"https://archive.org/details/coimbatore-mavatta-kalvettugal-thogudi-1"
 ],
 "sources": [
 "Curated",
@@ -63953,7 +63953,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Antiquities; Architecture; Temples, Hindu; Hindu temples",
+"subjects": "Antiquities; Architecture; Hindu Temples; Temples, Hindu",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -65133,7 +65133,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Antiquities; Temples; Buildings, structures; Temples, Hindu; Hindu temples",
+"subjects": "Antiquities; Temples; Buildings, structures; Temples, Hindu; Hindu Temples",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -78839,7 +78839,7 @@
 "alt_title": "",
 "authors": "C. SIVARAMAMURTI",
 "authors_roman": "",
-"publisher": "Director General, Archaeological Survey of India; Director General of Archaeology in India; Dept. of Archaeoloy, India",
+"publisher": "Dept. of Archaeoloy, India; Director General, Archaeological Survey of India; Director General of Archaeology in India",
 "publisher_roman": "",
 "place": "New Delhi",
 "year": "1960",
@@ -78938,15 +78938,15 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Cave temples; Hindu temples; Hindu Sculpture",
+"subjects": "Cave temples; Temples, Hindu; Sculpture, Hindu; Hindu Temples; Hindu Sculpture",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
 "buy_url": "",
-"source_url": "https://openlibrary.org/works/OL33271343W",
+"source_url": "https://openlibrary.org/works/OL341826W",
 "copies": [],
 "other_source_urls": [
-"https://openlibrary.org/works/OL341826W"
+"https://openlibrary.org/works/OL33271343W"
 ],
 "sources": [
 "Open Library"
@@ -79057,7 +79057,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Chola (Indic people); Temples, Hindu; Hindu Sculpture; Hindu temples",
+"subjects": "Chola (Indic people); Temples, Hindu; Hindu Temples; Hindu sculpture",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -79369,9 +79369,9 @@
 "alt_title": "",
 "authors": "S. R. Balasubrahmanyam",
 "authors_roman": "",
-"publisher": "Asia Pub. House; Asia Publishing House; New Asia Pub. House",
+"publisher": "New Asia Pub. House; Asia Publishing House; Asia Pub. House",
 "publisher_roman": "",
-"place": "New York; Bombay",
+"place": "Bombay; New York",
 "year": "1966",
 "period": "1947–1990 (Post-independence)",
 "language": "English",
@@ -79380,7 +79380,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Chola (Indic people); Temples, Hindu; Hindu temples",
+"subjects": "Chola (Indic people); Temples, Hindu; Hindu Temples",
 "access": "open",
 "read_url": "https://archive.org/details/dli.ernet.528786",
 "download_url": "",
@@ -79467,7 +79467,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Chola (Indic people); Hindu Sculpture",
+"subjects": "Hindu sculpture; Chola (Indic people)",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -80346,7 +80346,7 @@
 "alt_title": "",
 "authors": "S. R. Balasubrahmanyam",
 "authors_roman": "",
-"publisher": "Thomson Press (India), Publication Division; Oriental Press",
+"publisher": "Oriental Press; Thomson Press (India), Publication Division",
 "publisher_roman": "",
 "place": "Faridabad; Amsterdam",
 "year": "1975",
@@ -80357,7 +80357,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Temples, Hindu; Temples; Architecture, Chola; Chola Architecture; Hindu temples",
+"subjects": "Temples, Hindu; Temples; Architecture, Chola; Chola Architecture; Hindu Temples",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -80544,7 +80544,7 @@
 "alt_title": "",
 "authors": "K. R. Srinivasan",
 "authors_roman": "",
-"publisher": "Abhinav Publications; Abhinav",
+"publisher": "Abhinav; Abhinav Publications",
 "publisher_roman": "",
 "place": "New Delhi",
 "year": "1975",
@@ -80555,7 +80555,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Indic Sculpture; Mahābalipūr, India; Mahābalipūr, India. Temple; Pallava Architecture; Pallava Sculpture; Temples; Hindu temples",
+"subjects": "Hindu Temples; Indic Sculpture; Mahābalipūr, India; Mahābalipūr, India. Temple; Pallava Architecture; Pallava Sculpture; Temples",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -83671,7 +83671,7 @@
 "isbn": "8170392187",
 "pages": "",
 "notes": "",
-"subjects": "Cave temples; Hindu temples; Rock Temples; Hindu Sculpture",
+"subjects": "Cave temples; Hindu temples; Rock Temples; Hindu sculpture",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -84167,7 +84167,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "History; Asian / Middle Eastern history; India; Religion & beliefs",
+"subjects": "History; Asian / Middle Eastern history; Religion & Beliefs; India",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -105931,7 +105931,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "india; periyar river; tamil nadu; irrigation",
+"subjects": "periyar river; india; irrigation; tamil nadu",
 "access": "open",
 "read_url": "https://www.loc.gov/item/01001382/",
 "download_url": "https://tile.loc.gov/storage-services/public/gdcmassbookdig/historyofperiyar00mack/historyofperiyar00mack.pdf",
@@ -106131,7 +106131,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Architecture, Islamic; Architecture; Islamic architecture",
+"subjects": "Architecture, Islamic; Architecture; Islamic Architecture; Islamic architecture",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -106553,7 +106553,7 @@
 "authors_roman": "",
 "publisher": "The law printing house mount road",
 "publisher_roman": "",
-"place": "Madras; Varanasi",
+"place": "New York; Madras",
 "year": "1916",
 "period": "1900–1946 (Colonial, late)",
 "language": "English",
@@ -106562,7 +106562,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Art, Hindu; Hindu Mythology; Hindu Sculptures; Idols and images; Mythology, Hindu; Sculptures, Hindu; Hindu art",
+"subjects": "Art, Hindu; Hindu Art; Hindu Mythology; Hindu Sculptures; Idols and images; Mythology, Hindu; Sculptures, Hindu",
 "access": "open",
 "read_url": "https://archive.org/details/bmshri.elementsofhindui0000tgop_v2_p2",
 "download_url": "",
@@ -109314,7 +109314,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Pilgrims and pilgrimages; Temples, Hindu; Śucīndram Temple (Suchindram, India); Hindu temples",
+"subjects": "Hindu Temples; Pilgrims and pilgrimages; Temples, Hindu; Śucīndram Temple (Suchindram, India); Hindu temples",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -111182,13 +111182,13 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-009056",
+"id": "TB-009055",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
 "category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "''' இங்கிலாந்தின் வரலாறு பாகம் - 2 '''",
-"title_ta": "''' இங்கிலாந்தின் வரலாறு பாகம் - 2 '''",
-"title_en": "''' Iṅkilāntiṉ Varalāṟu Pākam - 2 '''",
+"title": "''' இங்கிலாந்தின் வரலாறு பாகம் - 1 '''",
+"title_ta": "''' இங்கிலாந்தின் வரலாறு பாகம் - 1 '''",
+"title_en": "''' Iṅkilāntiṉ Varalāṟu Pākam - 1 '''",
 "title_en_note": "romanised from Tamil",
 "alt_title": "",
 "authors": "[[:பகுப்பு:திரவெலியன், யோ. ம.",
@@ -111202,22 +111202,22 @@
 "type": "Book",
 "series": "",
 "isbn": "",
-"pages": "554",
+"pages": "556",
 "notes": "",
 "subjects": "வரலாறு",
 "access": "open",
-"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AE%BE%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_2",
-"download_url": "http://noolaham.net/project/38/3722/3722.pdf",
+"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AE%BE%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_1",
+"download_url": "http://noolaham.net/project/38/3721/3721.pdf",
 "buy_url": "",
-"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AE%BE%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_2",
+"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AE%BE%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_1",
 "copies": [
 {
-"read": "https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AE%BE%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_1",
-"pdf": "http://noolaham.net/project/38/3721/3721.pdf"
+"read": "https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AE%BE%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_2",
+"pdf": "http://noolaham.net/project/38/3722/3722.pdf"
 }
 ],
 "other_source_urls": [
-"https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AE%BE%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_1"
+"https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AE%BE%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_2"
 ],
 "sources": [
 "Noolaham"
@@ -113357,7 +113357,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Carnatic; Temples; Temples, Hindu; Hindu temples",
+"subjects": "Carnatic; Hindu Temples; Temples; Temples, Hindu; Hindu temples",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -113838,7 +113838,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Temples, Hindu; Hinduismus; Tempel; Hindu temples",
+"subjects": "Hindu Temples; Temples, Hindu; Hinduismus; Tempel",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -114338,7 +114338,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Temples, Hindu; Hindu temples",
+"subjects": "Hindu Temples; Temples, Hindu",
 "access": "open",
 "read_url": "https://archive.org/details/bwb_P9-BET-635",
 "download_url": "",
@@ -114580,7 +114580,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Chronology; History; Medieval Civilization; Civilization, medieval",
+"subjects": "Chronology; History; Civilization, Medieval; Medieval Civilization",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -115622,7 +115622,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Srī Varadarājaswāmi Temple; Hindu temples",
+"subjects": "Hindu Temples; Srī Varadarājaswāmi Temple",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -115630,8 +115630,8 @@
 "source_url": "https://openlibrary.org/works/OL6896509W",
 "copies": [],
 "other_source_urls": [
-"https://openlibrary.org/works/OL12878838W",
-"https://openlibrary.org/works/OL6896510W"
+"https://openlibrary.org/works/OL6896510W",
+"https://openlibrary.org/works/OL12878838W"
 ],
 "sources": [
 "Open Library"
@@ -116096,7 +116096,7 @@
 "authors_roman": "",
 "publisher": "Gujarat State Committee for the Celebration of 2500th Anniversary of Bhagwan Mahavira Nirwan; exclusive distributors, Motilal Banarsidass",
 "publisher_roman": "",
-"place": "Delhi; Gandhinagar",
+"place": "Gandhinagar; Delhi",
 "year": "1976",
 "period": "1947–1990 (Post-independence)",
 "language": "English",
@@ -116105,7 +116105,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Temples; Temples, Jaina; Jaina temples",
+"subjects": "Temples; Temples, Jaina; Jaina Temples",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -116626,7 +116626,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Architecture; Palitana; Temples, Jaina; Jaina temples",
+"subjects": "Architecture; Palitana; Temples, Jaina; Jaina Temples",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -116989,7 +116989,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Addresses, essays, lectures; Hindu temples",
+"subjects": "Addresses, essays, lectures; Hindu Temples; Hindu temples",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -117232,7 +117232,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Art, Hindu; Art, Indic; History; Indic Art; Hindu art",
+"subjects": "Art, Hindu; Art, Indic; Hindu Art; History; Indic Art",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -119298,7 +119298,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Art, Vaishnava; History; Vaishnava Art; Vaishnavism; Vishnu (Hindu deity); Art; Art, Indic",
+"subjects": "Art, Vaishnava; History; Vaishnava Art; Vaishnavism; Vishnu (Hindu deity); Art, indic; Art",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -125727,7 +125727,7 @@
 "isbn": "8120601459; 9788120601451",
 "pages": "",
 "notes": "",
-"subjects": "Asian / Middle Eastern history; History; History: World; India; Customs & Traditions; General; Asia - India & South Asia; Tamil (Indic people); Asia",
+"subjects": "Asian / Middle Eastern history; History; History: World; ASIA; India; Customs & Traditions; General; Asia - India & South Asia; Tamil (Indic people)",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -127379,7 +127379,7 @@
 "authors_roman": "",
 "publisher": "Blackwell Publishers",
 "publisher_roman": "",
-"place": "Malden, Mass; Oxford [England]",
+"place": "Oxford [England]; Malden, Mass",
 "year": "1998",
 "period": "1991–2010",
 "language": "English",
@@ -129846,7 +129846,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Temples, Hindu; Hindu gods in art; Worship (Hinduism); Hindu temples; Pictorial works; Hindu Sculpture",
+"subjects": "Hindu Temples; Temples, Hindu; Hindu gods in art; Worship (Hinduism); Hindu temples; Pictorial works; Hindu sculpture",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -130845,6 +130845,52 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-11-08"
+},
+{
+"id": "TB-009870",
+"category": "HIS",
+"category_name": "Tamil History: General, Society & Economy",
+"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
+"title": "இலங்கை வரலாறு - பாகம் II",
+"title_ta": "இலங்கை வரலாறு - பாகம் II",
+"title_en": "Ilaṅkai Varalāṟu - Pākam II",
+"title_en_note": "romanised from Tamil",
+"alt_title": "",
+"authors": "[[:பகுப்பு:கிருஷ்ணராசா, செ.",
+"authors_roman": "[[:Pakuppu:Kiruṣṇarācā, Ce.",
+"publisher": "[[:பகுப்பு:பிறைநிலா வெளியீடு",
+"publisher_roman": "[[:Pakuppu:Piṟainilā Veḷiyīṭu",
+"place": "",
+"year": "2002",
+"period": "1991–2010",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "324",
+"notes": "",
+"subjects": "இலங்கை வரலாறு",
+"access": "open",
+"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_-_%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AE%AE%E0%AF%8D_II",
+"download_url": "http://noolaham.net/project/1124/112319/112319.pdf",
+"buy_url": "",
+"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_-_%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AE%AE%E0%AF%8D_II",
+"copies": [
+{
+"read": "https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_-_%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AE%AE%E0%AF%8D_2",
+"pdf": "http://noolaham.net/project/45/4420/4420.pdf"
+}
+],
+"other_source_urls": [
+"https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_-_%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AE%AE%E0%AF%8D_2"
+],
+"sources": [
+"Noolaham"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-10-29"
 },
 {
 "id": "TB-009777",
@@ -132506,52 +132552,6 @@
 "added": "2026-10-29"
 },
 {
-"id": "TB-009870",
-"category": "HIS",
-"category_name": "Tamil History: General, Society & Economy",
-"category_name_ta": "தமிழக வரலாறு: பொது, சமூகம், பொருளாதாரம்",
-"title": "'''இலங்கை வரலாறு - பாகம் 2'''",
-"title_ta": "'''இலங்கை வரலாறு - பாகம் 2'''",
-"title_en": "'''ilaṅkai Varalāṟu - Pākam 2'''",
-"title_en_note": "romanised from Tamil",
-"alt_title": "",
-"authors": "[[:பகுப்பு:கிருஷ்ணராசா, செ.",
-"authors_roman": "[[:Pakuppu:Kiruṣṇarācā, Ce.",
-"publisher": "[[:பகுப்பு:பிறைநிலா வெளியீடு",
-"publisher_roman": "[[:Pakuppu:Piṟainilā Veḷiyīṭu",
-"place": "",
-"year": "2005",
-"period": "1991–2010",
-"language": "Tamil",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "299",
-"notes": "",
-"subjects": "இலங்கை வரலாறு",
-"access": "open",
-"read_url": "https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_-_%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AE%AE%E0%AF%8D_2",
-"download_url": "http://noolaham.net/project/45/4420/4420.pdf",
-"buy_url": "",
-"source_url": "https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_-_%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AE%AE%E0%AF%8D_2",
-"copies": [
-{
-"read": "https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_-_%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AE%AE%E0%AF%8D_II",
-"pdf": "http://noolaham.net/project/1124/112319/112319.pdf"
-}
-],
-"other_source_urls": [
-"https://noolaham.org/wiki/index.php/%E0%AE%87%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81_-_%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AE%AE%E0%AF%8D_II"
-],
-"sources": [
-"Noolaham"
-],
-"curated": false,
-"scholar": "",
-"from_list": false,
-"added": "2026-10-29"
-},
-{
 "id": "TB-001307",
 "category": "HIS",
 "category_name": "Tamil History: General, Society & Economy",
@@ -133294,7 +133294,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Civilization; Hindu Sculpture; Indic influences; Southeast Asia; Hindu temples",
+"subjects": "Civilization; Hindu Sculpture; Hindu Temples; Indic influences; Southeast Asia",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -134618,7 +134618,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Social conditions; Tamil (Indic people); History; India, history; Wirtschaft; Gesellschaft",
+"subjects": "Social conditions; Tamil (Indic people); History; Tamil (indic people); India, history; Wirtschaft; Gesellschaft",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -137382,8 +137382,8 @@
 ],
 "other_source_urls": [
 "https://bvbr.bib-bvb.de:443/F?func=service&doc_library=BVB01&local_base=BVB01&doc_number=027614751&sequence=000001&line_number=0001&func_code=DB_RECORDS&service_type=MEDIA",
-"https://openlibrary.org/works/OL21087579W",
-"https://archive.org/details/noboru-karashima-a-concise-history-of-south-india-issues-and-interpretations-201"
+"https://archive.org/details/noboru-karashima-a-concise-history-of-south-india-issues-and-interpretations-201",
+"https://openlibrary.org/works/OL21087579W"
 ],
 "sources": [
 "Curated",
@@ -148523,13 +148523,25 @@
 "subjects": "",
 "access": "open",
 "read_url": "https://babel.hathitrust.org/cgi/pt?id=coo1.ark:/13960/t3hx1xb4j",
-"download_url": "",
+"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/On_the_ancient_coins_and_measures_of_Ceylon_-_with_a_discussion_of_the_Ceylon_date_of_the_Buddha%27s_death_%28IA_onancientcoinsme00davirich%29.pdf",
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/100771718",
-"copies": [],
-"other_source_urls": [],
+"copies": [
+{
+"read": "https://babel.hathitrust.org/cgi/pt?id=coo1.ark:/13960/t3hx1xb4j",
+"pdf": ""
+},
+{
+"read": "https://commons.wikimedia.org/wiki/File%3AOn_the_ancient_coins_and_measures_of_Ceylon_-_with_a_discussion_of_the_Ceylon_date_of_the_Buddha%27s_death_%28IA_onancientcoinsme00davirich%29.pdf",
+"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/On_the_ancient_coins_and_measures_of_Ceylon_-_with_a_discussion_of_the_Ceylon_date_of_the_Buddha%27s_death_%28IA_onancientcoinsme00davirich%29.pdf"
+}
+],
+"other_source_urls": [
+"https://commons.wikimedia.org/wiki/File%3AOn_the_ancient_coins_and_measures_of_Ceylon_-_with_a_discussion_of_the_Ceylon_date_of_the_Buddha%27s_death_%28IA_onancientcoinsme00davirich%29.pdf"
+],
 "sources": [
-"HathiTrust"
+"HathiTrust",
+"Wikimedia Commons"
 ],
 "curated": false,
 "scholar": "",
@@ -149246,23 +149258,15 @@
 "pages": "",
 "notes": "",
 "subjects": "",
-"access": "open",
-"read_url": "https://commons.wikimedia.org/wiki/File%3AOn_the_ancient_coins_and_measures_of_Ceylon_-_with_a_discussion_of_the_Ceylon_date_of_the_Buddha%27s_death_%28IA_onancientcoinsme00davirich%29.pdf",
-"download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/On_the_ancient_coins_and_measures_of_Ceylon_-_with_a_discussion_of_the_Ceylon_date_of_the_Buddha%27s_death_%28IA_onancientcoinsme00davirich%29.pdf",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
 "buy_url": "",
 "source_url": "https://catalog.hathitrust.org/Record/100722536",
-"copies": [
-{
-"read": "",
-"pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/On_the_ancient_coins_and_measures_of_Ceylon_-_with_a_discussion_of_the_Ceylon_date_of_the_Buddha%27s_death_%28IA_onancientcoinsme00davirich%29.pdf"
-}
-],
-"other_source_urls": [
-"https://commons.wikimedia.org/wiki/File%3AOn_the_ancient_coins_and_measures_of_Ceylon_-_with_a_discussion_of_the_Ceylon_date_of_the_Buddha%27s_death_%28IA_onancientcoinsme00davirich%29.pdf"
-],
+"copies": [],
+"other_source_urls": [],
 "sources": [
-"HathiTrust",
-"Wikimedia Commons"
+"HathiTrust"
 ],
 "curated": false,
 "scholar": "",
@@ -154035,6 +154039,45 @@
 "added": "2026-10-28"
 },
 {
+"id": "TB-011051",
+"category": "PLM",
+"category_name": "Palm-leaf Manuscripts & Manuscriptology",
+"category_name_ta": "ஓலைச்சுவடிகள், சுவடியியல்",
+"title": "Olaichuvadigalilirundhu Pudhidhaay Achitta Siddhar Noolkal Puthagavilai Jaapthaa | ஒலைச்சுவடிகளிலிருந்து புதிதாய் அச்சிட்ட சித்தர் நூல்கள் புத்தகவிலை ஜாப்தா",
+"title_ta": "Olaichuvadigalilirundhu Pudhidhaay Achitta Siddhar Noolkal Puthagavilai Jaapthaa | ஒலைச்சுவடிகளிலிருந்து புதிதாய் அச்சிட்ட சித்தர் நூல்கள் புத்தகவிலை ஜாப்தா",
+"title_en": "Olaichuvadigalilirundhu Pudhidhaay Achitta Siddhar Noolkal Puthagavilai Jaapthaa | Olaiccuvaṭikaḷiliruntu Putitāy Acciṭṭa Cittar Nūlkaḷ Puttakavilai Jāptā",
+"title_en_note": "romanised from Tamil",
+"alt_title": "",
+"authors": "Unknown / Classical",
+"authors_roman": "",
+"publisher": "ஸ்ரீ ராமச்சந்திர விலாசம் பிரஸ்",
+"publisher_roman": "Srī Rāmaccantira Vilācam Piras",
+"place": "",
+"year": "1920",
+"period": "1900–1946 (Colonial, late)",
+"language": "Tamil",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "Digitized from the Roja Muthiah Research Library (RMRL) digital archive (https://rmrl.in). Catalog ID: 31588. Shelf Mark: 46602. Place: மதுரை. Publisher: ஸ்ரீ ராமச்சந்திர விலாசம் பிரஸ். Publication Year: 1920. Physical D",
+"subjects": "Tamil literature; RMRL; Roja Muthiah Research Library; Tamil books",
+"access": "open",
+"read_url": "https://archive.org/details/rmrl_31588_1920",
+"download_url": "https://archive.org/download/rmrl_31588_1920/31588-Olaichuvadigalilirundhu%20Pudhidhaay%20Achitta%20Siddhar%20Noolkal%20Puthagavilai%20Jaapthaa--Unknown%20/%20Classical-%E0%AE%92%E0%AE%B2%E0%AF%88%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AF%81%E0%AE%B5%E0%AE%9F%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AE%BF%E0%AE%B2%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81%20%E0%AE%AA%E0%AF%81%20%281920%29-Roja%20Muthiah%20Digital%20Library.pdf",
+"buy_url": "",
+"source_url": "https://archive.org/details/rmrl_31588_1920",
+"copies": [],
+"other_source_urls": [],
+"sources": [
+"Internet Archive"
+],
+"curated": false,
+"scholar": "",
+"from_list": false,
+"added": "2026-11-28"
+},
+{
 "id": "TB-005789",
 "category": "PLM",
 "category_name": "Palm-leaf Manuscripts & Manuscriptology",
@@ -156900,47 +156943,6 @@
 "added": "2026-10-28"
 },
 {
-"id": "TB-003961",
-"category": "PLM",
-"category_name": "Palm-leaf Manuscripts & Manuscriptology",
-"category_name_ta": "ஓலைச்சுவடிகள், சுவடியியல்",
-"title": "Mackenzie manuscripts",
-"title_ta": "",
-"title_en": "Mackenzie manuscripts",
-"title_en_note": "",
-"alt_title": "",
-"authors": "T. V. Mahalingam",
-"authors_roman": "",
-"publisher": "University of Madras",
-"publisher_roman": "",
-"place": "Chennai; [Madras]",
-"year": "1972",
-"period": "1947–1990 (Post-independence)",
-"language": "English",
-"type": "Book",
-"series": "",
-"isbn": "",
-"pages": "",
-"notes": "",
-"subjects": "Madras (India). -- Government Oriental Manuscripts Library; South India -- History -- Sources; Manuscripts, Indic -- Abstracts",
-"access": "catalogue",
-"read_url": "",
-"download_url": "",
-"buy_url": "",
-"source_url": "https://openlibrary.org/works/OL23222919W",
-"copies": [],
-"other_source_urls": [
-"https://openlibrary.org/works/OL20740011M"
-],
-"sources": [
-"Open Library"
-],
-"curated": false,
-"scholar": "T. V. Mahalingam",
-"from_list": false,
-"added": "2026-10-20"
-},
-{
 "id": "TB-005853",
 "category": "PLM",
 "category_name": "Palm-leaf Manuscripts & Manuscriptology",
@@ -158413,6 +158415,47 @@
 "scholar": "",
 "from_list": false,
 "added": "2026-10-28"
+},
+{
+"id": "TB-003961",
+"category": "PLM",
+"category_name": "Palm-leaf Manuscripts & Manuscriptology",
+"category_name_ta": "ஓலைச்சுவடிகள், சுவடியியல்",
+"title": "Mackenzie manuscripts",
+"title_ta": "",
+"title_en": "Mackenzie manuscripts",
+"title_en_note": "",
+"alt_title": "",
+"authors": "T. V. Mahalingam",
+"authors_roman": "",
+"publisher": "University of Madras",
+"publisher_roman": "",
+"place": "Chennai",
+"year": "2011",
+"period": "2011–2026 (Recent)",
+"language": "English",
+"type": "Book",
+"series": "",
+"isbn": "",
+"pages": "",
+"notes": "",
+"subjects": "Madras (India). -- Government Oriental Manuscripts Library; South India -- History -- Sources; Manuscripts, Indic -- Abstracts",
+"access": "catalogue",
+"read_url": "",
+"download_url": "",
+"buy_url": "",
+"source_url": "https://openlibrary.org/works/OL23222919W",
+"copies": [],
+"other_source_urls": [
+"https://openlibrary.org/works/OL20740011M"
+],
+"sources": [
+"Open Library"
+],
+"curated": false,
+"scholar": "T. V. Mahalingam",
+"from_list": false,
+"added": "2026-10-20"
 },
 {
 "id": "TB-005886",
@@ -162864,7 +162907,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Cave temples; Hindu Sculpture",
+"subjects": "Cave temples; Hindu sculpture",
 "access": "open",
 "read_url": "https://archive.org/details/rocktempleselep00burggoog",
 "download_url": "",
@@ -162952,7 +162995,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Temples, Buddhist; Inscriptions; Caves; Art, Buddhist; Cave temples; Buddhist art; Buddhist temples",
+"subjects": "Temples, Buddhist; Inscriptions; Caves; Art, Buddhist; Cave temples; Buddhist Temples; Buddhist Art",
 "access": "catalogue",
 "read_url": "",
 "download_url": "",
@@ -162980,9 +163023,9 @@
 "alt_title": "",
 "authors": "James Burgess",
 "authors_roman": "",
-"publisher": "Indological Book House; Archaeological Survey of India; Trübner & Co.",
+"publisher": "Indological Book House; Trübner & Co.; Archaeological Survey of India",
 "publisher_roman": "",
-"place": "London; Varanasi",
+"place": "Varanasi; London",
 "year": "1883",
 "period": "1800–1899 (Colonial, early)",
 "language": "English",
@@ -162991,7 +163034,7 @@
 "isbn": "",
 "pages": "",
 "notes": "",
-"subjects": "Pali Inscriptions; Caves; Prakrit Inscriptions; Temples; Sanskrit Inscriptions; Buddhist cave temples",
+"subjects": "Pali Inscriptions; Caves; Prakrit Inscriptions; Temples; Sanskrit Inscriptions; Buddhist Cave temples",
 "access": "open",
 "read_url": "https://archive.org/details/reportoneluraca00bhgoog",
 "download_url": "",
@@ -167973,8 +168016,8 @@
 ],
 "other_source_urls": [
 "https://catalog.hathitrust.org/Record/000501150",
-"https://catalog.hathitrust.org/Record/006213465",
 "https://catalog.hathitrust.org/Record/009790464",
+"https://catalog.hathitrust.org/Record/006213465",
 "https://archive.org/details/india.history.resource.77432",
 "https://archive.org/details/india.history.resource.89096"
 ],

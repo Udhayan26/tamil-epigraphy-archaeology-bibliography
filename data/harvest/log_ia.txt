@@ -112,12 +112,12 @@
 [ia]     0  title:(akalvaippakam*)
 [ia]     0  title:("paarai oviyangal")
 [ia]     0  title:("tamil pirami")
-[ia]   113  title:(tamili*)
+[ia]   115  title:(tamili*)
 [ia]     3  title:(vatteluttu*)
 [ia]     0  title:(vattezhuthu*)
 [ia]    11  title:(sasanam*)
 [ia]    67  title:(pattayam*)
-[ia]     2  title:(olaichuvadi*)
+[ia]     3  title:(olaichuvadi*)
 [ia]     0  title:("olai chuvadi")
 [ia]     0  title:(olaiccuvati*)
 [ia]     0  title:(cuvatiyiyal*)
@@ -127,7 +127,7 @@
 [ia]     0  title:(kasukal*)
 [ia]     1  title:(nanayangal*)
 [ia]   128  title:(varalaru*)
-[ia]   123  title:(varalaaru*)
+[ia]   133  title:(varalaaru*)
 [ia]     1  title:("cholar varalaru")
 [ia]     0  title:("pandiyar varalaru")
 [ia]     1  title:("pallavar varalaru")
@@ -271,7 +271,7 @@
 [ia]     2  (title:("Grantha inscriptions") OR subject:("Grantha inscriptions"))
 [ia]     0  title:(bilingual inscriptions Tamil Sanskrit)
 [ia]    21  title:(history of Tamil Nadu)
-[ia]    12  title:(history of the Tamils)
+[ia]    13  title:(history of the Tamils)
 [ia]   116  (title:("Tamil history") OR subject:("Tamil history"))
 [ia]     2  (title:("Chola history") OR subject:("Chola history"))
 [ia]    19  (title:("the Cholas") OR subject:("the Cholas"))
@@ -327,9 +327,9 @@
 [ia]     0  collection:(tamilheritagefoundation) AND (title:(inscriptions OR epigraphy OR archaeology 
 [ia]     0  collection:(noolaham) AND (title:(inscriptions OR epigraphy OR archaeology OR excavation O
 [ia]  1043  collection:(TamilVirtualAcademy) AND (title:(inscriptions OR epigraphy OR archaeology OR e
-[ia] raw unique hits: 18648
-[ia] relevant: 7503
-[ia] 7501 reused, enriching 2 new items via metadata API
-[ia] saved 7503 records
+[ia] raw unique hits: 18662
+[ia] relevant: 7504
+[ia] 7502 reused, enriching 2 new items via metadata API
+[ia] saved 7504 records
 [ia] took 453s
 total 453s
